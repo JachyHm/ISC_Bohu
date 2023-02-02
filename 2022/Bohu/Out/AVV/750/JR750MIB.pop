@@ -1,0 +1,111 @@
+Obsah:        PLATI  50, 11/12/2022, 9/12/2023
+              VLAK     3101, 05:22, Tr3101
+              VLAK     3102, 05:26, Tr3102
+              VLAK     3103, 05:50, Tr3103
+              VLAK     3104, 06:26, Tr3102
+              VLAK     3105, 07:22, Tr3101
+              VLAK     3106, 07:26, Tr3102
+              VLAK     3107, 08:22, Tr3101
+              VLAK     3108, 08:26, Tr3102
+              VLAK     3109, 09:22, Tr3101
+              VLAK     3110, 09:26, Tr3102
+              VLAK     3111, 10:22, Tr3101
+              VLAK     3112, 10:26, Tr3102
+              VLAK     3113, 11:22, Tr3101
+              VLAK     3114, 11:26, Tr3102
+              VLAK     3115, 12:22, Tr3101
+              VLAK     3116, 12:26, Tr3102
+              VLAK     3117, 13:22, Tr3101
+              VLAK     3118, 13:26, Tr3102
+              VLAK     3119, 14:22, Tr3101
+              VLAK     3120, 14:26, Tr3102
+              VLAK     3121, 15:22, Tr3101
+              VLAK     3122, 15:26, Tr3102
+              VLAK     3123, 16:22, Tr3101
+              VLAK     3124, 16:26, Tr3102
+              VLAK     3125, 17:22, Tr3101
+              VLAK     3126, 17:26, Tr3102
+              VLAK     3127, 18:22, Tr3101
+              VLAK     3128, 18:26, Tr3102
+              VLAK     3129, 19:22, Tr3101
+              VLAK     3130, 19:26, Tr3102
+              VLAK     3141, 06:22, Tr3101
+              VLAK     3142, 04:55, Tr3142
+              VLAK     3143, 06:50, Tr3103
+              VLAK     3144, 05:55, Tr3142
+              VLAK     3145, 07:50, Tr3103
+              VLAK     3146, 06:55, Tr3142
+              VLAK     3147, 08:50, Tr3103
+              VLAK     3148, 07:55, Tr3142
+              VLAK     3149, 13:50, Tr3103
+              VLAK     3150, 12:55, Tr3142
+              VLAK     3151, 14:50, Tr3103
+              VLAK     3152, 13:55, Tr3142
+              VLAK     3153, 15:50, Tr3103
+              VLAK     3154, 14:55, Tr3142
+              VLAK     3155, 16:50, Tr3103
+              VLAK     3156, 15:55, Tr3142
+              VLAK     3157, 17:50, Tr3103
+              VLAK     3158, 16:55, Tr3158
+              VLAK     3162, 17:55, Tr3142
+              VLAK     3173, 04:50, Tr3103
+
+              KONEC
+              ZAROVNEJ
+
+Tr3101:       TRASA 32,32, Jr3101
+              TRASA
+Tr3102:       TRASA 32,31, Jr3102
+              TRASA
+Tr3103:       TRASA 32,32, Jr3103
+              TRASA
+Tr3142:       TRASA 32,31, Jr3142
+              TRASA
+Tr3158:       TRASA 32,31, Jr3158
+              TRASA
+
+              ZAROVNEJ
+
+
+Jr3101:       BAZE 05:22
+              JIZRAD  Z,  100,          05:34,   0:00    ;Ostrava hln
+              JIZRAD  P,  100,          05:32*, 05:32*   ;Ostrava ban.n.
+              JIZRAD  Z,  100, (4/4)    05:30,  05:31    ;
+              JIZRAD  Z,  100, (T/T)    05:28,  05:28*   ;Ostrava stred
+              JIZRAD  Z,  100,          05:25,  05:25    ;
+              JIZRAD  Z,  100,          05:19,  05:22    ;Ostrava-Kuncice
+
+Jr3102:       BAZE 05:26
+              JIZRAD  Z,  100,           0:00,  05:26    ;Ostrava hln
+              JIZRAD  P,  100,          05:28,  05:28    ;Ostrava ban.n.
+              JIZRAD  Z,  100, (4/4)    05:29*, 05:30    ;
+              JIZRAD  Z,  100, (5/5)    05:31*, 05:32    ;Ostrava stred
+              JIZRAD  ZC, 100,          05:35,  05:35    ;
+              JIZRAD  Z,   80,          05:38,  05:39    ;Ostrava-Kuncice
+
+Jr3103:       BAZE 05:50
+              JIZRAD  Z,  100,          06:02,   0:00    ;Ostrava hln
+              JIZRAD  P,  100,          06:00*, 06:00*   ;Ostrava ban.n.
+              JIZRAD  Z,  100, (4/4)    05:58,  05:59    ;
+              JIZRAD  Z,  100, (T/T)    05:56,  05:56*   ;Ostrava stred
+              JIZRAD  Z,  100,          05:53,  05:53    ;
+              JIZRAD  Z,  100,          05:49,  05:50    ;Ostrava-Kuncice
+
+Jr3142:       BAZE 04:55
+              JIZRAD  Z,  100,           0:00,  04:55    ;Ostrava hln
+              JIZRAD  P,  100,          04:57,  04:57    ;Ostrava ban.n.
+              JIZRAD  Z,  100, (4/4)    04:58*, 04:59    ;
+              JIZRAD  Z,  100, (5/5)    05:00*, 05:01    ;Ostrava stred
+              JIZRAD  ZC, 100,          05:04,  05:04    ;
+              JIZRAD  Z,   80,          05:07,  05:09    ;Ostrava-Kuncice
+
+Jr3158:       BAZE 16:55
+              JIZRAD  Z,  160, (4/4)     0:00,  16:55    ;Ostrava hln
+              JIZRAD  P,  160,          16:57,  16:57    ;Ostrava ban.n.
+              JIZRAD  Z,  160,          16:58*, 16:59    ;
+              JIZRAD  Z,  160, (5/5)    17:00*, 17:01    ;Ostrava stred
+              JIZRAD  Z,  160,          17:04,  17:04    ;
+              JIZRAD  Z,  160, (5/T)    17:07,  17:09    ;Ostrava-Kuncice
+
+
+;vse vypsano

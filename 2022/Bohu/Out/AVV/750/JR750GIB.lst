@@ -1,0 +1,862 @@
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        15/01/23
+
+D:\OIS\CD\Data\2022\Bohu\Out\AVV\750\JR750GIB.pop               Str 1
+
+
+0000  0A 00 16 19                       Zahlavi:	<verze prekladace>
+0004     20 23 01 15                    		<datum prekladu>
+0008     43 44 6F 6C 63 56 4D 31        		<drzitel licence>
+0010     0F3C 02A0CE00 88CF             		<kontrolni udaje>
+
+0018  0B 33 221211 231209               Obsah:        PLATI  51, 11/12/2022, 9/12/2023
+0020  003101 04 26 FF 0200                            VLAK     3101, 04:19, Tr3101
+0028  003102 05 34 FF 0209                            VLAK     3102, 05:26, Tr3102
+0030  003103 04 6C FF 0212                            VLAK     3103, 04:54, Tr3103
+0038  003104 06 34 FF 0209                            VLAK     3104, 06:26, Tr3102
+0040  003105 06 5C FF 021B                            VLAK     3105, 06:46, Tr3105
+0048  003106 07 34 FF 0224                            VLAK     3106, 07:26, Tr3106
+0050  003108 08 34 FF 022D                            VLAK     3108, 08:26, Tr3108
+0058  003109 08 28 FF 0236                            VLAK     3109, 08:20, Tr3109
+0060  003110 09 34 FF 023F                            VLAK     3110, 09:26, Tr3110
+0068  003111 09 30 FF 0248                            VLAK     3111, 09:24, Tr3111
+0070  003112 0A 34 FF 0251                            VLAK     3112, 10:26, Tr3112
+0078  003113 0A 28 FF 0236                            VLAK     3113, 10:20, Tr3109
+0080  003114 0B 34 FF 023F                            VLAK     3114, 11:26, Tr3110
+0088  003115 0B 30 FF 025A                            VLAK     3115, 11:24, Tr3115
+0090  003116 0C 34 FF 0263                            VLAK     3116, 12:26, Tr3116
+0098  003117 0C 30 FF 0248                            VLAK     3117, 12:24, Tr3111
+00A0  003118 0D 34 FF 026C                            VLAK     3118, 13:26, Tr3118
+00A8  003119 0D 28 FF 0236                            VLAK     3119, 13:20, Tr3109
+00B0  003120 0E 34 FF 0209                            VLAK     3120, 14:26, Tr3102
+00B8  003121 0E 30 FF 0248                            VLAK     3121, 14:24, Tr3111
+00C0  003122 0F 34 FF 0275                            VLAK     3122, 15:26, Tr3122
+00C8  003123 0F 28 FF 027E                            VLAK     3123, 15:20, Tr3123
+00D0  003124 10 34 FF 022D                            VLAK     3124, 16:26, Tr3108
+00D8  003125 10 30 FF 0248                            VLAK     3125, 16:24, Tr3111
+00E0  003126 11 34 FF 0287                            VLAK     3126, 17:26, Tr3126
+00E8  003127 11 28 FF 0236                            VLAK     3127, 17:20, Tr3109
+00F0  003128 12 34 FF 0290                            VLAK     3128, 18:26, Tr3128
+00F8  003129 12 30 FF 0248                            VLAK     3129, 18:24, Tr3111
+0100  003130 13 34 FF 0299                            VLAK     3130, 19:26, Tr3130
+0108  003141 05 5C FF 021B                            VLAK     3141, 05:46, Tr3105
+0110  003142 04 6E FF 02A2                            VLAK     3142, 04:55, Tr3142
+0118  003143 06 20 FF 02AB                            VLAK     3143, 06:16, Tr3143
+0120  003144 05 6E FF 02B4                            VLAK     3144, 05:55, Tr3144
+0128  003145 07 20 FF 02AB                            VLAK     3145, 07:16, Tr3143
+0130  003146 06 6E FF 02B4                            VLAK     3146, 06:55, Tr3144
+0138  003147 08 20 FF 02AB                            VLAK     3147, 08:16, Tr3143
+0140  003148 07 6E FF 02A2                            VLAK     3148, 07:55, Tr3142
+0148  003149 0D 20 FF 02AB                            VLAK     3149, 13:16, Tr3143
+0150  003150 0C 6E FF 02A2                            VLAK     3150, 12:55, Tr3142
+0158  003151 0E 20 FF 02AB                            VLAK     3151, 14:16, Tr3143
+0160  003152 0D 6E FF 02B4                            VLAK     3152, 13:55, Tr3144
+0168  003153 0F 20 FF 02AB                            VLAK     3153, 15:16, Tr3143
+0170  003154 0E 6E FF 02B4                            VLAK     3154, 14:55, Tr3144
+0178  003155 10 20 FF 02AB                            VLAK     3155, 16:16, Tr3143
+0180  003156 0F 6E FF 02B4                            VLAK     3156, 15:55, Tr3144
+0188  003157 11 20 FF 02AB                            VLAK     3157, 17:16, Tr3143
+0190  003158 10 6E FF 02BD                            VLAK     3158, 16:55, Tr3158
+0198  003162 11 6E FF 02A2                            VLAK     3162, 17:55, Tr3142
+01A0  003173 04 3E FF 02C6                            VLAK     3173, 04:31, Tr3173
+01A8  003183 12 20 FF 02CF                            VLAK     3183, 18:16, Tr3183
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        15/01/23
+
+D:\OIS\CD\Data\2022\Bohu\Out\AVV\750\JR750GIB.pop               Str 2
+
+
+01B0  003107 07 28 FF 0236                            VLAK     3107, 07:20, Tr3109
+                                        
+01B8  87                                              KONEC
+0200                                                  ZAROVNEJ
+                                        
+0200  1E 16 00FE                        Tr3101:       TRASA 30,22, Jr3101
+0204  20 20 015A                                      TRASA 32,32, Jr3101a
+0208  00                                              TRASA
+0209  20 1F 0179                        Tr3102:       TRASA 32,31, Jr3102
+020D  1E 15 0199                                      TRASA 30,21, Jr3102a
+0211  00                                              TRASA
+0212  1E 16 01F4                        Tr3103:       TRASA 30,22, Jr3103
+0216  20 20 0250                                      TRASA 32,32, Jr3103a
+021A  00                                              TRASA
+021B  1E 16 026F                        Tr3105:       TRASA 30,22, Jr3105
+021F  20 20 02CB                                      TRASA 32,32, Jr3105a
+0223  00                                              TRASA
+0224  20 1F 02EA                        Tr3106:       TRASA 32,31, Jr3106
+0228  1E 15 030A                                      TRASA 30,21, Jr3106a
+022C  00                                              TRASA
+022D  20 1F 0365                        Tr3108:       TRASA 32,31, Jr3108
+0231  1E 15 0385                                      TRASA 30,21, Jr3108a
+0235  00                                              TRASA
+0236  1E 16 03E0                        Tr3109:       TRASA 30,22, Jr3109
+023A  20 20 043C                                      TRASA 32,32, Jr3109a
+023E  00                                              TRASA
+023F  20 1F 045B                        Tr3110:       TRASA 32,31, Jr3110
+0243  1E 15 047B                                      TRASA 30,21, Jr3110a
+0247  00                                              TRASA
+0248  1E 16 04D6                        Tr3111:       TRASA 30,22, Jr3111
+024C  20 20 0532                                      TRASA 32,32, Jr3111a
+0250  00                                              TRASA
+0251  20 1F 0551                        Tr3112:       TRASA 32,31, Jr3112
+0255  1E 15 0571                                      TRASA 30,21, Jr3112a
+0259  00                                              TRASA
+025A  1E 16 05CC                        Tr3115:       TRASA 30,22, Jr3115
+025E  20 20 0628                                      TRASA 32,32, Jr3115a
+0262  00                                              TRASA
+0263  20 1F 0647                        Tr3116:       TRASA 32,31, Jr3116
+0267  1E 15 0667                                      TRASA 30,21, Jr3116a
+026B  00                                              TRASA
+026C  20 1F 06C2                        Tr3118:       TRASA 32,31, Jr3118
+0270  1E 15 06E2                                      TRASA 30,21, Jr3118a
+0274  00                                              TRASA
+0275  20 1F 073D                        Tr3122:       TRASA 32,31, Jr3122
+0279  1E 15 075D                                      TRASA 30,21, Jr3122a
+027D  00                                              TRASA
+027E  1E 16 07B8                        Tr3123:       TRASA 30,22, Jr3123
+0282  20 20 0814                                      TRASA 32,32, Jr3123a
+0286  00                                              TRASA
+0287  20 1F 0833                        Tr3126:       TRASA 32,31, Jr3126
+028B  1E 15 0853                                      TRASA 30,21, Jr3126a
+028F  00                                              TRASA
+0290  20 1F 08AE                        Tr3128:       TRASA 32,31, Jr3128
+0294  1E 15 08CE                                      TRASA 30,21, Jr3128a
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        15/01/23
+
+D:\OIS\CD\Data\2022\Bohu\Out\AVV\750\JR750GIB.pop               Str 3
+
+
+0298  00                                              TRASA
+0299  20 1F 0929                        Tr3130:       TRASA 32,31, Jr3130
+029D  1E 15 0949                                      TRASA 30,21, Jr3130a
+02A1  00                                              TRASA
+02A2  20 1F 09A4                        Tr3142:       TRASA 32,31, Jr3142
+02A6  1E 15 09C4                                      TRASA 30,21, Jr3142a
+02AA  00                                              TRASA
+02AB  1E 16 0A1F                        Tr3143:       TRASA 30,22, Jr3143
+02AF  20 20 0A7B                                      TRASA 32,32, Jr3143a
+02B3  00                                              TRASA
+02B4  20 1F 0A9A                        Tr3144:       TRASA 32,31, Jr3144
+02B8  1E 15 0ABA                                      TRASA 30,21, Jr3144a
+02BC  00                                              TRASA
+02BD  20 1F 0B15                        Tr3158:       TRASA 32,31, Jr3158
+02C1  1E 15 0B35                                      TRASA 30,21, Jr3158a
+02C5  00                                              TRASA
+02C6  1E 16 0B90                        Tr3173:       TRASA 30,22, Jr3173
+02CA  20 20 0BEC                                      TRASA 32,32, Jr3173a
+02CE  00                                              TRASA
+02CF  1E 16 0C0B                        Tr3183:       TRASA 30,22, Jr3183
+02D3  00                                              TRASA
+                                        
+0300                                                  ZAROVNEJ
+                                        
+                                        
+0300                                    Jr3101:       BAZE 04:19
+0300  94 00 01 00 01 06                               JIZRAD  Z,  100,          05:19,  05:22    ;Ostrava-Kuncice
+0306  90 40 00 70 00 71                               JIZRAD  Z,   80, (T/T)    05:15,  05:15*   ;Vratimov
+030C  90 40 00 66 00 67                               JIZRAD  Z,   80, (T/T)    05:10,  05:10*   ;Paskov
+0312  90 40 00 5B 00 5D                               JIZRAD  Z,   80, (T/T)    05:04*, 05:05*   ;Liskovec u FM
+0318  D0 45 00 50 00 54                               JIZRAD  ZC,  80, (4/4)    04:59,  05:01    ;Frydek-Mistek
+031E  90 40 00 47 00 48                               JIZRAD  Z,   80, (T/T)    04:54*, 04:55    ;Baska
+0324  90 40 00 3E 00 3F                               JIZRAD  Z,   80, (T/T)    04:50,  04:50*   ;Przno
+032A  90 00 00 2C 00 36                               JIZRAD  Z,   80,          04:41,  04:46    ;Frydlant nO
+0330  94 40 00 21 00 23                               JIZRAD  Z,  100, (T/T)    04:35*, 04:36*   ;
+0336  94 40 00 18 00 1A                               JIZRAD  Z,  100, (T/T)    04:31,  04:32    ;Kuncice pO
+033C  94 40 00 04 00 0A                               JIZRAD  Z,  100, (T/T)    04:21,  04:24    ;Frenstat pR
+0342  8E 00 13 52 00 00                               JIZRAD  Z,   70,           0:00,  04:19    ;
+0348  00 40 13 52 13 52                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+034E  00 00 13 52 13 52                               JIZRAD  P,    0,           0:00,   0:00    ;
+0354  00 40 13 52 13 52                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostasovice
+035A  00 45 13 52 13 52                               JIZRAD  P,    0, (4/4)     0:00,   0:00    ;ValMez
+0360  94 00 01 1E 13 52                 Jr3101a:      JIZRAD  Z,  100,          05:34,   0:00    ;Ostrava hln
+0366  14 00 01 1B 01 1B                               JIZRAD  P,  100,          05:32*, 05:32*   ;Ostrava ban.n.
+036C  94 45 01 16 01 18                               JIZRAD  Z,  100, (4/4)    05:30,  05:31    ;
+0372  94 40 01 12 01 13                               JIZRAD  Z,  100, (T/T)    05:28,  05:28*   ;Ostrava stred
+0378  94 00 01 0C 01 0C                               JIZRAD  Z,  100,          05:25,  05:25    ;
+037E  94 00 01 00 01 06                               JIZRAD  Z,  100,          05:19,  05:22    ;Ostrava-Kuncice
+                                        
+0384                                    Jr3102:       BAZE 05:26
+0384  94 00 12 44 00 00                               JIZRAD  Z,  100,           0:00,  05:26    ;Ostrava hln
+038A  14 00 00 04 00 04                               JIZRAD  P,  100,          05:28,  05:28    ;Ostrava ban.n.
+0390  94 45 00 07 00 08                               JIZRAD  Z,  100, (4/4)    05:29*, 05:30    ;
+0396  94 12 00 0B 00 0C                               JIZRAD  Z,  100, (5/5)    05:31*, 05:32    ;Ostrava stred
+039C  D4 00 00 12 00 12                               JIZRAD  ZC, 100,          05:35,  05:35    ;
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        15/01/23
+
+D:\OIS\CD\Data\2022\Bohu\Out\AVV\750\JR750GIB.pop               Str 4
+
+
+03A2  90 00 00 18 00 1A                               JIZRAD  Z,   80,          05:38,  05:39    ;Ostrava-Kuncice
+03A8  90 00 00 18 00 1A                 Jr3102a:      JIZRAD  Z,   80,          05:38,  05:39    ;Ostrava-Kuncice
+03AE  90 41 00 20 00 28                               JIZRAD  Z,   80, (T/4)    05:42,  05:46    ;Vratimov
+03B4  90 40 00 31 00 32                               JIZRAD  Z,   80, (T/T)    05:50*, 05:51    ;Paskov
+03BA  90 40 00 3B 00 3C                               JIZRAD  Z,   80, (T/T)    05:55*, 05:56    ;Liskovec u FM
+03C0  90 45 00 44 00 48                               JIZRAD  Z,   80, (4/4)    06:00,  06:02    ;Frydek-Mistek
+03C6  90 40 00 50 00 51                               JIZRAD  Z,   80, (T/T)    06:06,  06:06*   ;Baska
+03CC  90 40 00 59 00 5A                               JIZRAD  Z,   80, (T/T)    06:10*, 06:11    ;Przno
+03D2  94 00 00 62 00 6A                               JIZRAD  Z,  100,          06:15,  06:19    ;Frydlant nO
+03D8  94 40 00 75 00 77                               JIZRAD  Z,  100, (T/T)    06:24*, 06:25*   ;
+03DE  94 40 01 08 01 0D                               JIZRAD  Z,  100, (T/T)    06:30,  06:32*   ;Kuncice pO
+03E4  94 40 01 1A 12 44                               JIZRAD  Z,  100, (T/T)    06:39,   0:00    ;Frenstat pR
+03EA  14 00 12 44 12 44                               JIZRAD  P,  100,           0:00,   0:00    ;
+03F0  14 40 12 44 12 44                               JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Verovice
+03F6  14 00 12 44 12 44                               JIZRAD  P,  100,           0:00,   0:00    ;
+03FC  14 40 12 44 12 44                               JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Hostasovice
+0402  14 45 12 44 12 44                               JIZRAD  P,  100, (4/4)     0:00,   0:00    ;ValMez
+                                        
+0408                                    Jr3103:       BAZE 04:54
+0408  94 00 00 6E 00 70                               JIZRAD  Z,  100,          05:49,  05:50    ;Ostrava-Kuncice
+040E  90 40 00 66 00 67                               JIZRAD  Z,   80, (T/T)    05:45,  05:45*   ;Vratimov
+0414  90 40 00 5C 00 5D                               JIZRAD  Z,   80, (T/T)    05:40,  05:40*   ;Paskov
+041A  90 40 00 51 00 53                               JIZRAD  Z,   80, (T/T)    05:34*, 05:35*   ;Liskovec u FM
+0420  D0 45 00 46 00 4A                               JIZRAD  ZC,  80, (4/4)    05:29,  05:31    ;Frydek-Mistek
+0426  90 40 00 3D 00 3E                               JIZRAD  Z,   80, (T/T)    05:24*, 05:25    ;Baska
+042C  90 40 00 34 00 35                               JIZRAD  Z,   80, (T/T)    05:20,  05:20*   ;Przno
+0432  90 00 00 22 00 2C                               JIZRAD  Z,   80,          05:11,  05:16    ;Frydlant nO
+0438  94 40 00 17 00 19                               JIZRAD  Z,  100, (T/T)    05:05*, 05:06*   ;
+043E  94 40 00 0E 00 10                               JIZRAD  Z,  100, (T/T)    05:01,  05:02    ;Kuncice pO
+0444  94 40 13 0C 00 00                               JIZRAD  Z,  100, (T/T)     0:00,  04:54    ;Frenstat pR
+044A  00 00 13 0C 13 0C                               JIZRAD  P,    0,           0:00,   0:00    ;
+0450  00 40 13 0C 13 0C                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+0456  00 00 13 0C 13 0C                               JIZRAD  P,    0,           0:00,   0:00    ;
+045C  00 40 13 0C 13 0C                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostasovice
+0462  00 45 13 0C 13 0C                               JIZRAD  P,    0, (4/4)     0:00,   0:00    ;ValMez
+0468  94 00 01 10 13 0C                 Jr3103a:      JIZRAD  Z,  100,          06:02,   0:00    ;Ostrava hln
+046E  14 00 01 0D 01 0D                               JIZRAD  P,  100,          06:00*, 06:00*   ;Ostrava ban.n.
+0474  94 45 01 08 01 0A                               JIZRAD  Z,  100, (4/4)    05:58,  05:59    ;
+047A  94 40 01 04 01 05                               JIZRAD  Z,  100, (T/T)    05:56,  05:56*   ;Ostrava stred
+0480  94 00 00 76 00 76                               JIZRAD  Z,  100,          05:53,  05:53    ;
+0486  94 00 00 6E 00 70                               JIZRAD  Z,  100,          05:49,  05:50    ;Ostrava-Kuncice
+                                        
+048C                                    Jr3105:       BAZE 06:46
+048C  94 00 00 42 00 48                               JIZRAD  Z,  100,          07:19,  07:22    ;Ostrava-Kuncice
+0492  90 40 00 3A 00 3B                               JIZRAD  Z,   80, (T/T)    07:15,  07:15*   ;Vratimov
+0498  90 40 00 30 00 31                               JIZRAD  Z,   80, (T/T)    07:10,  07:10*   ;Paskov
+049E  90 40 00 25 00 27                               JIZRAD  Z,   80, (T/T)    07:04*, 07:05*   ;Liskovec u FM
+04A4  D0 45 00 1A 00 1E                               JIZRAD  ZC,  80, (4/4)    06:59,  07:01    ;Frydek-Mistek
+04AA  90 40 00 11 00 12                               JIZRAD  Z,   80, (T/T)    06:54*, 06:55    ;Baska
+04B0  90 40 00 08 00 09                               JIZRAD  Z,   80, (T/T)    06:50,  06:50*   ;Przno
+04B6  90 00 11 1C 00 00                               JIZRAD  Z,   80,           0:00,  06:46    ;Frydlant nO
+04BC  00 40 11 1C 11 1C                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+04C2  00 40 11 1C 11 1C                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Kuncice pO
+04C8  00 40 11 1C 11 1C                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Frenstat pR
+04CE  00 00 11 1C 11 1C                               JIZRAD  P,    0,           0:00,   0:00    ;
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        15/01/23
+
+D:\OIS\CD\Data\2022\Bohu\Out\AVV\750\JR750GIB.pop               Str 5
+
+
+04D4  00 40 11 1C 11 1C                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+04DA  00 00 11 1C 11 1C                               JIZRAD  P,    0,           0:00,   0:00    ;
+04E0  00 40 11 1C 11 1C                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostasovice
+04E6  00 45 11 1C 11 1C                               JIZRAD  P,    0, (4/4)     0:00,   0:00    ;ValMez
+04EC  94 00 00 60 11 1C                 Jr3105a:      JIZRAD  Z,  100,          07:34,   0:00    ;Ostrava hln
+04F2  14 00 00 5D 00 5D                               JIZRAD  P,  100,          07:32*, 07:32*   ;Ostrava ban.n.
+04F8  94 45 00 58 00 5A                               JIZRAD  Z,  100, (4/4)    07:30,  07:31    ;
+04FE  94 40 00 54 00 55                               JIZRAD  Z,  100, (T/T)    07:28,  07:28*   ;Ostrava stred
+0504  94 00 00 4E 00 4E                               JIZRAD  Z,  100,          07:25,  07:25    ;
+050A  94 00 00 42 00 48                               JIZRAD  Z,  100,          07:19,  07:22    ;Ostrava-Kuncice
+                                        
+0510                                    Jr3106:       BAZE 07:26
+0510  94 00 10 44 00 00                               JIZRAD  Z,  100,           0:00,  07:26    ;Ostrava hln
+0516  14 00 00 04 00 04                               JIZRAD  P,  100,          07:28,  07:28    ;Ostrava ban.n.
+051C  94 45 00 07 00 08                               JIZRAD  Z,  100, (4/4)    07:29*, 07:30    ;
+0522  94 12 00 0B 00 0C                               JIZRAD  Z,  100, (5/5)    07:31*, 07:32    ;Ostrava stred
+0528  D4 00 00 12 00 12                               JIZRAD  ZC, 100,          07:35,  07:35    ;
+052E  90 00 00 18 00 1A                               JIZRAD  Z,   80,          07:38,  07:39    ;Ostrava-Kuncice
+0534  90 00 00 18 00 1A                 Jr3106a:      JIZRAD  Z,   80,          07:38,  07:39    ;Ostrava-Kuncice
+053A  90 41 00 20 00 28                               JIZRAD  Z,   80, (T/4)    07:42,  07:46    ;Vratimov
+0540  90 40 00 31 00 32                               JIZRAD  Z,   80, (T/T)    07:50*, 07:51    ;Paskov
+0546  90 40 00 3B 00 3C                               JIZRAD  Z,   80, (T/T)    07:55*, 07:56    ;Liskovec u FM
+054C  90 45 00 44 00 48                               JIZRAD  Z,   80, (4/4)    08:00,  08:02    ;Frydek-Mistek
+0552  90 40 00 50 00 51                               JIZRAD  Z,   80, (T/T)    08:06,  08:06*   ;Baska
+0558  90 40 00 59 00 5A                               JIZRAD  Z,   80, (T/T)    08:10*, 08:11    ;Przno
+055E  94 1A 00 62 00 6A                               JIZRAD  Z,  100, (6/5)    08:15,  08:19    ;Frydlant nO
+0564  94 40 00 75 00 77                               JIZRAD  Z,  100, (T/T)    08:24*, 08:25*   ;
+056A  94 40 01 08 01 0D                               JIZRAD  Z,  100, (T/T)    08:30,  08:32*   ;Kuncice pO
+0570  8E 40 01 1A 01 1E                               JIZRAD  Z,   70, (T/T)    08:39,  08:41    ;Frenstat pR
+0576  8E 00 01 22 10 44                               JIZRAD  Z,   70,          08:43,   0:00    ;
+057C  0E 40 10 44 10 44                               JIZRAD  P,   70, (T/T)     0:00,   0:00    ;Verovice
+0582  0E 00 10 44 10 44                               JIZRAD  P,   70,           0:00,   0:00    ;
+0588  0E 40 10 44 10 44                               JIZRAD  P,   70, (T/T)     0:00,   0:00    ;Hostasovice
+058E  0E 45 10 44 10 44                               JIZRAD  P,   70, (4/4)     0:00,   0:00    ;ValMez
+                                        
+0594                                    Jr3108:       BAZE 08:26
+0594  94 00 0F 44 00 00                               JIZRAD  Z,  100,           0:00,  08:26    ;Ostrava hln
+059A  14 00 00 04 00 04                               JIZRAD  P,  100,          08:28,  08:28    ;Ostrava ban.n.
+05A0  94 45 00 07 00 08                               JIZRAD  Z,  100, (4/4)    08:29*, 08:30    ;
+05A6  94 12 00 0B 00 0C                               JIZRAD  Z,  100, (5/5)    08:31*, 08:32    ;Ostrava stred
+05AC  D4 00 00 12 00 12                               JIZRAD  ZC, 100,          08:35,  08:35    ;
+05B2  90 00 00 18 00 1A                               JIZRAD  Z,   80,          08:38,  08:39    ;Ostrava-Kuncice
+05B8  90 00 00 18 00 1A                 Jr3108a:      JIZRAD  Z,   80,          08:38,  08:39    ;Ostrava-Kuncice
+05BE  90 41 00 20 00 28                               JIZRAD  Z,   80, (T/4)    08:42,  08:46    ;Vratimov
+05C4  90 40 00 31 00 32                               JIZRAD  Z,   80, (T/T)    08:50*, 08:51    ;Paskov
+05CA  90 40 00 3B 00 3C                               JIZRAD  Z,   80, (T/T)    08:55*, 08:56    ;Liskovec u FM
+05D0  90 45 00 44 00 48                               JIZRAD  Z,   80, (4/4)    09:00,  09:02    ;Frydek-Mistek
+05D6  90 40 00 50 00 51                               JIZRAD  Z,   80, (T/T)    09:06,  09:06*   ;Baska
+05DC  90 40 00 59 00 5A                               JIZRAD  Z,   80, (T/T)    09:10*, 09:11    ;Przno
+05E2  94 00 00 62 00 6A                               JIZRAD  Z,  100,          09:15,  09:19    ;Frydlant nO
+05E8  94 40 00 75 00 77                               JIZRAD  Z,  100, (T/T)    09:24*, 09:25*   ;
+05EE  94 40 01 08 01 0D                               JIZRAD  Z,  100, (T/T)    09:30,  09:32*   ;Kuncice pO
+05F4  8E 40 01 1A 0F 44                               JIZRAD  Z,   70, (T/T)    09:39,   0:00    ;Frenstat pR
+05FA  0E 00 0F 44 0F 44                               JIZRAD  P,   70,           0:00,   0:00    ;
+0600  0E 40 0F 44 0F 44                               JIZRAD  P,   70, (T/T)     0:00,   0:00    ;Verovice
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        15/01/23
+
+D:\OIS\CD\Data\2022\Bohu\Out\AVV\750\JR750GIB.pop               Str 6
+
+
+0606  0E 00 0F 44 0F 44                               JIZRAD  P,   70,           0:00,   0:00    ;
+060C  0E 40 0F 44 0F 44                               JIZRAD  P,   70, (T/T)     0:00,   0:00    ;Hostasovice
+0612  0E 45 0F 44 0F 44                               JIZRAD  P,   70, (4/4)     0:00,   0:00    ;ValMez
+                                        
+0618                                    Jr3109:       BAZE 08:20
+0618  94 00 00 76 01 04                               JIZRAD  Z,  100,          09:19,  09:22    ;Ostrava-Kuncice
+061E  90 40 00 6E 00 6F                               JIZRAD  Z,   80, (T/T)    09:15,  09:15*   ;Vratimov
+0624  90 40 00 64 00 65                               JIZRAD  Z,   80, (T/T)    09:10,  09:10*   ;Paskov
+062A  90 40 00 59 00 5B                               JIZRAD  Z,   80, (T/T)    09:04*, 09:05*   ;Liskovec u FM
+0630  D0 45 00 4E 00 52                               JIZRAD  ZC,  80, (4/4)    08:59,  09:01    ;Frydek-Mistek
+0636  90 40 00 45 00 46                               JIZRAD  Z,   80, (T/T)    08:54*, 08:55    ;Baska
+063C  90 40 00 3C 00 3D                               JIZRAD  Z,   80, (T/T)    08:50,  08:50*   ;Przno
+0642  90 00 00 2A 00 34                               JIZRAD  Z,   80,          08:41,  08:46    ;Frydlant nO
+0648  94 40 00 1F 00 21                               JIZRAD  Z,  100, (T/T)    08:35*, 08:36*   ;
+064E  94 40 00 16 00 18                               JIZRAD  Z,  100, (T/T)    08:31,  08:32    ;Kuncice pO
+0654  94 40 00 04 00 08                               JIZRAD  Z,  100, (T/T)    08:22,  08:24    ;Frenstat pR
+065A  8E 00 0F 50 00 00                               JIZRAD  Z,   70,           0:00,  08:20    ;
+0660  00 40 0F 50 0F 50                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+0666  00 00 0F 50 0F 50                               JIZRAD  P,    0,           0:00,   0:00    ;
+066C  00 40 0F 50 0F 50                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostasovice
+0672  00 45 0F 50 0F 50                               JIZRAD  P,    0, (4/4)     0:00,   0:00    ;ValMez
+0678  94 00 01 1C 0F 50                 Jr3109a:      JIZRAD  Z,  100,          09:34,   0:00    ;Ostrava hln
+067E  14 00 01 19 01 19                               JIZRAD  P,  100,          09:32*, 09:32*   ;Ostrava ban.n.
+0684  94 45 01 14 01 16                               JIZRAD  Z,  100, (4/4)    09:30,  09:31    ;
+068A  94 40 01 10 01 11                               JIZRAD  Z,  100, (T/T)    09:28,  09:28*   ;Ostrava stred
+0690  94 00 01 0A 01 0A                               JIZRAD  Z,  100,          09:25,  09:25    ;
+0696  94 00 00 76 01 04                               JIZRAD  Z,  100,          09:19,  09:22    ;Ostrava-Kuncice
+                                        
+069C                                    Jr3110:       BAZE 09:26
+069C  94 00 0E 44 00 00                               JIZRAD  Z,  100,           0:00,  09:26    ;Ostrava hln
+06A2  14 00 00 04 00 04                               JIZRAD  P,  100,          09:28,  09:28    ;Ostrava ban.n.
+06A8  94 45 00 07 00 08                               JIZRAD  Z,  100, (4/4)    09:29*, 09:30    ;
+06AE  94 12 00 0B 00 0C                               JIZRAD  Z,  100, (5/5)    09:31*, 09:32    ;Ostrava stred
+06B4  D4 00 00 12 00 12                               JIZRAD  ZC, 100,          09:35,  09:35    ;
+06BA  90 00 00 18 00 1A                               JIZRAD  Z,   80,          09:38,  09:39    ;Ostrava-Kuncice
+06C0  90 00 00 18 00 1A                 Jr3110a:      JIZRAD  Z,   80,          09:38,  09:39    ;Ostrava-Kuncice
+06C6  90 41 00 20 00 22                               JIZRAD  Z,   80, (T/4)    09:42,  09:43    ;Vratimov
+06CC  90 40 00 2B 00 2D                               JIZRAD  Z,   80, (T/T)    09:47*, 09:48*   ;Paskov
+06D2  90 40 00 36 00 38                               JIZRAD  Z,   80, (T/T)    09:53,  09:54    ;Liskovec u FM
+06D8  90 45 00 40 00 48                               JIZRAD  Z,   80, (4/4)    09:58,  10:02    ;Frydek-Mistek
+06DE  90 40 00 50 00 51                               JIZRAD  Z,   80, (T/T)    10:06,  10:06*   ;Baska
+06E4  90 40 00 59 00 5A                               JIZRAD  Z,   80, (T/T)    10:10*, 10:11    ;Przno
+06EA  94 00 00 62 00 6A                               JIZRAD  Z,  100,          10:15,  10:19    ;Frydlant nO
+06F0  94 40 00 75 00 77                               JIZRAD  Z,  100, (T/T)    10:24*, 10:25*   ;
+06F6  94 40 01 08 01 0D                               JIZRAD  Z,  100, (T/T)    10:30,  10:32*   ;Kuncice pO
+06FC  8E 40 01 1A 01 1E                               JIZRAD  Z,   70, (T/T)    10:39,  10:41    ;Frenstat pR
+0702  8E 00 01 22 0E 44                               JIZRAD  Z,   70,          10:43,   0:00    ;
+0708  0E 40 0E 44 0E 44                               JIZRAD  P,   70, (T/T)     0:00,   0:00    ;Verovice
+070E  0E 00 0E 44 0E 44                               JIZRAD  P,   70,           0:00,   0:00    ;
+0714  0E 40 0E 44 0E 44                               JIZRAD  P,   70, (T/T)     0:00,   0:00    ;Hostasovice
+071A  0E 45 0E 44 0E 44                               JIZRAD  P,   70, (4/4)     0:00,   0:00    ;ValMez
+                                        
+0720                                    Jr3111:       BAZE 09:24
+0720  94 00 00 6E 00 74                               JIZRAD  Z,  100,          10:19,  10:22    ;Ostrava-Kuncice
+0726  90 40 00 66 00 67                               JIZRAD  Z,   80, (T/T)    10:15,  10:15*   ;Vratimov
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        15/01/23
+
+D:\OIS\CD\Data\2022\Bohu\Out\AVV\750\JR750GIB.pop               Str 7
+
+
+072C  90 40 00 5C 00 5D                               JIZRAD  Z,   80, (T/T)    10:10,  10:10*   ;Paskov
+0732  90 40 00 51 00 53                               JIZRAD  Z,   80, (T/T)    10:04*, 10:05*   ;Liskovec u FM
+0738  D0 45 00 46 00 4A                               JIZRAD  ZC,  80, (4/4)    09:59,  10:01    ;Frydek-Mistek
+073E  90 40 00 3D 00 3E                               JIZRAD  Z,   80, (T/T)    09:54*, 09:55    ;Baska
+0744  90 40 00 34 00 35                               JIZRAD  Z,   80, (T/T)    09:50,  09:50*   ;Przno
+074A  90 00 00 22 00 2C                               JIZRAD  Z,   80,          09:41,  09:46    ;Frydlant nO
+0750  94 40 00 17 00 19                               JIZRAD  Z,  100, (T/T)    09:35*, 09:36*   ;
+0756  94 40 00 0E 00 10                               JIZRAD  Z,  100, (T/T)    09:31,  09:32    ;Kuncice pO
+075C  94 40 0E 48 00 00                               JIZRAD  Z,  100, (T/T)     0:00,  09:24    ;Frenstat pR
+0762  00 00 0E 48 0E 48                               JIZRAD  P,    0,           0:00,   0:00    ;
+0768  00 40 0E 48 0E 48                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+076E  00 00 0E 48 0E 48                               JIZRAD  P,    0,           0:00,   0:00    ;
+0774  00 40 0E 48 0E 48                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostasovice
+077A  00 45 0E 48 0E 48                               JIZRAD  P,    0, (4/4)     0:00,   0:00    ;ValMez
+0780  94 00 01 14 0E 48                 Jr3111a:      JIZRAD  Z,  100,          10:34,   0:00    ;Ostrava hln
+0786  14 00 01 11 01 11                               JIZRAD  P,  100,          10:32*, 10:32*   ;Ostrava ban.n.
+078C  94 45 01 0C 01 0E                               JIZRAD  Z,  100, (4/4)    10:30,  10:31    ;
+0792  94 40 01 08 01 09                               JIZRAD  Z,  100, (T/T)    10:28,  10:28*   ;Ostrava stred
+0798  94 00 01 02 01 02                               JIZRAD  Z,  100,          10:25,  10:25    ;
+079E  94 00 00 6E 00 74                               JIZRAD  Z,  100,          10:19,  10:22    ;Ostrava-Kuncice
+                                        
+07A4                                    Jr3112:       BAZE 10:26
+07A4  94 00 0D 44 00 00                               JIZRAD  Z,  100,           0:00,  10:26    ;Ostrava hln
+07AA  14 00 00 04 00 04                               JIZRAD  P,  100,          10:28,  10:28    ;Ostrava ban.n.
+07B0  94 45 00 07 00 08                               JIZRAD  Z,  100, (4/4)    10:29*, 10:30    ;
+07B6  94 12 00 0B 00 0C                               JIZRAD  Z,  100, (5/5)    10:31*, 10:32    ;Ostrava stred
+07BC  D4 00 00 12 00 12                               JIZRAD  ZC, 100,          10:35,  10:35    ;
+07C2  90 00 00 18 00 1A                               JIZRAD  Z,   80,          10:38,  10:39    ;Ostrava-Kuncice
+07C8  90 00 00 18 00 1A                 Jr3112a:      JIZRAD  Z,   80,          10:38,  10:39    ;Ostrava-Kuncice
+07CE  90 41 00 20 00 22                               JIZRAD  Z,   80, (T/4)    10:42,  10:43    ;Vratimov
+07D4  90 40 00 2B 00 2D                               JIZRAD  Z,   80, (T/T)    10:47*, 10:48*   ;Paskov
+07DA  90 40 00 36 00 38                               JIZRAD  Z,   80, (T/T)    10:53,  10:54    ;Liskovec u FM
+07E0  90 45 00 40 00 48                               JIZRAD  Z,   80, (4/4)    10:58,  11:02    ;Frydek-Mistek
+07E6  90 40 00 50 00 51                               JIZRAD  Z,   80, (T/T)    11:06,  11:06*   ;Baska
+07EC  90 40 00 59 00 5A                               JIZRAD  Z,   80, (T/T)    11:10*, 11:11    ;Przno
+07F2  94 00 00 62 00 6A                               JIZRAD  Z,  100,          11:15,  11:19    ;Frydlant nO
+07F8  94 40 00 75 00 77                               JIZRAD  Z,  100, (T/T)    11:24*, 11:25*   ;
+07FE  94 40 01 08 01 0D                               JIZRAD  Z,  100, (T/T)    11:30,  11:32*   ;Kuncice pO
+0804  94 40 01 1A 0D 44                               JIZRAD  Z,  100, (T/T)    11:39,   0:00    ;Frenstat pR
+080A  14 00 0D 44 0D 44                               JIZRAD  P,  100,           0:00,   0:00    ;
+0810  14 40 0D 44 0D 44                               JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Verovice
+0816  14 00 0D 44 0D 44                               JIZRAD  P,  100,           0:00,   0:00    ;
+081C  14 40 0D 44 0D 44                               JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Hostasovice
+0822  14 45 0D 44 0D 44                               JIZRAD  P,  100, (4/4)     0:00,   0:00    ;ValMez
+                                        
+0828                                    Jr3115:       BAZE 11:24
+0828  94 00 00 6E 00 74                               JIZRAD  Z,  100,          12:19,  12:22    ;Ostrava-Kuncice
+082E  90 40 00 66 00 67                               JIZRAD  Z,   80, (T/T)    12:15,  12:15*   ;Vratimov
+0834  90 40 00 5C 00 5D                               JIZRAD  Z,   80, (T/T)    12:10,  12:10*   ;Paskov
+083A  90 40 00 51 00 53                               JIZRAD  Z,   80, (T/T)    12:04*, 12:05*   ;Liskovec u FM
+0840  D0 45 00 46 00 4A                               JIZRAD  ZC,  80, (4/4)    11:59,  12:01    ;Frydek-Mistek
+0846  90 40 00 3D 00 3E                               JIZRAD  Z,   80, (T/T)    11:54*, 11:55    ;Baska
+084C  90 40 00 34 00 35                               JIZRAD  Z,   80, (T/T)    11:50,  11:50*   ;Przno
+0852  90 00 00 22 00 2C                               JIZRAD  Z,   80,          11:41,  11:46    ;Frydlant nO
+0858  A0 40 00 17 00 19                               JIZRAD  Z,  160, (T/T)    11:35*, 11:36*   ;
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        15/01/23
+
+D:\OIS\CD\Data\2022\Bohu\Out\AVV\750\JR750GIB.pop               Str 8
+
+
+085E  A0 40 00 0E 00 10                               JIZRAD  Z,  160, (T/T)    11:31,  11:32    ;Kuncice pO
+0864  A0 40 0C 48 00 00                               JIZRAD  Z,  160, (T/T)     0:00,  11:24    ;Frenstat pR
+086A  00 00 0C 48 0C 48                               JIZRAD  P,    0,           0:00,   0:00    ;
+0870  00 40 0C 48 0C 48                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+0876  00 00 0C 48 0C 48                               JIZRAD  P,    0,           0:00,   0:00    ;
+087C  00 40 0C 48 0C 48                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostasovice
+0882  00 45 0C 48 0C 48                               JIZRAD  P,    0, (4/4)     0:00,   0:00    ;ValMez
+0888  94 00 01 14 0C 48                 Jr3115a:      JIZRAD  Z,  100,          12:34,   0:00    ;Ostrava hln
+088E  14 00 01 11 01 11                               JIZRAD  P,  100,          12:32*, 12:32*   ;Ostrava ban.n.
+0894  94 45 01 0C 01 0E                               JIZRAD  Z,  100, (4/4)    12:30,  12:31    ;
+089A  94 40 01 08 01 09                               JIZRAD  Z,  100, (T/T)    12:28,  12:28*   ;Ostrava stred
+08A0  94 00 01 02 01 02                               JIZRAD  Z,  100,          12:25,  12:25    ;
+08A6  94 00 00 6E 00 74                               JIZRAD  Z,  100,          12:19,  12:22    ;Ostrava-Kuncice
+                                        
+08AC                                    Jr3116:       BAZE 12:26
+08AC  94 00 0B 44 00 00                               JIZRAD  Z,  100,           0:00,  12:26    ;Ostrava hln
+08B2  14 00 00 04 00 04                               JIZRAD  P,  100,          12:28,  12:28    ;Ostrava ban.n.
+08B8  94 45 00 07 00 08                               JIZRAD  Z,  100, (4/4)    12:29*, 12:30    ;
+08BE  94 12 00 0B 00 0C                               JIZRAD  Z,  100, (5/5)    12:31*, 12:32    ;Ostrava stred
+08C4  D4 00 00 12 00 12                               JIZRAD  ZC, 100,          12:35,  12:35    ;
+08CA  90 00 00 18 00 1A                               JIZRAD  Z,   80,          12:38,  12:39    ;Ostrava-Kuncice
+08D0  90 00 00 18 00 1A                 Jr3116a:      JIZRAD  Z,   80,          12:38,  12:39    ;Ostrava-Kuncice
+08D6  90 41 00 20 00 22                               JIZRAD  Z,   80, (T/4)    12:42,  12:43    ;Vratimov
+08DC  90 40 00 2B 00 2D                               JIZRAD  Z,   80, (T/T)    12:47*, 12:48*   ;Paskov
+08E2  90 40 00 36 00 38                               JIZRAD  Z,   80, (T/T)    12:53,  12:54    ;Liskovec u FM
+08E8  90 45 00 40 00 48                               JIZRAD  Z,   80, (4/4)    12:58,  13:02    ;Frydek-Mistek
+08EE  90 40 00 50 00 51                               JIZRAD  Z,   80, (T/T)    13:06,  13:06*   ;Baska
+08F4  90 40 00 59 00 5A                               JIZRAD  Z,   80, (T/T)    13:10*, 13:11    ;Przno
+08FA  94 00 00 62 00 6A                               JIZRAD  Z,  100,          13:15,  13:19    ;Frydlant nO
+0900  94 40 00 75 00 77                               JIZRAD  Z,  100, (T/T)    13:24*, 13:25*   ;
+0906  94 40 01 08 01 0D                               JIZRAD  Z,  100, (T/T)    13:30,  13:32*   ;Kuncice pO
+090C  8E 40 01 1A 0B 44                               JIZRAD  Z,   70, (T/T)    13:39,   0:00    ;Frenstat pR
+0912  0E 00 0B 44 0B 44                               JIZRAD  P,   70,           0:00,   0:00    ;
+0918  0E 40 0B 44 0B 44                               JIZRAD  P,   70, (T/T)     0:00,   0:00    ;Verovice
+091E  0E 00 0B 44 0B 44                               JIZRAD  P,   70,           0:00,   0:00    ;
+0924  0E 40 0B 44 0B 44                               JIZRAD  P,   70, (T/T)     0:00,   0:00    ;Hostasovice
+092A  0E 45 0B 44 0B 44                               JIZRAD  P,   70, (4/4)     0:00,   0:00    ;ValMez
+                                        
+0930                                    Jr3118:       BAZE 13:26
+0930  94 00 0A 44 00 00                               JIZRAD  Z,  100,           0:00,  13:26    ;Ostrava hln
+0936  14 00 00 04 00 04                               JIZRAD  P,  100,          13:28,  13:28    ;Ostrava ban.n.
+093C  94 45 00 07 00 08                               JIZRAD  Z,  100, (4/4)    13:29*, 13:30    ;
+0942  94 12 00 0B 00 0C                               JIZRAD  Z,  100, (5/5)    13:31*, 13:32    ;Ostrava stred
+0948  D4 00 00 12 00 12                               JIZRAD  ZC, 100,          13:35,  13:35    ;
+094E  90 00 00 18 00 1A                               JIZRAD  Z,   80,          13:38,  13:39    ;Ostrava-Kuncice
+0954  90 00 00 18 00 1A                 Jr3118a:      JIZRAD  Z,   80,          13:38,  13:39    ;Ostrava-Kuncice
+095A  90 41 00 20 00 28                               JIZRAD  Z,   80, (T/4)    13:42,  13:46    ;Vratimov
+0960  90 40 00 31 00 32                               JIZRAD  Z,   80, (T/T)    13:50*, 13:51    ;Paskov
+0966  90 40 00 3B 00 3C                               JIZRAD  Z,   80, (T/T)    13:55*, 13:56    ;Liskovec u FM
+096C  90 45 00 44 00 48                               JIZRAD  Z,   80, (4/4)    14:00,  14:02    ;Frydek-Mistek
+0972  90 40 00 50 00 51                               JIZRAD  Z,   80, (T/T)    14:06,  14:06*   ;Baska
+0978  90 40 00 59 00 5A                               JIZRAD  Z,   80, (T/T)    14:10*, 14:11    ;Przno
+097E  94 00 00 62 00 6A                               JIZRAD  Z,  100,          14:15,  14:19    ;Frydlant nO
+0984  94 40 00 75 00 77                               JIZRAD  Z,  100, (T/T)    14:24*, 14:25*   ;
+098A  94 40 01 08 01 0D                               JIZRAD  Z,  100, (T/T)    14:30,  14:32*   ;Kuncice pO
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        15/01/23
+
+D:\OIS\CD\Data\2022\Bohu\Out\AVV\750\JR750GIB.pop               Str 9
+
+
+0990  94 40 01 1A 01 1F                               JIZRAD  Z,  100, (T/T)    14:39,  14:41*   ;Frenstat pR
+0996  94 00 01 24 0A 44                               JIZRAD  Z,  100,          14:44,   0:00    ;
+099C  14 40 0A 44 0A 44                               JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Verovice
+09A2  14 00 0A 44 0A 44                               JIZRAD  P,  100,           0:00,   0:00    ;
+09A8  14 40 0A 44 0A 44                               JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Hostasovice
+09AE  14 45 0A 44 0A 44                               JIZRAD  P,  100, (4/4)     0:00,   0:00    ;ValMez
+                                        
+09B4                                    Jr3122:       BAZE 15:26
+09B4  94 00 08 44 00 00                               JIZRAD  Z,  100,           0:00,  15:26    ;Ostrava hln
+09BA  14 00 00 04 00 04                               JIZRAD  P,  100,          15:28,  15:28    ;Ostrava ban.n.
+09C0  94 45 00 07 00 08                               JIZRAD  Z,  100, (4/4)    15:29*, 15:30    ;
+09C6  94 12 00 0B 00 0C                               JIZRAD  Z,  100, (5/5)    15:31*, 15:32    ;Ostrava stred
+09CC  D4 00 00 12 00 12                               JIZRAD  ZC, 100,          15:35,  15:35    ;
+09D2  90 00 00 18 00 1A                               JIZRAD  Z,   80,          15:38,  15:39    ;Ostrava-Kuncice
+09D8  90 00 00 18 00 1A                 Jr3122a:      JIZRAD  Z,   80,          15:38,  15:39    ;Ostrava-Kuncice
+09DE  90 41 00 20 00 28                               JIZRAD  Z,   80, (T/4)    15:42,  15:46    ;Vratimov
+09E4  90 40 00 31 00 32                               JIZRAD  Z,   80, (T/T)    15:50*, 15:51    ;Paskov
+09EA  90 40 00 3B 00 3C                               JIZRAD  Z,   80, (T/T)    15:55*, 15:56    ;Liskovec u FM
+09F0  90 45 00 44 00 48                               JIZRAD  Z,   80, (4/4)    16:00,  16:02    ;Frydek-Mistek
+09F6  90 40 00 50 00 51                               JIZRAD  Z,   80, (T/T)    16:06,  16:06*   ;Baska
+09FC  90 40 00 59 00 5A                               JIZRAD  Z,   80, (T/T)    16:10*, 16:11    ;Przno
+0A02  94 1A 00 62 00 6A                               JIZRAD  Z,  100, (6/5)    16:15,  16:19    ;Frydlant nO
+0A08  94 40 00 75 00 77                               JIZRAD  Z,  100, (T/T)    16:24*, 16:25*   ;
+0A0E  94 40 01 08 01 0D                               JIZRAD  Z,  100, (T/T)    16:30,  16:32*   ;Kuncice pO
+0A14  8E 40 01 1A 01 1F                               JIZRAD  Z,   70, (T/T)    16:39,  16:41*   ;Frenstat pR
+0A1A  8E 00 01 24 08 44                               JIZRAD  Z,   70,          16:44,   0:00    ;
+0A20  0E 40 08 44 08 44                               JIZRAD  P,   70, (T/T)     0:00,   0:00    ;Verovice
+0A26  0E 00 08 44 08 44                               JIZRAD  P,   70,           0:00,   0:00    ;
+0A2C  0E 40 08 44 08 44                               JIZRAD  P,   70, (T/T)     0:00,   0:00    ;Hostasovice
+0A32  0E 45 08 44 08 44                               JIZRAD  P,   70, (4/4)     0:00,   0:00    ;ValMez
+                                        
+0A38                                    Jr3123:       BAZE 15:20
+0A38  94 00 00 76 01 04                               JIZRAD  Z,  100,          16:19,  16:22    ;Ostrava-Kuncice
+0A3E  90 40 00 6E 00 6F                               JIZRAD  Z,   80, (T/T)    16:15,  16:15*   ;Vratimov
+0A44  90 40 00 64 00 65                               JIZRAD  Z,   80, (T/T)    16:10,  16:10*   ;Paskov
+0A4A  90 40 00 59 00 5B                               JIZRAD  Z,   80, (T/T)    16:04*, 16:05*   ;Liskovec u FM
+0A50  D0 45 00 4E 00 52                               JIZRAD  ZC,  80, (4/4)    15:59,  16:01    ;Frydek-Mistek
+0A56  90 40 00 45 00 46                               JIZRAD  Z,   80, (T/T)    15:54*, 15:55    ;Baska
+0A5C  90 40 00 3C 00 3D                               JIZRAD  Z,   80, (T/T)    15:50,  15:50*   ;Przno
+0A62  90 00 00 2A 00 34                               JIZRAD  Z,   80,          15:41,  15:46    ;Frydlant nO
+0A68  94 40 00 1F 00 21                               JIZRAD  Z,  100, (T/T)    15:35*, 15:36*   ;
+0A6E  94 40 00 16 00 18                               JIZRAD  Z,  100, (T/T)    15:31,  15:32    ;Kuncice pO
+0A74  94 40 00 04 00 08                               JIZRAD  Z,  100, (T/T)    15:22,  15:24    ;Frenstat pR
+0A7A  94 00 08 50 00 00                               JIZRAD  Z,  100,           0:00,  15:20    ;
+0A80  00 40 08 50 08 50                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+0A86  00 00 08 50 08 50                               JIZRAD  P,    0,           0:00,   0:00    ;
+0A8C  00 40 08 50 08 50                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostasovice
+0A92  00 45 08 50 08 50                               JIZRAD  P,    0, (4/4)     0:00,   0:00    ;ValMez
+0A98  94 00 01 1C 08 50                 Jr3123a:      JIZRAD  Z,  100,          16:34,   0:00    ;Ostrava hln
+0A9E  14 00 01 19 01 19                               JIZRAD  P,  100,          16:32*, 16:32*   ;Ostrava ban.n.
+0AA4  94 45 01 14 01 16                               JIZRAD  Z,  100, (4/4)    16:30,  16:31    ;
+0AAA  94 40 01 10 01 11                               JIZRAD  Z,  100, (T/T)    16:28,  16:28*   ;Ostrava stred
+0AB0  94 00 01 0A 01 0A                               JIZRAD  Z,  100,          16:25,  16:25    ;
+0AB6  94 00 00 76 01 04                               JIZRAD  Z,  100,          16:19,  16:22    ;Ostrava-Kuncice
+                                        
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        15/01/23
+
+D:\OIS\CD\Data\2022\Bohu\Out\AVV\750\JR750GIB.pop               Str 10
+
+
+0ABC                                    Jr3126:       BAZE 17:26
+0ABC  94 00 06 44 00 00                               JIZRAD  Z,  100,           0:00,  17:26    ;Ostrava hln
+0AC2  14 00 00 04 00 04                               JIZRAD  P,  100,          17:28,  17:28    ;Ostrava ban.n.
+0AC8  94 45 00 07 00 08                               JIZRAD  Z,  100, (4/4)    17:29*, 17:30    ;
+0ACE  94 12 00 0B 00 0C                               JIZRAD  Z,  100, (5/5)    17:31*, 17:32    ;Ostrava stred
+0AD4  D4 00 00 12 00 12                               JIZRAD  ZC, 100,          17:35,  17:35    ;
+0ADA  90 00 00 18 00 1A                               JIZRAD  Z,   80,          17:38,  17:39    ;Ostrava-Kuncice
+0AE0  90 00 00 18 00 1A                 Jr3126a:      JIZRAD  Z,   80,          17:38,  17:39    ;Ostrava-Kuncice
+0AE6  90 41 00 20 00 28                               JIZRAD  Z,   80, (T/4)    17:42,  17:46    ;Vratimov
+0AEC  90 40 00 31 00 32                               JIZRAD  Z,   80, (T/T)    17:50*, 17:51    ;Paskov
+0AF2  90 40 00 3B 00 3C                               JIZRAD  Z,   80, (T/T)    17:55*, 17:56    ;Liskovec u FM
+0AF8  90 45 00 44 00 48                               JIZRAD  Z,   80, (4/4)    18:00,  18:02    ;Frydek-Mistek
+0AFE  90 40 00 50 00 51                               JIZRAD  Z,   80, (T/T)    18:06,  18:06*   ;Baska
+0B04  90 40 00 59 00 5A                               JIZRAD  Z,   80, (T/T)    18:10*, 18:11    ;Przno
+0B0A  94 00 00 62 00 6A                               JIZRAD  Z,  100,          18:15,  18:19    ;Frydlant nO
+0B10  94 40 00 75 00 77                               JIZRAD  Z,  100, (T/T)    18:24*, 18:25*   ;
+0B16  94 40 01 08 01 0D                               JIZRAD  Z,  100, (T/T)    18:30,  18:32*   ;Kuncice pO
+0B1C  8E 40 01 1A 01 20                               JIZRAD  Z,   70, (T/T)    18:39,  18:42    ;Frenstat pR
+0B22  8E 00 01 24 06 44                               JIZRAD  Z,   70,          18:44,   0:00    ;
+0B28  0E 40 06 44 06 44                               JIZRAD  P,   70, (T/T)     0:00,   0:00    ;Verovice
+0B2E  0E 00 06 44 06 44                               JIZRAD  P,   70,           0:00,   0:00    ;
+0B34  0E 40 06 44 06 44                               JIZRAD  P,   70, (T/T)     0:00,   0:00    ;Hostasovice
+0B3A  0E 45 06 44 06 44                               JIZRAD  P,   70, (4/4)     0:00,   0:00    ;ValMez
+                                        
+0B40                                    Jr3128:       BAZE 18:26
+0B40  94 00 05 44 00 00                               JIZRAD  Z,  100,           0:00,  18:26    ;Ostrava hln
+0B46  14 00 00 04 00 04                               JIZRAD  P,  100,          18:28,  18:28    ;Ostrava ban.n.
+0B4C  94 45 00 07 00 08                               JIZRAD  Z,  100, (4/4)    18:29*, 18:30    ;
+0B52  94 12 00 0B 00 0C                               JIZRAD  Z,  100, (5/5)    18:31*, 18:32    ;Ostrava stred
+0B58  D4 00 00 12 00 12                               JIZRAD  ZC, 100,          18:35,  18:35    ;
+0B5E  90 00 00 18 00 1A                               JIZRAD  Z,   80,          18:38,  18:39    ;Ostrava-Kuncice
+0B64  90 00 00 18 00 1A                 Jr3128a:      JIZRAD  Z,   80,          18:38,  18:39    ;Ostrava-Kuncice
+0B6A  90 41 00 20 00 28                               JIZRAD  Z,   80, (T/4)    18:42,  18:46    ;Vratimov
+0B70  90 40 00 31 00 32                               JIZRAD  Z,   80, (T/T)    18:50*, 18:51    ;Paskov
+0B76  90 40 00 3B 00 3C                               JIZRAD  Z,   80, (T/T)    18:55*, 18:56    ;Liskovec u FM
+0B7C  90 45 00 44 00 48                               JIZRAD  Z,   80, (4/4)    19:00,  19:02    ;Frydek-Mistek
+0B82  90 40 00 50 00 51                               JIZRAD  Z,   80, (T/T)    19:06,  19:06*   ;Baska
+0B88  90 40 00 59 00 5A                               JIZRAD  Z,   80, (T/T)    19:10*, 19:11    ;Przno
+0B8E  94 00 00 62 00 68                               JIZRAD  Z,  100,          19:15,  19:18    ;Frydlant nO
+0B94  94 40 00 73 00 74                               JIZRAD  Z,  100, (T/T)    19:23*, 19:24    ;
+0B9A  94 40 01 05 01 09                               JIZRAD  Z,  100, (T/T)    19:28*, 19:30*   ;Kuncice pO
+0BA0  94 40 01 16 05 44                               JIZRAD  Z,  100, (T/T)    19:37,   0:00    ;Frenstat pR
+0BA6  14 00 05 44 05 44                               JIZRAD  P,  100,           0:00,   0:00    ;
+0BAC  14 40 05 44 05 44                               JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Verovice
+0BB2  14 00 05 44 05 44                               JIZRAD  P,  100,           0:00,   0:00    ;
+0BB8  14 40 05 44 05 44                               JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Hostasovice
+0BBE  14 45 05 44 05 44                               JIZRAD  P,  100, (4/4)     0:00,   0:00    ;ValMez
+                                        
+0BC4                                    Jr3130:       BAZE 19:26
+0BC4  94 00 04 44 00 00                               JIZRAD  Z,  100,           0:00,  19:26    ;Ostrava hln
+0BCA  14 00 00 04 00 04                               JIZRAD  P,  100,          19:28,  19:28    ;Ostrava ban.n.
+0BD0  94 45 00 07 00 08                               JIZRAD  Z,  100, (4/4)    19:29*, 19:30    ;
+0BD6  94 12 00 0B 00 0C                               JIZRAD  Z,  100, (5/5)    19:31*, 19:32    ;Ostrava stred
+0BDC  D4 00 00 12 00 12                               JIZRAD  ZC, 100,          19:35,  19:35    ;
+0BE2  90 00 00 18 00 1A                               JIZRAD  Z,   80,          19:38,  19:39    ;Ostrava-Kuncice
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        15/01/23
+
+D:\OIS\CD\Data\2022\Bohu\Out\AVV\750\JR750GIB.pop               Str 11
+
+
+0BE8  90 00 00 18 00 1A                 Jr3130a:      JIZRAD  Z,   80,          19:38,  19:39    ;Ostrava-Kuncice
+0BEE  90 41 00 20 00 22                               JIZRAD  Z,   80, (T/4)    19:42,  19:43    ;Vratimov
+0BF4  90 40 00 2B 00 2D                               JIZRAD  Z,   80, (T/T)    19:47*, 19:48*   ;Paskov
+0BFA  90 40 00 36 00 38                               JIZRAD  Z,   80, (T/T)    19:53,  19:54    ;Liskovec u FM
+0C00  90 45 00 40 00 48                               JIZRAD  Z,   80, (4/4)    19:58,  20:02    ;Frydek-Mistek
+0C06  90 40 00 50 00 51                               JIZRAD  Z,   80, (T/T)    20:06,  20:06*   ;Baska
+0C0C  90 40 00 59 00 5A                               JIZRAD  Z,   80, (T/T)    20:10*, 20:11    ;Przno
+0C12  94 1A 00 62 00 6A                               JIZRAD  Z,  100, (6/5)    20:15,  20:19    ;Frydlant nO
+0C18  94 40 00 75 00 77                               JIZRAD  Z,  100, (T/T)    20:24*, 20:25*   ;
+0C1E  94 40 01 08 01 0D                               JIZRAD  Z,  100, (T/T)    20:30,  20:32*   ;Kuncice pO
+0C24  8E 40 01 1A 01 1E                               JIZRAD  Z,   70, (T/T)    20:39,  20:41    ;Frenstat pR
+0C2A  8E 00 01 22 04 44                               JIZRAD  Z,   70,          20:43,   0:00    ;
+0C30  0E 40 04 44 04 44                               JIZRAD  P,   70, (T/T)     0:00,   0:00    ;Verovice
+0C36  0E 00 04 44 04 44                               JIZRAD  P,   70,           0:00,   0:00    ;
+0C3C  0E 40 04 44 04 44                               JIZRAD  P,   70, (T/T)     0:00,   0:00    ;Hostasovice
+0C42  0E 45 04 44 04 44                               JIZRAD  P,   70, (4/4)     0:00,   0:00    ;ValMez
+                                        
+0C48                                    Jr3142:       BAZE 04:55
+0C48  94 00 13 0A 00 00                               JIZRAD  Z,  100,           0:00,  04:55    ;Ostrava hln
+0C4E  14 00 00 04 00 04                               JIZRAD  P,  100,          04:57,  04:57    ;Ostrava ban.n.
+0C54  94 45 00 07 00 08                               JIZRAD  Z,  100, (4/4)    04:58*, 04:59    ;
+0C5A  94 12 00 0B 00 0C                               JIZRAD  Z,  100, (5/5)    05:00*, 05:01    ;Ostrava stred
+0C60  D4 00 00 12 00 12                               JIZRAD  ZC, 100,          05:04,  05:04    ;
+0C66  90 00 00 18 00 1C                               JIZRAD  Z,   80,          05:07,  05:09    ;Ostrava-Kuncice
+0C6C  90 00 00 18 00 1C                 Jr3142a:      JIZRAD  Z,   80,          05:07,  05:09    ;Ostrava-Kuncice
+0C72  90 41 00 22 00 2A                               JIZRAD  Z,   80, (T/4)    05:12,  05:16    ;Vratimov
+0C78  90 40 00 33 00 34                               JIZRAD  Z,   80, (T/T)    05:20*, 05:21    ;Paskov
+0C7E  90 40 00 3D 00 3E                               JIZRAD  Z,   80, (T/T)    05:25*, 05:26    ;Liskovec u FM
+0C84  90 45 00 46 00 4A                               JIZRAD  Z,   80, (4/4)    05:30,  05:32    ;Frydek-Mistek
+0C8A  90 40 00 52 00 53                               JIZRAD  Z,   80, (T/T)    05:36,  05:36*   ;Baska
+0C90  90 40 00 5B 00 5C                               JIZRAD  Z,   80, (T/T)    05:40*, 05:41    ;Przno
+0C96  90 00 00 64 13 0A                               JIZRAD  Z,   80,          05:45,   0:00    ;Frydlant nO
+0C9C  10 40 13 0A 13 0A                               JIZRAD  P,   80, (T/T)     0:00,   0:00    ;
+0CA2  10 40 13 0A 13 0A                               JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Kuncice pO
+0CA8  10 40 13 0A 13 0A                               JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Frenstat pR
+0CAE  10 00 13 0A 13 0A                               JIZRAD  P,   80,           0:00,   0:00    ;
+0CB4  10 40 13 0A 13 0A                               JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Verovice
+0CBA  10 00 13 0A 13 0A                               JIZRAD  P,   80,           0:00,   0:00    ;
+0CC0  10 40 13 0A 13 0A                               JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Hostasovice
+0CC6  10 45 13 0A 13 0A                               JIZRAD  P,   80, (4/4)     0:00,   0:00    ;ValMez
+                                        
+0CCC                                    Jr3143:       BAZE 06:16
+0CCC  94 00 00 42 00 44                               JIZRAD  Z,  100,          06:49,  06:50    ;Ostrava-Kuncice
+0CD2  90 40 00 3A 00 3B                               JIZRAD  Z,   80, (T/T)    06:45,  06:45*   ;Vratimov
+0CD8  90 40 00 30 00 31                               JIZRAD  Z,   80, (T/T)    06:40,  06:40*   ;Paskov
+0CDE  90 40 00 25 00 27                               JIZRAD  Z,   80, (T/T)    06:34*, 06:35*   ;Liskovec u FM
+0CE4  D0 45 00 1A 00 1E                               JIZRAD  ZC,  80, (4/4)    06:29,  06:31    ;Frydek-Mistek
+0CEA  90 40 00 11 00 12                               JIZRAD  Z,   80, (T/T)    06:24*, 06:25    ;Baska
+0CF0  90 40 00 08 00 09                               JIZRAD  Z,   80, (T/T)    06:20,  06:20*   ;Przno
+0CF6  90 00 11 58 00 00                               JIZRAD  Z,   80,           0:00,  06:16    ;Frydlant nO
+0CFC  00 40 11 58 11 58                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+0D02  00 40 11 58 11 58                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Kuncice pO
+0D08  00 40 11 58 11 58                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Frenstat pR
+0D0E  00 00 11 58 11 58                               JIZRAD  P,    0,           0:00,   0:00    ;
+0D14  00 40 11 58 11 58                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        15/01/23
+
+D:\OIS\CD\Data\2022\Bohu\Out\AVV\750\JR750GIB.pop               Str 12
+
+
+0D1A  00 00 11 58 11 58                               JIZRAD  P,    0,           0:00,   0:00    ;
+0D20  00 40 11 58 11 58                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostasovice
+0D26  00 45 11 58 11 58                               JIZRAD  P,    0, (4/4)     0:00,   0:00    ;ValMez
+0D2C  94 00 00 5C 11 58                 Jr3143a:      JIZRAD  Z,  100,          07:02,   0:00    ;Ostrava hln
+0D32  14 00 00 59 00 59                               JIZRAD  P,  100,          07:00*, 07:00*   ;Ostrava ban.n.
+0D38  94 45 00 54 00 56                               JIZRAD  Z,  100, (4/4)    06:58,  06:59    ;
+0D3E  94 40 00 50 00 51                               JIZRAD  Z,  100, (T/T)    06:56,  06:56*   ;Ostrava stred
+0D44  94 00 00 4A 00 4A                               JIZRAD  Z,  100,          06:53,  06:53    ;
+0D4A  94 00 00 42 00 44                               JIZRAD  Z,  100,          06:49,  06:50    ;Ostrava-Kuncice
+                                        
+0D50                                    Jr3144:       BAZE 05:55
+0D50  94 00 12 0A 00 00                               JIZRAD  Z,  100,           0:00,  05:55    ;Ostrava hln
+0D56  14 00 00 04 00 04                               JIZRAD  P,  100,          05:57,  05:57    ;Ostrava ban.n.
+0D5C  94 45 00 07 00 08                               JIZRAD  Z,  100, (4/4)    05:58*, 05:59    ;
+0D62  94 12 00 0B 00 0C                               JIZRAD  Z,  100, (5/5)    06:00*, 06:01    ;Ostrava stred
+0D68  D4 00 00 12 00 12                               JIZRAD  ZC, 100,          06:04,  06:04    ;
+0D6E  90 00 00 18 00 1C                               JIZRAD  Z,   80,          06:07,  06:09    ;Ostrava-Kuncice
+0D74  90 00 00 18 00 1C                 Jr3144a:      JIZRAD  Z,   80,          06:07,  06:09    ;Ostrava-Kuncice
+0D7A  90 41 00 22 00 2A                               JIZRAD  Z,   80, (T/4)    06:12,  06:16    ;Vratimov
+0D80  90 40 00 33 00 34                               JIZRAD  Z,   80, (T/T)    06:20*, 06:21    ;Paskov
+0D86  90 40 00 3D 00 3E                               JIZRAD  Z,   80, (T/T)    06:25*, 06:26    ;Liskovec u FM
+0D8C  90 45 00 46 00 4A                               JIZRAD  Z,   80, (4/4)    06:30,  06:32    ;Frydek-Mistek
+0D92  90 40 00 52 00 53                               JIZRAD  Z,   80, (T/T)    06:36,  06:36*   ;Baska
+0D98  90 40 00 5B 00 5C                               JIZRAD  Z,   80, (T/T)    06:40*, 06:41    ;Przno
+0D9E  94 00 00 64 12 0A                               JIZRAD  Z,  100,          06:45,   0:00    ;Frydlant nO
+0DA4  14 40 12 0A 12 0A                               JIZRAD  P,  100, (T/T)     0:00,   0:00    ;
+0DAA  14 40 12 0A 12 0A                               JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Kuncice pO
+0DB0  14 40 12 0A 12 0A                               JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Frenstat pR
+0DB6  14 00 12 0A 12 0A                               JIZRAD  P,  100,           0:00,   0:00    ;
+0DBC  14 40 12 0A 12 0A                               JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Verovice
+0DC2  14 00 12 0A 12 0A                               JIZRAD  P,  100,           0:00,   0:00    ;
+0DC8  14 40 12 0A 12 0A                               JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Hostasovice
+0DCE  14 45 12 0A 12 0A                               JIZRAD  P,  100, (4/4)     0:00,   0:00    ;ValMez
+                                        
+0DD4                                    Jr3158:       BAZE 16:55
+0DD4  A0 45 07 0A 00 00                               JIZRAD  Z,  160, (4/4)     0:00,  16:55    ;Ostrava hln
+0DDA  20 00 00 04 00 04                               JIZRAD  P,  160,          16:57,  16:57    ;Ostrava ban.n.
+0DE0  A0 00 00 07 00 08                               JIZRAD  Z,  160,          16:58*, 16:59    ;
+0DE6  A0 12 00 0B 00 0C                               JIZRAD  Z,  160, (5/5)    17:00*, 17:01    ;Ostrava stred
+0DEC  A0 00 00 12 00 12                               JIZRAD  Z,  160,          17:04,  17:04    ;
+0DF2  A0 10 00 18 00 1C                               JIZRAD  Z,  160, (5/T)    17:07,  17:09    ;Ostrava-Kuncice
+0DF8  A0 40 00 18 00 1C                 Jr3158a:      JIZRAD  Z,  160, (T/T)    17:07,  17:09    ;Ostrava-Kuncice
+0DFE  A0 41 00 22 00 2A                               JIZRAD  Z,  160, (T/4)    17:12,  17:16    ;Vratimov
+0E04  A0 40 00 33 00 34                               JIZRAD  Z,  160, (T/T)    17:20*, 17:21    ;Paskov
+0E0A  A0 40 00 3D 00 3E                               JIZRAD  Z,  160, (T/T)    17:25*, 17:26    ;Liskovec u FM
+0E10  A0 45 00 46 00 4A                               JIZRAD  Z,  160, (4/4)    17:30,  17:32    ;Frydek-Mistek
+0E16  A0 40 00 52 00 53                               JIZRAD  Z,  160, (T/T)    17:36,  17:36*   ;Baska
+0E1C  A0 40 00 5B 00 5C                               JIZRAD  Z,  160, (T/T)    17:40*, 17:41    ;Przno
+0E22  A0 40 00 64 07 0A                               JIZRAD  Z,  160, (T/T)    17:45,   0:00    ;Frydlant nO
+0E28  20 40 07 0A 07 0A                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
+0E2E  20 40 07 0A 07 0A                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Kuncice pO
+0E34  20 40 07 0A 07 0A                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Frenstat pR
+0E3A  20 00 07 0A 07 0A                               JIZRAD  P,  160,           0:00,   0:00    ;
+0E40  20 40 07 0A 07 0A                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Verovice
+0E46  20 00 07 0A 07 0A                               JIZRAD  P,  160,           0:00,   0:00    ;
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        15/01/23
+
+D:\OIS\CD\Data\2022\Bohu\Out\AVV\750\JR750GIB.pop               Str 13
+
+
+0E4C  20 40 07 0A 07 0A                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hostasovice
+0E52  20 45 07 0A 07 0A                               JIZRAD  P,  160, (4/4)     0:00,   0:00    ;ValMez
+                                        
+0E58                                    Jr3173:       BAZE 04:31
+0E58  94 00 00 24 00 26                               JIZRAD  Z,  100,          04:49,  04:50    ;Ostrava-Kuncice
+0E5E  90 40 00 1C 00 1D                               JIZRAD  Z,   80, (T/T)    04:45,  04:45*   ;Vratimov
+0E64  90 40 00 12 00 13                               JIZRAD  Z,   80, (T/T)    04:40,  04:40*   ;Paskov
+0E6A  90 40 00 07 00 09                               JIZRAD  Z,   80, (T/T)    04:34*, 04:35*   ;Liskovec u FM
+0E70  D0 45 13 3A 00 00                               JIZRAD  ZC,  80, (4/4)     0:00,  04:31    ;Frydek-Mistek
+0E76  00 40 13 3A 13 3A                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Baska
+0E7C  00 40 13 3A 13 3A                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Przno
+0E82  00 40 13 3A 13 3A                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Frydlant nO
+0E88  00 40 13 3A 13 3A                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+0E8E  00 40 13 3A 13 3A                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Kuncice pO
+0E94  00 40 13 3A 13 3A                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Frenstat pR
+0E9A  00 00 13 3A 13 3A                               JIZRAD  P,    0,           0:00,   0:00    ;
+0EA0  00 40 13 3A 13 3A                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+0EA6  00 00 13 3A 13 3A                               JIZRAD  P,    0,           0:00,   0:00    ;
+0EAC  00 40 13 3A 13 3A                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostasovice
+0EB2  00 45 13 3A 13 3A                               JIZRAD  P,    0, (4/4)     0:00,   0:00    ;ValMez
+0EB8  94 00 00 3E 13 3A                 Jr3173a:      JIZRAD  Z,  100,          05:02,   0:00    ;Ostrava hln
+0EBE  14 00 00 3B 00 3B                               JIZRAD  P,  100,          05:00*, 05:00*   ;Ostrava ban.n.
+0EC4  94 45 00 36 00 38                               JIZRAD  Z,  100, (4/4)    04:58,  04:59    ;
+0ECA  94 40 00 32 00 33                               JIZRAD  Z,  100, (T/T)    04:56,  04:56*   ;Ostrava stred
+0ED0  94 00 00 2C 00 2C                               JIZRAD  Z,  100,          04:53,  04:53    ;
+0ED6  94 00 00 24 00 26                               JIZRAD  Z,  100,          04:49,  04:50    ;Ostrava-Kuncice
+                                        
+0EDC                                    Jr3183:       BAZE 18:16
+0EDC  20 40 05 58 05 58                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+0EE2  20 40 05 58 05 58                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Vratimov
+0EE8  20 40 05 58 05 58                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Paskov
+0EEE  20 40 05 58 05 58                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Liskovec u FM
+0EF4  A0 45 00 1A 05 58                               JIZRAD  Z,  160, (4/4)    18:29,   0:00    ;Frydek-Mistek
+0EFA  A0 40 00 11 00 12                               JIZRAD  Z,  160, (T/T)    18:24*, 18:25    ;Baska
+0F00  A0 40 00 08 00 09                               JIZRAD  Z,  160, (T/T)    18:20,  18:20*   ;Przno
+0F06  A0 40 05 58 00 00                               JIZRAD  Z,  160, (T/T)     0:00,  18:16    ;Frydlant nO
+0F0C  00 40 05 58 05 58                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+0F12  00 40 05 58 05 58                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Kuncice pO
+0F18  00 40 05 58 05 58                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Frenstat pR
+0F1E  00 00 05 58 05 58                               JIZRAD  P,    0,           0:00,   0:00    ;
+0F24  00 40 05 58 05 58                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+0F2A  00 00 05 58 05 58                               JIZRAD  P,    0,           0:00,   0:00    ;
+0F30  00 40 05 58 05 58                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostasovice
+0F36  00 45 05 58 05 58                               JIZRAD  P,    0, (4/4)     0:00,   0:00    ;ValMez
+                                        
+                                        
+                                        ;vse vypsano
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        15/01/23
+
+D:\OIS\CD\Data\2022\Bohu\Out\AVV\750\JR750GIB.pop               Nav 1
+
+
+Navesti    Adresa   Kilometr
+
+Jr3101      0300   
+Jr3101a     0360   
+Jr3102      0384   
+Jr3102a     03A8   
+Jr3103      0408   
+Jr3103a     0468   
+Jr3105      048C   
+Jr3105a     04EC   
+Jr3106      0510   
+Jr3106a     0534   
+Jr3108      0594   
+Jr3108a     05B8   
+Jr3109      0618   
+Jr3109a     0678   
+Jr3110      069C   
+Jr3110a     06C0   
+Jr3111      0720   
+Jr3111a     0780   
+Jr3112      07A4   
+Jr3112a     07C8   
+Jr3115      0828   
+Jr3115a     0888   
+Jr3116      08AC   
+Jr3116a     08D0   
+Jr3118      0930   
+Jr3118a     0954   
+Jr3122      09B4   
+Jr3122a     09D8   
+Jr3123      0A38   
+Jr3123a     0A98   
+Jr3126      0ABC   
+Jr3126a     0AE0   
+Jr3128      0B40   
+Jr3128a     0B64   
+Jr3130      0BC4   
+Jr3130a     0BE8   
+Jr3142      0C48   
+Jr3142a     0C6C   
+Jr3143      0CCC   
+Jr3143a     0D2C   
+Jr3144      0D50   
+Jr3144a     0D74   
+Jr3158      0DD4   
+Jr3158a     0DF8   
+Jr3173      0E58   
+Jr3173a     0EB8   
+Jr3183      0EDC   
+Obsah       0018   
+Tr3101      0200   
+Tr3102      0209   
+Tr3103      0212   
+Tr3105      021B   
+Tr3106      0224   
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        15/01/23
+
+D:\OIS\CD\Data\2022\Bohu\Out\AVV\750\JR750GIB.pop               Nav 2
+
+
+Navesti    Adresa   Kilometr
+
+Tr3108      022D   
+Tr3109      0236   
+Tr3110      023F   
+Tr3111      0248   
+Tr3112      0251   
+Tr3115      025A   
+Tr3116      0263   
+Tr3118      026C   
+Tr3122      0275   
+Tr3123      027E   
+Tr3126      0287   
+Tr3128      0290   
+Tr3130      0299   
+Tr3142      02A2   
+Tr3143      02AB   
+Tr3144      02B4   
+Tr3158      02BD   
+Tr3173      02C6   
+Tr3183      02CF   
+
+Pocet chyb: 0 
+

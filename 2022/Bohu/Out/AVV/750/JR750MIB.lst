@@ -1,0 +1,152 @@
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        10/12/22
+
+C:\AVV\data\JR750MIB.pop                                        Str 1
+
+
+0000  0A 00 16 19                       Zahlavi:	<verze prekladace>
+0004     20 22 12 10                    		<datum prekladu>
+0008     4F 6C 63 49 53 43 20 20        		<drzitel licence>
+0010     03B4 F572541C 74A8             		<kontrolni udaje>
+
+0018  0B 32 221211 231209               Obsah:        PLATI  50, 11/12/2022, 9/12/2023
+0020  003101 05 2C FF 0200                            VLAK     3101, 05:22, Tr3101
+0028  003102 05 34 FF 0205                            VLAK     3102, 05:26, Tr3102
+0030  003103 05 64 FF 020A                            VLAK     3103, 05:50, Tr3103
+0038  003104 06 34 FF 0205                            VLAK     3104, 06:26, Tr3102
+0040  003105 07 2C FF 0200                            VLAK     3105, 07:22, Tr3101
+0048  003106 07 34 FF 0205                            VLAK     3106, 07:26, Tr3102
+0050  003107 08 2C FF 0200                            VLAK     3107, 08:22, Tr3101
+0058  003108 08 34 FF 0205                            VLAK     3108, 08:26, Tr3102
+0060  003109 09 2C FF 0200                            VLAK     3109, 09:22, Tr3101
+0068  003110 09 34 FF 0205                            VLAK     3110, 09:26, Tr3102
+0070  003111 0A 2C FF 0200                            VLAK     3111, 10:22, Tr3101
+0078  003112 0A 34 FF 0205                            VLAK     3112, 10:26, Tr3102
+0080  003113 0B 2C FF 0200                            VLAK     3113, 11:22, Tr3101
+0088  003114 0B 34 FF 0205                            VLAK     3114, 11:26, Tr3102
+0090  003115 0C 2C FF 0200                            VLAK     3115, 12:22, Tr3101
+0098  003116 0C 34 FF 0205                            VLAK     3116, 12:26, Tr3102
+00A0  003117 0D 2C FF 0200                            VLAK     3117, 13:22, Tr3101
+00A8  003118 0D 34 FF 0205                            VLAK     3118, 13:26, Tr3102
+00B0  003119 0E 2C FF 0200                            VLAK     3119, 14:22, Tr3101
+00B8  003120 0E 34 FF 0205                            VLAK     3120, 14:26, Tr3102
+00C0  003121 0F 2C FF 0200                            VLAK     3121, 15:22, Tr3101
+00C8  003122 0F 34 FF 0205                            VLAK     3122, 15:26, Tr3102
+00D0  003123 10 2C FF 0200                            VLAK     3123, 16:22, Tr3101
+00D8  003124 10 34 FF 0205                            VLAK     3124, 16:26, Tr3102
+00E0  003125 11 2C FF 0200                            VLAK     3125, 17:22, Tr3101
+00E8  003126 11 34 FF 0205                            VLAK     3126, 17:26, Tr3102
+00F0  003127 12 2C FF 0200                            VLAK     3127, 18:22, Tr3101
+00F8  003128 12 34 FF 0205                            VLAK     3128, 18:26, Tr3102
+0100  003129 13 2C FF 0200                            VLAK     3129, 19:22, Tr3101
+0108  003130 13 34 FF 0205                            VLAK     3130, 19:26, Tr3102
+0110  003141 06 2C FF 0200                            VLAK     3141, 06:22, Tr3101
+0118  003142 04 6E FF 020F                            VLAK     3142, 04:55, Tr3142
+0120  003143 06 64 FF 020A                            VLAK     3143, 06:50, Tr3103
+0128  003144 05 6E FF 020F                            VLAK     3144, 05:55, Tr3142
+0130  003145 07 64 FF 020A                            VLAK     3145, 07:50, Tr3103
+0138  003146 06 6E FF 020F                            VLAK     3146, 06:55, Tr3142
+0140  003147 08 64 FF 020A                            VLAK     3147, 08:50, Tr3103
+0148  003148 07 6E FF 020F                            VLAK     3148, 07:55, Tr3142
+0150  003149 0D 64 FF 020A                            VLAK     3149, 13:50, Tr3103
+0158  003150 0C 6E FF 020F                            VLAK     3150, 12:55, Tr3142
+0160  003151 0E 64 FF 020A                            VLAK     3151, 14:50, Tr3103
+0168  003152 0D 6E FF 020F                            VLAK     3152, 13:55, Tr3142
+0170  003153 0F 64 FF 020A                            VLAK     3153, 15:50, Tr3103
+0178  003154 0E 6E FF 020F                            VLAK     3154, 14:55, Tr3142
+0180  003155 10 64 FF 020A                            VLAK     3155, 16:50, Tr3103
+0188  003156 0F 6E FF 020F                            VLAK     3156, 15:55, Tr3142
+0190  003157 11 64 FF 020A                            VLAK     3157, 17:50, Tr3103
+0198  003158 10 6E FF 0214                            VLAK     3158, 16:55, Tr3158
+01A0  003162 11 6E FF 020F                            VLAK     3162, 17:55, Tr3142
+01A8  003173 04 64 FF 020A                            VLAK     3173, 04:50, Tr3103
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        10/12/22
+
+C:\AVV\data\JR750MIB.pop                                        Str 2
+
+
+                                        
+01B0  87                                              KONEC
+0200                                                  ZAROVNEJ
+                                        
+0200  20 20 00FE                        Tr3101:       TRASA 32,32, Jr3101
+0204  00                                              TRASA
+0205  20 1F 011D                        Tr3102:       TRASA 32,31, Jr3102
+0209  00                                              TRASA
+020A  20 20 013C                        Tr3103:       TRASA 32,32, Jr3103
+020E  00                                              TRASA
+020F  20 1F 015B                        Tr3142:       TRASA 32,31, Jr3142
+0213  00                                              TRASA
+0214  20 1F 017A                        Tr3158:       TRASA 32,31, Jr3158
+0218  00                                              TRASA
+                                        
+0300                                                  ZAROVNEJ
+                                        
+                                        
+0300                                    Jr3101:       BAZE 05:22
+0300  94 00 00 18 12 4C                               JIZRAD  Z,  100,          05:34,   0:00    ;Ostrava hln
+0306  14 00 00 15 00 15                               JIZRAD  P,  100,          05:32*, 05:32*   ;Ostrava ban.n.
+030C  94 45 00 10 00 12                               JIZRAD  Z,  100, (4/4)    05:30,  05:31    ;
+0312  94 40 00 0C 00 0D                               JIZRAD  Z,  100, (T/T)    05:28,  05:28*   ;Ostrava stred
+0318  94 00 00 06 00 06                               JIZRAD  Z,  100,          05:25,  05:25    ;
+031E  94 00 17 72 00 00                               JIZRAD  Z,  100,          05:19,  05:22    ;Ostrava-Kuncice
+                                        
+0324                                    Jr3102:       BAZE 05:26
+0324  94 00 12 44 00 00                               JIZRAD  Z,  100,           0:00,  05:26    ;Ostrava hln
+032A  14 00 00 04 00 04                               JIZRAD  P,  100,          05:28,  05:28    ;Ostrava ban.n.
+0330  94 45 00 07 00 08                               JIZRAD  Z,  100, (4/4)    05:29*, 05:30    ;
+0336  94 12 00 0B 00 0C                               JIZRAD  Z,  100, (5/5)    05:31*, 05:32    ;Ostrava stred
+033C  D4 00 00 12 00 12                               JIZRAD  ZC, 100,          05:35,  05:35    ;
+0342  90 00 00 18 00 1A                               JIZRAD  Z,   80,          05:38,  05:39    ;Ostrava-Kuncice
+                                        
+0348                                    Jr3103:       BAZE 05:50
+0348  94 00 00 18 12 14                               JIZRAD  Z,  100,          06:02,   0:00    ;Ostrava hln
+034E  14 00 00 15 00 15                               JIZRAD  P,  100,          06:00*, 06:00*   ;Ostrava ban.n.
+0354  94 45 00 10 00 12                               JIZRAD  Z,  100, (4/4)    05:58,  05:59    ;
+035A  94 40 00 0C 00 0D                               JIZRAD  Z,  100, (T/T)    05:56,  05:56*   ;Ostrava stred
+0360  94 00 00 06 00 06                               JIZRAD  Z,  100,          05:53,  05:53    ;
+0366  94 00 17 76 00 00                               JIZRAD  Z,  100,          05:49,  05:50    ;Ostrava-Kuncice
+                                        
+036C                                    Jr3142:       BAZE 04:55
+036C  94 00 13 0A 00 00                               JIZRAD  Z,  100,           0:00,  04:55    ;Ostrava hln
+0372  14 00 00 04 00 04                               JIZRAD  P,  100,          04:57,  04:57    ;Ostrava ban.n.
+0378  94 45 00 07 00 08                               JIZRAD  Z,  100, (4/4)    04:58*, 04:59    ;
+037E  94 12 00 0B 00 0C                               JIZRAD  Z,  100, (5/5)    05:00*, 05:01    ;Ostrava stred
+0384  D4 00 00 12 00 12                               JIZRAD  ZC, 100,          05:04,  05:04    ;
+038A  90 00 00 18 00 1C                               JIZRAD  Z,   80,          05:07,  05:09    ;Ostrava-Kuncice
+                                        
+0390                                    Jr3158:       BAZE 16:55
+0390  A0 45 07 0A 00 00                               JIZRAD  Z,  160, (4/4)     0:00,  16:55    ;Ostrava hln
+0396  20 00 00 04 00 04                               JIZRAD  P,  160,          16:57,  16:57    ;Ostrava ban.n.
+039C  A0 00 00 07 00 08                               JIZRAD  Z,  160,          16:58*, 16:59    ;
+03A2  A0 12 00 0B 00 0C                               JIZRAD  Z,  160, (5/5)    17:00*, 17:01    ;Ostrava stred
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        10/12/22
+
+C:\AVV\data\JR750MIB.pop                                        Str 3
+
+
+03A8  A0 00 00 12 00 12                               JIZRAD  Z,  160,          17:04,  17:04    ;
+03AE  A0 10 00 18 00 1C                               JIZRAD  Z,  160, (5/T)    17:07,  17:09    ;Ostrava-Kuncice
+                                        
+                                        
+                                        ;vse vypsano
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        10/12/22
+
+C:\AVV\data\JR750MIB.pop                                        Nav 1
+
+
+Navesti    Adresa   Kilometr
+
+Jr3101      0300   
+Jr3102      0324   
+Jr3103      0348   
+Jr3142      036C   
+Jr3158      0390   
+Obsah       0018   
+Tr3101      0200   
+Tr3102      0205   
+Tr3103      020A   
+Tr3142      020F   
+Tr3158      0214   
+
+Pocet chyb: 0 
+
