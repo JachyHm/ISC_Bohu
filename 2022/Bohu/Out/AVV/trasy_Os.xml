@@ -7592,40 +7592,12 @@ rr.mm.dd - popis
     <typNaMapeETCS>0</typNaMapeETCS>
     
     <stanice>
-      <cisloStanice>34364000</cisloStanice>
-      <nazevStanice>Ostrava hln</nazevStanice>
+      <cisloStanice>34414300</cisloStanice>
+      <nazevStanice>Ostrava-Kuncice</nazevStanice>
       
       <vstupniBod>
         <veSmeru>21</veSmeru>
       </vstupniBod>  
-      
-      <vjezdDoPrimaVeSmeru />
-      <odjezdDoPrimaVeSmeru />
-      <vjezdDoPrimaVProtismeru />
-      <odjezdDoPrimaVProtismeru />
-    </stanice>
-    
-    <stanice>
-      <cisloStanice>34393900</cisloStanice>
-    </stanice>
-    
-    <stanice>
-      <cisloStanice>34394700</cisloStanice>
-      <nazevStanice>Ostrava stred</nazevStanice>
-      
-      <vjezdDoPrimaVeSmeru />
-      <odjezdDoPrimaVeSmeru />
-      <vjezdDoPrimaVProtismeru />
-      <odjezdDoPrimaVProtismeru />
-    </stanice>
-    
-    <stanice>
-      <cisloStanice>34374900</cisloStanice>
-    </stanice>
-    
-    <stanice>
-      <cisloStanice>34414300</cisloStanice>
-      <nazevStanice>Ostrava-Kuncice</nazevStanice>
       
       <vjezdDoPrimaVeSmeru />
       <odjezdDoPrimaVeSmeru />
