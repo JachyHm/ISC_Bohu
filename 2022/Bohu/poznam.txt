@@ -1,0 +1,25 @@
+Informaán° systÇm pro jednotky ©ady 471
+=================================================
+GVD 2023 (11.12.2022 - 09.12.2023)
+-------------------------------------------------
+Upozornàn°:
+Pokud vlak p©ech†z° na jinò jako p©°mò, je vëdy
+nutno ve stanici, kde p©echod nastane, nastavit
+novÇ á°slo vlaku, na kterò vlak p©ech†z°.
+-------------------------------------------------
+SPECIèLNã NèPISY -> v "JEN CãLOVè STANICE"
+-------------------------------------------------
+01 - Sluëebn° j°zda
+02 - Zku®ebn° j°zda
+03 - Zvl†®tn° vlak
+04 - Nenastupovat
+05 - óklid soupravy
+06 - Nespojovat
+07 - N†hradn° doprava
+08 - Vlak vp©edu
+09 - V°t†me V†s
+10 - Den ëeleznice
+
+99 - Test displejñ
+-------------------------------------------------
+Verze dat: 230227a - vòluka Hav°©ov - Äeskò Tà®°n

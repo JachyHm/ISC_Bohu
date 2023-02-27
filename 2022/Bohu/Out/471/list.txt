@@ -4,12 +4,6 @@
 4294967295 -1 posledn\xA1 stanice integrovan\x82 dopravy 
 4294967295 -1 Vlak jede odklonem
 4294967295 -1 V\x96z bez pr\x96vod\x87\xA1ho
-0 0 Stud\x82nka n\xA0kl.n.
-0 0 Kop\xA9ivnice n\xA0kl.n\xA0\x64ra\x91\xA1
-0 0 Sedlnice kol. 1-6
-0 0 Sedlnice-Barto\xA8ovice
-0 0 Ova hl.n. Sc101,102
-0 0 V\x98h. Dluhonice
 0 0  
 0 0 Linka
 0 0 sm\x88r
@@ -215,6 +209,7 @@
 121 121 H\xA0j ve Slezsku
 122 122 Jile\xA8ovice
 123 123 Lhota u Opavy
+124 124 Vlak bude nahrazen autobusovou dopravou v \xA3seku Hav\xA1\xA9ov - \x80\x65sk\x98 T\x88\xA8\xA1n (Czeski Cieszyn)
 124 124 Hav\xA1\xA9ov
 125 125 \x9B\x65nov
 126 126 Drahotu\xA8\x65
@@ -274,6 +269,7 @@
 180 180 Z\xA0\x62\xA9\x65h na Morav\x88
 181 181 Petrovice u Karvin\x82
 182 182 Z\xA0vada
+183 183 
 183 183 \x80\x65sk\x98 T\x88\xA8\xA1n (Czeski Cieszyn)
 184 184 Cieszyn
 185 185 Hav\xA1\xA9ov st\xA9\x65\x64
