@@ -114,6 +114,7 @@
 95 95 
 96 96 
 97 97 
+98 98 
 98 98 Ex1
 98 98 R12
 98 98 R13
@@ -219,6 +220,7 @@
 130 130 Hladk\x82 \x92ivotice
 131 131 N\xA0vs\xA1 (Nawsie)
 132 132 Bocanovice (Boconowice)
+133 133 
 133 133 Jistebn\xA1k
 134 134 Karvin\xA0 hl.n.
 135 135 Karvin\xA0-Darkov
@@ -245,6 +247,8 @@
 156 156 Ostrava st\xA9\x65\x64
 157 157 Ostrava-Kun\x87ice
 158 158 Ostrava-Bartovice
+159 159 V\xA0\x91\x65n\xA1 cestuj\xA1\x63\xA1, z d\x96vodu v\x98luky na trati tento vlak kon\x87\xA1 j\xA1zdu ve stanici Ostrava-Svinov. Mezi stanicemi Ostrava-Svinov a Stud\x82nka a do stanice Jistebn\xA1k vyu\x91ijte linku R8 spole\x87nosti RegioJet.
+159 159 
 159 159 Ostrava-Svinov
 160 160 Ostrava-T\xA9\x65\x62ovice
 161 161 Polanka nad Odrou
@@ -253,10 +257,19 @@
 164 164 Osek nad Be\x87vou
 165 165 Prosenice
 166 166 P\xA9\x65rov
+167 167 Mo\xA8nov,Ostrava Airport - NENASTUPOVAT
+167 167 Mo\xA8nov,Ostrava Airport - MANIPULA\x80N\x8B J\x8BZDA
 167 167 Mo\xA8nov,Ostrava Airport
 168 168 Sedlnice
 169 169 Chot\x88\x62uz
+170 170 
+170 170 V\xA0\x91\x65n\xA1 cestuj\xA1\x63\xA1, z d\x96vodu v\x98luky na trati tento vlak kon\x87\xA1 j\xA1zdu ve stanici Stud\x82nka. Mezi stanicemi Stud\x82nka a Ostrava-Svinov a do stanice Jistebn\xA1k vyu\x91ijte linku R8 spole\x87nosti RegioJet.
+170 170 
+170 170 Stud\x82nka - NENASTUPOVAT
+170 170 Stud\x82nka - MANIPULA\x80N\x8B J\x8BZDA
 170 170 Stud\x82nka
+171 171 Suchdol nad Odrou - NENASTUPOVAT
+171 171 Suchdol nad Odrou - MANIPULA\x80N\x8B J\x8BZDA
 171 171 Suchdol nad Odrou
 172 172 Jesen\xA1k nad Odrou
 173 173 \x9Bt\xA1tina
