@@ -5690,16 +5690,16 @@ Jr29647:      BAZE 10:18
               JIZRAD  Z,  140, (T/T)     0:00,  10:18    ;Mosnov
 
 Jr3442:       BAZE 03:57
-              JIZRAD  Z,   80, (T/T)     0:00,  03:57    ;Ostrava-Svinov
-              JIZRAD  P,   80,          03:59*, 03:59*   ;
-              JIZRAD  P,   80, (T/T)    04:02*, 04:02*   ;Dehylov
-              JIZRAD  P,   80,          04:04*, 04:04*   ;
-              JIZRAD  Z,   80, (T/T)    04:07,  04:08    ;Haj vS
-              JIZRAD  P,   80,          04:10*, 04:10*   ;
-              JIZRAD  P,   80,          04:11*, 04:11*   ;
-              JIZRAD  Z,   80, (T/T)    04:13,  04:13*   ;Stitina
-              JIZRAD  P,   80,          04:16*, 04:16*   ;
-              JIZRAD  Z,   80, (T/T)    04:20,   0:00    ;Opava vychod
+              JIZRAD  Z,  100, (T/T)     0:00,  03:57    ;Ostrava-Svinov
+              JIZRAD  P,  100,          03:59*, 03:59*   ;
+              JIZRAD  P,  100, (T/T)    04:02*, 04:02*   ;Dehylov
+              JIZRAD  P,  100,          04:04*, 04:04*   ;
+              JIZRAD  Z,  100, (T/T)    04:07,  04:08    ;Haj vS
+              JIZRAD  P,  100,          04:10*, 04:10*   ;
+              JIZRAD  P,  100,          04:11*, 04:11*   ;
+              JIZRAD  Z,  100, (T/T)    04:13,  04:13*   ;Stitina
+              JIZRAD  P,  100,          04:16*, 04:16*   ;
+              JIZRAD  Z,  100, (T/T)    04:20,   0:00    ;Opava vychod
 
 Jr3329:       BAZE 05:33
               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov

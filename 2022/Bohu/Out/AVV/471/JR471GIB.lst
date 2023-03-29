@@ -1,12 +1,12 @@
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 1
 
 
 0000  0A 00 16 19                       Zahlavi:	<verze prekladace>
-0004     20 23 03 22                    		<datum prekladu>
+0004     20 23 03 29                    		<datum prekladu>
 0008     43 44 6F 6C 63 56 4D 31        		<drzitel licence>
-0010     7AC4 86A101FF 602A             		<kontrolni udaje>
+0010     7AC4 05A10FD9 8505             		<kontrolni udaje>
 
 0018  0B FA 221211 231209               Obsah:        PLATI 250, 11/12/2022, 9/12/2023
 0020  001601 05 00 FF 0900                            VLAK     1601, 05:00, Tr1601
@@ -59,7 +59,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 1
 0198  002814 0A 5A FF 0A80                            VLAK     2814, 10:45, Tr2802
 01A0  002815 0B 30 FF 0A8E                            VLAK     2815, 11:24, Tr2805
 01A8  002816 0B 5A FF 0A80                            VLAK     2816, 11:45, Tr2802
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 2
 
@@ -119,7 +119,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 2
 0350  002923 05 44 FF 0B6D                            VLAK     2923, 05:34, Tr2923
 0358  002924 06 0C FF 0B76                            VLAK     2924, 06:06, Tr2924
 0360  002925 06 44 FF 0B7F                            VLAK     2925, 06:34, Tr2925
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 3
 
@@ -179,7 +179,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 3
 0508  003071 0D 1E FF 0CB1                            VLAK     3071, 13:15, Tr3071
 0510  003072 08 3C FF 0CBA                            VLAK     3072, 08:30, Tr3072
 0518  003073 0D 5C FF 0CC7                            VLAK     3073, 13:46, Tr3073
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 4
 
@@ -239,7 +239,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 4
 06C0  003400 04 28 FF 0E2B                            VLAK     3400, 04:20, Tr3400
 06C8  003401 04 3A FF 0E34                            VLAK     3401, 04:29, Tr3401
 06D0  003402 04 66 FF 0E39                            VLAK     3402, 04:51, Tr3402
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 5
 
@@ -299,7 +299,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 5
 0878  022964309 10 FF 0EB4                            VLAK    29643, 09:08, Tr29643
 0880  022964410 42 FF 0EB9                            VLAK    29644, 16:33, Tr29644
 0888  022964509 6A FF 0EBE                            VLAK    29645, 09:53, Tr29645
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 6
 
@@ -359,7 +359,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 6
 098C  20 1F 0F80                                      TRASA 32,31, Jr1609b
 0990  20 0E 0FA0                                      TRASA 32,14, Jr1609c
 0994  00                                              TRASA
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 7
 
@@ -419,7 +419,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 7
 0A3E  20 16 1A1A                        Tr1629:       TRASA 32,22, Jr1629
 0A42  1B 0E 1A52                                      TRASA 27,14, Jr1629a
 0A46  20 1F 1AC0                                      TRASA 32,31, Jr1629b
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 8
 
@@ -479,7 +479,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 8
 0ADE  1B 0E 252C                                      TRASA 27,14, Jr2864a
 0AE2  00                                              TRASA
 0AE3  1B 13 2599                        Tr2865:       TRASA 27,19, Jr2865
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 9
 
@@ -539,7 +539,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 9
 0B7E  00                                              TRASA
 0B7F  1B 0E 31FF                        Tr2925:       TRASA 27,14, Jr2925
 0B83  20 02 326D                                      TRASA 32, 2, Jr2925a
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 10
 
@@ -599,7 +599,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 10
 0C1E  00                                              TRASA
 0C1F  20 07 40F5                        Tr3000:       TRASA 32, 7, Jr3000
 0C23  1B 0B 410F                                      TRASA 27,11, Jr3000a
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 11
 
@@ -659,7 +659,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 11
 0CC7  1B 16 4A6D                        Tr3073:       TRASA 27,22, Jr3073
 0CCB  1B 10 4A81                                      TRASA 27,16, Jr3073a
 0CCF  00                                              TRASA
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 12
 
@@ -719,7 +719,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 12
 0D6D  1B 0D 53B7                        Tr3096:       TRASA 27,13, Jr3096
 0D71  1B 15 5425                                      TRASA 27,21, Jr3096a
 0D75  00                                              TRASA
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 13
 
@@ -779,7 +779,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 13
 0E07  00                                              TRASA
 0E08  1B 0D 5FAC                        Tr3322:       TRASA 27,13, Jr3322
 0E0C  00                                              TRASA
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 14
 
@@ -839,7 +839,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 14
 0E95  00                                              TRASA
 0E96  1B 0E 6854                        Tr28903:      TRASA 27,14, Jr28903
 0E9A  00                                              TRASA
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 15
 
@@ -899,7 +899,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 15
 0F78  1C 4A 13 00 13 00                 Jr1601b:      JIZRAD  P,  140, (6/6)     0:00,   0:00    ;Bohumin
 0F7E  1C 00 13 00 13 00                               JIZRAD  P,  140,           0:00,   0:00    ;
 0F84  1C 28 13 00 13 00                               JIZRAD  P,  140, (10/T)    0:00,   0:00    ;Detmarovice
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 16
 
@@ -959,7 +959,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 16
 10B6  1C 00 00 65 00 65                               JIZRAD  P,  140,          04:53*, 04:53*   ;Ostrava ban.n.
 10BC  9C 00 00 60 00 62                               JIZRAD  Z,  140,          04:51,  04:52    ;
 10C2  9C 40 00 5B 00 5D                               JIZRAD  Z,  140, (T/T)    04:48*, 04:49*   ;Ostrava stred
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 17
 
@@ -1019,7 +1019,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 17
 11F4  9C 4A 01 34 12 5A                               JIZRAD  Z,  140, (6/6)    06:41,   0:00    ;Cesky Tesin
                                         
 11FA                                    Jr1604:       BAZE 05:12
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 18
 
@@ -1079,7 +1079,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 18
 1326  1C 00 00 2F 00 2F                               JIZRAD  P,  140,          06:38*, 06:38*   ;
 132C  1C 40 00 29 00 29                               JIZRAD  P,  140, (T/T)    06:35*, 06:35*   ;Dehylov
 1332  1C 00 00 25 00 25                               JIZRAD  P,  140,          06:33*, 06:33*   ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 19
 
@@ -1139,7 +1139,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 19
 1464  1C 00 11 6E 11 6E                               JIZRAD  P,  140,           0:00,   0:00    ;
 146A  1C 41 11 6E 11 6E                               JIZRAD  P,  140, (T/4)     0:00,   0:00    ;Louky nO
 1470  9C 00 00 19 00 1A                               JIZRAD  Z,  140,          06:17*, 06:18    ;Odb Chotebuz
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 20
 
@@ -1199,7 +1199,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 20
 15AE  1C 40 01 1B 01 1B                               JIZRAD  P,  140, (T/T)    07:18*, 07:18*   ;Dehylov
 15B4  1C 00 01 1F 01 1F                               JIZRAD  P,  140,          07:20*, 07:20*   ;
 15BA  9C 40 01 24 01 26                               JIZRAD  Z,  140, (T/T)    07:23,  07:24    ;Haj vS
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 21
 
@@ -1259,7 +1259,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 21
 16EC  1C 00 10 62 10 62                               JIZRAD  P,  140,           0:00,   0:00    ;
 16F2  1C 40 10 62 10 62                               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Albrechtice uCT
 16F8  1C 00 10 62 10 62                               JIZRAD  P,  140,           0:00,   0:00    ;Odb Chotebuz
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 22
 
@@ -1319,7 +1319,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 22
 182A  1C 00 11 18 11 18                               JIZRAD  P,  140,           0:00,   0:00    ;
 1830  1C 40 11 18 11 18                               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Studenka
 1836  1C 00 11 18 11 18                               JIZRAD  P,  140,           0:00,   0:00    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 23
 
@@ -1379,7 +1379,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 23
 1968  9C 00 01 09 01 09                               JIZRAD  Z,  140,          09:28*, 09:28*   ;
 196E  9C 00 01 0D 01 0E                               JIZRAD  Z,  140,          09:30*, 09:31    ;
 1974  9C 40 01 13 01 15                               JIZRAD  Z,  140, (T/T)    09:33*, 09:34*   ;Albrechtice uCT
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 24
 
@@ -1439,7 +1439,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 24
 1AA6  9C 40 01 32 0F 62                               JIZRAD  Z,  140, (T/T)    09:36,   0:00    ;Opava vychod
                                         
 1AAC                                    Jr1611:       BAZE 10:03
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 25
 
@@ -1499,7 +1499,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 25
 1BCC  1C 00 00 07 00 07                               JIZRAD  P,  140,          10:27*, 10:27*   ;
 1BD2  9C 40 0D 48 00 00                               JIZRAD  Z,  140, (T/T)     0:00,  10:24    ;Opava vychod
 1BD8  1C 40 0D 48 0D 48                 Jr1613a:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 26
 
@@ -1559,7 +1559,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 26
 1D0A  9C 00 00 1E 00 1E                               JIZRAD  Z,  140,          12:18,  12:18    ;
 1D10  9C 40 00 26 00 28                               JIZRAD  Z,  140, (T/T)    12:22,  12:23    ;Havirov
 1D16  9C 00 00 2E 00 2F                               JIZRAD  Z,  140,          12:26,  12:26*   ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 27
 
@@ -1619,7 +1619,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 27
 1E30  1C 00 00 2A 00 2A                               JIZRAD  P,  140,          14:45,  14:45    ;
 1E36  1C 40 00 23 00 23                               JIZRAD  P,  140, (T/T)    14:41*, 14:41*   ;Dehylov
 1E3C  1C 00 00 1E 00 1E                               JIZRAD  P,  140,          14:39,  14:39    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 28
 
@@ -1679,7 +1679,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 28
 1F7A  9C 00 01 1E 01 1F                               JIZRAD  Z,  140,          15:39,  15:39*   ;Odb Chotebuz
 1F80  9C 40 01 28 01 2C                               JIZRAD  Z,  140, (T/T)    15:44,  15:46    ;Cesky Tesin
 1F86  1C 00 01 31 01 31                               JIZRAD  P,  140,          15:48*, 15:48*   ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 29
 
@@ -1739,7 +1739,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 29
 20B8  1C 40 01 13 01 13                               JIZRAD  P,  140, (T/T)    15:18*, 15:18*   ;Dehylov
 20BE  1C 00 01 17 01 17                               JIZRAD  P,  140,          15:20*, 15:20*   ;
 20C4  9C 40 01 1C 01 1E                               JIZRAD  Z,  140, (T/T)    15:23,  15:24    ;Haj vS
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 30
 
@@ -1799,7 +1799,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 30
 21EA  9C 40 00 72 00 74                               JIZRAD  Z,  140, (T/T)    15:45,  15:46    ;Ostrava-Kuncice
 21F0  1C 45 00 6A 00 6A                               JIZRAD  P,  140, (4/4)    15:41,  15:41    ;Ostrava-Bartovice
 21F6  1C 00 00 66 00 66                               JIZRAD  P,  140,          15:39,  15:39    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 31
 
@@ -1859,7 +1859,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 31
 2328  1C 00 00 56 00 56                               JIZRAD  P,  140,          16:48,  16:48    ;
 232E  9C 10 00 50 00 52                               JIZRAD  Z,  140, (5/T)    16:45,  16:46    ;Ostrava-Kuncice
 2334  1C 40 07 6E 07 6E                 Jr1626c:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 32
 
@@ -1919,7 +1919,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 32
 245A  9C 10 00 30 00 3A                               JIZRAD  Z,  140, (5/T)    18:48,  18:53    ;Ostrava-Svinov
 2460  1C 00 00 2A 00 2A                               JIZRAD  P,  140,          18:45,  18:45    ;
 2466  1C 40 00 23 00 23                               JIZRAD  P,  140, (T/T)    18:41*, 18:41*   ;Dehylov
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 33
 
@@ -1979,7 +1979,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 33
 2598  9C 40 00 44 00 46                               JIZRAD  Z,  140, (T/T)    18:45,  18:46    ;Ostrava-Kuncice
 259E  1C 45 00 3C 00 3C                               JIZRAD  P,  140, (4/4)    18:41,  18:41    ;Ostrava-Bartovice
 25A4  1C 00 00 38 00 38                               JIZRAD  P,  140,          18:39,  18:39    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 34
 
@@ -2039,7 +2039,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 34
 26D6  18 00 03 72 03 72                               JIZRAD  P,  120,           0:00,   0:00    ;
 26DC  18 40 03 72 03 72                               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Ostrava-Vitkovice
 26E2  98 12 00 10 00 12                               JIZRAD  Z,  120, (5/5)    20:11,  20:12    ;Ostrava-Kuncice
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 35
 
@@ -2099,7 +2099,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 35
 2808  98 00 00 45 00 46                               JIZRAD  Z,  120,          04:28*, 04:29    ;
 280E  98 40 00 3E 00 3F                               JIZRAD  Z,  120, (T/T)    04:25,  04:25*   ;Albrechtice uCT
 2814  98 00 00 32 00 33                               JIZRAD  Z,  120,          04:19,  04:19*   ;Odb Chotebuz
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 36
 
@@ -2159,7 +2159,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 36
                                         
 293A                                    Jr2803:       BAZE 05:09
 293A  9C 40 12 66 00 00                               JIZRAD  Z,  140, (T/T)     0:00,  05:09    ;Ostrava-Svinov
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 37
 
@@ -2219,7 +2219,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 37
 2A60  1C 00 11 1C 11 1C                               JIZRAD  P,  140,           0:00,   0:00    ;
 2A66  9C 40 00 50 00 52                               JIZRAD  Z,  140, (T/T)    07:26,  07:27    ;Ostrava-Vitkovice
 2A6C  9C 40 00 44 00 48                               JIZRAD  Z,  140, (T/T)    07:20,  07:22    ;Ostrava-Kuncice
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 38
 
@@ -2279,7 +2279,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 38
 2B92  98 00 00 2F 00 2F                               JIZRAD  Z,  120,          21:47*, 21:47*   ;
 2B98  98 40 00 37 00 39                               JIZRAD  Z,  120, (T/T)    21:51*, 21:52*   ;Havirov
 2B9E  98 00 00 3F 00 40                               JIZRAD  Z,  120,          21:55*, 21:56    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 39
 
@@ -2339,7 +2339,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 39
 2CC4  98 00 00 1C 00 1D                               JIZRAD  Z,  120,          22:59,  22:59*   ;
 2CCA  98 40 00 15 00 16                               JIZRAD  Z,  120, (T/T)    22:55*, 22:56    ;Albrechtice uCT
 2CD0  98 00 00 09 00 0A                               JIZRAD  Z,  120,          22:49*, 22:50    ;Odb Chotebuz
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 40
 
@@ -2399,7 +2399,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 40
                                         
 2DF6                                    Jr2851:       BAZE 23:24
 2DF6  9C 40 00 48 00 00                               JIZRAD  Z,  140, (T/T)     0:00,  23:24    ;Ostrava-Svinov
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 41
 
@@ -2459,7 +2459,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 41
 2F10  10 40 12 40 12 40                               JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Hranice nM
 2F16  10 00 12 40 12 40                               JIZRAD  P,   80,           0:00,   0:00    ;
 2F1C  10 40 12 40 12 40                               JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Polom
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 42
 
@@ -2519,7 +2519,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 42
 304E  18 40 10 0E 10 0E                               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Studenka
 3054  18 00 10 0E 10 0E                               JIZRAD  P,  120,           0:00,   0:00    ;
 305A  18 40 10 0E 10 0E                               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Polanka
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 43
 
@@ -2579,7 +2579,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 43
 3180  00 00 0F 12 0F 12                               JIZRAD  P,    0,           0:00,   0:00    ;
 3186  00 40 0F 12 0F 12                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Albrechtice uCT
 318C  00 00 0F 12 0F 12                               JIZRAD  P,    0,           0:00,   0:00    ;Odb Chotebuz
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 44
 
@@ -2639,7 +2639,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 44
 32A6  1C 00 00 06 00 06                               JIZRAD  P,  140,          13:24,  13:24    ;
 32AC  9C 4A 0A 4E 00 00                               JIZRAD  Z,  140, (6/6)     0:00,  13:21    ;Bohumin
 32B2  9C 40 00 1A 00 40                 Jr2869a:      JIZRAD  Z,  140, (T/T)    13:34,  13:53    ;Ostrava-Svinov
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 45
 
@@ -2699,7 +2699,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 45
 33CC  00 45 06 12 06 12                               JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Ostrava-Bartovice
 33D2  00 00 06 12 06 12                               JIZRAD  P,    0,           0:00,   0:00    ;
 33D8  00 40 06 12 06 12                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Havirov
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 46
 
@@ -2759,7 +2759,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 46
 350A  1C 40 05 12 05 12                               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Studenka
 3510  1C 00 05 12 05 12                               JIZRAD  P,  140,           0:00,   0:00    ;
 3516  1C 40 05 12 05 12                               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polanka
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 47
 
@@ -2819,7 +2819,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 47
 3630  1C 00 00 09 00 09                               JIZRAD  P,  140,          00:20*, 00:20*   ;
 3636  1C 4F 00 07 00 07                               JIZRAD  P,  140, (8/8)    00:19*, 00:19*   ;Bystrice
 363C  1C 00 00 04 00 04                               JIZRAD  P,  140,          00:18,  00:18    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 48
 
@@ -2879,7 +2879,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 48
 376E  9C 00 00 3F 00 40                               JIZRAD  Z,  140,          02:41*, 02:42    ;Odb Chotebuz
 3774  9C 40 00 48 00 4A                               JIZRAD  Z,  140, (T/T)    02:46,  02:47    ;Cesky Tesin
 377A  1C 00 00 4F 00 4F                               JIZRAD  P,  140,          02:49*, 02:49*   ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 49
 
@@ -2939,7 +2939,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 49
 38A0  00 40 02 32 02 32                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
 38A6  00 40 02 32 02 32                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
 38AC  00 40 02 32 02 32                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 50
 
@@ -2999,7 +2999,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 50
 39DE  9C 4F 00 10 00 14                               JIZRAD  Z,  140, (8/8)    04:11,  04:13    ;Navsi
 39E4  9C 00 00 09 00 0A                               JIZRAD  Z,  140,          04:07*, 04:08    ;
 39EA  9C 40 13 72 00 00                               JIZRAD  Z,  140, (T/T)     0:00,  04:03    ;Mosty uJ
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 51
 
@@ -3059,7 +3059,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 51
 3B10  9C 00 00 22 00 23                               JIZRAD  Z,  140,          05:32,  05:32*   ;
 3B16  9C 40 00 1C 00 1E                               JIZRAD  Z,  140, (T/T)    05:29,  05:30    ;Trinec
 3B1C  9C 00 00 16 00 17                               JIZRAD  Z,  140,          05:26,  05:26*   ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 52
 
@@ -3119,7 +3119,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 52
 3C4E  9C 44 00 49 00 49                               JIZRAD  Z,  140, (4/T)    06:10*, 06:10*   ;Louky nO
 3C54  9C 00 00 4D 00 4E                               JIZRAD  Z,  140,          06:12*, 06:13    ;Odb Chotebuz
 3C5A  9C 40 00 55 00 58                               JIZRAD  Z,  140, (T/T)    06:16*, 06:18    ;Cesky Tesin
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 53
 
@@ -3179,7 +3179,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 53
 3D80  00 40 11 34 11 34                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
 3D86  00 40 11 34 11 34                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
 3D8C  00 40 11 34 11 34                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 54
 
@@ -3239,7 +3239,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 54
 3EBE  9C 00 00 20 00 21                               JIZRAD  Z,  140,          07:22,  07:22*   ;
 3EC4  9C 4F 00 10 00 1B                               JIZRAD  Z,  140, (8/8)    07:14,  07:19*   ;Navsi
 3ECA  9C 00 00 09 00 0A                               JIZRAD  Z,  140,          07:10*, 07:11    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 55
 
@@ -3299,7 +3299,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 55
 3FFC  9C 40 00 67 00 69                               JIZRAD  Z,  140, (T/T)    08:25*, 08:26*   ;Trinec
 4002  9C 00 00 6E 00 6F                               JIZRAD  Z,  140,          08:29,  08:29*   ;
 4008  9C 00 00 73 00 74                               JIZRAD  Z,  140,          08:31*, 08:32    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 56
 
@@ -3359,7 +3359,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 56
 412E  1C 00 0E 6C 0E 6C                               JIZRAD  P,  140,           0:00,   0:00    ;
 4134  9C 41 00 56 00 56                               JIZRAD  Z,  140, (T/4)    09:49,  09:49    ;Louky nO
 413A  9C 00 00 51 00 52                               JIZRAD  Z,  140,          09:46*, 09:47    ;Odb Chotebuz
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 57
 
@@ -3419,7 +3419,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 57
 426C  9C 00 00 24 00 25                               JIZRAD  Z,  140,          09:52,  09:52*   ;
 4272  9C 28 00 2B 00 2C                               JIZRAD  Z,  140, (10/T)   09:55*, 09:56    ;Detmarovice
 4278  1C 00 00 2F 00 2F                               JIZRAD  P,  140,          09:57*, 09:57*   ;odb Koukolna
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 58
 
@@ -3479,7 +3479,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 58
 43AA  9C 40 01 1A 01 1C                               JIZRAD  Z,  140, (T/T)    14:19,  14:20    ;Ostrava hln
 43B0  1C 00 01 13 01 13                               JIZRAD  P,  140,          14:15*, 14:15*   ;
 43B6  9C 4A 01 0C 01 0E                               JIZRAD  Z,  140, (6/6)    14:12,  14:13    ;Bohumin
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 59
 
@@ -3539,7 +3539,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 59
 44DC  00 00 09 62 09 62                               JIZRAD  P,    0,           0:00,   0:00    ;
 44E2  00 40 09 62 09 62                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Studenka
 44E8  00 00 09 62 09 62                               JIZRAD  P,    0,           0:00,   0:00    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 60
 
@@ -3599,7 +3599,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 60
 461A  9C 44 00 49 00 49                               JIZRAD  Z,  140, (4/T)    15:10*, 15:10*   ;Louky nO
 4620  9C 00 00 4D 00 4E                               JIZRAD  Z,  140,          15:12*, 15:13    ;Odb Chotebuz
 4626  9C 40 00 55 00 5A                               JIZRAD  Z,  140, (T/T)    15:16*, 15:19    ;Cesky Tesin
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 61
 
@@ -3659,7 +3659,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 61
 474C  00 40 06 34 06 34                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
 4752  00 40 06 34 06 34                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
 4758  00 40 06 34 06 34                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 62
 
@@ -3719,7 +3719,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 62
 488A  9C 00 00 17 00 18                               JIZRAD  Z,  140,          21:19*, 21:20    ;
 4890  9C 4F 00 10 00 12                               JIZRAD  Z,  140, (8/8)    21:16,  21:17    ;Navsi
 4896  9C 00 00 09 00 0A                               JIZRAD  Z,  140,          21:12*, 21:13    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 63
 
@@ -3779,7 +3779,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 63
 49C8  9C 40 00 65 00 67                               JIZRAD  Z,  140, (T/T)    21:25*, 21:26*   ;Trinec
 49CE  9C 00 00 6C 00 6D                               JIZRAD  Z,  140,          21:29,  21:29*   ;
 49D4  9C 00 00 71 00 72                               JIZRAD  Z,  140,          21:31*, 21:32    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 64
 
@@ -3839,7 +3839,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 64
 4AFA  18 00 14 64 14 64                               JIZRAD  P,  120,           0:00,   0:00    ;
 4B00  18 44 00 21 00 21                               JIZRAD  P,  120, (4/T)    03:26*, 03:26*   ;Louky nO
 4B06  18 00 00 23 00 23                               JIZRAD  P,  120,          03:27*, 03:27*   ;Odb Chotebuz
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 65
 
@@ -3899,7 +3899,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 65
 4C2C  9C 12 00 0E 14 1C                               JIZRAD  Z,  140, (5/5)    03:53,   0:00    ;Mosty uJ
                                         
 4C32                                    Jr2995:       BAZE 03:48
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 66
 
@@ -3959,7 +3959,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 66
 4D52  20 40 10 3A 10 3A                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hranice nM
 4D58  20 00 10 3A 10 3A                               JIZRAD  P,  160,           0:00,   0:00    ;
 4D5E  20 40 10 3A 10 3A                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polom
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 67
 
@@ -4019,7 +4019,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 67
 4E84  20 00 11 3A 11 3A                               JIZRAD  P,  160,           0:00,   0:00    ;
 4E8A  A0 40 00 13 00 16                               JIZRAD  Z,  160, (T/T)    06:40*, 06:42    ;Studenka
 4E90  A0 00 00 1F 00 20                               JIZRAD  Z,  160,          06:46*, 06:47    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 68
 
@@ -4079,7 +4079,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 68
 4FC2  20 00 00 25 00 25                               JIZRAD  P,  160,          09:58*, 09:58*   ;Bartosovice
 4FC8  A0 00 00 27 00 27                               JIZRAD  Z,  160,          09:59*, 09:59*   ;
 4FCE  A0 40 00 2E 0E 28                               JIZRAD  Z,  160, (T/T)    10:03,   0:00    ;Mosnov
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 69
 
@@ -4139,7 +4139,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 69
 50E8  A0 1A 00 12 00 14                               JIZRAD  Z,  160, (6/5)    14:41,  14:42    ;Studenka
 50EE  20 00 00 08 00 08                               JIZRAD  P,  160,          14:36,  14:36    ;Bartosovice
 50F4  A0 00 00 05 00 05                               JIZRAD  Z,  160,          14:34*, 14:34*   ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 70
 
@@ -4199,7 +4199,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 70
 5226  20 40 07 38 07 38                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prosenice
 522C  20 40 07 38 07 38                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
 5232  20 40 07 38 07 38                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Lipnik nB
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 71
 
@@ -4259,7 +4259,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 71
 5358  20 00 03 12 03 12                               JIZRAD  P,  160,           0:00,   0:00    ;
 535E  20 40 03 12 03 12                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polom
 5364  20 00 03 12 03 12                               JIZRAD  P,  160,           0:00,   0:00    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 72
 
@@ -4319,7 +4319,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 72
 548A  A0 4A 00 19 00 1B                               JIZRAD  Z,  160, (6/6)    11:23*, 11:24*   ;Studenka
 5490  A0 00 00 0E 00 0F                               JIZRAD  Z,  160,          11:18,  11:18*   ;
 5496  A0 40 00 07 00 07                               JIZRAD  Z,  160, (T/T)    11:14*, 11:14*   ;Polanka
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 73
 
@@ -4379,7 +4379,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 73
 55BC  9C 40 00 0C 00 10                               JIZRAD  Z,  140, (T/T)    08:23,  08:25    ;Ostrava hln
 55C2  1C 00 00 05 00 05                               JIZRAD  P,  140,          08:19*, 08:19*   ;
 55C8  9C 4A 0F 56 00 00                               JIZRAD  Z,  140, (6/6)     0:00,  08:17    ;Bohumin
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 74
 
@@ -4439,7 +4439,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 74
 56EE  9C 4A 00 4E 00 58                               JIZRAD  Z,  140, (6/6)    09:09,  09:14    ;Studenka
 56F4  1C 00 00 46 00 46                               JIZRAD  P,  140,          09:05,  09:05    ;
 56FA  1C 40 00 42 00 42                               JIZRAD  P,  140, (T/T)    09:03,  09:03    ;Polanka
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 75
 
@@ -4499,7 +4499,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 75
 5820  00 40 0D 64 0D 64                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava hln
 5826  00 00 0D 64 0D 64                               JIZRAD  P,    0,           0:00,   0:00    ;
 582C  00 4A 0D 64 0D 64                               JIZRAD  P,    0, (6/6)     0:00,   0:00    ;Bohumin
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 76
 
@@ -4559,7 +4559,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 76
 5952  1C 00 00 20 00 20                               JIZRAD  P,  140,          10:58,  10:58    ;
 5958  9C 40 00 26 0D 24                               JIZRAD  Z,  140, (T/T)    11:01,   0:00    ;Mosnov
                                         
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 77
 
@@ -4619,7 +4619,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 77
 5A78  1C 40 0B 24 0B 24                               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prosenice
 5A7E  1C 40 0B 24 0B 24                               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;
 5A84  1C 40 0B 24 0B 24                               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Lipnik nB
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 78
 
@@ -4679,7 +4679,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 78
 5BAA  1C 00 0A 24 0A 24                               JIZRAD  P,  140,           0:00,   0:00    ;
 5BB0  1C 40 0A 24 0A 24                               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polom
 5BB6  1C 00 0A 24 0A 24                               JIZRAD  P,  140,           0:00,   0:00    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 79
 
@@ -4739,7 +4739,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 79
 5CDC  1C 4A 00 12 00 12                               JIZRAD  P,  140, (6/6)    14:21,  14:21    ;Studenka
 5CE2  1C 00 00 0A 00 0A                               JIZRAD  P,  140,          14:17,  14:17    ;
 5CE8  1C 40 00 06 00 06                               JIZRAD  P,  140, (T/T)    14:15,  14:15    ;Polanka
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 80
 
@@ -4799,7 +4799,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 80
 5E0E  1C 00 09 24 09 24                               JIZRAD  P,  140,           0:00,   0:00    ;
 5E14  1C 40 09 24 09 24                               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polom
 5E1A  1C 00 09 24 09 24                               JIZRAD  P,  140,           0:00,   0:00    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 81
 
@@ -4859,7 +4859,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 81
 5F40  9C 4A 00 26 00 3A                               JIZRAD  Z,  140, (6/6)    15:42,  15:52    ;Studenka
 5F46  1C 00 00 1C 00 1C                               JIZRAD  P,  140,          15:37,  15:37    ;
 5F4C  1C 40 00 18 00 18                               JIZRAD  P,  140, (T/T)    15:35,  15:35    ;Polanka
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 82
 
@@ -4919,7 +4919,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 82
 6072  00 40 07 26 07 26                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava hln
 6078  00 00 07 26 07 26                               JIZRAD  P,    0,           0:00,   0:00    ;
 607E  00 4A 07 26 07 26                               JIZRAD  P,    0, (6/6)     0:00,   0:00    ;Bohumin
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 83
 
@@ -4979,7 +4979,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 83
 61A4  1C 00 00 1C 00 1C                               JIZRAD  P,  140,          17:55,  17:55    ;
 61AA  9C 40 00 22 06 26                               JIZRAD  Z,  140, (T/T)    17:58,   0:00    ;Mosnov
                                         
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 84
 
@@ -5039,7 +5039,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 84
 62CA  A0 00 13 4A 00 00                               JIZRAD  Z,  160,           0:00,  04:23    ;Hranice nM
 62D0  A0 00 00 09 00 09                               JIZRAD  Z,  160,          04:27*, 04:27*   ;
 62D6  A0 40 00 0F 00 10                               JIZRAD  Z,  160, (T/T)    04:30*, 04:31    ;Polom
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 85
 
@@ -5099,7 +5099,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 85
 6408  00 00 12 4C 12 4C                               JIZRAD  P,    0,           0:00,   0:00    ;
 640E  00 40 12 4C 12 4C                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava hln
 6414  00 00 12 4C 12 4C                               JIZRAD  P,    0,           0:00,   0:00    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 86
 
@@ -5159,7 +5159,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 86
 653A  98 40 01 5C 02 14                               JIZRAD  Z,  120, (T/T)    05:59,  06:23    ;Suchdol nO
 6540  98 00 01 53 01 54                               JIZRAD  Z,  120,          05:54*, 05:55    ;
 6546  98 4A 01 48 01 4A                               JIZRAD  Z,  120, (6/6)    05:49,  05:50    ;Studenka
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 87
 
@@ -5219,7 +5219,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 87
 666C  20 00 00 24 00 24                               JIZRAD  P,  160,          06:23,  06:23    ;
 6672  A0 4A 00 1E 00 20                               JIZRAD  Z,  160, (6/6)    06:20,  06:21    ;Bohumin
                                         
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 88
 
@@ -5279,7 +5279,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 88
 679E  A0 40 00 0C 00 0E                               JIZRAD  Z,  160, (T/T)    07:46,  07:47    ;Ostrava hln
 67A4  20 00 00 04 00 04                               JIZRAD  P,  160,          07:42,  07:42    ;
 67AA  A0 4A 10 28 00 00                               JIZRAD  Z,  160, (6/6)     0:00,  07:40    ;Bohumin
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 89
 
@@ -5339,7 +5339,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 89
 68C4  A0 00 00 1E 00 1E                               JIZRAD  Z,  160,          11:35,  11:35    ;
 68CA  A0 40 00 26 0C 50                               JIZRAD  Z,  160, (T/T)    11:39,   0:00    ;Suchdol nO
 68D0  20 00 0C 50 0C 50                               JIZRAD  P,  160,           0:00,   0:00    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 90
 
@@ -5399,7 +5399,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 90
 69F6  9C 28 00 66 00 67                               JIZRAD  Z,  140, (10/T)   13:38,  13:38*   ;Detmarovice
 69FC  1C 00 0B 1A 0B 1A                               JIZRAD  P,  140,          0:00,    0:00    ;odb Koukolna
 6A02  9C 40 0B 1A 0B 1A                               JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Karvina hln
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 91
 
@@ -5459,7 +5459,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 91
 6B28  98 00 00 50 00 51                               JIZRAD  Z,  120,          14:00,  14:00*   ;
 6B2E  98 40 00 5A 00 5C                               JIZRAD  Z,  120, (T/T)    14:05,  14:06    ;Studenka
 6B34  98 00 00 66 00 67                               JIZRAD  Z,  120,          14:11,  14:11*   ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 92
 
@@ -5519,7 +5519,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 92
 6C5A  A0 4A 00 1E 00 20                               JIZRAD  Z,  160, (6/6)    14:20,  14:21    ;Bohumin
                                         
 6C60                                    Jr3319:       BAZE 16:20
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 93
 
@@ -5579,7 +5579,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 93
 6D80  18 00 05 50 05 50                               JIZRAD  P,  120,           0:00,   0:00    ;
 6D86  18 40 05 50 05 50                               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Studenka
 6D8C  18 00 05 50 05 50                               JIZRAD  P,  120,           0:00,   0:00    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 94
 
@@ -5639,7 +5639,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 94
 6EA6  20 40 05 50 05 50                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
 6EAC  20 40 05 50 05 50                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Lipnik nB
 6EB2  20 00 05 50 05 50                               JIZRAD  P,  160,           0:00,   0:00    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 95
 
@@ -5699,7 +5699,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 95
 6FD8  18 00 11 10 11 10                               JIZRAD  P,  120,           0:00,   0:00    ;
 6FDE  18 40 11 10 11 10                               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Ostrava hln
 6FE4  18 00 11 10 11 10                               JIZRAD  P,  120,           0:00,   0:00    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 96
 
@@ -5759,7 +5759,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 96
 70FE  18 40 13 50 13 50                               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Polom
 7104  18 00 13 50 13 50                               JIZRAD  P,  120,           0:00,   0:00    ;
 710A  18 40 13 50 13 50                               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Suchdol nO
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 97
 
@@ -5819,7 +5819,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 97
 7230  1C 00 00 34 00 34                               JIZRAD  P,  140,          05:17,  05:17    ;
 7236  1C 00 00 36 00 36                               JIZRAD  P,  140,          05:18,  05:18    ;
 723C  9C 40 00 3A 00 3D                               JIZRAD  Z,  140, (T/T)    05:20,  05:21*   ;Stitina
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 98
 
@@ -5879,7 +5879,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 98
 733E  98 10 00 40 10 24                               JIZRAD  Z,  120, (5/T)    08:14,   0:00    ;Ostrava-Svinov
 7344  98 00 00 39 00 3A                               JIZRAD  Z,  120,          08:10*, 08:11    ;
 734A  98 40 00 2F 00 31                               JIZRAD  Z,  120, (T/T)    08:05*, 08:06*   ;Dehylov
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 99
 
@@ -5939,7 +5939,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 99
 7458  98 40 00 10 00 17                               JIZRAD  Z,  120, (T/T)    19:51,  19:54*   ;Stitina
 745E  98 00 00 08 00 09                               JIZRAD  Z,  120,          19:47,  19:47*   ;
 7464  98 40 04 22 00 00                               JIZRAD  Z,  120, (T/T)     0:00,  19:43    ;Opava vychod
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 100
 
@@ -5999,7 +5999,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 100
 7572  18 00 01 1E 01 1E                               JIZRAD  P,  120,           0:00,   0:00    ;
 7578  18 40 01 1E 01 1E                               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Hranice nM
 757E  18 00 01 1E 01 1E                               JIZRAD  P,  120,           0:00,   0:00    ;
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 101
 
@@ -6059,7 +6059,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 101
 7698  1C 40 13 24 13 24                               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Hranice nM
 769E  1C 00 13 24 13 24                               JIZRAD  P,  140,           0:00,   0:00    ;
 76A4  1C 40 13 24 13 24                               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polom
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 102
 
@@ -6119,7 +6119,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 102
 77CA  98 4A 12 52 00 00                               JIZRAD  Z,  120, (6/6)     0:00,  05:19    ;Bohumin
                                         
 77D0                                    Jr28907:      BAZE 19:56
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 103
 
@@ -6179,7 +6179,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 103
 78E4  20 00 00 0A 00 0A                               JIZRAD  P,  160,          15:29,  15:29    ;
 78EA  A0 40 00 10 08 48                               JIZRAD  Z,  160, (T/T)    15:32,   0:00    ;Mosnov
                                         
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 104
 
@@ -6223,23 +6223,23 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 104
 7962  9C 40 0D 54 00 00                               JIZRAD  Z,  140, (T/T)     0:00,  10:18    ;Mosnov
                                         
 7968                                    Jr3442:       BAZE 03:57
-7968  90 40 14 06 00 00                               JIZRAD  Z,   80, (T/T)     0:00,  03:57    ;Ostrava-Svinov
-796E  10 00 00 05 00 05                               JIZRAD  P,   80,          03:59*, 03:59*   ;
-7974  10 40 00 0B 00 0B                               JIZRAD  P,   80, (T/T)    04:02*, 04:02*   ;Dehylov
-797A  10 00 00 0F 00 0F                               JIZRAD  P,   80,          04:04*, 04:04*   ;
-7980  90 40 00 14 00 16                               JIZRAD  Z,   80, (T/T)    04:07,  04:08    ;Haj vS
-7986  10 00 00 1B 00 1B                               JIZRAD  P,   80,          04:10*, 04:10*   ;
-798C  10 00 00 1D 00 1D                               JIZRAD  P,   80,          04:11*, 04:11*   ;
-7992  90 40 00 20 00 21                               JIZRAD  Z,   80, (T/T)    04:13,  04:13*   ;Stitina
-7998  10 00 00 27 00 27                               JIZRAD  P,   80,          04:16*, 04:16*   ;
-799E  90 40 00 2E 14 06                               JIZRAD  Z,   80, (T/T)    04:20,   0:00    ;Opava vychod
+7968  94 40 14 06 00 00                               JIZRAD  Z,  100, (T/T)     0:00,  03:57    ;Ostrava-Svinov
+796E  14 00 00 05 00 05                               JIZRAD  P,  100,          03:59*, 03:59*   ;
+7974  14 40 00 0B 00 0B                               JIZRAD  P,  100, (T/T)    04:02*, 04:02*   ;Dehylov
+797A  14 00 00 0F 00 0F                               JIZRAD  P,  100,          04:04*, 04:04*   ;
+7980  94 40 00 14 00 16                               JIZRAD  Z,  100, (T/T)    04:07,  04:08    ;Haj vS
+7986  14 00 00 1B 00 1B                               JIZRAD  P,  100,          04:10*, 04:10*   ;
+798C  14 00 00 1D 00 1D                               JIZRAD  P,  100,          04:11*, 04:11*   ;
+7992  94 40 00 20 00 21                               JIZRAD  Z,  100, (T/T)    04:13,  04:13*   ;Stitina
+7998  14 00 00 27 00 27                               JIZRAD  P,  100,          04:16*, 04:16*   ;
+799E  94 40 00 2E 14 06                               JIZRAD  Z,  100, (T/T)    04:20,   0:00    ;Opava vychod
                                         
 79A4                                    Jr3329:       BAZE 05:33
 79A4  00 40 12 36 12 36                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
 79AA  00 40 12 36 12 36                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
 79B0  00 40 12 36 12 36                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
 79B6  00 40 12 36 12 36                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 105
 
@@ -6293,7 +6293,7 @@ D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Str 105
                                         
                                         
                                         ;vse vypsano
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Nav 1
 
@@ -6353,7 +6353,7 @@ Jr1619      1D3A
 Jr1619a     1D5E   
 Jr1620      1DB2   
 Jr1620a     1E06   
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Nav 2
 
@@ -6413,7 +6413,7 @@ Jr2850      2DA2
 Jr2851      2DF6   
 Jr2860      2E4A   
 Jr2861      2E9E   
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Nav 3
 
@@ -6473,7 +6473,7 @@ Jr2927      3F48
 Jr2927a     3FBA   
 Jr2928      402C   
 Jr2928a     409E   
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Nav 4
 
@@ -6533,7 +6533,7 @@ Jr3055b     5172
 Jr3055c     51E4   
 Jr3056      5202   
 Jr3056a     5220   
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Nav 5
 
@@ -6593,7 +6593,7 @@ Jr3093      5F88
 Jr3093a     5FA0   
 Jr3094      6012   
 Jr3094a     6084   
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Nav 6
 
@@ -6653,7 +6653,7 @@ Jr3404      728A
 Jr3405      72C6   
 Jr3406      7302   
 Jr3407      733E   
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Nav 7
 
@@ -6713,7 +6713,7 @@ Tr2838      0AAF
 Tr2839      0AB8   
 Tr2850      0ABD   
 Tr2851      0AC2   
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Nav 8
 
@@ -6773,7 +6773,7 @@ Tr29645     0EBE
 Tr29646     0EC3   
 Tr29647     0EC8   
 Tr2991      0C06   
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Nav 9
 
@@ -6833,7 +6833,7 @@ Tr3309      0DC0
 Tr3310      0DC5   
 Tr3311      0DCA   
 Tr3312      0DCF   
-Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        22/03/23
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        29/03/23
 
 D:\OIS\CD\Data\2022\Bohu\Out\AVV\471\JR471GIB.pop               Nav 10
 
