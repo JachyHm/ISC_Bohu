@@ -249,6 +249,7 @@
 155 155 Ostrava-Stodoln\xA1
 156 156 Ostrava st\xA9\x65\x64
 157 157 Ostrava-Kun\x87ice
+158 158 Vlak mimo\xA9\xA0\x64n\x88 proj\xA1\x91\x64\xA1 stanici Ostrava-Bartovice
 158 158 Ostrava-Bartovice
 159 159 V\xA0\x91\x65n\xA1 cestuj\xA1\x63\xA1, z d\x96vodu v\x98luky na trati tento vlak kon\x87\xA1 j\xA1zdu ve stanici Ostrava-Svinov. Mezi stanicemi Ostrava-Svinov a Stud\x82nka a do stanice Jistebn\xA1k vyu\x91ijte linku R8 spole\x87nosti RegioJet.
 159 159 
