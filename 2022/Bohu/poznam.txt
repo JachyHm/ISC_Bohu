@@ -22,4 +22,4 @@ SPECIèLNã NèPISY -> v "JEN CãLOVè STANICE"
 
 99 - Test displejñ
 -------------------------------------------------
-Verze dat: 230326a - vòluka StudÇnka - Ostrava-Svinov (ROV23077)
+Verze dat: 230331a - vòluka ETCS Äeskò Tà®°n - Mosty u Jab. (ROV25008)

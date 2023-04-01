@@ -198,6 +198,7 @@
 107 107 M\x88rovice nad Hanou
 108 108 N\x88m\x87ice nad Hanou
 109 109 Albrechtice u \x80\x65sk\x82ho T\x88\xA8\xA1na
+110 110 Vlak bude nahrazen autobusovou dopravou v \xA3seku Byst\xA9ice (Bystrzyca) - Mosty u Jablunkova (Mosty kolo Jabl.)
 110 110 Byst\xA9ice (Bystrzyca)
 111 111 Hr\xA0\x64\x65k (Gr\xA2\x64\x65k)
 112 112 Vendryn\x88 (Wedrynia)
@@ -218,6 +219,7 @@
 128 128 Grygov
 129 129 Horn\xA1 Such\xA0
 130 130 Hladk\x82 \x92ivotice
+131 131 Vlak bude nahrazen autobusovou dopravou v \xA3seku N\xA0vs\xA1 (Nawsie) - Mosty u Jablunkova (Mosty kolo Jabl.)
 131 131 N\xA0vs\xA1 (Nawsie)
 132 132 Bocanovice (Boconowice)
 133 133 
@@ -229,6 +231,7 @@
 138 138 T\xA9inec centrum (Trzyniec Centrum)
 139 139 Louky nad Ol\xA8\xA1
 140 140 Lipn\xA1k nad Be\x87vou
+141 141 
 141 141 Mosty u Jablunkova (Mosty kolo Jabl.)
 142 142 Mosty u Jablunkova zast\xA0vka
 143 143 Bohum\xA1n
@@ -275,6 +278,7 @@
 173 173 \x9Bt\xA1tina
 174 174 Mokr\x82 Lazce
 175 175 St\xA9\x65\xA4
+176 176 Vlak bude nahrazen autobusovou dopravou v \xA3seku T\xA9inec (Trzyniec) - Mosty u Jablunkova (Mosty kolo Jabl.)
 176 176 T\xA9inec (Trzyniec)
 177 177 \x9Bt\x88p\xA0nov
 178 178 T\xA9inec-Konsk\xA0 (Trzyniec-Konska)
