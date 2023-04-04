@@ -4,6 +4,7 @@
 4294967295 -1 posledn\xA1 stanice integrovan\x82 dopravy 
 4294967295 -1 Vlak jede odklonem
 4294967295 -1 V\x96z bez pr\x96vod\x87\xA1ho
+0 0 Polanka n.O.v\x98h.
 0 0  
 0 0 Linka
 0 0 sm\x88r
@@ -206,6 +207,8 @@
 114 114 Rokytnice u P\xA9\x65rova
 117 117 Ropice zast\xA0vka (Ropica przystanek)
 118 118 D\x88hylov
+119 119 Vlak bude nahrazen autobusovou dopravou v \xA3seku D\x88tmarovice - Petrovice u Karvin\x82
+119 119 
 119 119 D\x88tmarovice
 120 120 \x80\x65rvenka
 121 121 H\xA0j ve Slezsku
@@ -285,6 +288,7 @@
 178 178 T\xA9inec-Konsk\xA0 (Trzyniec-Konska)
 179 179 Ostrava-V\xA1tkovice
 180 180 Z\xA0\x62\xA9\x65h na Morav\x88
+181 181 
 181 181 Petrovice u Karvin\x82
 182 182 Z\xA0vada
 183 183 
