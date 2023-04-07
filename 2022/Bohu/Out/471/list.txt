@@ -292,6 +292,7 @@
 181 181 Petrovice u Karvin\x82
 182 182 Z\xA0vada
 183 183 
+183 183 Ve stanici \x80\x65sk\x98 T\x88\xA8\xA1n (Czeski Cieszyn) je mimo\xA9\xA0\x64n\x98 p\xA9\x65stup do n\xA0hradn\xA1 vlakov\x82 soupravy sm\x88r Mosty u Jablunkova (Mosty kolo Jabl.)
 183 183 \x80\x65sk\x98 T\x88\xA8\xA1n (Czeski Cieszyn)
 184 184 Cieszyn
 185 185 Hav\xA1\xA9ov st\xA9\x65\x64
