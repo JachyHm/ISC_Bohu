@@ -3689,23 +3689,23 @@ Jr3051b:      JIZRAD  Z,  140, (6/6)    07:09,  07:10    ;Bohumin
               JIZRAD  Z,  140,          07:13*, 07:13*   ;
               JIZRAD  Z,  140, (10/T)   07:16*, 07:17    ;Detmarovice
               JIZRAD  P,  140,          0:00,    0:00    ;odb Koukolna
-              JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Karvina hln
+              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Karvina hln
               JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140, (4/T)    0:00,    0:00    ;Louky nO
-              JIZRAD  Z,  140,          0:00,    0:00    ;Odb Chotebuz
-              JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Cesky Tesin
-              JIZRAD  Z,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Trinec
-              JIZRAD  Z,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Bystrice
-              JIZRAD  Z,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Navsi
+              JIZRAD  P,  140, (4/T)    0:00,    0:00    ;Louky nO
+              JIZRAD  P,  140,          0:00,    0:00    ;Odb Chotebuz
+              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Cesky Tesin
+              JIZRAD  P,  140,          0:00,    0:00    ;
+              JIZRAD  P,  140,          0:00,    0:00    ;
+              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Trinec
+              JIZRAD  P,  140,          0:00,    0:00    ;
+              JIZRAD  P,  140,          0:00,    0:00    ;
+              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Bystrice
+              JIZRAD  P,  140,          0:00,    0:00    ;
+              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Navsi
               JIZRAD  P,  140,          0:00,    0:00    ;
               JIZRAD  P,  140, (5/5)    0:00,    0:00    ;Mosty uJ
-Jr3051c:      JIZRAD  Z,  160, (T/T)    0:00,    0:00    ;Bohumin
-              JIZRAD  Z,  160,          0:00,    0:00    ;
+Jr3051c:      JIZRAD  P,  160, (T/T)    0:00,    0:00    ;Bohumin
+              JIZRAD  P,  160,          0:00,    0:00    ;
               JIZRAD  Z,  160, (10/T)   07:16*, 07:17    ;Detmarovice
               JIZRAD  Z,  160,          07:21*, 07:21*   ;
               JIZRAD  Z,  160, (T/T)    07:25,   0:00    ;Petrovice
@@ -3813,23 +3813,23 @@ Jr3055b:      JIZRAD  Z,  140, (6/6)    15:09,  15:10    ;Bohumin
               JIZRAD  Z,  140,          15:13*, 15:13*   ;
               JIZRAD  Z,  140, (10/T)   15:16*, 15:17    ;Detmarovice
               JIZRAD  P,  140,          0:00,    0:00    ;odb Koukolna
-              JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Karvina hln
+              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Karvina hln
               JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140, (4/T)    0:00,    0:00    ;Louky nO
-              JIZRAD  Z,  140,          0:00,    0:00    ;Odb Chotebuz
-              JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Cesky Tesin
-              JIZRAD  Z,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Trinec
-              JIZRAD  Z,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Bystrice
-              JIZRAD  Z,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Navsi
+              JIZRAD  P,  140, (4/T)    0:00,    0:00    ;Louky nO
+              JIZRAD  P,  140,          0:00,    0:00    ;Odb Chotebuz
+              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Cesky Tesin
+              JIZRAD  P,  140,          0:00,    0:00    ;
+              JIZRAD  P,  140,          0:00,    0:00    ;
+              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Trinec
+              JIZRAD  P,  140,          0:00,    0:00    ;
+              JIZRAD  P,  140,          0:00,    0:00    ;
+              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Bystrice
+              JIZRAD  P,  140,          0:00,    0:00    ;
+              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Navsi
               JIZRAD  P,  140,          0:00,    0:00    ;
               JIZRAD  P,  140, (5/5)    0:00,    0:00    ;Mosty uJ
-Jr3055c:      JIZRAD  Z,  160, (T/T)    0:00,    0:00    ;Bohumin
-              JIZRAD  Z,  160,          0:00,    0:00    ;
+Jr3055c:      JIZRAD  P,  160, (T/T)    0:00,    0:00    ;Bohumin
+              JIZRAD  P,  160,          0:00,    0:00    ;
               JIZRAD  Z,  160, (10/T)   15:16*, 15:17    ;Detmarovice
               JIZRAD  Z,  160,          15:21*, 15:21*   ;
               JIZRAD  Z,  160, (T/T)    15:25,   0:00    ;Petrovice
@@ -4629,23 +4629,23 @@ Jr3301a:      JIZRAD  Z,  140, (6/6)    05:18,  05:19    ;Bohumin
               JIZRAD  Z,  140,          05:22*, 05:22*   ;
               JIZRAD  Z,  140, (10/T)   05:25*, 05:26*   ;Detmarovice
               JIZRAD  P,  140,          0:00,    0:00    ;odb Koukolna
-              JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Karvina hln
+              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Karvina hln
               JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140, (4/T)    0:00,    0:00    ;Louky nO
-              JIZRAD  Z,  140,          0:00,    0:00    ;Odb Chotebuz
-              JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Cesky Tesin
-              JIZRAD  Z,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Trinec
-              JIZRAD  Z,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Bystrice
-              JIZRAD  Z,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Navsi
+              JIZRAD  P,  140, (4/T)    0:00,    0:00    ;Louky nO
+              JIZRAD  P,  140,          0:00,    0:00    ;Odb Chotebuz
+              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Cesky Tesin
+              JIZRAD  P,  140,          0:00,    0:00    ;
+              JIZRAD  P,  140,          0:00,    0:00    ;
+              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Trinec
+              JIZRAD  P,  140,          0:00,    0:00    ;
+              JIZRAD  P,  140,          0:00,    0:00    ;
+              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Bystrice
+              JIZRAD  P,  140,          0:00,    0:00    ;
+              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Navsi
               JIZRAD  P,  140,          0:00,    0:00    ;
               JIZRAD  P,  140, (5/5)    0:00,    0:00    ;Mosty uJ
-Jr3301b:      JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Bohumin
-              JIZRAD  Z,  140,          0:00,    0:00    ;
+Jr3301b:      JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Bohumin
+              JIZRAD  P,  140,          0:00,    0:00    ;
               JIZRAD  Z,  140, (10/T)   05:25*, 05:26*   ;Detmarovice
               JIZRAD  Z,  140,          05:30*, 05:30*   ;
               JIZRAD  Z,  140, (T/T)    05:34,   0:00    ;Petrovice
@@ -4943,23 +4943,23 @@ Jr3313a:      JIZRAD  Z,  140, (6/6)    13:30,  13:31    ;Bohumin
               JIZRAD  Z,  140,          13:34*, 13:34*   ;
               JIZRAD  Z,  140, (10/T)   13:38,  13:38*   ;Detmarovice
               JIZRAD  P,  140,          0:00,    0:00    ;odb Koukolna
-              JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Karvina hln
+              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Karvina hln
               JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140, (4/T)    0:00,    0:00    ;Louky nO
-              JIZRAD  Z,  140,          0:00,    0:00    ;Odb Chotebuz
-              JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Cesky Tesin
-              JIZRAD  Z,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Trinec
-              JIZRAD  Z,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Bystrice
-              JIZRAD  Z,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140, (T/T)    0:00,    0:00    ;Navsi
+              JIZRAD  P,  140, (4/T)    0:00,    0:00    ;Louky nO
+              JIZRAD  P,  140,          0:00,    0:00    ;Odb Chotebuz
+              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Cesky Tesin
+              JIZRAD  P,  140,          0:00,    0:00    ;
+              JIZRAD  P,  140,          0:00,    0:00    ;
+              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Trinec
+              JIZRAD  P,  140,          0:00,    0:00    ;
+              JIZRAD  P,  140,          0:00,    0:00    ;
+              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Bystrice
+              JIZRAD  P,  140,          0:00,    0:00    ;
+              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Navsi
               JIZRAD  P,  140,          0:00,    0:00    ;
               JIZRAD  P,  140, (5/5)    0:00,    0:00    ;Mosty uJ
-Jr3313b:      JIZRAD  Z,  160, (T/T)    0:00,    0:00    ;Bohumin
-              JIZRAD  Z,  160,          0:00,    0:00    ;
+Jr3313b:      JIZRAD  P,  160, (T/T)    0:00,    0:00    ;Bohumin
+              JIZRAD  P,  160,          0:00,    0:00    ;
               JIZRAD  Z,  160, (10/T)   13:38,  13:38*   ;Detmarovice
               JIZRAD  Z,  160,          13:42*, 13:42*   ;
               JIZRAD  Z,  160, (T/T)    13:46,   0:00    ;Petrovice
