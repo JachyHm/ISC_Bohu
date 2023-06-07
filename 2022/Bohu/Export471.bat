@@ -1,0 +1,1 @@
+CleanUp.exe "BohuRegio.xml" -b=2 -a=9 -v="Export471.xml"

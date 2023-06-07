@@ -1,0 +1,1 @@
+CleanUp.exe "BohuRegio.xml" -b=1 -a=0,1 -v="ExportPP.xml"
