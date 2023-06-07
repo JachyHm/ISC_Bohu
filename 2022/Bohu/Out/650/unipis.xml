@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <unipis version="2.012">
   <update/>
-  <timetable id="gvd_20221211_20231209" from="2022-12-11" to="2023-12-09" issued="2022-12-06" revision="1685916000" lang="cs" time-zone="Europe/Prague" rules="cd_regional">
+  <timetable id="gvd_20221211_20231209" from="2022-12-11" to="2023-12-09" issued="2022-12-06" revision="1686002400" lang="cs" time-zone="Europe/Prague" rules="cd_regional">
     <train id="1425" brand="Sp">
       <variant id="0">
         <schedule>
@@ -55567,12 +55567,14 @@
         <msg list="integrations" name="ODIS - IDS Moravskoslezského kraje">
           <tr lang="cs" name="ODIS - IDS Moravskoslezského kraje">
             <phrase visual="ODIS">
+              <visualization str="&#x2BE7;" hw="AMIT-13EV-SIDE"/>
               <visualization str="&#x2BE7;" hw="AMIT-10EV-SIDE"/>
               <visualization str="&#x2BE7;" hw="AMIT-7EV-SIDE"/>
             </phrase>
           </tr>
           <tr lang="uni" name="ODIS - IDS Moravskoslezského kraje">
             <phrase visual="ODIS">
+              <visualization str="&#x2BE7;" hw="AMIT-13EV-SIDE"/>
               <visualization str="&#x2BE7;" hw="AMIT-10EV-SIDE"/>
               <visualization str="&#x2BE7;" hw="AMIT-7EV-SIDE"/>
             </phrase>
@@ -55691,10 +55693,18 @@
         </zone>
         <msg list="integrations" name="IDSOK - IDS Olomouckého kraje">
           <tr lang="cs" name="IDSOK - IDS Olomouckého kraje">
-            <phrase visual="IDSOK"/>
+            <phrase visual="IDSOK">
+              <visualization str="&#x2BE9;" hw="AMIT-13EV-SIDE"/>
+              <visualization str="&#x2BE9;" hw="AMIT-10EV-SIDE"/>
+              <visualization str="&#x2BE9;" hw="AMIT-7EV-SIDE"/>
+            </phrase>
           </tr>
           <tr lang="uni" name="IDSOK - IDS Olomouckého kraje">
-            <phrase visual="IDSOK"/>
+            <phrase visual="IDSOK">
+              <visualization str="&#x2BE9;" hw="AMIT-13EV-SIDE"/>
+              <visualization str="&#x2BE9;" hw="AMIT-10EV-SIDE"/>
+              <visualization str="&#x2BE9;" hw="AMIT-7EV-SIDE"/>
+            </phrase>
           </tr>
         </msg>
       </integration>
@@ -55780,10 +55790,18 @@
         </zone>
         <msg list="integrations" name="Integrovaná doprava Zlínského kraje">
           <tr lang="cs" name="Integrovaná doprava Zlínského kraje">
-            <phrase visual="IDZK"/>
+            <phrase visual="IDZK">
+              <visualization str="&#x2BEA;" hw="AMIT-13EV-SIDE"/>
+              <visualization str="&#x2BEA;" hw="AMIT-10EV-SIDE"/>
+              <visualization str="&#x2BEA;" hw="AMIT-7EV-SIDE"/>
+            </phrase>
           </tr>
           <tr lang="uni" name="Integrovaná doprava Zlínského kraje">
-            <phrase visual="IDZK"/>
+            <phrase visual="IDZK">
+              <visualization str="&#x2BEA;" hw="AMIT-13EV-SIDE"/>
+              <visualization str="&#x2BEA;" hw="AMIT-10EV-SIDE"/>
+              <visualization str="&#x2BEA;" hw="AMIT-7EV-SIDE"/>
+            </phrase>
           </tr>
         </msg>
       </integration>
@@ -56095,10 +56113,31 @@
         </tr>
       </msg>
     </announcement>
+    <announcement id="reg_delay_sprzel" msg="reg_delay_sprzel" broadcast="yes" external="no" internal="yes">
+      <msg list="announcement">
+        <tr lang="cs">
+          <phrase visual="Zpoždění (SŽ)" sound-file="empty"/>
+        </tr>
+      </msg>
+    </announcement>
     <announcement id="reg_delay_connection" msg="reg_delay_connection" broadcast="yes" external="no" internal="yes">
       <msg list="announcement">
         <tr lang="cs">
           <phrase visual="Zpoždění (přípoj)" sound-file="empty"/>
+        </tr>
+      </msg>
+    </announcement>
+    <announcement id="reg_delay_ids" msg="reg_delay_ids" broadcast="yes" external="no" internal="yes">
+      <msg list="announcement">
+        <tr lang="cs">
+          <phrase visual="Zpoždění (IDS)" sound-file="empty"/>
+        </tr>
+      </msg>
+    </announcement>
+    <announcement id="reg_delay_nad" msg="reg_delay_nad" broadcast="yes" external="no" internal="yes">
+      <msg list="announcement">
+        <tr lang="cs">
+          <phrase visual="Zpoždění (NAD)" sound-file="empty"/>
         </tr>
       </msg>
     </announcement>
@@ -56141,6 +56180,34 @@
       <msg list="announcement">
         <tr lang="cs">
           <phrase visual="Zpoždění (střet na přejezdu)" sound-file="empty"/>
+        </tr>
+      </msg>
+    </announcement>
+    <announcement id="reg_delay_pomala" msg="reg_delay_pomala" broadcast="yes" external="no" internal="yes">
+      <msg list="announcement">
+        <tr lang="cs">
+          <phrase visual="Zpoždění (pomalá jízda)" sound-file="empty"/>
+        </tr>
+      </msg>
+    </announcement>
+    <announcement id="reg_delay_uvaznuti" msg="reg_delay_uvaznuti" broadcast="yes" external="no" internal="yes">
+      <msg list="announcement">
+        <tr lang="cs">
+          <phrase visual="Zpoždění (uvázlý vlak)" sound-file="empty"/>
+        </tr>
+      </msg>
+    </announcement>
+    <announcement id="reg_delay_pozdni_prichod" msg="reg_delay_pozdni_prichod" broadcast="yes" external="no" internal="yes">
+      <msg list="announcement">
+        <tr lang="cs">
+          <phrase visual="Zpoždění (pozdní příchod)" sound-file="empty"/>
+        </tr>
+      </msg>
+    </announcement>
+    <announcement id="reg_delay_porucha" msg="reg_delay_porucha" broadcast="yes" external="no" internal="yes">
+      <msg list="announcement">
+        <tr lang="cs">
+          <phrase visual="Zpoždění (technická závada)" sound-file="empty"/>
         </tr>
       </msg>
     </announcement>
@@ -59453,6 +59520,7 @@
       <tr lang="cs">
         <phrase visual="Wi-Fi dočasně mimo provoz">
           <visualization str="Wi-Fi dočasně mimo provoz" hw="D4D1" role="trg_ext"/>
+          <sound-file sound-file="357986" sound-name="\CZ\Slova\bezwifi" sound-format="mp3" sound-role="unipis"/>
         </phrase>
       </tr>
     </msg>
@@ -62173,6 +62241,68 @@
       <tr lang="cs" name="Omluva za zpoždění - opačný vlak - regionální">
         <phrase visual="Vlak je opožděn z důvodu čekání na zpožděný vlak opačného směru. Omluvte prosím zpoždění vlaku.">
           <sound-file sound-file="349702" sound-name="\CZ\Slova\212" sound-format="mp3" sound-role="unipis"/>
+        </phrase>
+      </tr>
+    </msg>
+    <msg list="extra_msg" id="reg_delay_sprzel">
+      <tr lang="cs" name="Omluva za zpoždění - Správa Železnic - regionální">
+        <phrase visual="Vlak je opožděn z provozních důvodů Správy Železnic. Omluvte prosím zpoždění vlaku.">
+          <sound-file sound-file="164510" sound-name="\CZ\Slova\vc" sound-format="mp3" sound-role="unipis"/>
+          <sound-file sound-file="229895" sound-name="\CZ\Slova\Provozní (SŽDC)" sound-format="mp3" sound-role="unipis"/>
+          <sound-file sound-file="214185" sound-name="\CZ\Slova\dzp" sound-format="mp3" sound-role="unipis"/>
+        </phrase>
+      </tr>
+    </msg>
+    <msg list="extra_msg" id="reg_delay_pomala">
+      <tr lang="cs" name="Omluva za zpoždění - pomalá jízda - regionální">
+        <phrase visual="Vlak je opožděn z důvodu snížené rychlosti vlaku na části trati s technickou závadou. Omluvte prosím zpoždění vlaku.">
+          <sound-file sound-file="164510" sound-name="\CZ\Slova\vc" sound-format="mp3" sound-role="unipis"/>
+          <sound-file sound-file="168568" sound-name="\CZ\Slova\Pomalá jízda" sound-format="mp3" sound-role="unipis"/>
+          <sound-file sound-file="214185" sound-name="\CZ\Slova\dzp" sound-format="mp3" sound-role="unipis"/>
+        </phrase>
+      </tr>
+    </msg>
+    <msg list="extra_msg" id="reg_delay_uvaznuti">
+      <tr lang="cs" name="Omluva za zpoždění - uváznutý vlak - regionální">
+        <phrase visual="Vlak je opožděn z důvodu uváznutého vlaku na trati. Omluvte prosím zpoždění vlaku.">
+          <sound-file sound-file="164510" sound-name="\CZ\Slova\vc" sound-format="mp3" sound-role="unipis"/>
+          <sound-file sound-file="161932" sound-name="\CZ\Slova\Uváznutí" sound-format="mp3" sound-role="unipis"/>
+          <sound-file sound-file="214185" sound-name="\CZ\Slova\dzp" sound-format="mp3" sound-role="unipis"/>
+        </phrase>
+      </tr>
+    </msg>
+    <msg list="extra_msg" id="reg_delay_pozdni_prichod">
+      <tr lang="cs" name="Omluva za zpoždění - pozdní příchod - regionální">
+        <phrase visual="Vlak je opožděn z důvodu pozdního příchodu zaměstnance dopravce. Omluvte prosím zpoždění vlaku.">
+          <sound-file sound-file="164510" sound-name="\CZ\Slova\vc" sound-format="mp3" sound-role="unipis"/>
+          <sound-file sound-file="176695" sound-name="\CZ\Slova\Pozdní příchod" sound-format="mp3" sound-role="unipis"/>
+        </phrase>
+      </tr>
+    </msg>
+    <msg list="extra_msg" id="reg_delay_nad">
+      <tr lang="cs" name="Omluva za zpoždění - NAD - regionální">
+        <phrase visual="Vlak je opožděn z důvodu pozdního příjezdu autobusu NAD. Omluvte prosím zpoždění vlaku.">
+          <sound-file sound-file="164510" sound-name="\CZ\Slova\vc" sound-format="mp3" sound-role="unipis"/>
+          <sound-file sound-file="168827" sound-name="\CZ\Slova\Pozdní příjezd NAD" sound-format="mp3" sound-role="unipis"/>
+          <sound-file sound-file="214185" sound-name="\CZ\Slova\dzp" sound-format="mp3" sound-role="unipis"/>
+        </phrase>
+      </tr>
+    </msg>
+    <msg list="extra_msg" id="reg_delay_ids">
+      <tr lang="cs" name="Omluva za zpoždění - přípoj IDS - regionální">
+        <phrase visual="Vlak je opožděn z důvodu čekání na zpožděný přípoj v rámci integrovaného dopravního systému. Omluvte prosím zpoždění vlaku.">
+          <sound-file sound-file="164510" sound-name="\CZ\Slova\vc" sound-format="mp3" sound-role="unipis"/>
+          <sound-file sound-file="168567" sound-name="\CZ\Slova\Přípoj (IDS)" sound-format="mp3" sound-role="unipis"/>
+          <sound-file sound-file="214185" sound-name="\CZ\Slova\dzp" sound-format="mp3" sound-role="unipis"/>
+        </phrase>
+      </tr>
+    </msg>
+    <msg list="extra_msg" id="reg_delay_porucha">
+      <tr lang="cs" name="Omluva za zpoždění - závada vlak - regionální">
+        <phrase visual="Vlak je opožděn z důvodu technické závady na vlaku. Omluvte prosím zpoždění vlaku.">
+          <sound-file sound-file="164510" sound-name="\CZ\Slova\vc" sound-format="mp3" sound-role="unipis"/>
+          <sound-file sound-file="161935" sound-name="\CZ\Slova\Technická záv. na vlaku" sound-format="mp3" sound-role="unipis"/>
+          <sound-file sound-file="214185" sound-name="\CZ\Slova\dzp" sound-format="mp3" sound-role="unipis"/>
         </phrase>
       </tr>
     </msg>
