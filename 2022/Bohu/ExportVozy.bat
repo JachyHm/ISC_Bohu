@@ -1,0 +1,1 @@
+CleanUp.exe "BohuDalkova.xml" -g=1 -k -o -m -a=4 -v="ExportVozy.xml"
