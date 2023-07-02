@@ -1,4 +1,4 @@
-Obsah:        PLATI 250, 11/12/2022, 9/12/2023
+Obsah:        PLATI 250, 11/6/2023, 9/12/2023
               VLAK     1601, 05:00, Tr1601
               VLAK     1602, 04:03, Tr1602
               VLAK     1603, 05:15, Tr1603
@@ -29,13 +29,12 @@ Obsah:        PLATI 250, 11/12/2022, 9/12/2023
               VLAK     1628, 17:11, Tr1620
               VLAK     1629, 18:24, Tr1629
               VLAK     1630, 18:11, Tr1630
-              VLAK     1631, 20:03, Tr1631
+              VLAK     1631, 20:03, Tr1615
               VLAK     1632, 19:36, Tr1612
               VLAK     1633, 20:24, Tr1633
               VLAK     2800, 03:54, Tr2800
               VLAK     2801, 04:11, Tr2801
               VLAK     2802, 04:45, Tr2802
-              VLAK     2803, 05:09, Tr2803
               VLAK     2804, 05:45, Tr2802
               VLAK     2805, 06:24, Tr2805
               VLAK     2806, 06:46, Tr2806
@@ -67,18 +66,18 @@ Obsah:        PLATI 250, 11/12/2022, 9/12/2023
               VLAK     2832, 19:45, Tr2802
               VLAK     2833, 20:24, Tr2805
               VLAK     2834, 20:45, Tr2802
-              VLAK     2835, 21:24, Tr2835
-              VLAK     2836, 22:00, Tr2836
+              VLAK     2835, 21:24, Tr2805
               VLAK     2837, 22:24, Tr2805
               VLAK     2838, 22:45, Tr2838
-              VLAK     2839, 05:09, Tr2839
+              VLAK     2840, 21:46, Tr2840
+              VLAK     2841, 05:05, Tr2841
+              VLAK     2843, 05:05, Tr2843
               VLAK     2850, 04:08, Tr2850
               VLAK     2851, 23:24, Tr2851
               VLAK     2860, 05:51, Tr2860
               VLAK     2861, 04:53, Tr2861
               VLAK     2863, 05:28, Tr2863
               VLAK     2864, 07:53, Tr2864
-              VLAK     2865, 06:36, Tr2865
               VLAK     2866, 08:51, Tr2866
               VLAK     2867, 12:53, Tr2867
               VLAK     2868, 13:51, Tr2868
@@ -92,8 +91,10 @@ Obsah:        PLATI 250, 11/12/2022, 9/12/2023
               VLAK     2876, 17:51, Tr2876
               VLAK     2877, 17:53, Tr2873
               VLAK     2878, 18:51, Tr2878
-              VLAK     2891, 06:18, Tr2891
-              VLAK     2893, 22:56, Tr2893
+              VLAK     2879, 06:53, Tr2861
+              VLAK     2880, 06:55, Tr2870
+              VLAK     2890, 07:37, Tr2890
+              VLAK     2895, 06:38, Tr2895
               VLAK     2898, 00:16, Tr2898
               VLAK     2899, 02:10, Tr2899
               VLAK     2900, 04:44, Tr2900
@@ -102,18 +103,17 @@ Obsah:        PLATI 250, 11/12/2022, 9/12/2023
               VLAK     2921, 04:49, Tr2921
               VLAK     2922, 05:15, Tr2922
               VLAK     2923, 05:34, Tr2923
-              VLAK     2924, 06:06, Tr2924
               VLAK     2925, 06:34, Tr2925
               VLAK     2926, 07:06, Tr2926
               VLAK     2927, 07:34, Tr2927
               VLAK     2928, 08:10, Tr2928
               VLAK     2929, 08:34, Tr2925
               VLAK     2930, 09:06, Tr2930
-              VLAK     2931, 09:34, Tr2931
+              VLAK     2931, 09:34, Tr2927
               VLAK     2932, 10:10, Tr2928
               VLAK     2933, 10:34, Tr2925
               VLAK     2934, 11:06, Tr2930
-              VLAK     2935, 11:34, Tr2931
+              VLAK     2935, 11:34, Tr2927
               VLAK     2936, 12:10, Tr2928
               VLAK     2937, 12:34, Tr2925
               VLAK     2938, 13:06, Tr2938
@@ -123,7 +123,7 @@ Obsah:        PLATI 250, 11/12/2022, 9/12/2023
               VLAK     2942, 15:06, Tr2930
               VLAK     2943, 14:34, Tr2943
               VLAK     2944, 16:10, Tr2944
-              VLAK     2945, 15:34, Tr2931
+              VLAK     2945, 15:34, Tr2927
               VLAK     2946, 17:06, Tr2938
               VLAK     2947, 16:34, Tr2925
               VLAK     2948, 18:10, Tr2928
@@ -136,12 +136,16 @@ Obsah:        PLATI 250, 11/12/2022, 9/12/2023
               VLAK     2955, 20:35, Tr2955
               VLAK     2956, 22:10, Tr2928
               VLAK     2957, 22:35, Tr2957
+              VLAK     2958, 06:06, Tr2958
+              VLAK     2972, 15:06, Tr2930
+              VLAK     2978, 06:06, Tr2958
               VLAK     2991, 03:10, Tr2991
-              VLAK     2992, 19:55, Tr2992
               VLAK     2993, 03:46, Tr2993
-              VLAK     2995, 03:48, Tr2995
-              VLAK     2996, 20:55, Tr2992
+              VLAK     2994, 17:58, Tr2994
+              VLAK     2996, 20:55, Tr2994
               VLAK     2997, 04:14, Tr2997
+              VLAK     2998, 19:55, Tr2994
+              VLAK     2999, 03:25, Tr2999
               VLAK     3000, 07:31, Tr3000
               VLAK     3050, 04:46, Tr3050
               VLAK     3051, 06:31, Tr3051
@@ -174,7 +178,7 @@ Obsah:        PLATI 250, 11/12/2022, 9/12/2023
               VLAK     3090, 14:42, Tr3090
               VLAK     3091, 09:03, Tr3091
               VLAK     3092, 15:23, Tr3092
-              VLAK     3093, 09:30, Tr3093
+              VLAK     3093, 09:30, Tr3071
               VLAK     3094, 16:41, Tr3094
               VLAK     3095, 10:35, Tr3095
               VLAK     3096, 17:41, Tr3096
@@ -209,8 +213,17 @@ Obsah:        PLATI 250, 11/12/2022, 9/12/2023
               VLAK     3325, 22:58, Tr3325
               VLAK     3326, 20:23, Tr3314
               VLAK     3327, 06:52, Tr3327
-              VLAK     3328, 20:30, Tr3328
+              VLAK     3329, 05:33, Tr3329
               VLAK     3330, 22:36, Tr3330
+              VLAK     3331, 03:56, Tr3331
+              VLAK     3333, 04:59, Tr3331
+              VLAK     3334, 04:26, Tr3334
+              VLAK     3335, 06:04, Tr3331
+              VLAK     3336, 05:30, Tr3336
+              VLAK     3338, 07:00, Tr3338
+              VLAK     3339, 19:29, Tr3339
+              VLAK     3340, 15:34, Tr3336
+              VLAK     3342, 20:00, Tr3336
               VLAK     3400, 04:20, Tr3400
               VLAK     3401, 04:29, Tr3401
               VLAK     3402, 04:51, Tr3402
@@ -236,6 +249,7 @@ Obsah:        PLATI 250, 11/12/2022, 9/12/2023
               VLAK     3422, 14:41, Tr3410
               VLAK     3423, 15:42, Tr3407
               VLAK     3424, 15:41, Tr3408
+              PLATI  69, 11/6/2023, 9/12/2023
               VLAK     3425, 16:42, Tr3409
               VLAK     3426, 16:41, Tr3410
               VLAK     3427, 17:42, Tr3407
@@ -249,33 +263,62 @@ Obsah:        PLATI 250, 11/12/2022, 9/12/2023
               VLAK     3435, 21:42, Tr3435
               VLAK     3436, 21:56, Tr3436
               VLAK     3437, 22:45, Tr3437
-              PLATI  26, 11/12/2022, 9/12/2023
               VLAK     3438, 22:59, Tr3436
               VLAK     3440, 23:37, Tr3440
+              VLAK     3442, 03:33, Tr3442
+              VLAK     3443, 03:35, Tr3443
+              VLAK     3497, 01:17, Tr3497
+              VLAK     3498, 02:13, Tr3498
               VLAK    28901, 07:22, Tr28901
-              VLAK    28902, 04:42, Tr28902
-              VLAK    28903, 18:34, Tr28903
-              VLAK    28904, 05:19, Tr28902
-              VLAK    28905, 19:49, Tr28903
               VLAK    28906, 05:19, Tr28906
-              VLAK    28907, 19:56, Tr28907
-              VLAK    28908, 06:04, Tr28902
-              VLAK    28909, 20:46, Tr28903
-              VLAK    28910, 22:30, Tr28910
-              VLAK    28911, 22:35, Tr28903
+              VLAK    28909, 20:46, Tr28909
               VLAK    28912, 23:02, Tr28912
-              VLAK    28913, 23:42, Tr28903
+              VLAK    28913, 23:42, Tr28909
+              VLAK    28915, 12:35, Tr28915
+              VLAK    28916, 09:15, Tr28916
+              VLAK    28917, 08:08, Tr28917
+              VLAK    28918, 17:54, Tr28918
+              VLAK    28919, 19:09, Tr28919
+              VLAK    28930, 04:06, Tr28930
+              VLAK    28931, 09:25, Tr28931
+              VLAK    28932, 04:53, Tr28930
+              VLAK    28933, 19:46, Tr28931
+              VLAK    28934, 12:53, Tr28930
+              VLAK    28935, 08:07, Tr28935
+              VLAK    28936, 05:42, Tr28930
+              VLAK    28937, 18:05, Tr28931
+              VLAK    28938, 02:35, Tr28938
+              VLAK    28939, 20:49, Tr28939
+              VLAK    28941, 19:02, Tr28941
+              VLAK    28950, 16:35, Tr28950
+              VLAK    28951, 06:55, Tr28951
+              VLAK    28952, 18:23, Tr28950
+              VLAK    29110, 22:24, Tr29110
+              VLAK    29111, 05:23, Tr29111
+              VLAK    29340, 22:51, Tr29340
+              VLAK    29341, 05:01, Tr29341
+              VLAK    29342, 20:51, Tr29340
+              VLAK    29343, 07:00, Tr29343
+              VLAK    29344, 18:50, Tr29344
+              VLAK    29345, 09:19, Tr29341
+              VLAK    29502, 14:24, Tr29502
               VLAK    29642, 15:24, Tr29642
               VLAK    29643, 09:08, Tr29643
               VLAK    29644, 16:33, Tr29644
               VLAK    29645, 09:53, Tr29645
               VLAK    29646, 16:58, Tr29646
               VLAK    29647, 10:18, Tr29647
-              VLAK     3442, 03:57, Tr3442
-              VLAK     3329, 05:33, Tr3329
-              VLAK     2879, 06:53, Tr2873
-              VLAK     2880, 06:55, Tr2860
-              VLAK     3443, 03:34, Tr3443
+              VLAK    29840, 17:03, Tr29840
+              VLAK    29842, 15:18, Tr29842
+              VLAK    29844, 13:18, Tr29842
+              VLAK    29850, 07:24, Tr29850
+              VLAK    29851, 18:15, Tr29851
+              VLAK    29852, 04:57, Tr29852
+              VLAK    29853, 20:09, Tr29853
+              VLAK    29854, 05:15, Tr29854
+              VLAK    29861, 04:24, Tr29861
+              VLAK    29894, 04:28, Tr29894
+              VLAK   101619, 13:58, Tr101619
 
               KONEC
               ZAROVNEJ
@@ -386,9 +429,6 @@ Tr1630:       TRASA 32,11, Jr1630
               TRASA 27,19, Jr1630b
               TRASA 32,21, Jr1630c
               TRASA
-Tr1631:       TRASA 32,31, Jr1631
-              TRASA 32,14, Jr1631a
-              TRASA
 Tr1633:       TRASA 32,22, Jr1633
               TRASA
 Tr2800:       TRASA 32, 1, Jr2800
@@ -399,9 +439,6 @@ Tr2801:       TRASA 27,11, Jr2801
               TRASA
 Tr2802:       TRASA 32,11, Jr2802
               TRASA
-Tr2803:       TRASA 32,12, Jr2803
-              TRASA 32, 4, Jr2803a
-              TRASA
 Tr2805:       TRASA 32,12, Jr2805
               TRASA
 Tr2806:       TRASA 32,11, Jr2806
@@ -409,15 +446,16 @@ Tr2806:       TRASA 32,11, Jr2806
 Tr2819:       TRASA 32,12, Jr2819
               TRASA 32, 4, Jr2819a
               TRASA
-Tr2835:       TRASA 32,12, Jr2835
-              TRASA
-Tr2836:       TRASA 32,11, Jr2836
-              TRASA 27,14, Jr2836a
-              TRASA
 Tr2838:       TRASA 32,11, Jr2838
               TRASA 27,14, Jr2838a
               TRASA
-Tr2839:       TRASA 32,12, Jr2839
+Tr2840:       TRASA 32,11, Jr2840
+              TRASA 27,14, Jr2840a
+              TRASA
+Tr2841:       TRASA 32,12, Jr2841
+              TRASA 32, 4, Jr2841a
+              TRASA
+Tr2843:       TRASA 32,12, Jr2843
               TRASA
 Tr2850:       TRASA 32,11, Jr2850
               TRASA
@@ -432,9 +470,6 @@ Tr2863:       TRASA 27,19, Jr2863
               TRASA
 Tr2864:       TRASA 32,13, Jr2864
               TRASA 27,14, Jr2864a
-              TRASA
-Tr2865:       TRASA 27,19, Jr2865
-              TRASA 32,12, Jr2865a
               TRASA
 Tr2866:       TRASA 32,13, Jr2866
               TRASA
@@ -453,11 +488,10 @@ Tr2876:       TRASA 32,13, Jr2876
               TRASA 27,14, Jr2876a
               TRASA
 Tr2878:       TRASA 32,13, Jr2878
-              TRASA 27,14, Jr2878a
               TRASA
-Tr2891:       TRASA 32,12, Jr2891
+Tr2890:       TRASA 32,13, Jr2890
               TRASA
-Tr2893:       TRASA 32,12, Jr2893
+Tr2895:       TRASA 32,12, Jr2895
               TRASA
 Tr2898:       TRASA 32, 1, Jr2898
               TRASA 32,11, Jr2898a
@@ -484,9 +518,6 @@ Tr2922:       TRASA 32, 1, Jr2922
 Tr2923:       TRASA 27,14, Jr2923
               TRASA 32, 2, Jr2923a
               TRASA
-Tr2924:       TRASA 32, 1, Jr2924
-              TRASA 27,11, Jr2924a
-              TRASA
 Tr2925:       TRASA 27,14, Jr2925
               TRASA 32, 2, Jr2925a
               TRASA
@@ -501,9 +532,6 @@ Tr2928:       TRASA 32, 1, Jr2928
               TRASA
 Tr2930:       TRASA 32, 1, Jr2930
               TRASA 27,11, Jr2930a
-              TRASA
-Tr2931:       TRASA 27,14, Jr2931
-              TRASA 32, 2, Jr2931a
               TRASA
 Tr2938:       TRASA 32, 1, Jr2938
               TRASA 27,11, Jr2938a
@@ -532,15 +560,18 @@ Tr2955:       TRASA 27,14, Jr2955
 Tr2957:       TRASA 27,14, Jr2957
               TRASA 32, 2, Jr2957a
               TRASA
-Tr2991:       TRASA 32, 2, Jr2991
+Tr2958:       TRASA 32, 1, Jr2958
+              TRASA 27,11, Jr2958a
               TRASA
-Tr2992:       TRASA 32, 3, Jr2992
+Tr2991:       TRASA 32, 2, Jr2991
               TRASA
 Tr2993:       TRASA 32, 4, Jr2993
               TRASA
-Tr2995:       TRASA 32, 4, Jr2995
+Tr2994:       TRASA 32, 3, Jr2994
               TRASA
 Tr2997:       TRASA 32, 2, Jr2997
+              TRASA
+Tr2999:       TRASA 32, 2, Jr2999
               TRASA
 Tr3000:       TRASA 32, 7, Jr3000
               TRASA 27,11, Jr3000a
@@ -642,9 +673,6 @@ Tr3091:       TRASA 27,22, Jr3091
 Tr3092:       TRASA 27,11, Jr3092
               TRASA 27,21, Jr3092a
               TRASA
-Tr3093:       TRASA 27,22, Jr3093
-              TRASA 27,16, Jr3093a
-              TRASA
 Tr3094:       TRASA 27,13, Jr3094
               TRASA 27,21, Jr3094a
               TRASA
@@ -717,9 +745,21 @@ Tr3325:       TRASA 27,18, Jr3325
               TRASA
 Tr3327:       TRASA 27,18, Jr3327
               TRASA
-Tr3328:       TRASA 27,11, Jr3328
+Tr3329:       TRASA 27,18, Jr3329
+              TRASA 32,31, Jr3329a
               TRASA
 Tr3330:       TRASA 27,11, Jr3330
+              TRASA
+Tr3331:       TRASA 27,12, Jr3331
+              TRASA
+Tr3334:       TRASA 27,17, Jr3334
+              TRASA
+Tr3336:       TRASA 27,17, Jr3336
+              TRASA
+Tr3338:       TRASA 27,17, Jr3338
+              TRASA 27, 1, Jr3338a
+              TRASA
+Tr3339:       TRASA 27,12, Jr3339
               TRASA
 Tr3400:       TRASA 27,11, Jr3400
               TRASA 32,21, Jr3400a
@@ -758,19 +798,74 @@ Tr3437:       TRASA 32,22, Jr3437
               TRASA
 Tr3440:       TRASA 32,21, Jr3440
               TRASA
+Tr3442:       TRASA 27,11, Jr3442
+              TRASA 32,21, Jr3442a
+              TRASA
+Tr3443:       TRASA 32,22, Jr3443
+              TRASA 27,13, Jr3443a
+              TRASA
+Tr3497:       TRASA 32,22, Jr3497
+              TRASA 27,14, Jr3497a
+              TRASA 32,31, Jr3497b
+              TRASA
+Tr3498:       TRASA 32,32, Jr3498
+              TRASA 27,19, Jr3498a
+              TRASA 32,21, Jr3498b
+              TRASA
 Tr28901:      TRASA 27,14, Jr28901
-              TRASA
-Tr28902:      TRASA 27,11, Jr28902
-              TRASA
-Tr28903:      TRASA 27,14, Jr28903
               TRASA
 Tr28906:      TRASA 27,11, Jr28906
               TRASA
-Tr28907:      TRASA 32,31, Jr28907
-              TRASA
-Tr28910:      TRASA 27,11, Jr28910
+Tr28909:      TRASA 27,14, Jr28909
               TRASA
 Tr28912:      TRASA 27,11, Jr28912
+              TRASA
+Tr28915:      TRASA 32,31, Jr28915
+              TRASA
+Tr28916:      TRASA 32,32, Jr28916
+              TRASA
+Tr28917:      TRASA 27,14, Jr28917
+              TRASA
+Tr28918:      TRASA 32,32, Jr28918
+              TRASA 27,14, Jr28918a
+              TRASA
+Tr28919:      TRASA 27,14, Jr28919
+              TRASA
+Tr28930:      TRASA 27,11, Jr28930
+              TRASA
+Tr28931:      TRASA 27,14, Jr28931
+              TRASA
+Tr28935:      TRASA 32,32, Jr28935
+              TRASA 27,14, Jr28935a
+              TRASA
+Tr28938:      TRASA 27,11, Jr28938
+              TRASA 32,31, Jr28938a
+              TRASA 30,21, Jr28938b
+              TRASA
+Tr28939:      TRASA 30,22, Jr28939
+              TRASA 32,32, Jr28939a
+              TRASA 27,14, Jr28939b
+              TRASA
+Tr28941:      TRASA 27,14, Jr28941
+              TRASA
+Tr28950:      TRASA 27,19, Jr28950
+              TRASA
+Tr28951:      TRASA 27,16, Jr28951
+              TRASA
+Tr29110:      TRASA 27,14, Jr29110
+              TRASA
+Tr29111:      TRASA 27,11, Jr29111
+              TRASA
+Tr29340:      TRASA 27,14, Jr29340
+              TRASA
+Tr29341:      TRASA 27,11, Jr29341
+              TRASA
+Tr29343:      TRASA 27,11, Jr29343
+              TRASA
+Tr29344:      TRASA 27,14, Jr29344
+              TRASA
+Tr29502:      TRASA 27,11, Jr29502
+              TRASA 32,21, Jr29502a
               TRASA
 Tr29642:      TRASA 27,21, Jr29642
               TRASA
@@ -784,12 +879,25 @@ Tr29646:      TRASA 27,21, Jr29646
               TRASA
 Tr29647:      TRASA 27,22, Jr29647
               TRASA
-Tr3442:       TRASA 32,21, Jr3442
+Tr29840:      TRASA 32,22, Jr29840
               TRASA
-Tr3329:       TRASA 27,18, Jr3329
+Tr29842:      TRASA 32,31, Jr29842
               TRASA
-Tr3443:       TRASA 32,22, Jr3443
-              TRASA 27,13, Jr3443a
+Tr29850:      TRASA 32,22, Jr29850
+              TRASA
+Tr29851:      TRASA 32,21, Jr29851
+              TRASA
+Tr29852:      TRASA 32,22, Jr29852
+              TRASA
+Tr29853:      TRASA 32,21, Jr29853
+              TRASA
+Tr29854:      TRASA 32,22, Jr29854
+              TRASA
+Tr29861:      TRASA 32,22, Jr29861
+              TRASA
+Tr29894:      TRASA 33, 1, Jr29894
+              TRASA
+Tr101619:     TRASA 32,31, Jr101619
               TRASA
 
               ZAROVNEJ
@@ -969,7 +1077,7 @@ Jr1604b:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
               JIZRAD  P,  140,           0:00,   0:00    ;
               JIZRAD  P,  140, (6/6)     0:00,   0:00    ;Bohumin
 Jr1604c:      JIZRAD  Z,  140, (T/T)    06:04,  06:13    ;Ostrava-Svinov
-              JIZRAD  P,  140,          06:16,  06:19    ;
+              JIZRAD  Z,  140,          06:16,  06:19    ;
               JIZRAD  P,  140, (T/T)    06:22,  06:22    ;Dehylov
               JIZRAD  P,  140,          06:24,  06:24    ;
               JIZRAD  Z,  140, (T/T)    06:26*, 06:31    ;Haj vS
@@ -988,7 +1096,7 @@ Jr1605:       BAZE 06:15
               JIZRAD  P,  140,          06:26*, 06:26*   ;
               JIZRAD  P,  140,          06:26,  06:26    ;
               JIZRAD  Z,  140, (T/T)    06:23*, 06:24*   ;Stitina
-              JIZRAD  P,  140,          06:18*, 06:20*   ;
+              JIZRAD  Z,  140,          06:18*, 06:20*   ;
               JIZRAD  Z,  140, (T/T)     0:00,  06:15    ;Opava vychod
 Jr1605a:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prosenice
@@ -1213,7 +1321,7 @@ Jr1608c:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
 
 Jr1609:       BAZE 08:24
               JIZRAD  Z,  140, (5/T)    08:48,  08:53    ;Ostrava-Svinov
-              JIZRAD  P,  140,          08:45,  08:45    ;
+              JIZRAD  Z,  140,          08:45,  08:45    ;
               JIZRAD  P,  140, (T/T)    08:41*, 08:41*   ;Dehylov
               JIZRAD  P,  140,          08:39,  08:39    ;
               JIZRAD  Z,  140, (T/T)    08:35*, 08:36*   ;Haj vS
@@ -1359,7 +1467,7 @@ Jr1612a:      JIZRAD  P,  140, (4/4)     0:00,   0:00    ;Ostrava hln
 
 Jr1613:       BAZE 10:24
               JIZRAD  Z,  140, (5/T)    10:48,  10:53    ;Ostrava-Svinov
-              JIZRAD  P,  140,          10:45,  10:45    ;
+              JIZRAD  Z,  140,          10:45,  10:45    ;
               JIZRAD  P,  140, (T/T)    10:41*, 10:41*   ;Dehylov
               JIZRAD  P,  140,          10:39,  10:39    ;
               JIZRAD  Z,  140, (T/T)    10:35*, 10:36*   ;Haj vS
@@ -1476,7 +1584,7 @@ Jr1620a:      JIZRAD  P,  140, (4/4)     0:00,   0:00    ;Ostrava hln
 
 Jr1621:       BAZE 14:24
               JIZRAD  Z,  140, (5/T)    14:48,  14:53    ;Ostrava-Svinov
-              JIZRAD  P,  140,          14:45,  14:45    ;
+              JIZRAD  Z,  140,          14:45,  14:45    ;
               JIZRAD  P,  140, (T/T)    14:41*, 14:41*   ;Dehylov
               JIZRAD  P,  140,          14:39,  14:39    ;
               JIZRAD  Z,  140, (T/T)    14:35*, 14:36*   ;Haj vS
@@ -1752,7 +1860,7 @@ Jr1627a:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Ostrava-Svinov
 
 Jr1629:       BAZE 18:24
               JIZRAD  Z,  140, (5/T)    18:48,  18:53    ;Ostrava-Svinov
-              JIZRAD  P,  140,          18:45,  18:45    ;
+              JIZRAD  Z,  140,          18:45,  18:45    ;
               JIZRAD  P,  140, (T/T)    18:41*, 18:41*   ;Dehylov
               JIZRAD  P,  140,          18:39,  18:39    ;
               JIZRAD  Z,  140, (T/T)    18:36,  18:36*   ;Haj vS
@@ -1843,7 +1951,7 @@ Jr1630b:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
               JIZRAD  P,  140, (6/6)     0:00,   0:00    ;Bohumin
 Jr1630c:      JIZRAD  Z,  140, (T/T)    19:08,  19:13    ;Ostrava-Svinov
               JIZRAD  P,  140,          19:15*, 19:15*   ;
-              JIZRAD  P,  140, (T/T)    19:18*, 19:18*   ;Dehylov
+              JIZRAD  Z,  140, (T/T)    19:18*, 19:18*   ;Dehylov
               JIZRAD  P,  140,          19:21,  19:21    ;
               JIZRAD  Z,  140, (T/T)    19:23*, 19:24    ;Haj vS
               JIZRAD  P,  140,          19:26*, 19:26*   ;
@@ -1852,39 +1960,17 @@ Jr1630c:      JIZRAD  Z,  140, (T/T)    19:08,  19:13    ;Ostrava-Svinov
               JIZRAD  P,  140,          19:32*, 19:32*   ;
               JIZRAD  Z,  140, (T/T)    19:36,   0:00    ;Opava vychod
 
-Jr1631:       BAZE 20:03
-              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Ostrava hln
-              JIZRAD  P,    0,           0:00,   0:00    ;Ostrava ban.n.
-              JIZRAD  Z,  120,           0:00,  20:03    ;
-              JIZRAD  Z,  120, (5/5)    20:05,  20:06    ;Ostrava stred
-              JIZRAD  P,  120,          20:08*, 20:08*   ;
-              JIZRAD  Z,  120, (5/T)    20:11,  20:12    ;Ostrava-Kuncice
-Jr1631a:      JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Ostrava-Svinov
-              JIZRAD  P,  120,           0:00,   0:00    ;odb Odra
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Ostrava-Vitkovice
-              JIZRAD  Z,  120, (5/5)    20:11,  20:12    ;Ostrava-Kuncice
-              JIZRAD  P,  120, (4/6)    20:16*, 20:16*   ;Ostrava-Bartovice
-              JIZRAD  Z,  120,          20:18,  20:18    ;
-              JIZRAD  Z,  120, (T/T)    20:22,  20:23    ;Havirov
-              JIZRAD  Z,  120,          20:26,  20:26*   ;
-              JIZRAD  Z,  120,          20:28*, 20:28*   ;
-              JIZRAD  Z,  120,          20:30*, 20:31    ;
-              JIZRAD  Z,  120, (T/T)    20:33*, 20:34    ;Albrechtice uCT
-              JIZRAD  Z,  120,          20:39,  20:39*   ;Odb Chotebuz
-              JIZRAD  Z,  120, (6/6)    20:44,   0:00    ;Cesky Tesin
-
 Jr1633:       BAZE 20:24
-              JIZRAD  Z,  120, (5/T)    20:48,   0:00    ;Ostrava-Svinov
-              JIZRAD  P,  120,          20:45,  20:45    ;
-              JIZRAD  P,  120, (T/T)    20:41*, 20:41*   ;Dehylov
-              JIZRAD  P,  120,          20:39,  20:39    ;
-              JIZRAD  Z,  120, (T/T)    20:35*, 20:36*   ;Haj vS
-              JIZRAD  P,  120,          20:32*, 20:32*   ;
-              JIZRAD  P,  120,          20:32,  20:32    ;
-              JIZRAD  Z,  120, (T/T)    20:30,  20:30*   ;Stitina
-              JIZRAD  P,  120,          20:27*, 20:27*   ;
-              JIZRAD  Z,  120, (T/T)     0:00,  20:24    ;Opava vychod
+              JIZRAD  Z,  140, (5/T)    20:48,   0:00    ;Ostrava-Svinov
+              JIZRAD  Z,  140,          20:45,  20:45    ;
+              JIZRAD  P,  140, (T/T)    20:41*, 20:41*   ;Dehylov
+              JIZRAD  P,  140,          20:39,  20:39    ;
+              JIZRAD  Z,  140, (T/T)    20:35*, 20:36*   ;Haj vS
+              JIZRAD  P,  140,          20:32*, 20:32*   ;
+              JIZRAD  P,  140,          20:32,  20:32    ;
+              JIZRAD  Z,  140, (T/T)    20:30,  20:30*   ;Stitina
+              JIZRAD  P,  140,          20:27*, 20:27*   ;
+              JIZRAD  Z,  140, (T/T)     0:00,  20:24    ;Opava vychod
 
 Jr2800:       BAZE 03:54
               JIZRAD  P,  120, (6/6)     0:00,   0:00    ;Bohumin
@@ -1972,41 +2058,6 @@ Jr2802:       BAZE 04:45
               JIZRAD  Z,  140,          04:49*, 04:50    ;Odb Chotebuz
               JIZRAD  Z,  140, (T/T)     0:00,  04:45    ;Cesky Tesin
 
-Jr2803:       BAZE 05:09
-              JIZRAD  Z,  140, (T/T)     0:00,  05:09    ;Ostrava-Svinov
-              JIZRAD  P,  140,          05:12*, 05:12*   ;odb Odra
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  Z,  140, (T/T)    05:16,  05:17    ;Ostrava-Vitkovice
-              JIZRAD  Z,  140, (5/5)    05:21,  05:30    ;Ostrava-Kuncice
-              JIZRAD  Z,  140, (4/6)    05:34*, 05:35    ;Ostrava-Bartovice
-              JIZRAD  Z,  140,          05:37*, 05:37*   ;
-              JIZRAD  Z,  140, (T/T)    05:41,  05:42    ;Havirov
-              JIZRAD  Z,  140,          05:44*, 05:45    ;
-              JIZRAD  Z,  140,          05:47,  05:47    ;
-              JIZRAD  Z,  140,          05:49,  05:49*   ;
-              JIZRAD  Z,  140, (T/T)    05:52,  05:52*   ;Albrechtice uCT
-              JIZRAD  Z,  140,          05:57*, 05:58    ;Odb Chotebuz
-              JIZRAD  Z,  140, (6/6)    06:03,  06:05    ;Cesky Tesin
-Jr2803a:      JIZRAD  P,  140, (6/6)     0:00,   0:00    ;Bohumin
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (10/T)    0:00,   0:00    ;Detmarovice
-              JIZRAD  P,  140,           0:00,   0:00    ;odb Koukolna
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Karvina hln
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (4/T)     0:00,   0:00    ;Louky nO
-              JIZRAD  Z,  140,          05:57*, 05:58    ;Odb Chotebuz
-              JIZRAD  Z,  140, (T/T)    06:03,  06:05    ;Cesky Tesin
-              JIZRAD  Z,  140,          06:07*, 06:07*   ;
-              JIZRAD  Z,  140,          06:09*, 06:10    ;
-              JIZRAD  Z,  140, (T/T)    06:12*, 06:13*   ;Trinec
-              JIZRAD  Z,  140,          06:16,  06:16*   ;
-              JIZRAD  Z,  140,          06:18*, 06:19    ;
-              JIZRAD  Z,  140, (T/T)    06:21*, 06:22*   ;Bystrice
-              JIZRAD  Z,  140,          06:25,  06:25*   ;
-              JIZRAD  Z,  140, (T/T)    06:29,   0:00    ;Navsi
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (5/5)     0:00,   0:00    ;Mosty uJ
-
 Jr2805:       BAZE 06:24
               JIZRAD  Z,  140, (T/T)     0:00,  06:24    ;Ostrava-Svinov
               JIZRAD  P,  140,          06:27*, 06:27*   ;odb Odra
@@ -2074,38 +2125,22 @@ Jr2819a:      JIZRAD  P,  140, (6/6)     0:00,   0:00    ;Bohumin
               JIZRAD  P,  140,           0:00,   0:00    ;
               JIZRAD  P,  140, (5/5)     0:00,   0:00    ;Mosty uJ
 
-Jr2835:       BAZE 21:24
-              JIZRAD  Z,  120, (T/T)     0:00,  21:24    ;Ostrava-Svinov
-              JIZRAD  P,  120,          21:27*, 21:27*   ;odb Odra
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  Z,  120, (T/T)    21:31,  21:32    ;Ostrava-Vitkovice
-              JIZRAD  Z,  120, (5/5)    21:36,  21:40    ;Ostrava-Kuncice
-              JIZRAD  Z,  120, (4/6)    21:44*, 21:45    ;Ostrava-Bartovice
-              JIZRAD  Z,  120,          21:47*, 21:47*   ;
-              JIZRAD  Z,  120, (T/T)    21:51*, 21:52*   ;Havirov
-              JIZRAD  Z,  120,          21:55*, 21:56    ;
-              JIZRAD  Z,  120,          21:58,  21:58    ;
-              JIZRAD  Z,  120,          22:00*, 22:01    ;
-              JIZRAD  Z,  120, (T/T)    22:03*, 22:04    ;Albrechtice uCT
-              JIZRAD  Z,  120,          22:09,  22:09*   ;Odb Chotebuz
-              JIZRAD  Z,  120, (6/6)    22:14,   0:00    ;Cesky Tesin
-
-Jr2836:       BAZE 22:00
-              JIZRAD  Z,  140, (T/T)    22:47,  23:00    ;Ostrava-Svinov
-              JIZRAD  P,  140,          22:43*, 22:43*   ;odb Odra
+Jr2838:       BAZE 22:45
+              JIZRAD  Z,  140, (T/T)    23:33,  23:38    ;Ostrava-Svinov
+              JIZRAD  P,  140,          23:29*, 23:29*   ;odb Odra
               JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  Z,  140, (T/T)    22:40,  22:41    ;Ostrava-Vitkovice
-              JIZRAD  Z,  140, (T/T)    22:35,  22:36    ;Ostrava-Kuncice
-              JIZRAD  Z,  140, (4/4)    22:30*, 22:31    ;Ostrava-Bartovice
-              JIZRAD  Z,  140,          22:27*, 22:27*   ;
-              JIZRAD  Z,  140, (T/T)    22:22*, 22:23*   ;Havirov
-              JIZRAD  Z,  140,          22:19,  22:19*   ;
-              JIZRAD  Z,  140,          22:17,  22:17    ;
-              JIZRAD  Z,  140,          22:14,  22:14*   ;
-              JIZRAD  Z,  140, (T/T)    22:10*, 22:11    ;Albrechtice uCT
-              JIZRAD  Z,  140,          22:04*, 22:05    ;Odb Chotebuz
-              JIZRAD  Z,  140, (T/T)     0:00,  22:00    ;Cesky Tesin
-Jr2836a:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  Z,  140, (T/T)    23:26,  23:27    ;Ostrava-Vitkovice
+              JIZRAD  Z,  140, (T/T)    23:20,  23:22    ;Ostrava-Kuncice
+              JIZRAD  Z,  140, (4/4)    23:15*, 23:16    ;Ostrava-Bartovice
+              JIZRAD  Z,  140,          23:12*, 23:12*   ;
+              JIZRAD  Z,  140, (T/T)    23:07*, 23:08*   ;Havirov
+              JIZRAD  Z,  140,          23:04,  23:04*   ;
+              JIZRAD  Z,  140,          23:02,  23:02    ;
+              JIZRAD  Z,  140,          22:59,  22:59*   ;
+              JIZRAD  Z,  140, (T/T)    22:55*, 22:56    ;Albrechtice uCT
+              JIZRAD  Z,  140,          22:49*, 22:50    ;Odb Chotebuz
+              JIZRAD  Z,  140, (T/T)     0:00,  22:45    ;Cesky Tesin
+Jr2838a:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prosenice
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Lipnik nB
@@ -2119,53 +2154,88 @@ Jr2836a:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Studenka
               JIZRAD  P,  140,           0:00,   0:00    ;
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polanka
-              JIZRAD  Z,  140, (T/T)    22:47,  23:00    ;Ostrava-Svinov
-              JIZRAD  P,  140,          23:03*, 23:03*   ;
-              JIZRAD  P,  140, (T/T)    23:06,  23:06    ;Ostrava hln
-              JIZRAD  P,  140,          23:09*, 23:09*   ;
-              JIZRAD  Z,  140, (6/6)    23:12,   0:00    ;Bohumin
+              JIZRAD  Z,  140, (T/T)    23:33,  23:38    ;Ostrava-Svinov
+              JIZRAD  P,  140,          23:41,  23:41    ;
+              JIZRAD  P,  140, (T/T)    23:43,  23:43    ;Ostrava hln
+              JIZRAD  P,  140,          23:46,  23:46    ;
+              JIZRAD  Z,  140, (6/6)    23:49,   0:00    ;Bohumin
 
-Jr2838:       BAZE 22:45
-              JIZRAD  Z,  120, (T/T)    23:33,  23:38    ;Ostrava-Svinov
-              JIZRAD  P,  120,          23:29*, 23:29*   ;odb Odra
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  Z,  120, (T/T)    23:26,  23:27    ;Ostrava-Vitkovice
-              JIZRAD  Z,  120, (T/T)    23:20,  23:22    ;Ostrava-Kuncice
-              JIZRAD  Z,  120, (4/4)    23:15*, 23:16    ;Ostrava-Bartovice
-              JIZRAD  Z,  120,          23:12*, 23:12*   ;
-              JIZRAD  Z,  120, (T/T)    23:07*, 23:08*   ;Havirov
-              JIZRAD  Z,  120,          23:04,  23:04*   ;
-              JIZRAD  Z,  120,          23:02,  23:02    ;
-              JIZRAD  Z,  120,          22:59,  22:59*   ;
-              JIZRAD  Z,  120, (T/T)    22:55*, 22:56    ;Albrechtice uCT
-              JIZRAD  Z,  120,          22:49*, 22:50    ;Odb Chotebuz
-              JIZRAD  Z,  120, (T/T)     0:00,  22:45    ;Cesky Tesin
-Jr2838a:      JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Prerov
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Prosenice
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Lipnik nB
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Hranice nM
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Polom
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Suchdol nO
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Studenka
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Polanka
-              JIZRAD  Z,  120, (T/T)    23:33,  23:38    ;Ostrava-Svinov
-              JIZRAD  P,  120,          23:41,  23:41    ;
-              JIZRAD  P,  120, (T/T)    23:43,  23:43    ;Ostrava hln
-              JIZRAD  P,  120,          23:46,  23:46    ;
-              JIZRAD  Z,  120, (6/6)    23:49,   0:00    ;Bohumin
-
-Jr2839:       BAZE 05:09
-              JIZRAD  Z,  140, (T/T)     0:00,  05:09    ;Ostrava-Svinov
-              JIZRAD  P,  140,          05:12*, 05:12*   ;odb Odra
+Jr2840:       BAZE 21:46
+              JIZRAD  Z,  140, (T/T)    22:39,  22:46    ;Ostrava-Svinov
+              JIZRAD  P,  140,          22:35,  22:35    ;odb Odra
               JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  Z,  140, (T/T)    05:16,  05:17    ;Ostrava-Vitkovice
-              JIZRAD  Z,  140, (5/5)    05:21,  05:40    ;Ostrava-Kuncice
+              JIZRAD  Z,  140, (T/T)    22:25,  22:32*   ;Ostrava-Vitkovice
+              JIZRAD  Z,  140, (T/T)    22:20,  22:21    ;Ostrava-Kuncice
+              JIZRAD  Z,  140, (4/4)    22:15*, 22:16    ;Ostrava-Bartovice
+              JIZRAD  Z,  140,          22:12*, 22:12*   ;
+              JIZRAD  Z,  140, (T/T)    22:08,  22:08*   ;Havirov
+              JIZRAD  Z,  140,          22:04*, 22:05    ;
+              JIZRAD  Z,  140,          22:02*, 22:02*   ;
+              JIZRAD  Z,  140,          21:59*, 22:00    ;
+              JIZRAD  Z,  140, (T/T)    21:56,  21:56*   ;Albrechtice uCT
+              JIZRAD  Z,  140,          21:50*, 21:50*   ;Odb Chotebuz
+              JIZRAD  Z,  140, (T/T)     0:00,  21:46    ;Cesky Tesin
+Jr2840a:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  140, (T/T)    22:39,  22:46    ;Ostrava-Svinov
+              JIZRAD  P,  140,          22:49,  22:49    ;
+              JIZRAD  P,  140, (T/T)    22:51,  22:51    ;Ostrava hln
+              JIZRAD  P,  140,          22:54,  22:54    ;
+              JIZRAD  Z,  140, (6/6)    22:57,   0:00    ;Bohumin
+
+Jr2841:       BAZE 05:05
+              JIZRAD  Z,  140, (T/T)     0:00,  05:05    ;Ostrava-Svinov
+              JIZRAD  P,  140,          05:08*, 05:08*   ;odb Odra
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  Z,  140, (T/T)    05:12,  05:13    ;Ostrava-Vitkovice
+              JIZRAD  Z,  140, (5/5)    05:17,  05:30    ;Ostrava-Kuncice
+              JIZRAD  Z,  140, (4/6)    05:34*, 05:35    ;Ostrava-Bartovice
+              JIZRAD  Z,  140,          05:37*, 05:37*   ;
+              JIZRAD  Z,  140, (T/T)    05:41,  05:42    ;Havirov
+              JIZRAD  Z,  140,          05:44*, 05:45    ;
+              JIZRAD  Z,  140,          05:47,  05:47    ;
+              JIZRAD  Z,  140,          05:49,  05:49*   ;
+              JIZRAD  Z,  140, (T/T)    05:52,  05:52*   ;Albrechtice uCT
+              JIZRAD  Z,  140,          05:57*, 05:58    ;Odb Chotebuz
+              JIZRAD  Z,  140, (6/6)    06:03,  06:05    ;Cesky Tesin
+Jr2841a:      JIZRAD  P,  140, (6/6)     0:00,   0:00    ;Bohumin
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (10/T)    0:00,   0:00    ;Detmarovice
+              JIZRAD  P,  140,           0:00,   0:00    ;odb Koukolna
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Karvina hln
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (4/T)     0:00,   0:00    ;Louky nO
+              JIZRAD  Z,  140,          05:57*, 05:58    ;Odb Chotebuz
+              JIZRAD  Z,  140, (T/T)    06:03,  06:05    ;Cesky Tesin
+              JIZRAD  Z,  140,          06:07*, 06:07*   ;
+              JIZRAD  Z,  140,          06:09*, 06:10    ;
+              JIZRAD  Z,  140, (T/T)    06:12*, 06:13*   ;Trinec
+              JIZRAD  Z,  140,          06:16,  06:16*   ;
+              JIZRAD  Z,  140,          06:18*, 06:19    ;
+              JIZRAD  Z,  140, (T/T)    06:21*, 06:22*   ;Bystrice
+              JIZRAD  Z,  140,          06:25,  06:25*   ;
+              JIZRAD  Z,  140, (T/T)    06:29,   0:00    ;Navsi
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (5/5)     0:00,   0:00    ;Mosty uJ
+
+Jr2843:       BAZE 05:05
+              JIZRAD  Z,  140, (T/T)     0:00,  05:05    ;Ostrava-Svinov
+              JIZRAD  P,  140,          05:08*, 05:08*   ;odb Odra
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  Z,  140, (T/T)    05:12,  05:13    ;Ostrava-Vitkovice
+              JIZRAD  Z,  140, (5/5)    05:17,  05:40    ;Ostrava-Kuncice
               JIZRAD  Z,  140, (4/6)    05:44*, 05:45    ;Ostrava-Bartovice
               JIZRAD  Z,  140,          05:47*, 05:47*   ;
               JIZRAD  Z,  140, (T/T)    05:51,  05:52    ;Havirov
@@ -2309,41 +2379,6 @@ Jr2864a:      JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Prerov
               JIZRAD  Z,  120, (T/T)    12:50,   0:00    ;Ostrava hln
               JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  P,  120, (6/6)     0:00,   0:00    ;Bohumin
-
-Jr2865:       BAZE 06:36
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Prerov
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Prosenice
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Lipnik nB
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Hranice nM
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Polom
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Suchdol nO
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (6/6)     0:00,   0:00    ;Studenka
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Polanka
-              JIZRAD  Z,  120, (T/T)    06:42,  06:53    ;Ostrava-Svinov
-              JIZRAD  P,  120,          06:38*, 06:38*   ;
-              JIZRAD  Z,  120, (T/T)     0:00,  06:36    ;Ostrava hln
-              JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  P,    0, (6/6)     0:00,   0:00    ;Bohumin
-Jr2865a:      JIZRAD  Z,  120, (T/T)    06:42,  06:53    ;Ostrava-Svinov
-              JIZRAD  P,  120,          06:56*, 06:56*   ;odb Odra
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  Z,  120, (T/T)    07:00,  07:01    ;Ostrava-Vitkovice
-              JIZRAD  Z,  120, (5/5)    07:05,   0:00    ;Ostrava-Kuncice
-              JIZRAD  P,  120, (4/6)     0:00,   0:00    ;Ostrava-Bartovice
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Havirov
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Albrechtice uCT
-              JIZRAD  P,  120,           0:00,   0:00    ;Odb Chotebuz
-              JIZRAD  P,  120, (6/6)     0:00,   0:00    ;Cesky Tesin
 
 Jr2866:       BAZE 08:51
               JIZRAD  Z,  160, (T/T)    09:02,   0:00    ;Ostrava-Svinov
@@ -2510,57 +2545,38 @@ Jr2878:       BAZE 18:51
               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Albrechtice uCT
               JIZRAD  P,    0,           0:00,   0:00    ;Odb Chotebuz
               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Cesky Tesin
-Jr2878a:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prosenice
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Lipnik nB
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Hranice nM
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polom
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Suchdol nO
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Studenka
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polanka
-              JIZRAD  Z,  140, (T/T)    19:02,  19:20    ;Ostrava-Svinov
-              JIZRAD  P,  140,          19:23,  19:23    ;
-              JIZRAD  P,  140, (T/T)    19:25,  19:25    ;Ostrava hln
-              JIZRAD  P,  140,          19:27*, 19:27*   ;
-              JIZRAD  Z,  140, (6/6)    19:31,   0:00    ;Bohumin
 
-Jr2891:       BAZE 06:18
-              JIZRAD  Z,  120, (T/T)     0:00,  06:18    ;Ostrava-Svinov
-              JIZRAD  P,  120,          06:21*, 06:21*   ;odb Odra
+Jr2890:       BAZE 07:37
+              JIZRAD  Z,  120, (T/T)    07:47,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  120,          07:43*, 07:43*   ;odb Odra
               JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)    06:25,  06:25    ;Ostrava-Vitkovice
-              JIZRAD  Z,  120, (5/5)    06:29,   0:00    ;Ostrava-Kuncice
-              JIZRAD  P,  120, (4/6)     0:00,   0:00    ;Ostrava-Bartovice
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Havirov
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Albrechtice uCT
-              JIZRAD  P,  120,           0:00,   0:00    ;Odb Chotebuz
-              JIZRAD  P,  120, (6/6)     0:00,   0:00    ;Cesky Tesin
+              JIZRAD  P,  120, (T/T)    07:41,  07:41    ;Ostrava-Vitkovice
+              JIZRAD  Z,  120, (T/T)     0:00,  07:37    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Ostrava-Bartovice
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Havirov
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Albrechtice uCT
+              JIZRAD  P,    0,           0:00,   0:00    ;Odb Chotebuz
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Cesky Tesin
 
-Jr2893:       BAZE 22:56
-              JIZRAD  Z,  140, (T/T)     0:00,  22:56    ;Ostrava-Svinov
-              JIZRAD  P,  140,          22:59,  22:59    ;odb Odra
+Jr2895:       BAZE 06:38
+              JIZRAD  Z,  140, (T/T)     0:00,  06:38    ;Ostrava-Svinov
+              JIZRAD  P,  140,          06:41*, 06:41*   ;odb Odra
               JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)    23:03,  23:03    ;Ostrava-Vitkovice
-              JIZRAD  P,  140, (5/5)    23:06,  23:06    ;Ostrava-Kuncice
-              JIZRAD  P,  140, (4/6)    23:09,  23:09    ;Ostrava-Bartovice
-              JIZRAD  P,  140,          23:10,  23:10    ;
-              JIZRAD  P,  140, (T/T)    23:14,  23:14    ;Havirov
-              JIZRAD  P,  140,          23:15*, 23:15*   ;
-              JIZRAD  P,  140,          23:16*, 23:16*   ;
-              JIZRAD  P,  140,          23:18,  23:18    ;
-              JIZRAD  P,  140, (T/T)    23:20,  23:20    ;Albrechtice uCT
-              JIZRAD  P,  140,          23:24*, 23:24*   ;Odb Chotebuz
-              JIZRAD  Z,  140, (6/6)    23:29,   0:00    ;Cesky Tesin
+              JIZRAD  P,  140, (T/T)    06:45,  06:45    ;Ostrava-Vitkovice
+              JIZRAD  Z,  140, (5/5)    06:49,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,  140, (4/6)     0:00,   0:00    ;Ostrava-Bartovice
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Havirov
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Albrechtice uCT
+              JIZRAD  P,  140,           0:00,   0:00    ;Odb Chotebuz
+              JIZRAD  P,  140, (6/6)     0:00,   0:00    ;Cesky Tesin
 
 Jr2898:       BAZE 00:16
               JIZRAD  P,  140, (6/6)     0:00,   0:00    ;Bohumin
@@ -2783,7 +2799,7 @@ Jr2921:       BAZE 04:49
               JIZRAD  Z,  140,          05:38,  05:38*   ;
               JIZRAD  Z,  140, (T/T)    05:41,  05:42    ;Navsi
               JIZRAD  Z,  140,          05:45,  05:45*   ;
-              JIZRAD  Z,  140, (5/5)    05:51,   0:00    ;Mosty uJ
+              JIZRAD  Z,  140, (5/5)    05:51,  05:52    ;Mosty uJ
 
 Jr2922:       BAZE 05:15
               JIZRAD  Z,  140, (6/6)    06:10,  06:11    ;Bohumin
@@ -2864,46 +2880,6 @@ Jr2923a:      JIZRAD  Z,  140, (6/6)    05:48,  05:49    ;Bohumin
               JIZRAD  Z,  140, (T/T)    06:46*, 06:47*   ;Navsi
               JIZRAD  Z,  140,          06:50*, 06:51    ;
               JIZRAD  Z,  140, (5/5)    06:56,   0:00    ;Mosty uJ
-
-Jr2924:       BAZE 06:06
-              JIZRAD  Z,  140, (6/6)    07:10,  07:11    ;Bohumin
-              JIZRAD  Z,  140,          07:06,  07:06*   ;
-              JIZRAD  Z,  140, (T/10)   07:02*, 07:03    ;Detmarovice
-              JIZRAD  P,  140,          07:00*, 07:00*   ;odb Koukolna
-              JIZRAD  Z,  140, (T/T)    06:57,  06:58    ;Karvina hln
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  Z,  140, (T/4)    06:47,  06:47    ;Louky nO
-              JIZRAD  Z,  140,          06:44*, 06:45    ;Odb Chotebuz
-              JIZRAD  Z,  140, (T/6)    06:37,  06:40*   ;Cesky Tesin
-              JIZRAD  Z,  140,          06:34*, 06:34*   ;
-              JIZRAD  Z,  140,          06:32,  06:32*   ;
-              JIZRAD  Z,  140, (T/T)    06:29,  06:30    ;Trinec
-              JIZRAD  Z,  140,          06:26,  06:26*   ;
-              JIZRAD  Z,  140,          06:23*, 06:24    ;
-              JIZRAD  Z,  140, (8/8)    06:20*, 06:21    ;Bystrice
-              JIZRAD  Z,  140,          06:17*, 06:18    ;
-              JIZRAD  Z,  140, (8/8)    06:14,  06:15    ;Navsi
-              JIZRAD  Z,  140,          06:10*, 06:11    ;
-              JIZRAD  Z,  140, (T/T)     0:00,  06:06    ;Mosty uJ
-Jr2924a:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prosenice
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Lipnik nB
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Hranice nM
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polom
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Suchdol nO
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (6/6)     0:00,   0:00    ;Studenka
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polanka
-              JIZRAD  Z,  140, (T/T)    07:24,   0:00    ;Ostrava-Svinov
-              JIZRAD  P,  140,          07:20,  07:20    ;
-              JIZRAD  Z,  140, (T/T)    07:17,  07:18    ;Ostrava hln
-              JIZRAD  P,  140,          07:13*, 07:13*   ;
-              JIZRAD  Z,  140, (6/6)    07:10,  07:11    ;Bohumin
 
 Jr2925:       BAZE 06:34
               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
@@ -3105,46 +3081,6 @@ Jr2930a:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
               JIZRAD  P,  140,          10:15*, 10:15*   ;
               JIZRAD  Z,  140, (6/6)    10:12,  10:13    ;Bohumin
 
-Jr2931:       BAZE 09:34
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
-              JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hranice nM
-              JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
-              JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
-              JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Studenka
-              JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polanka
-              JIZRAD  Z,  140, (T/T)     0:00,  09:34    ;Ostrava-Svinov
-              JIZRAD  P,  140,          09:37*, 09:37*   ;
-              JIZRAD  Z,  140, (T/T)    09:40,  09:42    ;Ostrava hln
-              JIZRAD  P,  140,          09:46,  09:46    ;
-              JIZRAD  Z,  140, (6/6)    09:48,  09:49    ;Bohumin
-Jr2931a:      JIZRAD  Z,  140, (6/6)    09:48,  09:49    ;Bohumin
-              JIZRAD  Z,  140,          09:52,  09:52*   ;
-              JIZRAD  Z,  140, (10/T)   09:55*, 09:56    ;Detmarovice
-              JIZRAD  P,  140,          09:57*, 09:57*   ;odb Koukolna
-              JIZRAD  Z,  140, (T/T)    10:00*, 10:01*   ;Karvina hln
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  Z,  140, (4/T)    10:10*, 10:10*   ;Louky nO
-              JIZRAD  Z,  140,          10:12*, 10:13    ;Odb Chotebuz
-              JIZRAD  Z,  140, (T/T)    10:16*, 10:18    ;Cesky Tesin
-              JIZRAD  Z,  140,          10:20*, 10:20*   ;
-              JIZRAD  Z,  140,          10:22*, 10:23    ;
-              JIZRAD  Z,  140, (T/T)    10:25*, 10:26*   ;Trinec
-              JIZRAD  Z,  140,          10:29,  10:29*   ;
-              JIZRAD  Z,  140,          10:31*, 10:32    ;
-              JIZRAD  Z,  140, (T/T)    10:35,  10:39*   ;Bystrice
-              JIZRAD  Z,  140,          10:42*, 10:43    ;
-              JIZRAD  Z,  140, (T/T)    10:45*, 10:46*   ;Navsi
-              JIZRAD  Z,  140,          10:49*, 10:50    ;
-              JIZRAD  Z,  140, (5/5)    10:55,   0:00    ;Mosty uJ
-
 Jr2938:       BAZE 13:06
               JIZRAD  Z,  140, (6/6)    14:12,  14:13    ;Bohumin
               JIZRAD  Z,  140,          14:08,  14:08*   ;
@@ -3223,7 +3159,7 @@ Jr2939a:      JIZRAD  Z,  140, (6/6)    13:48,  13:49    ;Bohumin
               JIZRAD  Z,  140,          14:42*, 14:43    ;
               JIZRAD  Z,  140, (T/T)    14:45*, 14:46*   ;Navsi
               JIZRAD  Z,  140,          14:49*, 14:50    ;
-              JIZRAD  Z,  140, (5/5)    14:55,   0:00    ;Mosty uJ
+              JIZRAD  Z,  140, (5/5)    14:55,  14:56    ;Mosty uJ
 
 Jr2941:       BAZE 14:11
               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
@@ -3505,6 +3441,46 @@ Jr2957a:      JIZRAD  Z,  140, (6/6)    22:48,  22:57    ;Bohumin
               JIZRAD  P,  140,           0:00,   0:00    ;
               JIZRAD  P,  140, (5/5)     0:00,   0:00    ;Mosty uJ
 
+Jr2958:       BAZE 06:06
+              JIZRAD  Z,  140, (6/6)    07:10,  07:11    ;Bohumin
+              JIZRAD  Z,  140,          07:06,  07:06*   ;
+              JIZRAD  Z,  140, (T/10)   07:02*, 07:03    ;Detmarovice
+              JIZRAD  P,  140,          07:00*, 07:00*   ;odb Koukolna
+              JIZRAD  Z,  140, (T/T)    06:57,  06:58    ;Karvina hln
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  Z,  140, (T/4)    06:47,  06:47    ;Louky nO
+              JIZRAD  Z,  140,          06:44*, 06:45    ;Odb Chotebuz
+              JIZRAD  Z,  140, (T/6)    06:37,  06:40*   ;Cesky Tesin
+              JIZRAD  Z,  140,          06:34*, 06:34*   ;
+              JIZRAD  Z,  140,          06:32,  06:32*   ;
+              JIZRAD  Z,  140, (T/T)    06:29,  06:30    ;Trinec
+              JIZRAD  Z,  140,          06:26,  06:26*   ;
+              JIZRAD  Z,  140,          06:23*, 06:24    ;
+              JIZRAD  Z,  140, (8/8)    06:20*, 06:21    ;Bystrice
+              JIZRAD  Z,  140,          06:17*, 06:18    ;
+              JIZRAD  Z,  140, (8/8)    06:14,  06:15    ;Navsi
+              JIZRAD  Z,  140,          06:10*, 06:11    ;
+              JIZRAD  Z,  140, (T/T)     0:00,  06:06    ;Mosty uJ
+Jr2958a:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  140, (T/T)    07:24,   0:00    ;Ostrava-Svinov
+              JIZRAD  Z,  140,          07:20*, 07:20*   ;
+              JIZRAD  Z,  140, (T/T)    07:17,  07:18    ;Ostrava hln
+              JIZRAD  P,  140,          07:13*, 07:13*   ;
+              JIZRAD  Z,  140, (6/6)    07:10,  07:11    ;Bohumin
+
 Jr2991:       BAZE 03:10
               JIZRAD  Z,  120, (6/6)     0:00,  03:10    ;Bohumin
               JIZRAD  P,  120,          03:13,  03:13    ;
@@ -3525,27 +3501,6 @@ Jr2991:       BAZE 03:10
               JIZRAD  Z,  120, (T/T)    03:44,   0:00    ;Navsi
               JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  P,  120, (5/5)     0:00,   0:00    ;Mosty uJ
-
-Jr2992:       BAZE 19:55
-              JIZRAD  Z,  140, (6/6)    20:16,   0:00    ;Bohumin
-              JIZRAD  P,  140,          20:12*, 20:12*   ;
-              JIZRAD  P,  140, (T/10)   20:11,  20:11    ;Detmarovice
-              JIZRAD  P,  140,          20:09*, 20:09*   ;odb Koukolna
-              JIZRAD  P,  140, (T/T)    20:08,  20:08    ;Karvina hln
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/4)    19:59*, 19:59*   ;Louky nO
-              JIZRAD  P,  140,          19:58*, 19:58*   ;Odb Chotebuz
-              JIZRAD  Z,  140, (T/6)     0:00,  19:55    ;Cesky Tesin
-              JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Trinec
-              JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  P,    0, (8/8)     0:00,   0:00    ;Bystrice
-              JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  P,    0, (8/8)     0:00,   0:00    ;Navsi
-              JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Mosty uJ
 
 Jr2993:       BAZE 03:46
               JIZRAD  P,    0, (6/6)     0:00,   0:00    ;Bohumin
@@ -3568,26 +3523,26 @@ Jr2993:       BAZE 03:46
               JIZRAD  P,  140,          03:48*, 03:48*   ;
               JIZRAD  Z,  140, (5/5)    03:53,   0:00    ;Mosty uJ
 
-Jr2995:       BAZE 03:48
-              JIZRAD  P,    0, (6/6)     0:00,   0:00    ;Bohumin
+Jr2994:       BAZE 17:58
+              JIZRAD  Z,  140, (6/6)    18:19,   0:00    ;Bohumin
+              JIZRAD  P,  140,          18:15*, 18:15*   ;
+              JIZRAD  P,  140, (T/10)   18:14,  18:14    ;Detmarovice
+              JIZRAD  P,  140,          18:12*, 18:12*   ;odb Koukolna
+              JIZRAD  P,  140, (T/T)    18:11,  18:11    ;Karvina hln
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/4)    18:02*, 18:02*   ;Louky nO
+              JIZRAD  P,  140,          18:01*, 18:01*   ;Odb Chotebuz
+              JIZRAD  Z,  140, (T/6)     0:00,  17:58    ;Cesky Tesin
               JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  P,    0, (10/T)    0:00,   0:00    ;Detmarovice
-              JIZRAD  P,    0,           0:00,   0:00    ;odb Koukolna
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Karvina hln
               JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  P,    0, (4/T)     0:00,   0:00    ;Louky nO
-              JIZRAD  P,    0,           0:00,   0:00    ;Odb Chotebuz
-              JIZRAD  Z,  140, (T/T)     0:00,  03:48    ;Cesky Tesin
-              JIZRAD  P,  140,          03:50*, 03:50*   ;
-              JIZRAD  P,  140,          03:51*, 03:51*   ;
-              JIZRAD  Z,  140, (T/T)    03:54,   0:00    ;Trinec
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Bystrice
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Navsi
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (5/5)     0:00,   0:00    ;Mosty uJ
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Trinec
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (8/8)     0:00,   0:00    ;Bystrice
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (8/8)     0:00,   0:00    ;Navsi
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Mosty uJ
 
 Jr2997:       BAZE 04:14
               JIZRAD  Z,  140, (6/6)     0:00,  04:14    ;Bohumin
@@ -3602,6 +3557,27 @@ Jr2997:       BAZE 04:14
               JIZRAD  P,  140,           0:00,   0:00    ;
               JIZRAD  P,  140,           0:00,   0:00    ;
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Trinec
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Bystrice
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Navsi
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (5/5)     0:00,   0:00    ;Mosty uJ
+
+Jr2999:       BAZE 03:25
+              JIZRAD  Z,  140, (6/6)     0:00,  03:25    ;Bohumin
+              JIZRAD  P,  140,          03:28,  03:28    ;
+              JIZRAD  P,  140, (10/T)   03:30*, 03:30*   ;Detmarovice
+              JIZRAD  P,  140,          03:31*, 03:31*   ;odb Koukolna
+              JIZRAD  P,  140, (T/T)    03:34,  03:34    ;Karvina hln
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (4/T)    03:41*, 03:41*   ;Louky nO
+              JIZRAD  P,  140,          03:42*, 03:42*   ;Odb Chotebuz
+              JIZRAD  P,  140, (T/T)    03:46,  03:48    ;Cesky Tesin
+              JIZRAD  P,  140,          03:50*, 03:50*   ;
+              JIZRAD  P,  140,          03:51*, 03:51*   ;
+              JIZRAD  Z,  140, (T/T)    03:54,   0:00    ;Trinec
               JIZRAD  P,  140,           0:00,   0:00    ;
               JIZRAD  P,  140,           0:00,   0:00    ;
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Bystrice
@@ -3685,27 +3661,27 @@ Jr3051a:      JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prerov
               JIZRAD  Z,  160, (T/T)    07:01,  07:03    ;Ostrava hln
               JIZRAD  P,  160,          07:06*, 07:06*   ;
               JIZRAD  Z,  160, (6/6)    07:09,  07:10    ;Bohumin
-Jr3051b:      JIZRAD  Z,  140, (6/6)    07:09,  07:10    ;Bohumin
-              JIZRAD  Z,  140,          07:13*, 07:13*   ;
-              JIZRAD  Z,  140, (10/T)   07:16*, 07:17    ;Detmarovice
-              JIZRAD  P,  140,          0:00,    0:00    ;odb Koukolna
-              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Karvina hln
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140, (4/T)    0:00,    0:00    ;Louky nO
-              JIZRAD  P,  140,          0:00,    0:00    ;Odb Chotebuz
-              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Cesky Tesin
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Trinec
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Bystrice
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Navsi
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140, (5/5)    0:00,    0:00    ;Mosty uJ
-Jr3051c:      JIZRAD  P,  160, (T/T)    0:00,    0:00    ;Bohumin
-              JIZRAD  P,  160,          0:00,    0:00    ;
+Jr3051b:      JIZRAD  Z,  160, (6/6)    07:09,  07:10    ;Bohumin
+              JIZRAD  Z,  160,          07:13*, 07:13*   ;
+              JIZRAD  Z,  160, (10/T)   07:16*, 07:17    ;Detmarovice
+              JIZRAD  P,  160,           0:00,   0:00    ;odb Koukolna
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Karvina hln
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (4/T)     0:00,   0:00    ;Louky nO
+              JIZRAD  P,  160,           0:00,   0:00    ;Odb Chotebuz
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Cesky Tesin
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Trinec
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Bystrice
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Navsi
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (5/5)     0:00,   0:00    ;Mosty uJ
+Jr3051c:      JIZRAD  Z,  160, (T/T)    07:09,  07:10    ;Bohumin
+              JIZRAD  Z,  160,          07:13*, 07:13*   ;
               JIZRAD  Z,  160, (10/T)   07:16*, 07:17    ;Detmarovice
               JIZRAD  Z,  160,          07:21*, 07:21*   ;
               JIZRAD  Z,  160, (T/T)    07:25,   0:00    ;Petrovice
@@ -3809,27 +3785,27 @@ Jr3055a:      JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prerov
               JIZRAD  Z,  160, (T/T)    15:02,  15:03    ;Ostrava hln
               JIZRAD  P,  160,          15:06*, 15:06*   ;
               JIZRAD  Z,  160, (6/6)    15:09,  15:10    ;Bohumin
-Jr3055b:      JIZRAD  Z,  140, (6/6)    15:09,  15:10    ;Bohumin
-              JIZRAD  Z,  140,          15:13*, 15:13*   ;
-              JIZRAD  Z,  140, (10/T)   15:16*, 15:17    ;Detmarovice
-              JIZRAD  P,  140,          0:00,    0:00    ;odb Koukolna
-              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Karvina hln
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140, (4/T)    0:00,    0:00    ;Louky nO
-              JIZRAD  P,  140,          0:00,    0:00    ;Odb Chotebuz
-              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Cesky Tesin
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Trinec
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Bystrice
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Navsi
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140, (5/5)    0:00,    0:00    ;Mosty uJ
-Jr3055c:      JIZRAD  P,  160, (T/T)    0:00,    0:00    ;Bohumin
-              JIZRAD  P,  160,          0:00,    0:00    ;
+Jr3055b:      JIZRAD  Z,  160, (6/6)    15:09,  15:10    ;Bohumin
+              JIZRAD  Z,  160,          15:13*, 15:13*   ;
+              JIZRAD  Z,  160, (10/T)   15:16*, 15:17    ;Detmarovice
+              JIZRAD  P,  160,           0:00,   0:00    ;odb Koukolna
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Karvina hln
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (4/T)     0:00,   0:00    ;Louky nO
+              JIZRAD  P,  160,           0:00,   0:00    ;Odb Chotebuz
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Cesky Tesin
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Trinec
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Bystrice
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Navsi
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (5/5)     0:00,   0:00    ;Mosty uJ
+Jr3055c:      JIZRAD  Z,  160, (T/T)    15:09,  15:10    ;Bohumin
+              JIZRAD  Z,  160,          15:13*, 15:13*   ;
               JIZRAD  Z,  160, (10/T)   15:16*, 15:17    ;Detmarovice
               JIZRAD  Z,  160,          15:21*, 15:21*   ;
               JIZRAD  Z,  160, (T/T)    15:25,   0:00    ;Petrovice
@@ -4042,7 +4018,7 @@ Jr3071a:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
 Jr3072:       BAZE 08:30
               JIZRAD  Z,  140, (5/T)    08:57,  09:00    ;Ostrava-Svinov
               JIZRAD  P,  140,          08:54,  08:54    ;
-              JIZRAD  P,  140, (T/T)    08:49,  08:51    ;Dehylov
+              JIZRAD  Z,  140, (T/T)    08:49,  08:51    ;Dehylov
               JIZRAD  P,  140,          08:45*, 08:45*   ;
               JIZRAD  Z,  140, (T/T)    08:42,  08:43    ;Haj vS
               JIZRAD  P,  140,          08:39,  08:39    ;
@@ -4126,7 +4102,7 @@ Jr3074a:      JIZRAD  Z,  140, (T/T)    10:19,  10:20    ;Studenka
 
 Jr3075:       BAZE 14:07
               JIZRAD  Z,  140, (6/5)    14:17,  14:19    ;Studenka
-              JIZRAD  P,  140,          14:11*, 14:12    ;Bartosovice
+              JIZRAD  Z,  140,          14:11*, 14:12    ;Bartosovice
               JIZRAD  P,  140,          14:09*, 14:09*   ;
               JIZRAD  Z,  140, (T/T)     0:00,  14:07    ;Mosnov
 Jr3075a:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
@@ -4459,31 +4435,6 @@ Jr3092a:      JIZRAD  Z,  140, (T/T)    15:42,  15:52    ;Studenka
               JIZRAD  P,  140,          16:00,  16:00    ;
               JIZRAD  Z,  140, (T/T)    16:03,   0:00    ;Mosnov
 
-Jr3093:       BAZE 09:30
-              JIZRAD  P,  140, (6/5)    09:38*, 09:38*   ;Studenka
-              JIZRAD  P,  140,          09:34,  09:34    ;Bartosovice
-              JIZRAD  P,  140,          09:32*, 09:32*   ;
-              JIZRAD  Z,  140, (T/T)     0:00,  09:30    ;Mosnov
-Jr3093a:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prosenice
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Lipnik nB
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Hranice nM
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polom
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Suchdol nO
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)    09:38*, 09:38*   ;Studenka
-              JIZRAD  P,  140,          09:42*, 09:42*   ;
-              JIZRAD  P,  140, (T/T)    09:44*, 09:44*   ;Polanka
-              JIZRAD  Z,  140, (T/T)    09:48,   0:00    ;Ostrava-Svinov
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Ostrava hln
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (6/6)     0:00,   0:00    ;Bohumin
-
 Jr3094:       BAZE 16:41
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prosenice
@@ -4611,7 +4562,7 @@ Jr3301:       BAZE 04:23
               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
               JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  Z,  160,           0:00,  04:23    ;Hranice nM
+              JIZRAD  Z,  160, (T/T)     0:00,  04:23    ;Hranice nM
               JIZRAD  Z,  160,          04:27*, 04:27*   ;
               JIZRAD  Z,  160, (T/T)    04:30*, 04:31    ;Polom
               JIZRAD  Z,  160,          04:35*, 04:35*   ;
@@ -4620,35 +4571,35 @@ Jr3301:       BAZE 04:23
               JIZRAD  Z,  160, (T/T)    04:47*, 04:48*   ;Studenka
               JIZRAD  Z,  160,          04:53,  04:53*   ;
               JIZRAD  Z,  160, (T/T)    04:56*, 04:56*   ;Polanka
-              JIZRAD  Z,  160, (8/6)    05:00,  05:06    ;Ostrava-Svinov
+              JIZRAD  Z,  160, (T/T)    05:00,  05:06    ;Ostrava-Svinov
               JIZRAD  Z,  160,          05:09,  05:09    ;
               JIZRAD  Z,  160, (T/T)    05:12,  05:13    ;Ostrava hln
               JIZRAD  P,  160,          05:16,  05:16    ;
-              JIZRAD  Z,  140, (6/6)    05:18,  05:19    ;Bohumin
-Jr3301a:      JIZRAD  Z,  140, (6/6)    05:18,  05:19    ;Bohumin
-              JIZRAD  Z,  140,          05:22*, 05:22*   ;
-              JIZRAD  Z,  140, (10/T)   05:25*, 05:26*   ;Detmarovice
-              JIZRAD  P,  140,          0:00,    0:00    ;odb Koukolna
-              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Karvina hln
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140, (4/T)    0:00,    0:00    ;Louky nO
-              JIZRAD  P,  140,          0:00,    0:00    ;Odb Chotebuz
-              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Cesky Tesin
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Trinec
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Bystrice
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Navsi
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140, (5/5)    0:00,    0:00    ;Mosty uJ
-Jr3301b:      JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Bohumin
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  Z,  140, (10/T)   05:25*, 05:26*   ;Detmarovice
-              JIZRAD  Z,  140,          05:30*, 05:30*   ;
-              JIZRAD  Z,  140, (T/T)    05:34,   0:00    ;Petrovice
+              JIZRAD  Z,  160, (6/6)    05:18,  05:19    ;Bohumin
+Jr3301a:      JIZRAD  Z,  160, (6/6)    05:18,  05:19    ;Bohumin
+              JIZRAD  Z,  160,          05:22*, 05:22*   ;
+              JIZRAD  Z,  160, (10/T)   05:25*, 05:26*   ;Detmarovice
+              JIZRAD  P,  160,           0:00,   0:00    ;odb Koukolna
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Karvina hln
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (4/T)     0:00,   0:00    ;Louky nO
+              JIZRAD  P,  160,           0:00,   0:00    ;Odb Chotebuz
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Cesky Tesin
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Trinec
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Bystrice
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Navsi
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (5/5)     0:00,   0:00    ;Mosty uJ
+Jr3301b:      JIZRAD  Z,  160, (T/T)    05:18,  05:19    ;Bohumin
+              JIZRAD  Z,  160,          05:22*, 05:22*   ;
+              JIZRAD  Z,  160, (10/T)   05:25*, 05:26*   ;Detmarovice
+              JIZRAD  Z,  160,          05:30*, 05:30*   ;
+              JIZRAD  Z,  160, (T/T)    05:34,   0:00    ;Petrovice
 
 Jr3302:       BAZE 05:22
               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Prerov
@@ -4939,27 +4890,27 @@ Jr3313:       BAZE 12:47
               JIZRAD  Z,  160, (T/T)    13:22,  13:24    ;Ostrava hln
               JIZRAD  P,  160,          13:28,  13:28    ;
               JIZRAD  Z,  160, (6/6)    13:30,  13:31    ;Bohumin
-Jr3313a:      JIZRAD  Z,  140, (6/6)    13:30,  13:31    ;Bohumin
-              JIZRAD  Z,  140,          13:34*, 13:34*   ;
-              JIZRAD  Z,  140, (10/T)   13:38,  13:38*   ;Detmarovice
-              JIZRAD  P,  140,          0:00,    0:00    ;odb Koukolna
-              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Karvina hln
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140, (4/T)    0:00,    0:00    ;Louky nO
-              JIZRAD  P,  140,          0:00,    0:00    ;Odb Chotebuz
-              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Cesky Tesin
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Trinec
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Bystrice
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140, (T/T)    0:00,    0:00    ;Navsi
-              JIZRAD  P,  140,          0:00,    0:00    ;
-              JIZRAD  P,  140, (5/5)    0:00,    0:00    ;Mosty uJ
-Jr3313b:      JIZRAD  P,  160, (T/T)    0:00,    0:00    ;Bohumin
-              JIZRAD  P,  160,          0:00,    0:00    ;
+Jr3313a:      JIZRAD  Z,  160, (6/6)    13:30,  13:31    ;Bohumin
+              JIZRAD  Z,  160,          13:34*, 13:34*   ;
+              JIZRAD  Z,  160, (10/T)   13:38,  13:38*   ;Detmarovice
+              JIZRAD  P,  160,           0:00,   0:00    ;odb Koukolna
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Karvina hln
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (4/T)     0:00,   0:00    ;Louky nO
+              JIZRAD  P,  160,           0:00,   0:00    ;Odb Chotebuz
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Cesky Tesin
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Trinec
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Bystrice
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Navsi
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (5/5)     0:00,   0:00    ;Mosty uJ
+Jr3313b:      JIZRAD  Z,  160, (T/T)    13:30,  13:31    ;Bohumin
+              JIZRAD  Z,  160,          13:34*, 13:34*   ;
               JIZRAD  Z,  160, (10/T)   13:38,  13:38*   ;Detmarovice
               JIZRAD  Z,  160,          13:42*, 13:42*   ;
               JIZRAD  Z,  160, (T/T)    13:46,   0:00    ;Petrovice
@@ -5221,26 +5172,32 @@ Jr3327:       BAZE 06:52
               JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  P,  120, (6/6)     0:00,   0:00    ;Bohumin
 
-Jr3328:       BAZE 20:30
-              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prerov
-              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prosenice
-              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
-              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Lipnik nB
-              JIZRAD  P,  160,           0:00,   0:00    ;
-              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hranice nM
-              JIZRAD  P,  160,           0:00,   0:00    ;
-              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polom
-              JIZRAD  P,  160,           0:00,   0:00    ;
-              JIZRAD  Z,  160, (T/T)    21:07,   0:00    ;Suchdol nO
-              JIZRAD  Z,  160,          21:03,  21:03    ;
-              JIZRAD  Z,  160, (6/6)    20:56*, 20:59    ;Studenka
-              JIZRAD  Z,  160,          20:51*, 20:52    ;
-              JIZRAD  Z,  160, (T/T)    20:48*, 20:48*   ;Polanka
-              JIZRAD  Z,  160, (T/T)    20:44,  20:45    ;Ostrava-Svinov
-              JIZRAD  Z,  160,          20:40,  20:40    ;
-              JIZRAD  Z,  160, (T/T)    20:36,  20:37    ;Ostrava hln
-              JIZRAD  P,  160,          20:32*, 20:32*   ;
-              JIZRAD  Z,  160, (6/6)     0:00,  20:30    ;Bohumin
+Jr3329:       BAZE 05:33
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  Z,  120, (T/T)     0:00,  05:33    ;Hranice nM
+              JIZRAD  Z,  120,          05:38,  05:38*   ;
+              JIZRAD  Z,  120, (T/T)    05:41*, 05:42    ;Polom
+              JIZRAD  Z,  120,          05:47,  05:47*   ;
+              JIZRAD  Z,  120, (T/T)    05:50*, 05:52    ;Suchdol nO
+              JIZRAD  Z,  120,          05:55*, 05:56    ;
+              JIZRAD  Z,  120, (T/T)    06:01,  06:02    ;Studenka
+              JIZRAD  Z,  120,          06:07,  06:07*   ;
+              JIZRAD  P,  120, (T/T)    06:10,  06:10    ;Polanka
+              JIZRAD  Z,  120, (T/T)    06:14,  06:16    ;Ostrava-Svinov
+              JIZRAD  Z,  120,          06:19*, 06:19*   ;
+              JIZRAD  Z,  120, (T/T)    06:22,  06:32    ;Ostrava hln
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (6/6)     0:00,   0:00    ;Bohumin
+Jr3329a:      JIZRAD  Z,  120, (4/4)    06:22,  06:32    ;Ostrava hln
+              JIZRAD  P,  120,          06:34,  06:34    ;Ostrava ban.n.
+              JIZRAD  P,  120,          06:35*, 06:35*   ;
+              JIZRAD  P,  120, (5/5)    06:37,  06:37    ;Ostrava stred
+              JIZRAD  P,  120,          06:39*, 06:39*   ;
+              JIZRAD  Z,  120, (5/T)    06:42,   0:00    ;Ostrava-Kuncice
 
 Jr3330:       BAZE 22:36
               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prerov
@@ -5263,48 +5220,177 @@ Jr3330:       BAZE 22:36
               JIZRAD  P,  160,          22:38*, 22:38*   ;
               JIZRAD  Z,  160, (6/6)     0:00,  22:36    ;Bohumin
 
-Jr3400:       BAZE 04:20
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Prerov
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Prosenice
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Lipnik nB
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Hranice nM
+Jr3331:       BAZE 03:56
+              JIZRAD  Z,  120, (T/T)     0:00,  03:56    ;Prerov
+              JIZRAD  Z,  120, (T/T)    04:02,  04:02*   ;Prosenice
+              JIZRAD  Z,  120, (T/T)    04:05*, 04:05*   ;
+              JIZRAD  Z,  120, (T/T)    04:09,  04:09*   ;Lipnik nB
+              JIZRAD  Z,  120,          04:15,  04:15*   ;
+              JIZRAD  Z,  120, (T/T)    04:20,   0:00    ;Hranice nM
               JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Polom
               JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Suchdol nO
               JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Studenka
               JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Polanka
-              JIZRAD  Z,  120, (T/T)    04:32,  04:42    ;Ostrava-Svinov
-              JIZRAD  P,  120,          04:28,  04:28    ;
-              JIZRAD  P,  120, (T/T)    04:26*, 04:26*   ;Ostrava hln
-              JIZRAD  P,  120,          04:23,  04:23    ;
-              JIZRAD  Z,  120, (6/6)     0:00,  04:20    ;Bohumin
-Jr3400a:      JIZRAD  Z,  120, (T/T)    04:32,  04:42    ;Ostrava-Svinov
-              JIZRAD  Z,  120,          04:45,  04:45*   ;
-              JIZRAD  Z,  120, (T/T)    04:49*, 04:51    ;Dehylov
-              JIZRAD  Z,  120,          04:54,  04:54    ;
-              JIZRAD  Z,  120, (T/T)    04:57,  04:57*   ;Haj vS
-              JIZRAD  Z,  120,          05:00*, 05:00*   ;
-              JIZRAD  Z,  120,          05:02,  05:02*   ;
-              JIZRAD  Z,  120, (T/T)    05:04*, 05:05    ;Stitina
-              JIZRAD  Z,  120,          05:08*, 05:09    ;
-              JIZRAD  Z,  120, (T/T)    05:13,   0:00    ;Opava vychod
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Ostrava hln
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (6/6)     0:00,   0:00    ;Bohumin
+
+Jr3334:       BAZE 04:26
+              JIZRAD  Z,  120, (T/T)    04:50,   0:00    ;Prerov
+              JIZRAD  Z,  120, (T/T)    04:43,  04:43*   ;Prosenice
+              JIZRAD  Z,  120, (T/T)    04:40,  04:40    ;
+              JIZRAD  Z,  120, (T/T)    04:36*, 04:37    ;Lipnik nB
+              JIZRAD  Z,  120,          04:30,  04:30*   ;
+              JIZRAD  Z,  120, (T/T)     0:00,  04:26    ;Hranice nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava hln
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (6/6)     0:00,   0:00    ;Bohumin
+
+Jr3336:       BAZE 05:30
+              JIZRAD  Z,  120, (T/T)    05:54,   0:00    ;Prerov
+              JIZRAD  Z,  120, (T/T)    05:47*, 05:48    ;Prosenice
+              JIZRAD  Z,  120, (T/T)    05:44*, 05:44*   ;
+              JIZRAD  Z,  120, (T/T)    05:40,  05:41    ;Lipnik nB
+              JIZRAD  Z,  120,          05:34,  05:34*   ;
+              JIZRAD  Z,  120, (T/T)     0:00,  05:30    ;Hranice nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava hln
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (6/6)     0:00,   0:00    ;Bohumin
+
+Jr3338:       BAZE 07:00
+              JIZRAD  Z,  120, (T/T)    07:24,  07:34    ;Prerov
+              JIZRAD  Z,  120, (T/T)    07:17*, 07:18    ;Prosenice
+              JIZRAD  Z,  120, (T/T)    07:14*, 07:14*   ;
+              JIZRAD  Z,  120, (T/T)    07:10,  07:11    ;Lipnik nB
+              JIZRAD  Z,  120,          07:04,  07:04*   ;
+              JIZRAD  Z,  120, (T/T)     0:00,  07:00    ;Hranice nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava hln
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (6/6)     0:00,   0:00    ;Bohumin
+Jr3338a:      JIZRAD  Z,  120, (T/T)    07:24,  07:34    ;Prerov
+              JIZRAD  P,  120, (T/T)    07:37*, 07:37*   ;Dluhonice
+              JIZRAD  Z,  120,          07:39,  07:39    ;
+              JIZRAD  Z,  120, (T/T)    07:42,  07:42*   ;Brodek
+              JIZRAD  Z,  120, (T/T)    07:47,  07:47*   ;Grygov
+              JIZRAD  Z,  120, (T/T)    07:53,   0:00    ;Olomouc hln
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Stepanov
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Cervenka
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Moravicany
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Mohelnice
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Lukavice
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Zabreh nM
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Hostejn predjk
+              JIZRAD  P,  120,           0:00,   0:00    ;Hostejn
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120,           0:00,   0:00    ;Krasikov
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Krasikov predjk
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Rudoltice
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Trebovice vC
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Ceska Trebova
+
+Jr3339:       BAZE 19:29
+              JIZRAD  Z,  120, (T/T)     0:00,  19:29    ;Prerov
+              JIZRAD  Z,  120, (T/T)    19:34*, 19:35    ;Prosenice
+              JIZRAD  Z,  120, (T/T)    19:38,  19:38*   ;
+              JIZRAD  Z,  120, (T/T)    19:42,  19:42*   ;Lipnik nB
+              JIZRAD  Z,  120,          19:48,  19:48*   ;
+              JIZRAD  Z,  120, (T/T)    19:54,   0:00    ;Hranice nM
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Ostrava hln
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (6/6)     0:00,   0:00    ;Bohumin
+
+Jr3400:       BAZE 04:20
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  160, (T/T)    04:32,  04:42    ;Ostrava-Svinov
+              JIZRAD  P,  160,          04:28,  04:28    ;
+              JIZRAD  P,  160, (T/T)    04:26*, 04:26*   ;Ostrava hln
+              JIZRAD  P,  160,          04:23,  04:23    ;
+              JIZRAD  Z,  160, (6/6)     0:00,  04:20    ;Bohumin
+Jr3400a:      JIZRAD  Z,  160, (T/T)    04:32,  04:42    ;Ostrava-Svinov
+              JIZRAD  Z,  160,          04:45,  04:45*   ;
+              JIZRAD  Z,  160, (T/T)    04:49*, 04:51    ;Dehylov
+              JIZRAD  Z,  160,          04:54,  04:54    ;
+              JIZRAD  Z,  160, (T/T)    04:57,  04:57*   ;Haj vS
+              JIZRAD  Z,  160,          05:00*, 05:00*   ;
+              JIZRAD  Z,  160,          05:02,  05:02*   ;
+              JIZRAD  Z,  160, (T/T)    05:04*, 05:05    ;Stitina
+              JIZRAD  Z,  160,          05:08*, 05:09    ;
+              JIZRAD  Z,  160, (T/T)    05:13,   0:00    ;Opava vychod
 
 Jr3401:       BAZE 04:29
-              JIZRAD  Z,  120, (5/T)    04:58,   0:00    ;Ostrava-Svinov
-              JIZRAD  Z,  120,          04:54*, 04:55    ;
-              JIZRAD  Z,  120, (T/T)    04:50,  04:50*   ;Dehylov
-              JIZRAD  Z,  120,          04:47,  04:47    ;
-              JIZRAD  Z,  120, (T/T)    04:43*, 04:44    ;Haj vS
-              JIZRAD  Z,  120,          04:40*, 04:40*   ;
-              JIZRAD  Z,  120,          04:38*, 04:39    ;
-              JIZRAD  Z,  120, (T/T)    04:36,  04:36*   ;Stitina
-              JIZRAD  Z,  120,          04:32*, 04:33    ;
-              JIZRAD  Z,  120, (T/T)     0:00,  04:29    ;Opava vychod
+              JIZRAD  Z,  160, (5/T)    04:58,   0:00    ;Ostrava-Svinov
+              JIZRAD  Z,  160,          04:54*, 04:55    ;
+              JIZRAD  Z,  160, (T/T)    04:50,  04:50*   ;Dehylov
+              JIZRAD  Z,  160,          04:47,  04:47    ;
+              JIZRAD  Z,  160, (T/T)    04:43*, 04:44    ;Haj vS
+              JIZRAD  Z,  160,          04:40*, 04:40*   ;
+              JIZRAD  Z,  160,          04:38*, 04:39    ;
+              JIZRAD  Z,  160, (T/T)    04:36,  04:36*   ;Stitina
+              JIZRAD  Z,  160,          04:32*, 04:33    ;
+              JIZRAD  Z,  160, (T/T)     0:00,  04:29    ;Opava vychod
 
 Jr3402:       BAZE 04:51
               JIZRAD  Z,  140, (T/T)    05:02,  05:04    ;Ostrava-Svinov
@@ -5333,179 +5419,179 @@ Jr3402a:      JIZRAD  Z,  140, (T/T)    05:02,  05:04    ;Ostrava-Svinov
               JIZRAD  Z,  140, (T/T)    05:33,   0:00    ;Opava vychod
 
 Jr3403:       BAZE 05:36
-              JIZRAD  Z,  120, (5/T)    06:10,   0:00    ;Ostrava-Svinov
-              JIZRAD  Z,  120,          06:06*, 06:07    ;
-              JIZRAD  Z,  120, (T/T)    05:59,  06:02*   ;Dehylov
-              JIZRAD  Z,  120,          05:56,  05:56    ;
-              JIZRAD  Z,  120, (T/T)    05:51*, 05:52*   ;Haj vS
-              JIZRAD  Z,  120,          05:48,  05:48    ;
-              JIZRAD  Z,  120,          05:46,  05:46*   ;
-              JIZRAD  Z,  120, (T/T)    05:43*, 05:44    ;Stitina
-              JIZRAD  Z,  120,          05:40,  05:40*   ;
-              JIZRAD  Z,  120, (T/T)     0:00,  05:36    ;Opava vychod
+              JIZRAD  Z,  160, (5/T)    06:10,   0:00    ;Ostrava-Svinov
+              JIZRAD  Z,  160,          06:06*, 06:07    ;
+              JIZRAD  Z,  160, (T/T)    05:59,  06:02*   ;Dehylov
+              JIZRAD  Z,  160,          05:56,  05:56    ;
+              JIZRAD  Z,  160, (T/T)    05:51*, 05:52*   ;Haj vS
+              JIZRAD  Z,  160,          05:48,  05:48    ;
+              JIZRAD  Z,  160,          05:46,  05:46*   ;
+              JIZRAD  Z,  160, (T/T)    05:43*, 05:44    ;Stitina
+              JIZRAD  Z,  160,          05:40,  05:40*   ;
+              JIZRAD  Z,  160, (T/T)     0:00,  05:36    ;Opava vychod
 
 Jr3404:       BAZE 05:38
-              JIZRAD  Z,  120, (T/T)     0:00,  05:38    ;Ostrava-Svinov
-              JIZRAD  Z,  120,          05:41,  05:42    ;
-              JIZRAD  Z,  120, (T/T)    05:46,  05:46*   ;Dehylov
-              JIZRAD  Z,  120,          05:49,  05:49    ;
-              JIZRAD  Z,  120, (T/T)    05:52,  05:52*   ;Haj vS
-              JIZRAD  Z,  120,          05:55*, 05:55*   ;
-              JIZRAD  Z,  120,          05:57,  05:57*   ;
-              JIZRAD  Z,  120, (T/T)    05:59*, 06:00    ;Stitina
-              JIZRAD  Z,  120,          06:03*, 06:04*   ;
-              JIZRAD  Z,  120, (T/T)    06:09,   0:00    ;Opava vychod
+              JIZRAD  Z,  160, (T/T)     0:00,  05:38    ;Ostrava-Svinov
+              JIZRAD  Z,  160,          05:41,  05:42    ;
+              JIZRAD  Z,  160, (T/T)    05:46,  05:46*   ;Dehylov
+              JIZRAD  Z,  160,          05:49,  05:49    ;
+              JIZRAD  Z,  160, (T/T)    05:52,  05:52*   ;Haj vS
+              JIZRAD  Z,  160,          05:55*, 05:55*   ;
+              JIZRAD  Z,  160,          05:57,  05:57*   ;
+              JIZRAD  Z,  160, (T/T)    05:59*, 06:00    ;Stitina
+              JIZRAD  Z,  160,          06:03*, 06:04*   ;
+              JIZRAD  Z,  160, (T/T)    06:09,   0:00    ;Opava vychod
 
 Jr3405:       BAZE 06:30
-              JIZRAD  Z,  120, (5/T)    07:00,   0:00    ;Ostrava-Svinov
-              JIZRAD  Z,  120,          06:56*, 06:57    ;
-              JIZRAD  Z,  120, (T/T)    06:52,  06:52*   ;Dehylov
-              JIZRAD  Z,  120,          06:49,  06:49    ;
-              JIZRAD  Z,  120, (T/T)    06:45,  06:46    ;Haj vS
-              JIZRAD  Z,  120,          06:42,  06:42    ;
-              JIZRAD  Z,  120,          06:40,  06:40*   ;
-              JIZRAD  Z,  120, (T/T)    06:37*, 06:38    ;Stitina
-              JIZRAD  Z,  120,          06:34,  06:34*   ;
-              JIZRAD  Z,  120, (T/T)     0:00,  06:30    ;Opava vychod
+              JIZRAD  Z,  160, (5/T)    07:00,   0:00    ;Ostrava-Svinov
+              JIZRAD  Z,  160,          06:56*, 06:57    ;
+              JIZRAD  Z,  160, (T/T)    06:52,  06:52*   ;Dehylov
+              JIZRAD  Z,  160,          06:49,  06:49    ;
+              JIZRAD  Z,  160, (T/T)    06:45,  06:46    ;Haj vS
+              JIZRAD  Z,  160,          06:42,  06:42    ;
+              JIZRAD  Z,  160,          06:40,  06:40*   ;
+              JIZRAD  Z,  160, (T/T)    06:37*, 06:38    ;Stitina
+              JIZRAD  Z,  160,          06:34,  06:34*   ;
+              JIZRAD  Z,  160, (T/T)     0:00,  06:30    ;Opava vychod
 
 Jr3406:       BAZE 06:44
-              JIZRAD  Z,  120, (T/T)     0:00,  06:44    ;Ostrava-Svinov
-              JIZRAD  Z,  120,          06:47,  06:47*   ;
-              JIZRAD  Z,  120, (T/T)    06:51*, 06:53    ;Dehylov
-              JIZRAD  Z,  120,          06:56,  06:56    ;
-              JIZRAD  Z,  120, (T/T)    06:59,  07:00    ;Haj vS
-              JIZRAD  Z,  120,          07:03,  07:03    ;
-              JIZRAD  Z,  120,          07:04*, 07:05    ;
-              JIZRAD  Z,  120, (T/T)    07:07,  07:07*   ;Stitina
-              JIZRAD  Z,  120,          07:11,  07:14*   ;
-              JIZRAD  Z,  120, (T/T)    07:19,   0:00    ;Opava vychod
+              JIZRAD  Z,  160, (T/T)     0:00,  06:44    ;Ostrava-Svinov
+              JIZRAD  Z,  160,          06:47,  06:47*   ;
+              JIZRAD  Z,  160, (T/T)    06:51*, 06:53    ;Dehylov
+              JIZRAD  Z,  160,          06:56,  06:56    ;
+              JIZRAD  Z,  160, (T/T)    06:59,  07:00    ;Haj vS
+              JIZRAD  Z,  160,          07:03,  07:03    ;
+              JIZRAD  Z,  160,          07:04*, 07:05    ;
+              JIZRAD  Z,  160, (T/T)    07:07,  07:07*   ;Stitina
+              JIZRAD  Z,  160,          07:11,  07:14*   ;
+              JIZRAD  Z,  160, (T/T)    07:19,   0:00    ;Opava vychod
 
 Jr3407:       BAZE 07:42
-              JIZRAD  Z,  120, (5/T)    08:14,   0:00    ;Ostrava-Svinov
-              JIZRAD  Z,  120,          08:10*, 08:11    ;
-              JIZRAD  Z,  120, (T/T)    08:05*, 08:06*   ;Dehylov
-              JIZRAD  Z,  120,          08:02*, 08:02*   ;
-              JIZRAD  Z,  120, (T/T)    07:57*, 07:59    ;Haj vS
-              JIZRAD  Z,  120,          07:54,  07:54    ;
-              JIZRAD  Z,  120,          07:52,  07:52*   ;
-              JIZRAD  Z,  120, (T/T)    07:49*, 07:50    ;Stitina
-              JIZRAD  Z,  120,          07:46,  07:46*   ;
-              JIZRAD  Z,  120, (T/T)     0:00,  07:42    ;Opava vychod
+              JIZRAD  Z,  160, (5/T)    08:14,   0:00    ;Ostrava-Svinov
+              JIZRAD  Z,  160,          08:10*, 08:11    ;
+              JIZRAD  Z,  160, (T/T)    08:05*, 08:06*   ;Dehylov
+              JIZRAD  Z,  160,          08:02*, 08:02*   ;
+              JIZRAD  Z,  160, (T/T)    07:57*, 07:59    ;Haj vS
+              JIZRAD  Z,  160,          07:54,  07:54    ;
+              JIZRAD  Z,  160,          07:52,  07:52*   ;
+              JIZRAD  Z,  160, (T/T)    07:49*, 07:50    ;Stitina
+              JIZRAD  Z,  160,          07:46,  07:46*   ;
+              JIZRAD  Z,  160, (T/T)     0:00,  07:42    ;Opava vychod
 
 Jr3408:       BAZE 07:41
-              JIZRAD  Z,  120, (T/T)     0:00,  07:41    ;Ostrava-Svinov
-              JIZRAD  Z,  120,          07:44,  07:44*   ;
-              JIZRAD  Z,  120, (T/T)    07:48*, 07:52    ;Dehylov
-              JIZRAD  Z,  120,          07:55,  07:55    ;
-              JIZRAD  Z,  120, (T/T)    07:58,  07:59    ;Haj vS
-              JIZRAD  Z,  120,          08:02,  08:02    ;
-              JIZRAD  Z,  120,          08:03*, 08:04    ;
-              JIZRAD  Z,  120, (T/T)    08:06,  08:06*   ;Stitina
-              JIZRAD  Z,  120,          08:09*, 08:10    ;
-              JIZRAD  Z,  120, (T/T)    08:14,   0:00    ;Opava vychod
+              JIZRAD  Z,  160, (T/T)     0:00,  07:41    ;Ostrava-Svinov
+              JIZRAD  Z,  160,          07:44,  07:44*   ;
+              JIZRAD  Z,  160, (T/T)    07:48*, 07:52    ;Dehylov
+              JIZRAD  Z,  160,          07:55,  07:55    ;
+              JIZRAD  Z,  160, (T/T)    07:58,  07:59    ;Haj vS
+              JIZRAD  Z,  160,          08:02,  08:02    ;
+              JIZRAD  Z,  160,          08:03*, 08:04    ;
+              JIZRAD  Z,  160, (T/T)    08:06,  08:06*   ;Stitina
+              JIZRAD  Z,  160,          08:09*, 08:10    ;
+              JIZRAD  Z,  160, (T/T)    08:14,   0:00    ;Opava vychod
 
 Jr3409:       BAZE 08:42
-              JIZRAD  Z,  120, (5/T)    09:12,   0:00    ;Ostrava-Svinov
-              JIZRAD  Z,  120,          09:08*, 09:09    ;
-              JIZRAD  Z,  120, (T/T)    09:04,  09:04*   ;Dehylov
-              JIZRAD  Z,  120,          09:01*, 09:01*   ;
-              JIZRAD  Z,  120, (T/T)    08:57,  08:58    ;Haj vS
-              JIZRAD  Z,  120,          08:53*, 08:53*   ;
-              JIZRAD  Z,  120,          08:52,  08:52    ;
-              JIZRAD  Z,  120, (T/T)    08:49*, 08:50    ;Stitina
-              JIZRAD  Z,  120,          08:46,  08:46*   ;
-              JIZRAD  Z,  120, (T/T)     0:00,  08:42    ;Opava vychod
+              JIZRAD  Z,  160, (5/T)    09:12,   0:00    ;Ostrava-Svinov
+              JIZRAD  Z,  160,          09:08*, 09:09    ;
+              JIZRAD  Z,  160, (T/T)    09:04,  09:04*   ;Dehylov
+              JIZRAD  Z,  160,          09:01*, 09:01*   ;
+              JIZRAD  Z,  160, (T/T)    08:57,  08:58    ;Haj vS
+              JIZRAD  Z,  160,          08:53*, 08:53*   ;
+              JIZRAD  Z,  160,          08:52,  08:52    ;
+              JIZRAD  Z,  160, (T/T)    08:49*, 08:50    ;Stitina
+              JIZRAD  Z,  160,          08:46,  08:46*   ;
+              JIZRAD  Z,  160, (T/T)     0:00,  08:42    ;Opava vychod
 
 Jr3410:       BAZE 08:41
-              JIZRAD  Z,  120, (T/T)     0:00,  08:41    ;Ostrava-Svinov
-              JIZRAD  Z,  120,          08:44,  08:46    ;
-              JIZRAD  Z,  120, (T/T)    08:50,  08:50*   ;Dehylov
-              JIZRAD  Z,  120,          08:53*, 08:54    ;
-              JIZRAD  Z,  120, (T/T)    08:57,  08:58    ;Haj vS
-              JIZRAD  Z,  120,          09:01,  09:01    ;
-              JIZRAD  Z,  120,          09:02*, 09:03    ;
-              JIZRAD  Z,  120, (T/T)    09:05,  09:05*   ;Stitina
-              JIZRAD  Z,  120,          09:08*, 09:09    ;
-              JIZRAD  Z,  120, (T/T)    09:13,   0:00    ;Opava vychod
+              JIZRAD  Z,  160, (T/T)     0:00,  08:41    ;Ostrava-Svinov
+              JIZRAD  Z,  160,          08:44,  08:46    ;
+              JIZRAD  Z,  160, (T/T)    08:50,  08:50*   ;Dehylov
+              JIZRAD  Z,  160,          08:53*, 08:54    ;
+              JIZRAD  Z,  160, (T/T)    08:57,  08:58    ;Haj vS
+              JIZRAD  Z,  160,          09:01,  09:01    ;
+              JIZRAD  Z,  160,          09:02*, 09:03    ;
+              JIZRAD  Z,  160, (T/T)    09:05,  09:05*   ;Stitina
+              JIZRAD  Z,  160,          09:08*, 09:09    ;
+              JIZRAD  Z,  160, (T/T)    09:13,   0:00    ;Opava vychod
 
 Jr3431:       BAZE 19:43
-              JIZRAD  Z,  120, (5/T)    20:17,   0:00    ;Ostrava-Svinov
-              JIZRAD  Z,  120,          20:13*, 20:14    ;
-              JIZRAD  Z,  120, (T/T)    20:09,  20:09*   ;Dehylov
-              JIZRAD  Z,  120,          20:06*, 20:06*   ;
-              JIZRAD  Z,  120, (T/T)    20:02,  20:03    ;Haj vS
-              JIZRAD  Z,  120,          19:58*, 19:58*   ;
-              JIZRAD  Z,  120,          19:56*, 19:57    ;
-              JIZRAD  Z,  120, (T/T)    19:51,  19:54*   ;Stitina
-              JIZRAD  Z,  120,          19:47,  19:47*   ;
-              JIZRAD  Z,  120, (T/T)     0:00,  19:43    ;Opava vychod
+              JIZRAD  Z,  160, (5/T)    20:17,   0:00    ;Ostrava-Svinov
+              JIZRAD  Z,  160,          20:13*, 20:14    ;
+              JIZRAD  Z,  160, (T/T)    20:09,  20:09*   ;Dehylov
+              JIZRAD  Z,  160,          20:06*, 20:06*   ;
+              JIZRAD  Z,  160, (T/T)    20:02,  20:03    ;Haj vS
+              JIZRAD  Z,  160,          19:58*, 19:58*   ;
+              JIZRAD  Z,  160,          19:56*, 19:57    ;
+              JIZRAD  Z,  160, (T/T)    19:51,  19:54*   ;Stitina
+              JIZRAD  Z,  160,          19:47,  19:47*   ;
+              JIZRAD  Z,  160, (T/T)     0:00,  19:43    ;Opava vychod
 
 Jr3432:       BAZE 19:44
-              JIZRAD  Z,  120, (T/T)     0:00,  19:44    ;Ostrava-Svinov
-              JIZRAD  Z,  120,          19:47,  19:47*   ;
-              JIZRAD  Z,  120, (T/T)    19:51*, 19:56    ;Dehylov
-              JIZRAD  Z,  120,          19:59,  19:59    ;
-              JIZRAD  Z,  120, (T/T)    20:02,  20:03    ;Haj vS
-              JIZRAD  Z,  120,          20:06,  20:06    ;
-              JIZRAD  Z,  120,          20:07*, 20:08    ;
-              JIZRAD  Z,  120, (T/T)    20:10,  20:10*   ;Stitina
-              JIZRAD  Z,  120,          20:13*, 20:14    ;
-              JIZRAD  Z,  120, (T/T)    20:18,   0:00    ;Opava vychod
+              JIZRAD  Z,  160, (T/T)     0:00,  19:44    ;Ostrava-Svinov
+              JIZRAD  Z,  160,          19:47,  19:47*   ;
+              JIZRAD  Z,  160, (T/T)    19:51*, 19:56    ;Dehylov
+              JIZRAD  Z,  160,          19:59,  19:59    ;
+              JIZRAD  Z,  160, (T/T)    20:02,  20:03    ;Haj vS
+              JIZRAD  Z,  160,          20:06,  20:06    ;
+              JIZRAD  Z,  160,          20:07*, 20:08    ;
+              JIZRAD  Z,  160, (T/T)    20:10,  20:10*   ;Stitina
+              JIZRAD  Z,  160,          20:13*, 20:14    ;
+              JIZRAD  Z,  160, (T/T)    20:18,   0:00    ;Opava vychod
 
 Jr3435:       BAZE 21:42
-              JIZRAD  Z,  120, (5/T)    22:12,   0:00    ;Ostrava-Svinov
-              JIZRAD  Z,  120,          22:08*, 22:09    ;
-              JIZRAD  Z,  120, (T/T)    22:04,  22:04*   ;Dehylov
-              JIZRAD  Z,  120,          22:01,  22:01    ;
-              JIZRAD  Z,  120, (T/T)    21:57,  21:58    ;Haj vS
-              JIZRAD  Z,  120,          21:53*, 21:53*   ;
-              JIZRAD  Z,  120,          21:52,  21:52    ;
-              JIZRAD  Z,  120, (T/T)    21:49*, 21:50    ;Stitina
-              JIZRAD  Z,  120,          21:46,  21:46*   ;
-              JIZRAD  Z,  120, (T/T)     0:00,  21:42    ;Opava vychod
+              JIZRAD  Z,  160, (5/T)    22:12,   0:00    ;Ostrava-Svinov
+              JIZRAD  Z,  160,          22:08*, 22:09    ;
+              JIZRAD  Z,  160, (T/T)    22:04,  22:04*   ;Dehylov
+              JIZRAD  Z,  160,          22:01,  22:01    ;
+              JIZRAD  Z,  160, (T/T)    21:57,  21:58    ;Haj vS
+              JIZRAD  Z,  160,          21:53*, 21:53*   ;
+              JIZRAD  Z,  160,          21:52,  21:52    ;
+              JIZRAD  Z,  160, (T/T)    21:49*, 21:50    ;Stitina
+              JIZRAD  Z,  160,          21:46,  21:46*   ;
+              JIZRAD  Z,  160, (T/T)     0:00,  21:42    ;Opava vychod
 
 Jr3436:       BAZE 21:56
-              JIZRAD  Z,  120, (T/T)     0:00,  21:56    ;Ostrava-Svinov
-              JIZRAD  Z,  120,          21:59,  21:59*   ;
-              JIZRAD  Z,  120, (T/T)    22:03*, 22:05    ;Dehylov
-              JIZRAD  Z,  120,          22:08,  22:08    ;
-              JIZRAD  Z,  120, (T/T)    22:11,  22:12    ;Haj vS
-              JIZRAD  Z,  120,          22:15,  22:15    ;
-              JIZRAD  Z,  120,          22:16*, 22:17    ;
-              JIZRAD  Z,  120, (T/T)    22:19,  22:19*   ;Stitina
-              JIZRAD  Z,  120,          22:22*, 22:23    ;
-              JIZRAD  Z,  120, (T/T)    22:27,   0:00    ;Opava vychod
+              JIZRAD  Z,  160, (T/T)     0:00,  21:56    ;Ostrava-Svinov
+              JIZRAD  Z,  160,          21:59,  21:59*   ;
+              JIZRAD  Z,  160, (T/T)    22:03*, 22:05    ;Dehylov
+              JIZRAD  Z,  160,          22:08,  22:08    ;
+              JIZRAD  Z,  160, (T/T)    22:11,  22:12    ;Haj vS
+              JIZRAD  Z,  160,          22:15,  22:15    ;
+              JIZRAD  Z,  160,          22:16*, 22:17    ;
+              JIZRAD  Z,  160, (T/T)    22:19,  22:19*   ;Stitina
+              JIZRAD  Z,  160,          22:22*, 22:23    ;
+              JIZRAD  Z,  160, (T/T)    22:27,   0:00    ;Opava vychod
 
 Jr3437:       BAZE 22:45
-              JIZRAD  Z,  120, (5/T)    23:15,  23:24    ;Ostrava-Svinov
-              JIZRAD  Z,  120,          23:11*, 23:12    ;
-              JIZRAD  Z,  120, (T/T)    23:07,  23:07*   ;Dehylov
-              JIZRAD  Z,  120,          23:04,  23:04    ;
-              JIZRAD  Z,  120, (T/T)    23:00,  23:01    ;Haj vS
-              JIZRAD  Z,  120,          22:56*, 22:56*   ;
-              JIZRAD  Z,  120,          22:55,  22:55    ;
-              JIZRAD  Z,  120, (T/T)    22:52*, 22:53    ;Stitina
-              JIZRAD  Z,  120,          22:49,  22:49*   ;
-              JIZRAD  Z,  120, (T/T)     0:00,  22:45    ;Opava vychod
-Jr3437a:      JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Prerov
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Prosenice
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Lipnik nB
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Hranice nM
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Polom
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Suchdol nO
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Studenka
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Polanka
-              JIZRAD  Z,  120, (T/T)    23:15,  23:24    ;Ostrava-Svinov
-              JIZRAD  P,  120,          23:28,  23:28    ;
-              JIZRAD  P,  120, (T/T)    23:30*, 23:30*   ;Ostrava hln
-              JIZRAD  P,  120,          23:33*, 23:33*   ;
-              JIZRAD  Z,  120, (6/6)    23:37,   0:00    ;Bohumin
+              JIZRAD  Z,  160, (5/T)    23:15,  23:24    ;Ostrava-Svinov
+              JIZRAD  Z,  160,          23:11*, 23:12    ;
+              JIZRAD  Z,  160, (T/T)    23:07,  23:07*   ;Dehylov
+              JIZRAD  Z,  160,          23:04,  23:04    ;
+              JIZRAD  Z,  160, (T/T)    23:00,  23:01    ;Haj vS
+              JIZRAD  Z,  160,          22:56*, 22:56*   ;
+              JIZRAD  Z,  160,          22:55,  22:55    ;
+              JIZRAD  Z,  160, (T/T)    22:52*, 22:53    ;Stitina
+              JIZRAD  Z,  160,          22:49,  22:49*   ;
+              JIZRAD  Z,  160, (T/T)     0:00,  22:45    ;Opava vychod
+Jr3437a:      JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  160, (T/T)    23:15,  23:24    ;Ostrava-Svinov
+              JIZRAD  P,  160,          23:28,  23:28    ;
+              JIZRAD  P,  160, (T/T)    23:30*, 23:30*   ;Ostrava hln
+              JIZRAD  P,  160,          23:33*, 23:33*   ;
+              JIZRAD  Z,  160, (6/6)    23:37,   0:00    ;Bohumin
 
 Jr3440:       BAZE 23:37
               JIZRAD  Z,   80, (T/T)     0:00,  23:37    ;Ostrava-Svinov
@@ -5518,6 +5604,142 @@ Jr3440:       BAZE 23:37
               JIZRAD  Z,   80, (T/T)    00:03,  00:03*   ;Stitina
               JIZRAD  Z,   80,          00:07,  00:07*   ;
               JIZRAD  Z,   80, (T/T)    00:12,   0:00    ;Opava vychod
+
+Jr3442:       BAZE 03:33
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  140, (T/T)    03:44,  03:57    ;Ostrava-Svinov
+              JIZRAD  P,  140,          03:40*, 03:40*   ;
+              JIZRAD  P,  140, (T/T)    03:39,  03:39    ;Ostrava hln
+              JIZRAD  P,  140,          03:35*, 03:35*   ;
+              JIZRAD  Z,  140, (6/6)     0:00,  03:33    ;Bohumin
+Jr3442a:      JIZRAD  Z,  140, (T/T)    03:44,  03:57    ;Ostrava-Svinov
+              JIZRAD  P,  140,          03:59*, 03:59*   ;
+              JIZRAD  P,  140, (T/T)    04:02*, 04:02*   ;Dehylov
+              JIZRAD  P,  140,          04:04*, 04:04*   ;
+              JIZRAD  Z,  140, (T/T)    04:07,  04:08    ;Haj vS
+              JIZRAD  P,  140,          04:10*, 04:10*   ;
+              JIZRAD  P,  140,          04:11*, 04:11*   ;
+              JIZRAD  Z,  140, (T/T)    04:13,  04:13*   ;Stitina
+              JIZRAD  P,  140,          04:16*, 04:16*   ;
+              JIZRAD  Z,  140, (T/T)    04:20,   0:00    ;Opava vychod
+
+Jr3443:       BAZE 03:35
+              JIZRAD  Z,   80, (5/T)    04:12,  04:13    ;Ostrava-Svinov
+              JIZRAD  Z,   80,          04:08,  04:08*   ;
+              JIZRAD  Z,   80, (T/T)    04:00,  04:03*   ;Dehylov
+              JIZRAD  Z,   80,          03:56*, 03:56*   ;
+              JIZRAD  Z,   80, (T/T)    03:51*, 03:52*   ;Haj vS
+              JIZRAD  Z,   80,          03:48,  03:48    ;
+              JIZRAD  Z,   80,          03:46,  03:46    ;
+              JIZRAD  Z,   80, (T/T)    03:43,  03:43*   ;Stitina
+              JIZRAD  Z,   80,          03:39,  03:39*   ;
+              JIZRAD  Z,   80, (T/T)     0:00,  03:35    ;Opava vychod
+Jr3443a:      JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,   80,           0:00,   0:00    ;
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,   80,           0:00,   0:00    ;
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,   80,           0:00,   0:00    ;
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,   80,           0:00,   0:00    ;
+              JIZRAD  Z,   80, (6/6)    04:33,   0:00    ;Studenka
+              JIZRAD  Z,   80,          04:21*, 04:25*   ;
+              JIZRAD  P,   80, (T/T)    04:17*, 04:17*   ;Polanka
+              JIZRAD  Z,   80, (T/T)    04:12,  04:13    ;Ostrava-Svinov
+              JIZRAD  P,   80,           0:00,   0:00    ;
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Ostrava hln
+              JIZRAD  P,   80,           0:00,   0:00    ;
+              JIZRAD  P,   80, (6/6)     0:00,   0:00    ;Bohumin
+
+Jr3497:       BAZE 01:17
+              JIZRAD  Z,  160, (5/T)    01:37,  01:50    ;Ostrava-Svinov
+              JIZRAD  P,  160,          01:34,  01:34    ;
+              JIZRAD  P,  160, (T/T)    01:31,  01:31    ;Dehylov
+              JIZRAD  P,  160,          01:28*, 01:28*   ;
+              JIZRAD  P,  160, (T/T)    01:26*, 01:26*   ;Haj vS
+              JIZRAD  P,  160,          01:24,  01:24    ;
+              JIZRAD  P,  160,          01:23,  01:23    ;
+              JIZRAD  P,  160, (T/T)    01:22,  01:22    ;Stitina
+              JIZRAD  P,  160,          01:20,  01:20    ;
+              JIZRAD  Z,  160, (T/T)     0:00,  01:17    ;Opava vychod
+Jr3497a:      JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  160, (T/T)    01:37,  01:50    ;Ostrava-Svinov
+              JIZRAD  P,  160,          01:53,  01:53    ;
+              JIZRAD  P,  160, (T/T)    01:56,  01:56    ;Ostrava hln
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (6/6)     0:00,   0:00    ;Bohumin
+Jr3497b:      JIZRAD  P,  160, (4/4)    01:56,  01:56    ;Ostrava hln
+              JIZRAD  P,  160,          01:57*, 01:57*   ;Ostrava ban.n.
+              JIZRAD  P,  160,          01:59,  01:59    ;
+              JIZRAD  Z,  160, (5/5)    02:00,   0:00    ;Ostrava stred
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (5/T)     0:00,   0:00    ;Ostrava-Kuncice
+
+Jr3498:       BAZE 02:13
+              JIZRAD  Z,  160, (4/4)    02:19,  02:20    ;Ostrava hln
+              JIZRAD  P,  160,          02:17,  02:17    ;Ostrava ban.n.
+              JIZRAD  Z,  160,          02:14*, 02:15*   ;
+              JIZRAD  Z,  160, (T/T)     0:00,  02:13    ;Ostrava stred
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (5/T)     0:00,   0:00    ;Ostrava-Kuncice
+Jr3498a:      JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  160, (T/T)    02:26,  02:35    ;Ostrava-Svinov
+              JIZRAD  P,  160,          02:22,  02:22    ;
+              JIZRAD  Z,  160, (T/T)    02:19,  02:20    ;Ostrava hln
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (6/6)     0:00,   0:00    ;Bohumin
+Jr3498b:      JIZRAD  Z,  160, (T/T)    02:26,  02:35    ;Ostrava-Svinov
+              JIZRAD  P,  160,          02:37*, 02:37*   ;
+              JIZRAD  P,  160, (T/T)    02:40,  02:40    ;Dehylov
+              JIZRAD  P,  160,          02:42,  02:42    ;
+              JIZRAD  Z,  160, (T/T)    02:44*, 02:45*   ;Haj vS
+              JIZRAD  P,  160,          02:48,  02:48    ;
+              JIZRAD  P,  160,          02:49,  02:49    ;
+              JIZRAD  Z,  160, (T/T)    02:50*, 02:51*   ;Stitina
+              JIZRAD  P,  160,          02:54*, 02:54*   ;
+              JIZRAD  Z,  160, (T/T)    02:58,   0:00    ;Opava vychod
 
 Jr28901:      BAZE 07:22
               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
@@ -5540,48 +5762,6 @@ Jr28901:      BAZE 07:22
               JIZRAD  P,  120,          07:30,  07:30    ;
               JIZRAD  Z,  120, (6/6)    07:33,   0:00    ;Bohumin
 
-Jr28902:      BAZE 04:42
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prosenice
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Lipnik nB
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Hranice nM
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polom
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Suchdol nO
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (6/6)     0:00,   0:00    ;Studenka
-              JIZRAD  P,  140,           0:00,   0:00    ;
-              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polanka
-              JIZRAD  Z,  140, (T/T)    04:53,   0:00    ;Ostrava-Svinov
-              JIZRAD  P,  140,          04:49*, 04:49*   ;
-              JIZRAD  P,  140, (T/T)    04:48,  04:48    ;Ostrava hln
-              JIZRAD  P,  140,          04:45,  04:45    ;
-              JIZRAD  Z,  140, (6/6)     0:00,  04:42    ;Bohumin
-
-Jr28903:      BAZE 18:34
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
-              JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hranice nM
-              JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
-              JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
-              JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Studenka
-              JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polanka
-              JIZRAD  Z,  140, (T/T)     0:00,  18:34    ;Ostrava-Svinov
-              JIZRAD  P,  140,          18:37*, 18:37*   ;
-              JIZRAD  P,  140, (T/T)    18:40,  18:40    ;Ostrava hln
-              JIZRAD  P,  140,          18:43,  18:43    ;
-              JIZRAD  Z,  140, (6/6)    18:46,   0:00    ;Bohumin
-
 Jr28906:      BAZE 05:19
               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Prerov
               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Prosenice
@@ -5603,34 +5783,26 @@ Jr28906:      BAZE 05:19
               JIZRAD  P,  120,          05:22,  05:22    ;
               JIZRAD  Z,  120, (6/6)     0:00,  05:19    ;Bohumin
 
-Jr28907:      BAZE 19:56
-              JIZRAD  Z,  120, (4/4)     0:00,  19:56    ;Ostrava hln
-              JIZRAD  P,  120,          19:58,  19:58    ;Ostrava ban.n.
-              JIZRAD  Z,  120,          19:59,   0:00    ;
-              JIZRAD  P,  120, (5/5)     0:00,   0:00    ;Ostrava stred
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (5/T)     0:00,   0:00    ;Ostrava-Kuncice
-
-Jr28910:      BAZE 22:30
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Prerov
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Prosenice
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Lipnik nB
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Hranice nM
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Polom
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Suchdol nO
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (6/6)     0:00,   0:00    ;Studenka
-              JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Polanka
-              JIZRAD  Z,  120, (T/T)    22:42,   0:00    ;Ostrava-Svinov
-              JIZRAD  P,  120,          22:38*, 22:38*   ;
-              JIZRAD  P,  120, (T/T)    22:37,  22:37    ;Ostrava hln
-              JIZRAD  P,  120,          22:33*, 22:33*   ;
-              JIZRAD  Z,  120, (6/6)     0:00,  22:30    ;Bohumin
+Jr28909:      BAZE 20:46
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  140, (T/T)     0:00,  20:46    ;Ostrava-Svinov
+              JIZRAD  P,  140,          20:49*, 20:49*   ;
+              JIZRAD  P,  140, (T/T)    20:52,  20:52    ;Ostrava hln
+              JIZRAD  P,  140,          20:55,  20:55    ;
+              JIZRAD  Z,  140, (6/6)    20:58,   0:00    ;Bohumin
 
 Jr28912:      BAZE 23:02
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
@@ -5652,6 +5824,466 @@ Jr28912:      BAZE 23:02
               JIZRAD  P,  140, (T/T)    23:09,  23:09    ;Ostrava hln
               JIZRAD  P,  140,          23:05*, 23:05*   ;
               JIZRAD  Z,  140, (6/6)     0:00,  23:02    ;Bohumin
+
+Jr28915:      BAZE 12:35
+              JIZRAD  Z,  140, (4/4)     0:00,  12:35    ;Ostrava hln
+              JIZRAD  P,  140,          12:37,  12:37    ;Ostrava ban.n.
+              JIZRAD  P,  140,          12:38,  12:38    ;
+              JIZRAD  Z,  140, (5/5)    12:39,   0:00    ;Ostrava stred
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (5/T)     0:00,   0:00    ;Ostrava-Kuncice
+
+Jr28916:      BAZE 09:15
+              JIZRAD  Z,  140, (4/4)    09:19,   0:00    ;Ostrava hln
+              JIZRAD  P,  140,          09:17*, 09:17*   ;Ostrava ban.n.
+              JIZRAD  P,  140,          09:16,  09:16    ;
+              JIZRAD  Z,  140, (T/T)     0:00,  09:15    ;Ostrava stred
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (5/T)     0:00,   0:00    ;Ostrava-Kuncice
+
+Jr28917:      BAZE 08:08
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  120, (T/T)     0:00,  08:08    ;Ostrava-Svinov
+              JIZRAD  P,  120,          08:11,  08:11    ;
+              JIZRAD  Z,  120, (T/T)    08:13,  08:16    ;Ostrava hln
+              JIZRAD  P,  120,          08:20,  08:20    ;
+              JIZRAD  Z,  120, (6/6)    08:23,   0:00    ;Bohumin
+
+Jr28918:      BAZE 17:54
+              JIZRAD  P,  140, (4/4)    17:57,  18:00    ;Ostrava hln
+              JIZRAD  P,  140,          17:55*, 17:55*   ;Ostrava ban.n.
+              JIZRAD  Z,  140,           0:00,  17:54    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava stred
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (5/T)     0:00,   0:00    ;Ostrava-Kuncice
+Jr28918a:     JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)    17:57,  18:00    ;Ostrava hln
+              JIZRAD  P,  140,          18:14,  18:14    ;
+              JIZRAD  Z,  140, (6/6)    18:18,   0:00    ;Bohumin
+
+Jr28919:      BAZE 19:09
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  140, (T/T)     0:00,  19:09    ;Ostrava-Svinov
+              JIZRAD  P,  140,          19:12,  19:12    ;
+              JIZRAD  P,  140, (T/T)    19:14,  19:14    ;Ostrava hln
+              JIZRAD  P,  140,          19:17*, 19:17*   ;
+              JIZRAD  Z,  140, (6/6)    19:21,   0:00    ;Bohumin
+
+Jr28930:      BAZE 04:06
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  Z,  160, (T/T)    04:13,   0:00    ;Ostrava hln
+              JIZRAD  P,  160,          04:09*, 04:09*   ;
+              JIZRAD  Z,  160, (6/6)     0:00,  04:06    ;Bohumin
+
+Jr28931:      BAZE 09:25
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  Z,  160, (T/T)     0:00,  09:25    ;Ostrava hln
+              JIZRAD  P,  160,          09:29,  09:29    ;
+              JIZRAD  Z,  160, (6/6)    09:32,   0:00    ;Bohumin
+
+Jr28935:      BAZE 08:07
+              JIZRAD  Z,  120, (4/4)    08:11,  08:15    ;Ostrava hln
+              JIZRAD  P,  120,          08:09*, 08:09*   ;Ostrava ban.n.
+              JIZRAD  P,  120,          08:08,  08:08    ;
+              JIZRAD  Z,  120, (T/T)     0:00,  08:07    ;Ostrava stred
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (5/T)     0:00,   0:00    ;Ostrava-Kuncice
+Jr28935a:     JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  Z,  120, (T/T)    08:11,  08:15    ;Ostrava hln
+              JIZRAD  P,  120,          08:28*, 08:28*   ;
+              JIZRAD  Z,  120, (6/6)    08:32,   0:00    ;Bohumin
+
+Jr28938:      BAZE 02:35
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  Z,  160, (T/T)    02:42,  02:45    ;Ostrava hln
+              JIZRAD  P,  160,          02:38*, 02:38*   ;
+              JIZRAD  Z,  160, (6/6)     0:00,  02:35    ;Bohumin
+Jr28938a:     JIZRAD  Z,  160, (4/4)    02:42,  02:45    ;Ostrava hln
+              JIZRAD  P,  160,          03:07,  03:07    ;Ostrava ban.n.
+              JIZRAD  P,  160,          03:08,  03:08    ;
+              JIZRAD  P,  160, (5/5)    03:10,  03:10    ;Ostrava stred
+              JIZRAD  P,  160,          03:12,  03:12    ;
+              JIZRAD  P,  160, (5/T)    03:14,  03:14    ;Ostrava-Kuncice
+Jr28938b:     JIZRAD  P,  160, (T/T)    03:14,  03:14    ;Ostrava-Kuncice
+              JIZRAD  P,  160, (T/4)    03:16,  03:16    ;Vratimov
+              JIZRAD  P,  160, (T/T)    03:20,  03:20    ;Paskov
+              JIZRAD  P,  160, (T/T)    03:24,  03:24    ;Liskovec u FM
+              JIZRAD  Z,  160, (4/4)    03:27,  03:33    ;Frydek-Mistek
+              JIZRAD  P,  160, (T/T)    03:36*, 03:36*   ;Baska
+              JIZRAD  P,  160, (T/T)    03:39*, 03:39*   ;Przno
+              JIZRAD  P,  160, (T/T)    03:43,  03:43    ;Frydlant nO
+              JIZRAD  P,  160, (T/T)    03:47,  03:47    ;
+              JIZRAD  P,  160, (T/T)    03:50*, 03:50*   ;Kuncice pO
+              JIZRAD  Z,  160, (T/T)    03:57,  04:10    ;Frenstat pR
+              JIZRAD  Z,  160,          04:13,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,  160, (4/4)     0:00,   0:00    ;ValMez
+
+Jr28939:      BAZE 20:49
+              JIZRAD  P,  160, (T/T)    21:45,  21:45    ;Ostrava-Kuncice
+              JIZRAD  Z,  160, (T/T)    21:40*, 21:42*   ;Vratimov
+              JIZRAD  P,  160, (T/T)    21:37,  21:37    ;Paskov
+              JIZRAD  P,  160, (T/T)    21:32*, 21:32*   ;Liskovec u FM
+              JIZRAD  Z,  160, (4/4)    21:27,  21:29    ;Frydek-Mistek
+              JIZRAD  P,  160, (T/T)    21:24,  21:24    ;Baska
+              JIZRAD  P,  160, (T/T)    21:21,  21:21    ;Przno
+              JIZRAD  P,  160, (T/T)    21:17*, 21:17*   ;Frydlant nO
+              JIZRAD  P,  160, (T/T)    21:13,  21:13    ;
+              JIZRAD  P,  160, (T/T)    21:10*, 21:10*   ;Kuncice pO
+              JIZRAD  Z,  160, (T/T)    20:51,  21:04    ;Frenstat pR
+              JIZRAD  Z,  160,           0:00,  20:49    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;ValMez
+Jr28939a:     JIZRAD  Z,  160, (4/4)    21:52,  22:00    ;Ostrava hln
+              JIZRAD  P,  160,          21:50*, 21:50*   ;Ostrava ban.n.
+              JIZRAD  P,  160,          21:49*, 21:49*   ;
+              JIZRAD  P,  160, (T/T)    21:49,  21:49    ;Ostrava stred
+              JIZRAD  P,  160,          21:46*, 21:46*   ;
+              JIZRAD  P,  160, (5/T)    21:45,  21:45    ;Ostrava-Kuncice
+Jr28939b:     JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  Z,  160, (T/T)    21:52,  22:00    ;Ostrava hln
+              JIZRAD  P,  160,          22:19,  22:19    ;
+              JIZRAD  Z,  160, (6/6)    22:22,   0:00    ;Bohumin
+
+Jr28941:      BAZE 19:02
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  Z,  120, (T/T)     0:00,  19:02    ;Ostrava hln
+              JIZRAD  P,  120,          19:18,  19:18    ;
+              JIZRAD  Z,  120, (6/6)    19:21,   0:00    ;Bohumin
+
+Jr28950:      BAZE 16:35
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  Z,  120, (6/6)    16:53,   0:00    ;Studenka
+              JIZRAD  P,  120,          16:47,  16:47    ;
+              JIZRAD  P,  120, (T/T)    16:45,  16:45    ;Polanka
+              JIZRAD  P,  120, (T/T)    16:41,  16:41    ;Ostrava-Svinov
+              JIZRAD  P,  120,          16:37*, 16:37*   ;
+              JIZRAD  Z,  120, (T/T)     0:00,  16:35    ;Ostrava hln
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (6/6)     0:00,   0:00    ;Bohumin
+
+Jr28951:      BAZE 06:55
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  Z,  120, (T/T)     0:00,  06:55    ;Studenka
+              JIZRAD  P,  120,          07:01,  07:01    ;
+              JIZRAD  P,  120, (T/T)    07:03*, 07:03*   ;Polanka
+              JIZRAD  P,  120, (T/T)    07:07,  07:07    ;Ostrava-Svinov
+              JIZRAD  P,  120,          07:09,  07:09    ;
+              JIZRAD  Z,  120, (T/T)    07:12,   0:00    ;Ostrava hln
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120, (6/6)     0:00,   0:00    ;Bohumin
+
+Jr29110:      BAZE 22:24
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  160, (T/T)     0:00,  22:24    ;Ostrava-Svinov
+              JIZRAD  P,  160,          22:27,  22:27    ;
+              JIZRAD  P,  160, (T/T)    22:29,  22:29    ;Ostrava hln
+              JIZRAD  P,  160,          22:32,  22:32    ;
+              JIZRAD  Z,  160, (6/6)    22:35,   0:00    ;Bohumin
+
+Jr29111:      BAZE 05:23
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  160, (T/T)    05:40,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  160,          05:36*, 05:36*   ;
+              JIZRAD  Z,  160, (T/T)    05:30,  05:34    ;Ostrava hln
+              JIZRAD  P,  160,          05:26*, 05:26*   ;
+              JIZRAD  Z,  160, (6/6)     0:00,  05:23    ;Bohumin
+
+Jr29340:      BAZE 22:51
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  160, (T/T)     0:00,  22:51    ;Ostrava-Svinov
+              JIZRAD  P,  160,          22:54,  22:54    ;
+              JIZRAD  P,  160, (T/T)    22:56,  22:56    ;Ostrava hln
+              JIZRAD  P,  160,          22:58*, 22:58*   ;
+              JIZRAD  Z,  160, (6/6)    23:02,   0:00    ;Bohumin
+
+Jr29341:      BAZE 05:01
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  160, (T/T)    05:12,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  160,          05:08*, 05:08*   ;
+              JIZRAD  P,  160, (T/T)    05:07,  05:07    ;Ostrava hln
+              JIZRAD  P,  160,          05:04,  05:04    ;
+              JIZRAD  Z,  160, (6/6)     0:00,  05:01    ;Bohumin
+
+Jr29343:      BAZE 07:00
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  160, (T/T)    07:15,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  160,          07:11*, 07:11*   ;
+              JIZRAD  Z,  160, (T/T)    07:07,  07:09    ;Ostrava hln
+              JIZRAD  P,  160,          07:03,  07:03    ;
+              JIZRAD  Z,  160, (6/6)     0:00,  07:00    ;Bohumin
+
+Jr29344:      BAZE 18:50
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  160, (T/T)     0:00,  18:50    ;Ostrava-Svinov
+              JIZRAD  P,  160,          18:53,  18:53    ;
+              JIZRAD  P,  160, (T/T)    18:55,  18:55    ;Ostrava hln
+              JIZRAD  P,  160,          18:58*, 18:58*   ;
+              JIZRAD  Z,  160, (6/6)    19:01,   0:00    ;Bohumin
+
+Jr29502:      BAZE 14:24
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  160, (T/T)    14:39,  14:55    ;Ostrava-Svinov
+              JIZRAD  P,  160,          14:35,  14:35    ;
+              JIZRAD  Z,  160, (T/T)    14:31,  14:33    ;Ostrava hln
+              JIZRAD  P,  160,          14:28,  14:28    ;
+              JIZRAD  Z,  160, (6/6)     0:00,  14:24    ;Bohumin
+Jr29502a:     JIZRAD  Z,  160, (T/T)    14:39,  14:55    ;Ostrava-Svinov
+              JIZRAD  P,  160,          14:58,  14:58    ;
+              JIZRAD  Z,  160, (T/T)    15:02,  15:05    ;Dehylov
+              JIZRAD  P,  160,          15:07*, 15:07*   ;
+              JIZRAD  P,  160, (T/T)    15:10,  15:10    ;Haj vS
+              JIZRAD  P,  160,          15:12,  15:12    ;
+              JIZRAD  P,  160,          15:13,  15:13    ;
+              JIZRAD  P,  160, (T/T)    15:14*, 15:14*   ;Stitina
+              JIZRAD  P,  160,          15:16*, 15:16*   ;
+              JIZRAD  Z,  160, (T/T)    15:20,   0:00    ;Opava vychod
 
 Jr29642:      BAZE 15:24
               JIZRAD  Z,  160, (T/T)     0:00,  15:24    ;Studenka
@@ -5689,69 +6321,131 @@ Jr29647:      BAZE 10:18
               JIZRAD  P,  140,          10:20*, 10:20*   ;
               JIZRAD  Z,  140, (T/T)     0:00,  10:18    ;Mosnov
 
-Jr3442:       BAZE 03:57
-              JIZRAD  Z,  100, (T/T)     0:00,  03:57    ;Ostrava-Svinov
-              JIZRAD  P,  100,          03:59*, 03:59*   ;
-              JIZRAD  P,  100, (T/T)    04:02*, 04:02*   ;Dehylov
-              JIZRAD  P,  100,          04:04*, 04:04*   ;
-              JIZRAD  Z,  100, (T/T)    04:07,  04:08    ;Haj vS
-              JIZRAD  P,  100,          04:10*, 04:10*   ;
-              JIZRAD  P,  100,          04:11*, 04:11*   ;
-              JIZRAD  Z,  100, (T/T)    04:13,  04:13*   ;Stitina
-              JIZRAD  P,  100,          04:16*, 04:16*   ;
-              JIZRAD  Z,  100, (T/T)    04:20,   0:00    ;Opava vychod
+Jr29840:      BAZE 17:03
+              JIZRAD  Z,  120, (5/T)    17:36,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  120,          17:33*, 17:33*   ;
+              JIZRAD  P,  120, (T/T)    17:30*, 17:30*   ;Dehylov
+              JIZRAD  P,  120,          17:28,  17:28    ;
+              JIZRAD  Z,  120, (T/T)    17:17*, 17:24*   ;Haj vS
+              JIZRAD  P,  120,          17:14*, 17:14*   ;
+              JIZRAD  P,  120,          17:14,  17:14    ;
+              JIZRAD  P,  120, (T/T)    17:13,  17:13    ;Stitina
+              JIZRAD  Z,  120,          17:07*, 17:10    ;
+              JIZRAD  Z,  120, (T/T)     0:00,  17:03    ;Opava vychod
 
-Jr3329:       BAZE 05:33
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
-              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
-              JIZRAD  P,    0,           0:00,   0:00    ;
-              JIZRAD  Z,  120, (T/T)     0:00,  05:33    ;Hranice nM
-              JIZRAD  Z,  120,          05:38,  05:38*   ;
-              JIZRAD  Z,  120, (T/T)    05:41*, 05:42    ;Polom
-              JIZRAD  Z,  120,          05:47,  05:47    ;
-              JIZRAD  Z,  120, (T/T)    05:50*, 05:52    ;Suchdol nO
-              JIZRAD  Z,  120,          05:55*, 05:56    ;
-              JIZRAD  Z,  120, (T/T)    06:01,  06:02    ;Studenka
-              JIZRAD  Z,  120,          06:07,  06:07    ;
-              JIZRAD  P,  120, (T/T)    06:10,  06:10    ;Polanka
-              JIZRAD  Z,  120, (T/T)    06:14,  06:16    ;Ostrava-Svinov
-              JIZRAD  Z,  120,          06:19*, 06:19*   ;
-              JIZRAD  Z,  120, (T/T)    06:22,   0:00    ;Ostrava hln
+Jr29842:      BAZE 15:18
+              JIZRAD  Z,  120, (4/4)     0:00,  15:18    ;Ostrava hln
+              JIZRAD  P,  120,          15:20,  15:20    ;Ostrava ban.n.
+              JIZRAD  P,  120,          15:21,  15:21    ;
+              JIZRAD  Z,  120, (5/5)    15:22,   0:00    ;Ostrava stred
               JIZRAD  P,  120,           0:00,   0:00    ;
-              JIZRAD  P,  120, (6/6)     0:00,   0:00    ;Bohumin
+              JIZRAD  P,  120, (5/T)     0:00,   0:00    ;Ostrava-Kuncice
 
-Jr3443:       BAZE 03:34
-              JIZRAD  Z,   80, (5/T)    04:11,  04:12    ;Ostrava-Svinov
-              JIZRAD  Z,   80,          04:07,  04:07*   ;
-              JIZRAD  Z,   80, (T/T)    03:59,  04:02*   ;Dehylov
-              JIZRAD  Z,   80,          03:55*, 03:55*   ;
-              JIZRAD  Z,   80, (T/T)    03:50*, 03:51*   ;Haj vS
-              JIZRAD  Z,   80,          03:47,  03:47    ;
-              JIZRAD  Z,   80,          03:45,  03:45    ;
-              JIZRAD  Z,   80, (T/T)    03:42,  03:42*   ;Stitina
-              JIZRAD  Z,   80,          03:38,  03:38*   ;
-              JIZRAD  Z,   80, (T/T)     0:00,  03:34    ;Opava vychod
-Jr3443a:      JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Prerov
-              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Prosenice
-              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;
-              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Lipnik nB
-              JIZRAD  P,   80,           0:00,   0:00    ;
-              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Hranice nM
-              JIZRAD  P,   80,           0:00,   0:00    ;
-              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Polom
-              JIZRAD  P,   80,           0:00,   0:00    ;
-              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Suchdol nO
-              JIZRAD  P,   80,           0:00,   0:00    ;
-              JIZRAD  Z,   80, (6/6)    04:37,   0:00    ;Studenka
-              JIZRAD  Z,   80,          04:29,  04:24*   ;
-              JIZRAD  P,   80, (T/T)    04:16*, 04:16*   ;Polanka
-              JIZRAD  Z,   80, (T/T)    04:11,  04:12    ;Ostrava-Svinov
-              JIZRAD  P,   80,           0:00,   0:00    ;
-              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Ostrava hln
-              JIZRAD  P,   80,           0:00,   0:00    ;
-              JIZRAD  P,   80, (6/6)     0:00,   0:00    ;Bohumin
+Jr29850:      BAZE 07:24
+              JIZRAD  Z,  120, (5/T)    07:49,   0:00    ;Ostrava-Svinov
+              JIZRAD  Z,  120,          07:42,  07:45*   ;
+              JIZRAD  P,  120, (T/T)    07:38*, 07:38*   ;Dehylov
+              JIZRAD  P,  120,          07:36,  07:36    ;
+              JIZRAD  P,  120, (T/T)    07:34,  07:34    ;Haj vS
+              JIZRAD  P,  120,          07:31*, 07:31*   ;
+              JIZRAD  P,  120,          07:31,  07:31    ;
+              JIZRAD  P,  120, (T/T)    07:29*, 07:29*   ;Stitina
+              JIZRAD  P,  120,          07:27*, 07:27*   ;
+              JIZRAD  Z,  120, (T/T)     0:00,  07:24    ;Opava vychod
+
+Jr29851:      BAZE 18:15
+              JIZRAD  Z,  120, (T/T)     0:00,  18:15    ;Ostrava-Svinov
+              JIZRAD  P,  120,          18:18,  18:18    ;
+              JIZRAD  P,  120, (T/T)    18:20*, 18:20*   ;Dehylov
+              JIZRAD  P,  120,          18:22*, 18:22*   ;
+              JIZRAD  P,  120, (T/T)    18:24*, 18:24*   ;Haj vS
+              JIZRAD  P,  120,          18:26*, 18:26*   ;
+              JIZRAD  P,  120,          18:27*, 18:27*   ;
+              JIZRAD  Z,  120, (T/T)    18:30,  18:31    ;Stitina
+              JIZRAD  P,  120,          18:34*, 18:34*   ;
+              JIZRAD  Z,  120, (T/T)    18:38,   0:00    ;Opava vychod
+
+Jr29852:      BAZE 04:57
+              JIZRAD  Z,  120, (5/T)    05:25,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  120,          05:22*, 05:22*   ;
+              JIZRAD  P,  120, (T/T)    05:20,  05:20    ;Dehylov
+              JIZRAD  P,  120,          05:18,  05:18    ;
+              JIZRAD  Z,  120, (T/T)    05:12,  05:14*   ;Haj vS
+              JIZRAD  P,  120,          05:09,  05:09    ;
+              JIZRAD  P,  120,          05:08*, 05:08*   ;
+              JIZRAD  Z,  120, (T/T)    05:03*, 05:06    ;Stitina
+              JIZRAD  P,  120,          05:00*, 05:00*   ;
+              JIZRAD  Z,  120, (T/T)     0:00,  04:57    ;Opava vychod
+
+Jr29853:      BAZE 20:09
+              JIZRAD  Z,  120, (T/T)     0:00,  20:09    ;Ostrava-Svinov
+              JIZRAD  Z,  120,          20:12*, 20:14*   ;
+              JIZRAD  P,  120, (T/T)    20:18*, 20:18*   ;Dehylov
+              JIZRAD  P,  120,          20:20*, 20:20*   ;
+              JIZRAD  P,  120, (T/T)    20:23,  20:23    ;Haj vS
+              JIZRAD  P,  120,          20:25,  20:25    ;
+              JIZRAD  P,  120,          20:26,  20:26    ;
+              JIZRAD  Z,  120, (T/T)    20:28*, 20:31*   ;Stitina
+              JIZRAD  P,  120,          20:35,  20:35    ;
+              JIZRAD  Z,  120, (T/T)    20:39,   0:00    ;Opava vychod
+
+Jr29854:      BAZE 05:15
+              JIZRAD  Z,  120, (5/T)    05:35,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  120,          05:32,  05:32    ;
+              JIZRAD  P,  120, (T/T)    05:29,  05:29    ;Dehylov
+              JIZRAD  P,  120,          05:26*, 05:26*   ;
+              JIZRAD  P,  120, (T/T)    05:24*, 05:24*   ;Haj vS
+              JIZRAD  P,  120,          05:22,  05:22    ;
+              JIZRAD  P,  120,          05:21*, 05:21*   ;
+              JIZRAD  Z,  120, (T/T)    05:20*, 05:20*   ;Stitina
+              JIZRAD  P,  120,          05:18*, 05:18*   ;
+              JIZRAD  Z,  120, (T/T)     0:00,  05:15    ;Opava vychod
+
+Jr29861:      BAZE 04:24
+              JIZRAD  Z,  120, (5/T)    04:50,   0:00    ;Ostrava-Svinov
+              JIZRAD  Z,  120,          04:42,  04:46*   ;
+              JIZRAD  P,  120, (T/T)    04:38*, 04:38*   ;Dehylov
+              JIZRAD  P,  120,          04:36,  04:36    ;
+              JIZRAD  P,  120, (T/T)    04:34,  04:34    ;Haj vS
+              JIZRAD  P,  120,          04:31*, 04:31*   ;
+              JIZRAD  P,  120,          04:31,  04:31    ;
+              JIZRAD  P,  120, (T/T)    04:29*, 04:29*   ;Stitina
+              JIZRAD  P,  120,          04:27*, 04:27*   ;
+              JIZRAD  Z,  120, (T/T)     0:00,  04:24    ;Opava vychod
+
+Jr29894:      BAZE 04:28
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Breclav
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;MorNova Ves
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Luzice
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hodonin
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Rohatec
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Bzenec priv
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;MorPisek
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Nedakonice
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Stare Mesto
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hustenovice
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Napajedla
+              JIZRAD  Z,  160, (T/T)    04:43,   0:00    ;Otrokovice
+              JIZRAD  P,  160, (T/T)    04:38*, 04:38*   ;Tlumacov
+              JIZRAD  P,  160,          04:37,  04:37    ;
+              JIZRAD  P,  160, (T/T)    04:36,  04:36    ;Hulin
+              JIZRAD  P,  160,          04:34,  04:34    ;
+              JIZRAD  P,  160, (T/T)    04:32*, 04:32*   ;Rikovice
+              JIZRAD  P,  160,          04:31,  04:31    ;
+              JIZRAD  Z,  160, (T/T)     0:00,  04:28    ;Prerov
+
+Jr101619:     BAZE 13:58
+              JIZRAD  Z,    0, (4/4)     0:00,  13:58    ;Ostrava hln
+              JIZRAD  P,    0,          14:01,  14:01    ;Ostrava ban.n.
+              JIZRAD  Z,    0,          14:02*,  0:00    ;
+              JIZRAD  P,    0, (5/5)     0:00,   0:00    ;Ostrava stred
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (5/T)     0:00,   0:00    ;Ostrava-Kuncice
 
 
 ;vse vypsano
