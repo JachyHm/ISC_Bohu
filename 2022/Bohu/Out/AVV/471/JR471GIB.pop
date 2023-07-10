@@ -249,7 +249,7 @@ Obsah:        PLATI 250, 11/6/2023, 9/12/2023
               VLAK     3422, 14:41, Tr3410
               VLAK     3423, 15:42, Tr3407
               VLAK     3424, 15:41, Tr3408
-              PLATI  69, 11/6/2023, 9/12/2023
+              PLATI  68, 11/6/2023, 9/12/2023
               VLAK     3425, 16:42, Tr3409
               VLAK     3426, 16:41, Tr3410
               VLAK     3427, 17:42, Tr3407
@@ -317,7 +317,6 @@ Obsah:        PLATI 250, 11/6/2023, 9/12/2023
               VLAK    29853, 20:09, Tr29853
               VLAK    29854, 05:15, Tr29854
               VLAK    29861, 04:24, Tr29861
-              VLAK    29894, 04:28, Tr29894
               VLAK   101619, 13:58, Tr101619
 
               KONEC
@@ -894,8 +893,6 @@ Tr29853:      TRASA 32,21, Jr29853
 Tr29854:      TRASA 32,22, Jr29854
               TRASA
 Tr29861:      TRASA 32,22, Jr29861
-              TRASA
-Tr29894:      TRASA 33, 1, Jr29894
               TRASA
 Tr101619:     TRASA 32,31, Jr101619
               TRASA
@@ -6412,32 +6409,6 @@ Jr29861:      BAZE 04:24
               JIZRAD  P,  120, (T/T)    04:29*, 04:29*   ;Stitina
               JIZRAD  P,  120,          04:27*, 04:27*   ;
               JIZRAD  Z,  120, (T/T)     0:00,  04:24    ;Opava vychod
-
-Jr29894:      BAZE 04:28
-              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Breclav
-              JIZRAD  P,  160,           0:00,   0:00    ;
-              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;MorNova Ves
-              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Luzice
-              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hodonin
-              JIZRAD  P,  160,           0:00,   0:00    ;
-              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Rohatec
-              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Bzenec priv
-              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;MorPisek
-              JIZRAD  P,  160,           0:00,   0:00    ;
-              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Nedakonice
-              JIZRAD  P,  160,           0:00,   0:00    ;
-              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Stare Mesto
-              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hustenovice
-              JIZRAD  P,  160,           0:00,   0:00    ;
-              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Napajedla
-              JIZRAD  Z,  160, (T/T)    04:43,   0:00    ;Otrokovice
-              JIZRAD  P,  160, (T/T)    04:38*, 04:38*   ;Tlumacov
-              JIZRAD  P,  160,          04:37,  04:37    ;
-              JIZRAD  P,  160, (T/T)    04:36,  04:36    ;Hulin
-              JIZRAD  P,  160,          04:34,  04:34    ;
-              JIZRAD  P,  160, (T/T)    04:32*, 04:32*   ;Rikovice
-              JIZRAD  P,  160,          04:31,  04:31    ;
-              JIZRAD  Z,  160, (T/T)     0:00,  04:28    ;Prerov
 
 Jr101619:     BAZE 13:58
               JIZRAD  Z,    0, (4/4)     0:00,  13:58    ;Ostrava hln
