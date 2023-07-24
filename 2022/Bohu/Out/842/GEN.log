@@ -1,18 +1,18 @@
-{\rtf1\ansi\ansicpg1250\deff0\deflang1029{\fonttbl{\f0\fswiss\fcharset238 Tahoma;}}
+{\rtf1\ansi\ansicpg1250\deff0\deflang1029{\fonttbl{\f0\fnil MS Sans Serif;}{\f1\fnil\fcharset238 MS Sans Serif;}{\f2\fswiss\fcharset0 Tahoma;}{\f3\fswiss\fcharset238 Tahoma;}}
 {\colortbl ;\red128\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
-\viewkind4\uc1\pard\cf1\b\f0\fs16 !!! C\'edlov\'fd adres\'e1\'f8 nen\'ed pr\'e1zdn\'fd, nalezeno 899 soubor\'f9 !!!
-\par Maz\'e1n\'ed datov\'fdch soubor\'f9
-\par Sobory smaz\'e1ny
-\par \cf2 Verze p\'f8eklada\'e8e: V0.04 (SW00264)
-\par Generov\'e1n\'ed seznamu skupin vlak\'f9, \'e8ekejte pros\'edm. \'c8as: 11:10:27
-\par Generov\'e1n\'ed skupin ukon\'e8eno. \'c8as: 11:10:30
-\par \cf1 Vybr\'e1na skupina: 814_VM
-\par \cf2 P\'f8eklad, \'e8ekejte pros\'edm. \'c8as: 11:10:30
-\par P\'f8eklad ukon\'e8en. \'c8as: 11:11:26
-\par \cf1 Finalizuj\'ed se datov\'e9 soubory...
-\par Platnost J\'d8: 11.06.2023 - 09.12.2023
-\par \cf3 !!! V rozsahu platnosti J\'d8 nebyl nalezen vyhovuj\'edc\'ed z\'e1znam pro Velikonoce !!!
-\par !!!Neznamy interval no,velkypatek
+\viewkind4\uc1\pard\cf1\b\f0\fs16 !!! Do\f1\'e8asn\'fd c\'edlov\'fd adres\'e1\'f8 nen\'ed pr\'e1zdn\'fd, nalezeno 971 soubor\'f9 !!!
+\par \f0 Maz\f2\'e1n\'ed do\f3\'e8asn\'fdch datov\'fdch soubor\'f9
+\par \f0 Do\f1\'e8asn\'e9 sobory smaz\'e1ny
+\par \cf2\f0 Verze p\f1\'f8eklada\'e8e: V0.04 (SW00264)
+\par \f0 Generov\f2\'e1n\'ed seznamu skupin vlak\f3\'f9, \'e8ekejte pros\'edm. \'c8as: 8:13:02
+\par \f0 Generov\f2\'e1n\'ed skupin ukon\f3\'e8eno. \'c8as: 8:13:03
+\par \cf1\f0 Vybr\f2\'e1na skupina: 814_VM
+\par \cf2\f0 P\f1\'f8eklad, \'e8ekejte pros\'edm. \'c8as: 8:13:03
+\par \f0 P\f1\'f8eklad ukon\'e8en. \'c8as: 8:13:10
+\par \cf1\f0 Finalizuj\f2\'ed se datov\'e9 soubory...
+\par \f0 Platnost J\f1\'d8: 11.06.2023 - 09.12.2023
+\par \cf3\f0 !!! V rozsahu platnosti J\f1\'d8 nebyl nalezen vyhovuj\'edc\'ed z\'e1znam pro Velikonoce !!!
+\par \f0 !!!Neznamy interval no,velkypatek
 \par \cf1 Soubor 1200.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par \cf3 !!!Neznamy interval yes,velikonoce
 \par \cf1 Soubor 1201.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
@@ -164,12 +164,23 @@
 \par Soubor 16471.dat upraven, sestav: 1, ZNZ: 2, ZDD: 0
 \par Soubor 16480.dat upraven, sestav: 1, ZNZ: 2, ZDD: 1
 \par Soubor 16481.dat upraven, sestav: 1, ZNZ: 2, ZDD: 1
+\par Soubor 16500.dat upraven, sestav: 1, ZNZ: 2, ZDD: 0
+\par Soubor 16510.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
+\par Soubor 16511.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
+\par Soubor 16512.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
+\par Soubor 16520.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 16560.dat upraven, sestav: 1, ZNZ: 6, ZDD: 0
 \par Soubor 16561.dat upraven, sestav: 1, ZNZ: 10, ZDD: 1
+\par Soubor 165630.dat upraven, sestav: 1, ZNZ: 6, ZDD: 0
+\par Soubor 165631.dat upraven, sestav: 1, ZNZ: 10, ZDD: 1
 \par Soubor 17830.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 17831.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
+\par Soubor 178330.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
+\par Soubor 178331.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 17840.dat upraven, sestav: 1, ZNZ: 0, ZDD: 1
 \par Soubor 17841.dat upraven, sestav: 1, ZNZ: 0, ZDD: 1
+\par Soubor 178430.dat upraven, sestav: 1, ZNZ: 0, ZDD: 1
+\par Soubor 178431.dat upraven, sestav: 1, ZNZ: 0, ZDD: 1
 \par Soubor 20400.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 20410.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 20420.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
@@ -355,82 +366,142 @@
 \par Soubor 32400.dat upraven, sestav: 1, ZNZ: 2, ZDD: 0
 \par Soubor 39000.dat upraven, sestav: 1, ZNZ: 5, ZDD: 0
 \par Soubor 39001.dat upraven, sestav: 1, ZNZ: 9, ZDD: 1
+\par Soubor 390030.dat upraven, sestav: 1, ZNZ: 5, ZDD: 0
+\par Soubor 390031.dat upraven, sestav: 1, ZNZ: 9, ZDD: 1
 \par Soubor 39010.dat upraven, sestav: 1, ZNZ: 5, ZDD: 0
+\par Soubor 390130.dat upraven, sestav: 1, ZNZ: 5, ZDD: 0
+\par Soubor 390131.dat upraven, sestav: 1, ZNZ: 5, ZDD: 0
 \par Soubor 39020.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 390230.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
 \par Soubor 39030.dat upraven, sestav: 1, ZNZ: 9, ZDD: 1
 \par Soubor 39031.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 390330.dat upraven, sestav: 1, ZNZ: 9, ZDD: 1
+\par Soubor 390331.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
 \par Soubor 39040.dat upraven, sestav: 1, ZNZ: 7, ZDD: 0
 \par Soubor 39041.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 390430.dat upraven, sestav: 1, ZNZ: 7, ZDD: 0
+\par Soubor 390431.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
 \par Soubor 39050.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 390530.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
 \par Soubor 39060.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 390630.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
 \par Soubor 39070.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 390730.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
 \par Soubor 39080.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 390830.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
 \par Soubor 39090.dat upraven, sestav: 1, ZNZ: 9, ZDD: 1
+\par Soubor 390930.dat upraven, sestav: 1, ZNZ: 9, ZDD: 1
+\par Soubor 390931.dat upraven, sestav: 1, ZNZ: 9, ZDD: 1
 \par Soubor 39100.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 391030.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 391031.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
 \par Soubor 39110.dat upraven, sestav: 3, ZNZ: 11, ZDD: 1
 \par Soubor 39111.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 391130.dat upraven, sestav: 3, ZNZ: 11, ZDD: 1
+\par Soubor 391131.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
 \par Soubor 39120.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 391230.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 391231.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
 \par Soubor 39130.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 391330.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
 \par Soubor 39140.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 391430.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
 \par Soubor 39150.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 391530.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
 \par Soubor 39160.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 391630.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
 \par Soubor 39170.dat upraven, sestav: 1, ZNZ: 7, ZDD: 0
+\par Soubor 391730.dat upraven, sestav: 1, ZNZ: 7, ZDD: 0
 \par Soubor 39180.dat upraven, sestav: 1, ZNZ: 10, ZDD: 1
+\par Soubor 391830.dat upraven, sestav: 1, ZNZ: 10, ZDD: 1
 \par Soubor 39190.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
 \par Soubor 39191.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 391930.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 391931.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
 \par Soubor 39200.dat upraven, sestav: 1, ZNZ: 9, ZDD: 1
+\par Soubor 392030.dat upraven, sestav: 1, ZNZ: 9, ZDD: 1
 \par Soubor 39210.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 392130.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
 \par Soubor 39220.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 392230.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
 \par Soubor 39230.dat upraven, sestav: 1, ZNZ: 7, ZDD: 0
+\par Soubor 392330.dat upraven, sestav: 1, ZNZ: 7, ZDD: 0
 \par Soubor 39240.dat upraven, sestav: 1, ZNZ: 5, ZDD: 0
+\par Soubor 392430.dat upraven, sestav: 1, ZNZ: 5, ZDD: 0
 \par Soubor 39250.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 392530.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
 \par Soubor 39260.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
+\par Soubor 392630.dat upraven, sestav: 1, ZNZ: 11, ZDD: 1
 \par Soubor 39270.dat upraven, sestav: 1, ZNZ: 7, ZDD: 0
+\par Soubor 392730.dat upraven, sestav: 1, ZNZ: 7, ZDD: 0
 \par Soubor 39290.dat upraven, sestav: 3, ZNZ: 9, ZDD: 1
+\par Soubor 392930.dat upraven, sestav: 3, ZNZ: 9, ZDD: 1
 \par Soubor 39300.dat upraven, sestav: 1, ZNZ: 4, ZDD: 0
 \par Soubor 39301.dat upraven, sestav: 1, ZNZ: 6, ZDD: 0
+\par Soubor 393030.dat upraven, sestav: 1, ZNZ: 4, ZDD: 0
+\par Soubor 393031.dat upraven, sestav: 1, ZNZ: 6, ZDD: 0
 \par Soubor 39310.dat upraven, sestav: 1, ZNZ: 3, ZDD: 0
 \par Soubor 39311.dat upraven, sestav: 1, ZNZ: 5, ZDD: 0
+\par Soubor 393130.dat upraven, sestav: 1, ZNZ: 3, ZDD: 0
+\par Soubor 393131.dat upraven, sestav: 1, ZNZ: 5, ZDD: 0
 \par Soubor 39320.dat upraven, sestav: 2, ZNZ: 3, ZDD: 0
 \par Soubor 39321.dat upraven, sestav: 2, ZNZ: 3, ZDD: 0
 \par Soubor 39322.dat upraven, sestav: 2, ZNZ: 3, ZDD: 0
+\par Soubor 393230.dat upraven, sestav: 2, ZNZ: 3, ZDD: 0
+\par Soubor 393231.dat upraven, sestav: 2, ZNZ: 3, ZDD: 0
+\par Soubor 393232.dat upraven, sestav: 2, ZNZ: 3, ZDD: 0
 \par Soubor 39330.dat upraven, sestav: 1, ZNZ: 3, ZDD: 0
 \par Soubor 39340.dat upraven, sestav: 1, ZNZ: 2, ZDD: 0
 \par Soubor 39341.dat upraven, sestav: 1, ZNZ: 5, ZDD: 0
+\par Soubor 393431.dat upraven, sestav: 1, ZNZ: 5, ZDD: 0
 \par Soubor 39350.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39351.dat upraven, sestav: 1, ZNZ: 3, ZDD: 0
+\par Soubor 393531.dat upraven, sestav: 1, ZNZ: 3, ZDD: 0
 \par Soubor 39360.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39361.dat upraven, sestav: 1, ZNZ: 3, ZDD: 0
+\par Soubor 393631.dat upraven, sestav: 1, ZNZ: 3, ZDD: 0
 \par Soubor 39370.dat upraven, sestav: 1, ZNZ: 3, ZDD: 0
+\par Soubor 393730.dat upraven, sestav: 1, ZNZ: 3, ZDD: 0
 \par Soubor 39380.dat upraven, sestav: 1, ZNZ: 3, ZDD: 0
 \par Soubor 39381.dat upraven, sestav: 1, ZNZ: 5, ZDD: 0
+\par Soubor 393830.dat upraven, sestav: 1, ZNZ: 3, ZDD: 0
+\par Soubor 393831.dat upraven, sestav: 1, ZNZ: 5, ZDD: 0
 \par Soubor 39390.dat upraven, sestav: 1, ZNZ: 6, ZDD: 0
+\par Soubor 393930.dat upraven, sestav: 1, ZNZ: 6, ZDD: 0
 \par Soubor 39400.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39401.dat upraven, sestav: 1, ZNZ: 4, ZDD: 0
+\par Soubor 394031.dat upraven, sestav: 1, ZNZ: 4, ZDD: 0
 \par Soubor 39410.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
+\par Soubor 394130.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39420.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39421.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39430.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
+\par Soubor 394330.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39440.dat upraven, sestav: 1, ZNZ: 2, ZDD: 0
 \par Soubor 39450.dat upraven, sestav: 1, ZNZ: 2, ZDD: 0
+\par Soubor 394530.dat upraven, sestav: 1, ZNZ: 2, ZDD: 0
 \par Soubor 39460.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39461.dat upraven, sestav: 2, ZNZ: 0, ZDD: 0
 \par Soubor 39462.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39470.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39471.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
+\par Soubor 394731.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39480.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39490.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39500.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39501.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39510.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39511.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
+\par Soubor 395131.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39520.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39530.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39540.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39550.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
+\par Soubor 395530.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39560.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39561.dat upraven, sestav: 1, ZNZ: 2, ZDD: 0
 \par Soubor 39580.dat upraven, sestav: 1, ZNZ: 3, ZDD: 0
+\par Soubor 395830.dat upraven, sestav: 1, ZNZ: 3, ZDD: 0
 \par Soubor 39600.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39610.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 39620.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
@@ -805,6 +876,7 @@
 \par Soubor 139160.dat upraven, sestav: 1, ZNZ: 5, ZDD: 0
 \par Soubor 139170.dat upraven, sestav: 1, ZNZ: 5, ZDD: 0
 \par Soubor 139180.dat upraven, sestav: 1, ZNZ: 5, ZDD: 0
+\par Soubor 1391830.dat upraven, sestav: 1, ZNZ: 5, ZDD: 0
 \par Soubor 142000.dat upraven, sestav: 1, ZNZ: 10, ZDD: 0
 \par Soubor 142001.dat upraven, sestav: 1, ZNZ: 10, ZDD: 0
 \par Soubor 142020.dat upraven, sestav: 1, ZNZ: 10, ZDD: 0
@@ -884,7 +956,6 @@
 \par Soubor 142581.dat upraven, sestav: 1, ZNZ: 5, ZDD: 0
 \par Soubor 142590.dat upraven, sestav: 1, ZNZ: 6, ZDD: 0
 \par Soubor 142591.dat upraven, sestav: 1, ZNZ: 6, ZDD: 0
-\par 
 \par Soubor 142600.dat upraven, sestav: 1, ZNZ: 2, ZDD: 0
 \par Soubor 142620.dat upraven, sestav: 1, ZNZ: 6, ZDD: 0
 \par Soubor 142670.dat upraven, sestav: 3, ZNZ: 6, ZDD: 0
@@ -956,10 +1027,10 @@
 \par Soubor 231580.dat upraven, sestav: 1, ZNZ: 1, ZDD: 0
 \par Soubor 231600.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor skupina.dat upraven.
-\par Kop\'edrov\'e1n\'ed soubor\'f9 do c\'edlov\'e9ho adres\'e1\'f8e
-\par Maz\'e1n\'ed do\'e8asn\'fdch soubor\'f9
-\par \cf2 
-\par Generov\'e1n\'ed dat dokon\'e8eno. \'c8as: 11:12:14
-\par 
+\par Kop\f2\'edrov\'e1n\'ed soubor\f3\'f9 do c\'edlov\'e9ho adres\'e1\'f8e
+\par \f0 Maz\f2\'e1n\'ed do\f3\'e8asn\'fdch soubor\'f9
+\par \cf2\f0 
+\par Generov\f2\'e1n\'ed dat dokon\f3\'e8eno. \'c8as: 8:13:29
+\par \f0 
 \par }
  

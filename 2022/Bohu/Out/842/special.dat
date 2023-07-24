@@ -1,5 +1,5 @@
 [GLOBAL]
-INTERNAL=23
+INTERNAL=30
 EXTERNAL=10
 [IN-0]
 NAME=Vystupujte vlevo
@@ -50,46 +50,74 @@ NAME=Zpoždìní (výluka)
 TEXT=Vlak je opoždìn z dùvodu výluky na trati. Omluvte prosím zpoždìní vlaku.
 AKUST=954211
 [IN-12]
+NAME=Zpoždìní (SŽ)
+TEXT=Vlak je opoždìn z provozních dùvodù Správy Železnic. Omluvte prosím zpoždìní vlaku.
+AKUST=
+[IN-13]
 NAME=Zpoždìní (pøípoj)
 TEXT=Vlak je opoždìn z dùvodu èekání na pøípojný vlak. Omluvte prosím zpoždìní vlaku.
 AKUST=954213
-[IN-13]
+[IN-14]
+NAME=Zpoždìní (IDS)
+TEXT=Vlak je opoždìn z dùvodu èekání na zpoždìný pøípoj v rámci integrovaného dopravního systému. Omluvte prosím zpoždìní vlaku.
+AKUST=
+[IN-15]
+NAME=Zpoždìní (NAD)
+TEXT=Vlak je opoždìn z dùvodu pozdního pøíjezdu autobusu NAD. Omluvte prosím zpoždìní vlaku.
+AKUST=
+[IN-16]
 NAME=Zpoždìní (køižování)
 TEXT=Vlak je opoždìn z dùvodu èekání na zpoždìný vlak opaèného smìru. Omluvte prosím zpoždìní vlaku.
 AKUST=954212
-[IN-14]
+[IN-17]
 NAME=Zpoždìní (vadný vùz)
 TEXT=Vlak je opoždìn z dùvodu poruchy vozu. Omluvte prosím zpoždìní vlaku.
 AKUST=954214
-[IN-15]
+[IN-18]
 NAME=Zpoždìní (pøedjetí)
 TEXT=Vlak je opoždìn z dùvodu pøedjíždìní vlakem vyšší kategorie. Omluvte prosím zpoždìní vlaku.
 AKUST=954217
-[IN-16]
+[IN-19]
 NAME=Zpoždìní (pøekážka)
 TEXT=Vlak je opoždìn z dùvodu pøekážky na trati. Omluvte prosím zpoždìní vlaku.
 AKUST=954215
-[IN-17]
+[IN-20]
 NAME=Zpoždìní (poèasí)
 TEXT=Vlak je opoždìn z dùvodu nepøíznivých povìtrnostních podmínek. Omluvte prosím zpoždìní vlaku.
 AKUST=954218
-[IN-18]
+[IN-21]
 NAME=Zpoždìní (pøejezd)
 TEXT=Vlak je opoždìn z dùvodu støetnutí na železnièním pøejezdu. Omluvte prosím zpoždìní vlaku.
 AKUST=954216
-[IN-19]
+[IN-22]
+NAME=Zpoždìní (pomalá jízda)
+TEXT=Vlak je opoždìn z dùvodu snížené rychlosti vlaku na èásti trati s technickou závadou. Omluvte prosím zpoždìní vlaku.
+AKUST=
+[IN-23]
+NAME=Zpoždìní (uvázlý vlak)
+TEXT=Vlak je opoždìn z dùvodu uváznutého vlaku na trati. Omluvte prosím zpoždìní vlaku.
+AKUST=
+[IN-24]
+NAME=Zpoždìní (pozdní pøíchod)
+TEXT=Vlak je opoždìn z dùvodu pozdního pøíchodu zamìstnance dopravce. Omluvte prosím zpoždìní vlaku.
+AKUST=
+[IN-25]
+NAME=Zpoždìní (technická závada)
+TEXT=Vlak je opoždìn z dùvodu technické závady na vlaku. Omluvte prosím zpoždìní vlaku.
+AKUST=
+[IN-26]
 NAME=Uvítání jménem ÈD
 TEXT=Vážení cestující, vítáme Vás ve vlaku jménem národního dopravce Èeské dráhy.
 AKUST=954250
-[IN-20]
+[IN-27]
 NAME=Podìkování za ÈD
 TEXT=Dìkujeme Vám za využití služeb Èeských drah.
 AKUST=954251
-[IN-21]
+[IN-28]
 NAME=Ne zadní dveøe
 TEXT=V této stanici není možný výstup ze zadních dveøí vlaku.
 AKUST=954294
-[IN-22]
+[IN-29]
 NAME=Zkouška rozhlasu
 TEXT=Zkouška rozhlasu
 AKUST=954171
