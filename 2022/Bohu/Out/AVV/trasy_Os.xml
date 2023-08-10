@@ -7413,8 +7413,8 @@ rr.mm.dd - popis
   <!-- Val.Mez - Kojetin-->
   <trasa>
     <cisloTrasy>30</cisloTrasy>
-    <vstupniBodyOd>11</vstupniBodyOd>
-    <vstupniBodyDo>12</vstupniBodyDo>
+    <vstupniBodyOd>31</vstupniBodyOd>
+    <vstupniBodyDo>32</vstupniBodyDo>
     <cisloDleSJR>304</cisloDleSJR>
     <bodyNaMape>
        1216,527; 1165,545; 1139,568; 1100,582; 1081,568
@@ -7428,7 +7428,7 @@ rr.mm.dd - popis
       <nazevStanice>ValMez</nazevStanice>
       
       <vstupniBod>
-        <veSmeru>11</veSmeru>
+        <veSmeru>31</veSmeru>
       </vstupniBod>
       
       <navestVjezd>
@@ -7566,7 +7566,7 @@ rr.mm.dd - popis
       <nazevStanice>Kojetin</nazevStanice>
       
       <vstupniBod>
-        <vProtismeru>12</vProtismeru>
+        <vProtismeru>32</vProtismeru>
       </vstupniBod>
       
       <vjezdDoPrimaVeSmeru />
@@ -7580,9 +7580,9 @@ rr.mm.dd - popis
   <!-- T=30 B=21..22 -->
   <!-- Ostrava uhelne - ValMez.-->
   <trasa>
-    <cisloTrasy>30</cisloTrasy>
-    <vstupniBodyOd>21</vstupniBodyOd>
-    <vstupniBodyDo>22</vstupniBodyDo>
+    <cisloTrasy>32</cisloTrasy>
+    <vstupniBodyOd>41</vstupniBodyOd>
+    <vstupniBodyDo>42</vstupniBodyDo>
     <cisloDleSJR>302</cisloDleSJR>
     <bodyNaMape>
        1278,405; 1279,428; 1290,460; 1294,486; 1248,506; 1227,509; 1216,527
@@ -7596,7 +7596,7 @@ rr.mm.dd - popis
       <nazevStanice>Ostrava-Kuncice</nazevStanice>
       
       <vstupniBod>
-        <veSmeru>21</veSmeru>
+        <veSmeru>41</veSmeru>
       </vstupniBod>  
       
       <vjezdDoPrimaVeSmeru />
@@ -7743,7 +7743,7 @@ rr.mm.dd - popis
       <nazevStanice>Valasske Mezirici</nazevStanice>
       
       <vstupniBod>
-        <vProtismeru>22</vProtismeru>
+        <vProtismeru>42</vProtismeru>
       </vstupniBod>
       
       <navestVjezd>
