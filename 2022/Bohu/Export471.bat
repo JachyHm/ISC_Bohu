@@ -1,1 +1,1 @@
-CleanUp.exe "BohuRegio.xml" -b=2 -a=8 -v="Export471.xml"
+CleanUp.exe "BohuRegio.xml" -b=2 -a=8 -t -v="Export471.xml"
