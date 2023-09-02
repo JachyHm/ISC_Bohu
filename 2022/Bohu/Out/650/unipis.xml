@@ -7402,6 +7402,7 @@
 				<schedule>
 					<calendar yesno="yes" id="sobota"/>
 					<calendar yesno="yes" id="nedele-nebo-svatek"/>
+					<calendar yesno="no" id="2023-09-09/2023-09-09"/>
 				</schedule>
 				<train-path>
 					<station id="5434434" departure="10:05:00" stop="yes" report-via="no" silent-audio="no">
@@ -7467,6 +7468,76 @@
 							<carriage res="1002" construction="Bdtn 757"/>
 							<carriage res="1003" construction="Bdtn 757"/>
 							<carriage res="1004" construction="842"/>
+						</unit>
+					</composition>
+				</compositions>
+			</variant>
+			<variant id="1">
+				<schedule>
+					<calendar yesno="yes" id="2023-09-09/2023-09-09"/>
+				</schedule>
+				<train-path>
+					<station id="5434434" departure="10:05:00" stop="yes" report-via="no" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-S5"/>
+					</station>
+					<station id="5438274" departure="10:09:00" stop="no" report-via="no" real-distance="3700.0" silent-audio="no">
+						<line line_group="Linky" line="Lin-S5"/>
+					</station>
+					<station id="5435044" arrival="10:13:00" departure="10:14:30" stop="yes" report-via="yes" real-distance="7400.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-S5"/>
+					</station>
+					<station id="5434414" departure="10:19:00" stop="no" report-via="yes" real-distance="11000.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-S5"/>
+					</station>
+					<station id="5435034" departure="10:21:30" stop="no" report-via="no" real-distance="13300.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-S5"/>
+					</station>
+					<station id="5434514" departure="10:25:30" stop="no" report-via="no" real-distance="17500.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-S5"/>
+					</station>
+					<station id="5433974" departure="10:29:30" stop="no" report-via="no" real-distance="22300.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-S5"/>
+					</station>
+					<station id="5433344" arrival="10:32:30" departure="10:34:30" stop="yes" report-via="yes" real-distance="25400.0" silent-audio="no">
+						<connection-direction direction="5433234"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-S5"/>
+					</station>
+					<station id="5433024" departure="10:38:30" stop="no" report-via="no" real-distance="28600.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-S5"/>
+					</station>
+					<station id="5433394" departure="10:41:30" stop="no" report-via="no" real-distance="32500.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-S5"/>
+					</station>
+					<station id="5433354" arrival="10:45:00" departure="10:47:00" stop="yes" report-via="yes" real-distance="35900.0" silent-audio="no">
+						<connection-direction direction="5433334"/>
+						<connection-direction direction="5435162"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-S5"/>
+					</station>
+					<station id="5434494" arrival="10:54:00" departure="10:55:00" stop="yes" report-via="no" real-distance="40900.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-S5"/>
+					</station>
+					<station id="5434464" arrival="10:58:00" stop="yes" report-via="no" real-distance="42600.0" number="12917" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-S5"/>
+					</station>
+				</train-path>
+				<compositions rotation="01">
+					<schedule/>
+					<composition from="1" to="13">
+						<unit id="0101">
+							<carriage res="0" construction="Lok"/>
+							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
 				</compositions>
@@ -38895,6 +38966,13 @@
 				</tr>
 			</msg>
 		</announcement>
+		<announcement id="reg_delay_common" msg="reg_delay_common" broadcast="yes" external="no" internal="yes">
+			<msg list="announcement">
+				<tr lang="cs">
+					<phrase visual="Zpoždění výběr (pouze AMiT a 844)" sound-file="empty"/>
+				</tr>
+			</msg>
+		</announcement>
 		<announcement id="reg_clos_next_end_subst_bus" msg="reg_clos_next_end_subst_bus" broadcast="yes" external="no" internal="yes">
 			<msg list="announcement">
 				<tr lang="cs">
@@ -39818,6 +39896,21 @@
 		</brand>
 		<brand id="Sv" name="Soupravový vlak" rules="cd_regional"/>
 		<brand id="Lv" name="Lokomotivní vlak" rules="cd_regional"/>
+		<brand id="zvl. Sp" name="Zvláštní spěšný vlak" rules="cd_regional">
+			<msg list="welcome_where" name="Spěšný vlak">
+				<tr lang="cs" name="Zvláštní spěšný vlak">
+					<phrase visual="ve zvláštním spěšném vlaku">
+						<visualization str="zvl. Sp" role="short"/>
+						<sound-file sound-file="349779" sound-name="CZ\SLOVA\407" sound-format="mp3" sound-role="unipis"/>
+					</phrase>
+				</tr>
+			</msg>
+			<msg list="brand" name="Zvláštní spěšný vlak">
+				<tr lang="uni" name="Zvláštní spěšný vlak">
+					<phrase visual="zvl. Sp"/>
+				</tr>
+			</msg>
+		</brand>
 	</brands>
 	<train-names>
 		<train-name id="JAVOŘINA" name="JAVOŘINA">
@@ -39872,6 +39965,25 @@
 				</tr>
 				<tr lang="de" name="MORAVAN">
 					<phrase visual="MORAVAN">
+						<sound-file sound-file="350336" sound-format="mp3" sound-role="unipis"/>
+					</phrase>
+				</tr>
+			</msg>
+		</train-name>
+		<train-name id="PRADĚD" name="PRADĚD">
+			<msg list="train_name" name="PRADĚD">
+				<tr lang="cs" name="PRADĚD">
+					<phrase visual="PRADĚD">
+						<sound-file sound-file="350336" sound-format="mp3" sound-role="unipis"/>
+					</phrase>
+				</tr>
+				<tr lang="en" name="PRADĚD">
+					<phrase visual="PRADĚD">
+						<sound-file sound-file="318427" sound-format="mp3" sound-role="unipis"/>
+					</phrase>
+				</tr>
+				<tr lang="de" name="PRADĚD">
+					<phrase visual="PRADĚD">
 						<sound-file sound-file="350336" sound-format="mp3" sound-role="unipis"/>
 					</phrase>
 				</tr>
@@ -41684,6 +41796,9 @@
 		</calendar>
 		<calendar id="2023-08-26/2023-08-26">
 			<days yesno="yes" from="2023-08-26" to="2023-08-26"/>
+		</calendar>
+		<calendar id="2023-09-09/2023-09-09">
+			<days yesno="yes" from="2023-09-09" to="2023-09-09"/>
 		</calendar>
 		<calendar id="2023-06-12/2023-06-30">
 			<days yesno="yes" from="2023-06-12" to="2023-06-30"/>
@@ -44782,6 +44897,21 @@
 			<tr lang="cs" name="Mimořádné ukončení příští - regionální">
 				<phrase visual="Z důvodu výluky na trati tento vlak v příští stanici končí jízdu.">
 					<sound-file sound-file="349699" sound-name="\CZ\Slova\203" sound-format="mp3" sound-role="unipis"/>
+				</phrase>
+			</tr>
+		</msg>
+		<msg list="extra_msg" id="reg_delay_common">
+			<tr lang="cs">
+				<phrase visual="Vlak je opožděn o ">
+					<sound-file sound-file="349719" sound-name="\CZ\Slova\302_x" sound-format="mp3" sound-role="unipis"/>
+				</phrase>
+				<parameter ordinal="1" name="minut zpoždění" list="minute_delay"/>
+				<phrase visual=" minut z důvodu ">
+					<sound-file sound-file="349720" sound-name="\CZ\Slova\303" sound-format="mp3" sound-role="unipis"/>
+				</phrase>
+				<parameter ordinal="2" list="inconvenience_end"/>
+				<phrase visual=". Omluvte prosím zpoždění vlaku.">
+					<sound-file sound-file="349678" sound-name="\CZ\Slova\123" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
 			</tr>
 		</msg>
