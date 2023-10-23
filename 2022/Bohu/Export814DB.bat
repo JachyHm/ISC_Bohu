@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\UniControls\PisPrep\bin\mavis2to1" -db="C:\Users\hurtik\AppData\Roaming\UniControls\pisprep\DBXCHG" -tmpdir="C:\Users\hurtik\Downloads\TEMP\tempMavis1" -gccpth="C:\Program Files (x86)\UniControls\PisPrep\gcc\bin" -dbsrcdir="C:\Program Files (x86)\UniControls\PisPrep\dbgen" -o="C:\Users\hurtik\Downloads\TEMP\test.gvd" -allerrors=1
