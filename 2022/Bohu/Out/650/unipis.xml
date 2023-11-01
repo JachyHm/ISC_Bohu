@@ -1649,6 +1649,7 @@
 				<schedule>
 					<calendar yesno="yes" id="pracovni"/>
 					<calendar yesno="no" id="2023-07-03/2023-09-01"/>
+					<calendar yesno="no" id="2023-11-01/2023-11-06"/>
 				</schedule>
 				<train-path>
 					<station id="5434194" departure="08:24:00" stop="yes" report-via="no" silent-audio="no">
@@ -1728,6 +1729,167 @@
 						<line line_group="Linky" line="Lin-R61"/>
 					</station>
 					<station id="5433454" arrival="09:21:30" departure="09:23:00" stop="yes" report-via="yes" real-distance="51600.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433461" arrival="09:26:00" departure="09:26:30" stop="yes" report-via="no" real-distance="53700.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433474" arrival="09:28:30" departure="09:28:30" stop="yes" report-via="no" real-distance="55400.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433484" arrival="09:30:30" departure="09:31:00" stop="yes" report-via="no" real-distance="57400.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433014" arrival="09:33:30" departure="09:34:30" stop="yes" report-via="no" real-distance="60000.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433244" arrival="09:39:30" departure="09:40:00" stop="yes" report-via="no" real-distance="66300.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433234" arrival="09:45:00" stop="yes" report-via="no" real-distance="70700.0" number="1614" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+				</train-path>
+				<compositions rotation="01">
+					<schedule/>
+					<composition from="1" to="10">
+						<unit id="0101">
+							<carriage res="1001" construction="4710"/>
+							<carriage res="1002" construction="4710"/>
+							<carriage res="1003" construction="4710"/>
+						</unit>
+					</composition>
+					<composition from="10" to="26">
+						<unit id="0101">
+							<carriage res="1003" construction="4710"/>
+							<carriage res="1002" construction="4710"/>
+							<carriage res="1001" construction="4710"/>
+							<circulation when="after">
+								<schedule/>
+								<train train="1614" show="no" switch="auto"/>
+							</circulation>
+						</unit>
+					</composition>
+				</compositions>
+			</variant>
+			<variant id="31">
+				<schedule>
+					<calendar yesno="yes" id="pracovni"/>
+					<calendar yesno="no" id="2023-07-03/2023-09-01"/>
+					<calendar yesno="no" id="2023-06-11/2023-10-31"/>
+					<calendar yesno="no" id="2023-11-07/2023-12-09"/>
+				</schedule>
+				<train-path>
+					<station id="5434194" departure="08:24:00" stop="yes" report-via="no" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434204" departure="08:27:30" stop="no" report-via="no" real-distance="4300.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434854" arrival="08:30:00" departure="08:30:30" stop="yes" report-via="yes" real-distance="7900.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434864" departure="08:32:00" stop="no" report-via="no" real-distance="9500.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433444" departure="08:32:30" stop="no" report-via="no" real-distance="10700.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433424" arrival="08:35:30" departure="08:36:30" stop="yes" report-via="yes" real-distance="14200.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433434" departure="08:39:00" stop="no" report-via="no" real-distance="17800.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433264" departure="08:41:30" stop="no" report-via="yes" real-distance="20700.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434444" arrival="08:45:00" departure="08:45:00" stop="yes" report-via="no" real-distance="25600.0" silent-audio="no">
+						<arrangement id="service_stop"/>
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434434" arrival="08:48:00" departure="08:53:00" stop="yes" report-via="yes" real-distance="28300.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434384" departure="08:56:00" stop="no" report-via="no" real-distance="31250.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434364" arrival="08:59:00" departure="09:00:00" stop="yes" report-via="yes" real-distance="33700.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5438044" departure="09:02:00" stop="no" report-via="no" real-distance="35200.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434393" arrival="09:03:00" departure="09:03:30" stop="yes" report-via="no" real-distance="35900.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434394" arrival="09:05:00" departure="09:06:00" stop="yes" report-via="yes" real-distance="36600.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434374" departure="09:08:30" stop="no" report-via="no" real-distance="39300.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<announcement id="_wiz19" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434414" arrival="09:11:00" departure="09:12:00" stop="yes" report-via="yes" real-distance="41500.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<announcement id="_wiz19" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434424" departure="09:16:30" stop="no" report-via="no" real-distance="45800.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<announcement id="_wiz19" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433464" departure="09:18:00" stop="no" report-via="no" real-distance="48100.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<announcement id="_wiz19" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433454" arrival="09:21:30" departure="09:23:00" stop="yes" report-via="yes" real-distance="51600.0" silent-audio="no">
+						<arrangement id="exceptional_end"/>
+						<announcement id="reg_end_subus" phase="arriving"/>
+						<announcement id="_wiz20" phase="arriving"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-R61"/>
 					</station>
@@ -2147,6 +2309,7 @@
 				<schedule>
 					<calendar yesno="yes" id="pracovni"/>
 					<calendar yesno="no" id="2023-07-03/2023-09-01"/>
+					<calendar yesno="no" id="2023-11-01/2023-11-06"/>
 				</schedule>
 				<train-path>
 					<station id="5434194" departure="10:24:00" stop="yes" report-via="no" silent-audio="no">
@@ -2226,6 +2389,167 @@
 						<line line_group="Linky" line="Lin-R61"/>
 					</station>
 					<station id="5433454" arrival="11:21:30" departure="11:23:00" stop="yes" report-via="yes" real-distance="51600.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433461" arrival="11:26:00" departure="11:26:30" stop="yes" report-via="no" real-distance="53700.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433474" arrival="11:28:30" departure="11:28:30" stop="yes" report-via="no" real-distance="55400.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433484" arrival="11:30:30" departure="11:31:00" stop="yes" report-via="no" real-distance="57400.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433014" arrival="11:33:30" departure="11:34:00" stop="yes" report-via="no" real-distance="60000.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433244" arrival="11:39:00" departure="11:39:30" stop="yes" report-via="no" real-distance="66300.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433234" arrival="11:44:00" stop="yes" report-via="no" real-distance="70700.0" number="1618" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+				</train-path>
+				<compositions rotation="01">
+					<schedule/>
+					<composition from="1" to="10">
+						<unit id="0101">
+							<carriage res="1001" construction="4710"/>
+							<carriage res="1002" construction="4710"/>
+							<carriage res="1003" construction="4710"/>
+						</unit>
+					</composition>
+					<composition from="10" to="26">
+						<unit id="0101">
+							<carriage res="1003" construction="4710"/>
+							<carriage res="1002" construction="4710"/>
+							<carriage res="1001" construction="4710"/>
+							<circulation when="after">
+								<schedule/>
+								<train train="1618" show="no" switch="auto"/>
+							</circulation>
+						</unit>
+					</composition>
+				</compositions>
+			</variant>
+			<variant id="30">
+				<schedule>
+					<calendar yesno="yes" id="pracovni"/>
+					<calendar yesno="no" id="2023-07-03/2023-09-01"/>
+					<calendar yesno="no" id="2023-06-11/2023-10-31"/>
+					<calendar yesno="no" id="2023-11-07/2023-12-09"/>
+				</schedule>
+				<train-path>
+					<station id="5434194" departure="10:24:00" stop="yes" report-via="no" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434204" departure="10:27:30" stop="no" report-via="no" real-distance="4300.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434854" arrival="10:30:00" departure="10:30:30" stop="yes" report-via="yes" real-distance="7900.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434864" departure="10:32:00" stop="no" report-via="no" real-distance="9500.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433444" departure="10:32:30" stop="no" report-via="no" real-distance="10700.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433424" arrival="10:35:30" departure="10:36:30" stop="yes" report-via="yes" real-distance="14200.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433434" departure="10:39:00" stop="no" report-via="no" real-distance="17800.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433264" departure="10:41:30" stop="no" report-via="yes" real-distance="20700.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434444" arrival="10:45:00" departure="10:45:00" stop="yes" report-via="no" real-distance="25600.0" silent-audio="no">
+						<arrangement id="service_stop"/>
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434434" arrival="10:48:00" departure="10:53:00" stop="yes" report-via="yes" real-distance="28300.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434384" departure="10:56:00" stop="no" report-via="no" real-distance="31250.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434364" arrival="10:59:00" departure="11:00:00" stop="yes" report-via="yes" real-distance="33700.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5438044" departure="11:02:00" stop="no" report-via="no" real-distance="35200.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434393" arrival="11:03:00" departure="11:03:30" stop="yes" report-via="no" real-distance="35900.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434394" arrival="11:05:00" departure="11:06:00" stop="yes" report-via="yes" real-distance="36600.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434374" departure="11:08:30" stop="no" report-via="no" real-distance="39300.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<announcement id="_wiz19" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434414" arrival="11:11:00" departure="11:12:00" stop="yes" report-via="yes" real-distance="41500.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<announcement id="_wiz19" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434424" departure="11:16:30" stop="no" report-via="no" real-distance="45800.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<announcement id="_wiz19" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433464" departure="11:17:30" stop="no" report-via="no" real-distance="48100.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<announcement id="_wiz19" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433454" arrival="11:21:30" departure="11:23:00" stop="yes" report-via="yes" real-distance="51600.0" silent-audio="no">
+						<arrangement id="exceptional_end"/>
+						<announcement id="reg_end_subus" phase="arriving"/>
+						<announcement id="_wiz20" phase="arriving"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-R61"/>
 					</station>
@@ -2416,6 +2740,7 @@
 				<schedule>
 					<calendar yesno="yes" id="pracovni"/>
 					<calendar yesno="no" id="2023-07-03/2023-09-01"/>
+					<calendar yesno="no" id="2023-11-01/2023-11-06"/>
 				</schedule>
 				<train-path>
 					<station id="5434393" departure="12:03:00" stop="yes" report-via="no" silent-audio="no">
@@ -2443,6 +2768,95 @@
 						<line line_group="Linky" line="Lin-R61"/>
 					</station>
 					<station id="5433454" arrival="12:22:00" departure="12:23:00" stop="yes" report-via="yes" real-distance="15700.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433461" arrival="12:26:00" departure="12:26:30" stop="yes" report-via="no" real-distance="17800.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433474" arrival="12:28:30" departure="12:28:30" stop="yes" report-via="no" real-distance="19500.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433484" arrival="12:30:30" departure="12:31:00" stop="yes" report-via="no" real-distance="21500.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433014" arrival="12:33:30" departure="12:34:00" stop="yes" report-via="no" real-distance="24100.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433244" arrival="12:39:00" departure="12:39:30" stop="yes" report-via="no" real-distance="30400.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433234" arrival="12:44:00" stop="yes" report-via="no" real-distance="34800.0" number="1620" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+				</train-path>
+				<compositions rotation="01">
+					<schedule/>
+					<composition from="1" to="13">
+						<unit id="0101">
+							<carriage res="1001" construction="4710"/>
+							<carriage res="1002" construction="4710"/>
+							<carriage res="1003" construction="4710"/>
+							<circulation when="after">
+								<schedule/>
+								<train train="1620" show="no" switch="auto"/>
+							</circulation>
+						</unit>
+					</composition>
+				</compositions>
+			</variant>
+			<variant id="30">
+				<schedule>
+					<calendar yesno="yes" id="pracovni"/>
+					<calendar yesno="no" id="2023-07-03/2023-09-01"/>
+					<calendar yesno="no" id="2023-06-11/2023-10-31"/>
+					<calendar yesno="no" id="2023-11-07/2023-12-09"/>
+				</schedule>
+				<train-path>
+					<station id="5434393" departure="12:03:00" stop="yes" report-via="no" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434394" arrival="12:05:00" departure="12:06:00" stop="yes" report-via="yes" real-distance="700.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434374" departure="12:08:30" stop="no" report-via="no" real-distance="3400.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<announcement id="_wiz19" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434414" arrival="12:11:00" departure="12:12:00" stop="yes" report-via="yes" real-distance="5600.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<announcement id="_wiz19" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434424" departure="12:16:30" stop="no" report-via="no" real-distance="9900.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<announcement id="_wiz19" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433464" arrival="12:18:00" departure="12:18:00" stop="yes" report-via="no" real-distance="12200.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<announcement id="_wiz19" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433454" arrival="12:22:00" departure="12:23:00" stop="yes" report-via="yes" real-distance="15700.0" silent-audio="no">
+						<arrangement id="exceptional_end"/>
+						<announcement id="reg_end_subus" phase="arriving"/>
+						<announcement id="_wiz20" phase="arriving"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-R61"/>
 					</station>
@@ -2543,6 +2957,7 @@
 			<variant id="0">
 				<schedule>
 					<calendar yesno="yes" id="pracovni"/>
+					<calendar yesno="no" id="2023-11-01/2023-11-06"/>
 				</schedule>
 				<train-path>
 					<station id="5434194" departure="12:24:00" stop="yes" report-via="no" silent-audio="no">
@@ -2622,6 +3037,166 @@
 						<line line_group="Linky" line="Lin-R61"/>
 					</station>
 					<station id="5433454" arrival="13:21:30" departure="13:23:00" stop="yes" report-via="yes" real-distance="51600.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433461" arrival="13:26:00" departure="13:26:30" stop="yes" report-via="no" real-distance="53700.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433474" arrival="13:28:30" departure="13:28:30" stop="yes" report-via="no" real-distance="55400.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433484" arrival="13:30:30" departure="13:31:00" stop="yes" report-via="no" real-distance="57400.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433014" arrival="13:33:30" departure="13:34:00" stop="yes" report-via="no" real-distance="60000.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433244" arrival="13:39:00" departure="13:39:30" stop="yes" report-via="no" real-distance="66300.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433234" arrival="13:44:00" stop="yes" report-via="no" real-distance="70700.0" number="1622" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+				</train-path>
+				<compositions rotation="01">
+					<schedule/>
+					<composition from="1" to="10">
+						<unit id="0101">
+							<carriage res="1001" construction="4710"/>
+							<carriage res="1002" construction="4710"/>
+							<carriage res="1003" construction="4710"/>
+						</unit>
+					</composition>
+					<composition from="10" to="26">
+						<unit id="0101">
+							<carriage res="1003" construction="4710"/>
+							<carriage res="1002" construction="4710"/>
+							<carriage res="1001" construction="4710"/>
+							<circulation when="after">
+								<schedule/>
+								<train train="1622" show="no" switch="auto"/>
+							</circulation>
+						</unit>
+					</composition>
+				</compositions>
+			</variant>
+			<variant id="30">
+				<schedule>
+					<calendar yesno="yes" id="pracovni"/>
+					<calendar yesno="no" id="2023-06-11/2023-10-31"/>
+					<calendar yesno="no" id="2023-11-07/2023-12-09"/>
+				</schedule>
+				<train-path>
+					<station id="5434194" departure="12:24:00" stop="yes" report-via="no" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434204" departure="12:27:30" stop="no" report-via="no" real-distance="4300.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434854" arrival="12:30:00" departure="12:30:30" stop="yes" report-via="yes" real-distance="7900.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434864" departure="12:32:00" stop="no" report-via="no" real-distance="9500.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433444" departure="12:32:30" stop="no" report-via="no" real-distance="10700.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433424" arrival="12:35:30" departure="12:36:30" stop="yes" report-via="yes" real-distance="14200.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433434" departure="12:39:00" stop="no" report-via="no" real-distance="17800.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433264" departure="12:41:30" stop="no" report-via="yes" real-distance="20700.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434444" arrival="12:45:00" departure="12:45:00" stop="yes" report-via="no" real-distance="25600.0" silent-audio="no">
+						<arrangement id="service_stop"/>
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434434" arrival="12:48:00" departure="12:53:00" stop="yes" report-via="yes" real-distance="28300.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434384" departure="12:56:00" stop="no" report-via="no" real-distance="31250.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434364" arrival="12:59:00" departure="13:00:00" stop="yes" report-via="yes" real-distance="33700.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5438044" departure="13:02:00" stop="no" report-via="no" real-distance="35200.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434393" arrival="13:03:00" departure="13:03:30" stop="yes" report-via="no" real-distance="35900.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434394" arrival="13:05:00" departure="13:06:00" stop="yes" report-via="yes" real-distance="36600.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434374" departure="13:08:30" stop="no" report-via="no" real-distance="39300.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<announcement id="_wiz19" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434414" arrival="13:11:00" departure="13:12:00" stop="yes" report-via="yes" real-distance="41500.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<announcement id="_wiz19" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434424" departure="13:16:30" stop="no" report-via="no" real-distance="45800.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<announcement id="_wiz19" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433464" departure="13:17:30" stop="no" report-via="no" real-distance="48100.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<announcement id="_wiz19" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433454" arrival="13:21:30" departure="13:23:00" stop="yes" report-via="yes" real-distance="51600.0" silent-audio="no">
+						<arrangement id="exceptional_end"/>
+						<announcement id="reg_end_subus" phase="arriving"/>
+						<announcement id="_wiz20" phase="arriving"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-R61"/>
 					</station>
@@ -2976,6 +3551,7 @@
 				<schedule>
 					<calendar yesno="yes" id="pracovni"/>
 					<calendar yesno="no" id="2023-07-03/2023-09-01"/>
+					<calendar yesno="no" id="2023-11-01/2023-11-06"/>
 				</schedule>
 				<train-path>
 					<station id="5434393" departure="14:03:30" stop="yes" report-via="no" silent-audio="no">
@@ -3003,6 +3579,95 @@
 						<line line_group="Linky" line="Lin-R61"/>
 					</station>
 					<station id="5433454" arrival="14:19:30" departure="14:20:30" stop="yes" report-via="yes" real-distance="15700.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433461" arrival="14:23:00" departure="14:23:30" stop="yes" report-via="no" real-distance="17800.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433474" arrival="14:25:30" departure="14:25:30" stop="yes" report-via="no" real-distance="19500.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433484" arrival="14:27:30" departure="14:28:00" stop="yes" report-via="no" real-distance="21500.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433014" arrival="14:30:30" departure="14:31:00" stop="yes" report-via="no" real-distance="24100.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433244" arrival="14:36:00" departure="14:36:00" stop="yes" report-via="no" real-distance="30400.0" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433234" arrival="14:41:00" stop="yes" report-via="no" real-distance="34800.0" number="2822" silent-audio="no">
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+				</train-path>
+				<compositions rotation="01">
+					<schedule/>
+					<composition from="1" to="13">
+						<unit id="0101">
+							<carriage res="1001" construction="4710"/>
+							<carriage res="1002" construction="4710"/>
+							<carriage res="1003" construction="4710"/>
+							<circulation when="after">
+								<schedule/>
+								<train train="2822" show="no" switch="auto"/>
+							</circulation>
+						</unit>
+					</composition>
+				</compositions>
+			</variant>
+			<variant id="31">
+				<schedule>
+					<calendar yesno="yes" id="pracovni"/>
+					<calendar yesno="no" id="2023-07-03/2023-09-01"/>
+					<calendar yesno="no" id="2023-06-11/2023-10-31"/>
+					<calendar yesno="no" id="2023-11-07/2023-12-09"/>
+				</schedule>
+				<train-path>
+					<station id="5434393" departure="14:03:30" stop="yes" report-via="no" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434394" arrival="14:05:00" departure="14:05:30" stop="yes" report-via="yes" real-distance="700.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434374" departure="14:08:00" stop="no" report-via="no" real-distance="3400.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<announcement id="_wiz19" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434414" arrival="14:10:30" departure="14:11:00" stop="yes" report-via="yes" real-distance="5600.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<announcement id="_wiz19" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5434424" departure="14:14:30" stop="no" report-via="no" real-distance="9900.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<announcement id="_wiz19" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433464" arrival="14:16:00" departure="14:16:00" stop="yes" report-via="no" real-distance="12200.0" silent-audio="no">
+						<announcement id="_wiz20" phase="leaving"/>
+						<announcement id="_wiz19" phase="leaving"/>
+						<integration id="ODIS"/>
+						<line line_group="Linky" line="Lin-R61"/>
+					</station>
+					<station id="5433454" arrival="14:19:30" departure="14:20:30" stop="yes" report-via="yes" real-distance="15700.0" silent-audio="no">
+						<arrangement id="exceptional_end"/>
+						<announcement id="reg_end_subus" phase="arriving"/>
+						<announcement id="_wiz20" phase="arriving"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-R61"/>
 					</station>
@@ -13886,7 +14551,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="22:10:30" departure="22:10:30" stop="yes" report-via="no" real-distance="37300.0" silent-audio="no">
+					<station id="5433984" arrival="22:10:30" departure="22:10:30" stop="yes" report-via="no" real-distance="37450.0" silent-audio="no">
 						<arrangement id="request_stop"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
@@ -14238,7 +14903,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="05:10:30" departure="05:10:30" stop="yes" report-via="no" real-distance="23200.0" silent-audio="no">
+					<station id="5433984" arrival="05:10:30" departure="05:10:30" stop="yes" report-via="no" real-distance="23350.0" silent-audio="no">
 						<arrangement id="request_stop"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
@@ -14455,7 +15120,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="06:10:30" departure="06:10:30" stop="yes" report-via="no" real-distance="37300.0" silent-audio="no">
+					<station id="5433984" arrival="06:10:30" departure="06:10:30" stop="yes" report-via="no" real-distance="37450.0" silent-audio="no">
 						<arrangement id="request_stop"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
@@ -14566,7 +15231,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="07:10:30" departure="07:10:30" stop="yes" report-via="no" real-distance="37300.0" silent-audio="no">
+					<station id="5433984" arrival="07:10:30" departure="07:10:30" stop="yes" report-via="no" real-distance="37450.0" silent-audio="no">
 						<arrangement id="request_stop"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
@@ -14789,7 +15454,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="08:10:30" departure="08:10:30" stop="yes" report-via="no" real-distance="37300.0" silent-audio="no">
+					<station id="5433984" arrival="08:10:30" departure="08:10:30" stop="yes" report-via="no" real-distance="37450.0" silent-audio="no">
 						<arrangement id="request_stop"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
@@ -15012,7 +15677,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="09:10:30" departure="09:10:30" stop="yes" report-via="no" real-distance="37300.0" silent-audio="no">
+					<station id="5433984" arrival="09:10:30" departure="09:10:30" stop="yes" report-via="no" real-distance="37450.0" silent-audio="no">
 						<arrangement id="request_stop"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
@@ -15235,7 +15900,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="10:10:30" departure="10:10:30" stop="yes" report-via="no" real-distance="37300.0" silent-audio="no">
+					<station id="5433984" arrival="10:10:30" departure="10:10:30" stop="yes" report-via="no" real-distance="37450.0" silent-audio="no">
 						<arrangement id="request_stop"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
@@ -15458,7 +16123,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="11:10:30" departure="11:10:30" stop="yes" report-via="no" real-distance="37300.0" silent-audio="no">
+					<station id="5433984" arrival="11:10:30" departure="11:10:30" stop="yes" report-via="no" real-distance="37450.0" silent-audio="no">
 						<arrangement id="request_stop"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
@@ -15681,7 +16346,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="12:10:30" departure="12:10:30" stop="yes" report-via="no" real-distance="37300.0" silent-audio="no">
+					<station id="5433984" arrival="12:10:30" departure="12:10:30" stop="yes" report-via="no" real-distance="37450.0" silent-audio="no">
 						<arrangement id="request_stop"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
@@ -15904,7 +16569,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="13:10:30" departure="13:10:30" stop="yes" report-via="no" real-distance="37300.0" silent-audio="no">
+					<station id="5433984" arrival="13:10:30" departure="13:10:30" stop="yes" report-via="no" real-distance="37450.0" silent-audio="no">
 						<arrangement id="request_stop"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
@@ -16128,7 +16793,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="14:10:30" departure="14:10:30" stop="yes" report-via="no" real-distance="37300.0" silent-audio="no">
+					<station id="5433984" arrival="14:10:30" departure="14:10:30" stop="yes" report-via="no" real-distance="37450.0" silent-audio="no">
 						<arrangement id="request_stop"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
@@ -16344,7 +17009,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="14:40:00" departure="14:40:30" stop="yes" report-via="no" real-distance="31900.0" silent-audio="no">
+					<station id="5433984" arrival="14:40:00" departure="14:40:30" stop="yes" report-via="no" real-distance="32050.0" silent-audio="no">
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
@@ -16556,7 +17221,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="15:10:30" departure="15:10:30" stop="yes" report-via="no" real-distance="37300.0" silent-audio="no">
+					<station id="5433984" arrival="15:10:30" departure="15:10:30" stop="yes" report-via="no" real-distance="37450.0" silent-audio="no">
 						<arrangement id="request_stop"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
@@ -16780,7 +17445,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="16:10:30" departure="16:10:30" stop="yes" report-via="no" real-distance="37300.0" silent-audio="no">
+					<station id="5433984" arrival="16:10:30" departure="16:10:30" stop="yes" report-via="no" real-distance="37450.0" silent-audio="no">
 						<arrangement id="request_stop"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
@@ -17004,7 +17669,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="17:10:30" departure="17:10:30" stop="yes" report-via="no" real-distance="37300.0" silent-audio="no">
+					<station id="5433984" arrival="17:10:30" departure="17:10:30" stop="yes" report-via="no" real-distance="37450.0" silent-audio="no">
 						<arrangement id="request_stop"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
@@ -17228,7 +17893,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="18:10:30" departure="18:10:30" stop="yes" report-via="no" real-distance="37300.0" silent-audio="no">
+					<station id="5433984" arrival="18:10:30" departure="18:10:30" stop="yes" report-via="no" real-distance="37450.0" silent-audio="no">
 						<arrangement id="request_stop"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
@@ -17569,7 +18234,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="19:10:30" departure="19:10:30" stop="yes" report-via="no" real-distance="37300.0" silent-audio="no">
+					<station id="5433984" arrival="19:10:30" departure="19:10:30" stop="yes" report-via="no" real-distance="37450.0" silent-audio="no">
 						<arrangement id="request_stop"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
@@ -17792,7 +18457,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="20:10:30" departure="20:10:30" stop="yes" report-via="no" real-distance="37300.0" silent-audio="no">
+					<station id="5433984" arrival="20:10:30" departure="20:10:30" stop="yes" report-via="no" real-distance="37450.0" silent-audio="no">
 						<arrangement id="request_stop"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
@@ -18015,7 +18680,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="21:10:30" departure="21:10:30" stop="yes" report-via="no" real-distance="37300.0" silent-audio="no">
+					<station id="5433984" arrival="21:10:30" departure="21:10:30" stop="yes" report-via="no" real-distance="37450.0" silent-audio="no">
 						<arrangement id="request_stop"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
@@ -18237,7 +18902,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="23:18:30" departure="23:18:30" stop="yes" report-via="no" real-distance="37300.0" silent-audio="no">
+					<station id="5433984" arrival="23:18:30" departure="23:18:30" stop="yes" report-via="no" real-distance="37450.0" silent-audio="no">
 						<arrangement id="request_stop"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
@@ -18344,7 +19009,7 @@
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
-					<station id="5433984" arrival="23:18:30" departure="23:18:30" stop="yes" report-via="no" real-distance="37300.0" silent-audio="no">
+					<station id="5433984" arrival="23:18:30" departure="23:18:30" stop="yes" report-via="no" real-distance="37450.0" silent-audio="no">
 						<arrangement id="request_stop"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
@@ -34435,7 +35100,7 @@
 				</msg>
 				<msg list="station_final" name="Bohumín">
 					<tr lang="cs" name="Bohumín">
-						<phrase>
+						<phrase visual="Bohumín">
 							<sound-file sound-file="303521" sound-name="\CZ\R4\5434124" sound-format="mp3" sound-role="unipis"/>
 						</phrase>
 					</tr>
@@ -37746,9 +38411,6 @@
 							<sound-file sound-file="350336" sound-name="\CZ\Slova\mp125" sound-format="mp3" sound-role="unipis"/>
 						</phrase>
 					</tr>
-					<tr lang="uni" name="Ostrava báňské n.VOK">
-						<phrase visual="Ostrava báňské n.VOK"/>
-					</tr>
 				</msg>
 			</station>
 		</stations>
@@ -38811,9 +39473,9 @@
 					<msg list="lines" name="Lin-Sp3">
 						<tr lang="cs" name="Lin-Sp3">
 							<phrase visual="Sp3">
-								<sound-file sound-file="200497" sound-name="\CZ\slova\linS" sound-format="mp3" sound-role="unipis"/>
-								<sound-file sound-file="200495" sound-name="\CZ\slova\linP" sound-format="mp3" sound-role="unipis"/>
-								<sound-file sound-file="11380" sound-name="\CZ\Vlaknum\C2_x3" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="364897" sound-name="\CZ\slova\linS" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="349827" sound-name="\CZ\slova\linP" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="302760" sound-name="\CZ\Vlaknum\C2_x3" sound-format="mp3" sound-role="unipis"/>
 							</phrase>
 						</tr>
 						<tr lang="uni" name="Lin-Sp3">
@@ -38825,9 +39487,9 @@
 					<msg list="lines" name="Lin-R61">
 						<tr lang="cs" name="Lin-R61">
 							<phrase visual="R61">
-								<sound-file sound-file="200496" sound-name="\CZ\slova\linR" sound-format="mp3" sound-role="unipis"/>
-								<sound-file sound-file="11318" sound-name="\CZ\Vlaknum\C1_6x" sound-format="mp3" sound-role="unipis"/>
-								<sound-file sound-file="11378" sound-name="\CZ\Vlaknum\C2_x1" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="349828" sound-name="\CZ\slova\linR" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="302641" sound-name="\CZ\Vlaknum\C1_6x" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="302746" sound-name="\CZ\Vlaknum\C2_x1" sound-format="mp3" sound-role="unipis"/>
 							</phrase>
 						</tr>
 						<tr lang="uni" name="Lin-R61">
@@ -38839,8 +39501,8 @@
 					<msg list="lines" name="Lin-S1">
 						<tr lang="cs" name="Lin-S1">
 							<phrase visual="S1">
-								<sound-file sound-file="200497" sound-name="\CZ\slova\linS" sound-format="mp3" sound-role="unipis"/>
-								<sound-file sound-file="11378" sound-name="\CZ\Vlaknum\C2_x1" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="364897" sound-name="\CZ\slova\linS" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="302746" sound-name="\CZ\Vlaknum\C2_x1" sound-format="mp3" sound-role="unipis"/>
 							</phrase>
 						</tr>
 						<tr lang="uni" name="Lin-S1">
@@ -38852,8 +39514,8 @@
 					<msg list="lines" name="Lin-S2">
 						<tr lang="cs" name="Lin-S2">
 							<phrase visual="S2">
-								<sound-file sound-file="200497" sound-name="\CZ\slova\linS" sound-format="mp3" sound-role="unipis"/>
-								<sound-file sound-file="11379" sound-name="\CZ\Vlaknum\C2_x2" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="364897" sound-name="\CZ\slova\linS" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="302757" sound-name="\CZ\Vlaknum\C2_x2" sound-format="mp3" sound-role="unipis"/>
 							</phrase>
 						</tr>
 						<tr lang="uni" name="Lin-S2">
@@ -38865,8 +39527,8 @@
 					<msg list="lines" name="Lin-S3">
 						<tr lang="cs" name="Lin-S3">
 							<phrase visual="S3">
-								<sound-file sound-file="200497" sound-name="\CZ\slova\linS" sound-format="mp3" sound-role="unipis"/>
-								<sound-file sound-file="11380" sound-name="\CZ\Vlaknum\C2_x3" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="364897" sound-name="\CZ\slova\linS" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="302760" sound-name="\CZ\Vlaknum\C2_x3" sound-format="mp3" sound-role="unipis"/>
 							</phrase>
 						</tr>
 						<tr lang="uni" name="Lin-S3">
@@ -38878,8 +39540,8 @@
 					<msg list="lines" name="Lin-S4">
 						<tr lang="cs" name="Lin-S4">
 							<phrase visual="S4">
-								<sound-file sound-file="200497" sound-name="\CZ\slova\linS" sound-format="mp3" sound-role="unipis"/>
-								<sound-file sound-file="11381" sound-name="\CZ\Vlaknum\C2_x4" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="364897" sound-name="\CZ\slova\linS" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="302763" sound-name="\CZ\Vlaknum\C2_x4" sound-format="mp3" sound-role="unipis"/>
 							</phrase>
 						</tr>
 						<tr lang="uni" name="Lin-S4">
@@ -38891,8 +39553,8 @@
 					<msg list="lines" name="Lin-S5">
 						<tr lang="cs" name="Lin-S5">
 							<phrase visual="S5">
-								<sound-file sound-file="200497" sound-name="\CZ\slova\linS" sound-format="mp3" sound-role="unipis"/>
-								<sound-file sound-file="11382" sound-name="\CZ\Vlaknum\C2_x5" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="364897" sound-name="\CZ\slova\linS" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="302766" sound-name="\CZ\Vlaknum\C2_x5" sound-format="mp3" sound-role="unipis"/>
 							</phrase>
 						</tr>
 						<tr lang="uni" name="Lin-S5">
@@ -38904,8 +39566,8 @@
 					<msg list="lines" name="Lin-S8">
 						<tr lang="cs" name="Lin-S8">
 							<phrase visual="S8">
-								<sound-file sound-file="200497" sound-name="\CZ\slova\linS" sound-format="mp3" sound-role="unipis"/>
-								<sound-file sound-file="11385" sound-name="\CZ\Vlaknum\C2_x8" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="364897" sound-name="\CZ\slova\linS" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="302775" sound-name="\CZ\Vlaknum\C2_x8" sound-format="mp3" sound-role="unipis"/>
 							</phrase>
 						</tr>
 						<tr lang="uni" name="Lin-S8">
@@ -38917,8 +39579,8 @@
 					<msg list="lines" name="Lin-S9">
 						<tr lang="cs" name="Lin-S9">
 							<phrase visual="S9">
-								<sound-file sound-file="200497" sound-name="\CZ\slova\linS" sound-format="mp3" sound-role="unipis"/>
-								<sound-file sound-file="11386" sound-name="\CZ\Vlaknum\C2_x9" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="364897" sound-name="\CZ\slova\linS" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="302778" sound-name="\CZ\Vlaknum\C2_x9" sound-format="mp3" sound-role="unipis"/>
 							</phrase>
 						</tr>
 						<tr lang="uni" name="Lin-S9">
@@ -38930,9 +39592,9 @@
 					<msg list="lines" name="Lin-S22">
 						<tr lang="cs" name="Lin-S22">
 							<phrase visual="S22">
-								<sound-file sound-file="200497" sound-name="\CZ\slova\linS" sound-format="mp3" sound-role="unipis"/>
-								<sound-file sound-file="11314" sound-name="\CZ\Vlaknum\C1_2x" sound-format="mp3" sound-role="unipis"/>
-								<sound-file sound-file="11379" sound-name="\CZ\Vlaknum\C2_x2" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="364897" sound-name="\CZ\slova\linS" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="302629" sound-name="\CZ\Vlaknum\C1_2x" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="302757" sound-name="\CZ\Vlaknum\C2_x2" sound-format="mp3" sound-role="unipis"/>
 							</phrase>
 						</tr>
 						<tr lang="uni" name="Lin-S22">
@@ -39272,6 +39934,17 @@
 		<announcement id="primy_vlak_tesin" msg="primy_vuz_Tesin" broadcast="no" external="no" internal="yes"/>
 		<announcement id="primy_vlak_mosty" msg="primy_vuz_Mosty" broadcast="no" external="no" internal="yes"/>
 		<announcement id="primy_vlak_mosty_zast" msg="primy_vuz_MostyZast" broadcast="no" external="no" internal="yes"/>
+	</announcements>
+	<announcements group="výluky">
+		<announcement id="_wiz19" msg="planned_replacement_bus" broadcast="yes" external="no" internal="no">
+			<parameter ordinal="1" value="5433454"/>
+			<parameter ordinal="2" value="5433454"/>
+			<parameter ordinal="3" value="5433234"/>
+		</announcement>
+		<announcement id="_wiz20" msg="planned_replacement_bus_short" broadcast="no" external="no" internal="yes">
+			<parameter ordinal="1" value="5433454"/>
+			<parameter ordinal="2" value="5433234"/>
+		</announcement>
 	</announcements>
 	<brands>
 		<brand id="NJ" name="nightjet" rules="cd_long_distance">
@@ -39896,18 +40569,18 @@
 		</brand>
 		<brand id="Sv" name="Soupravový vlak" rules="cd_regional"/>
 		<brand id="Lv" name="Lokomotivní vlak" rules="cd_regional"/>
-		<brand id="zvl. Sp" name="Zvláštní spěšný vlak" rules="cd_regional">
+		<brand id="zvl. Ex" name="Zvláštní expres" rules="cd_long_distance">
 			<msg list="welcome_where" name="Spěšný vlak">
-				<tr lang="cs" name="Zvláštní spěšný vlak">
-					<phrase visual="ve zvláštním spěšném vlaku">
-						<visualization str="zvl. Sp" role="short"/>
-						<sound-file sound-file="349779" sound-name="CZ\SLOVA\407" sound-format="mp3" sound-role="unipis"/>
+				<tr lang="cs" name="Zvláštní expres">
+					<phrase visual="ve zvláštním expresu">
+						<visualization str="zvl. Ex" role="short"/>
+						<sound-file sound-file="349775" sound-name="CZ\SLOVA\407" sound-format="mp3" sound-role="unipis"/>
 					</phrase>
 				</tr>
 			</msg>
 			<msg list="brand" name="Zvláštní spěšný vlak">
-				<tr lang="uni" name="Zvláštní spěšný vlak">
-					<phrase visual="zvl. Sp"/>
+				<tr lang="cs" name="Zvláštní expres">
+					<phrase visual="zvl. Ex"/>
 				</tr>
 			</msg>
 		</brand>
@@ -40024,6 +40697,20 @@
 					<phrase visual="VALAŠSKÝ EXPRES">
 						<sound-file sound-file="350336" sound-format="mp3" sound-role="unipis"/>
 					</phrase>
+				</tr>
+			</msg>
+		</train-name>
+		<train-name id="DEN ZLÍNSKÉHO KRAJE" name="DEN ZLÍNSKÉHO KRAJE">
+			<msg list="train_name" name="DEN ZLÍNSKÉHO KRAJE">
+				<tr lang="cs" name="DEN ZLÍNSKÉHO KRAJE">
+					<phrase visual="DEN ZLÍNSKÉHO KRAJE"/>
+				</tr>
+			</msg>
+		</train-name>
+		<train-name id="ZDENĚK KOTAS" name="ZDENĚK KOTAS">
+			<msg list="train_name" name="ZDENĚK KOTAS">
+				<tr lang="cs" name="ZDENĚK KOTAS">
+					<phrase visual="ZDENĚK KOTAS"/>
 				</tr>
 			</msg>
 		</train-name>
@@ -41848,6 +42535,15 @@
 		<calendar id="2023-06-11/2023-09-30">
 			<days yesno="yes" from="2023-06-11" to="2023-09-30"/>
 		</calendar>
+		<calendar id="2023-06-11/2023-10-31">
+			<days yesno="yes" from="2023-06-11" to="2023-10-31"/>
+		</calendar>
+		<calendar id="2023-11-01/2023-11-06">
+			<days yesno="yes" from="2023-11-01" to="2023-11-06"/>
+		</calendar>
+		<calendar id="2023-11-07/2023-12-09">
+			<days yesno="yes" from="2023-11-07" to="2023-12-09"/>
+		</calendar>
 	</calendars>
 	<messages>
 		<msg list="commercial" id="680_snidane_1">
@@ -42005,8 +42701,8 @@
 				<phrase>
 					<sound-file sound-file="350336" sound-name="\CZ\Slova\mp125" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
-				<phrase visual="pravidelný příjezd v">
-					<sound-file sound-file="349786" sound-name="\CZ\Slova\414" sound-format="mp3" sound-role="unipis"/>
+				<phrase visual="pravidelný příjezd">
+					<sound-file sound-file="359858" sound-name="\CZ\Slova\414" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
 				<parameter ordinal="2" name="Dálková doprava, po odjezdu ze stanice 3. část." algorithm="hour_minute_arrival"/>
 			</tr>
@@ -42076,8 +42772,8 @@
 				<phrase>
 					<sound-file sound-file="350336" sound-name="\CZ\Slova\mp125" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
-				<phrase visual="pravidelný příjezd v">
-					<sound-file sound-file="349786" sound-name="\CZ\Slova\414" sound-format="mp3" sound-role="unipis"/>
+				<phrase visual="pravidelný příjezd">
+					<sound-file sound-file="359858" sound-name="\CZ\Slova\414" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
 				<parameter ordinal="2" name="Dálková doprava, stručně, po odjezdu ze stanice 1. část" algorithm="hour_minute_arrival"/>
 			</tr>
@@ -45675,6 +46371,65 @@
 				</phrase>
 			</tr>
 		</msg>
+		<msg list="extra_msg" id="planned_replacement_bus">
+			<tr lang="cs" name="Plánovaná výluka - NAD ">
+				<phrase visual="Vážení cestující, ">
+					<sound-file sound-file="349869" sound-name="\CZ\Slova\vc" sound-format="mp3" sound-role="unipis"/>
+				</phrase>
+				<phrase visual="z důvodu výluky na trati tento vlak končí jízdu ve stanici ">
+					<sound-file sound-file="349673" sound-name="\CZ\Slova\120" sound-format="mp3" sound-role="unipis"/>
+				</phrase>
+				<parameter ordinal="1" name="Plánovaná výluka - NAD " list="station"/>
+				<phrase visual=". Mezi stanicemi ">
+					<sound-file sound-file="349676" sound-name="\CZ\Slova\121" sound-format="mp3" sound-role="unipis"/>
+				</phrase>
+				<parameter ordinal="2" name="Plánovaná výluka - NAD " list="station"/>
+				<phrase visual=" a ">
+					<sound-file sound-file="349810" sound-name="\CZ\Slova\a" sound-format="mp3" sound-role="unipis"/>
+				</phrase>
+				<parameter ordinal="3" name="Plánovaná výluka - NAD " list="station"/>
+				<phrase visual=" budou cestující přepraveni náhradní autobusovou dopravou. ">
+					<sound-file sound-file="349812" sound-name="\CZ\Slova\bcpnad" sound-format="mp3" sound-role="unipis"/>
+				</phrase>
+				<phrase visual="Děkujeme za pochopení.">
+					<sound-file sound-file="349678" sound-name="\CZ\Slova\123" sound-format="mp3" sound-role="unipis"/>
+				</phrase>
+			</tr>
+			<tr lang="en" name="Plánovaná výluka - NAD ">
+				<phrase visual="Ladies and gentlemen, because of closing of the railway line to traffic this train will end its journey at the station ">
+					<sound-file sound-file="329187" sound-name="\GB\Slova\70" sound-format="mp3" sound-role="unipis"/>
+				</phrase>
+				<parameter ordinal="1" name="Plánovaná výluka - NAD " list="station"/>
+				<phrase visual=". Between the stations ">
+					<sound-file sound-file="327545" sound-name="\GB\Slova\bts" sound-format="mp3" sound-role="unipis"/>
+				</phrase>
+				<parameter ordinal="2" name="Plánovaná výluka - NAD " list="station"/>
+				<phrase visual=" and ">
+					<sound-file sound-file="323327" sound-name="\GB\Slova\9" sound-format="mp3" sound-role="unipis"/>
+				</phrase>
+				<parameter ordinal="3" name="Plánovaná výluka - NAD " list="station"/>
+				<phrase visual=" the passengers will be transported by alternate bus transport. ">
+					<sound-file sound-file="329188" sound-name="\GB\Slova\71" sound-format="mp3" sound-role="unipis"/>
+				</phrase>
+				<phrase visual="Thank you for your understanding.">
+					<sound-file sound-file="325258" sound-name="\GB\Slova\38" sound-format="mp3" sound-role="unipis"/>
+				</phrase>
+			</tr>
+		</msg>
+		<msg list="extra_msg" id="planned_replacement_bus_short">
+			<tr lang="cs" name="Plánovaná výluka -NAD, zkrácená podoba ">
+				<phrase visual="Vlak bude nahrazen autobusovou dopravou v úseku "/>
+				<parameter ordinal="1" name="Plánovaná výluka -NAD, zkrácená podoba " list="station"/>
+				<phrase visual=" - "/>
+				<parameter ordinal="2" name="Plánovaná výluka -NAD, zkrácená podoba " list="station"/>
+			</tr>
+			<tr lang="en" name="Plánovaná výluka -NAD, zkrácená podoba ">
+				<phrase visual="The train will be replaced by alternate bus transport in the section "/>
+				<parameter ordinal="1" name="Plánovaná výluka -NAD, zkrácená podoba " list="station"/>
+				<phrase visual=" - "/>
+				<parameter ordinal="2" name="Plánovaná výluka -NAD, zkrácená podoba " list="station"/>
+			</tr>
+		</msg>
 		<msg list="grammar" id="space">
 			<tr lang="cs" name="mezera">
 				<phrase visual=" ">
@@ -45787,8 +46542,8 @@
 		</msg>
 		<msg list="grammar" id="arrival-base">
 			<tr lang="cs">
-				<phrase visual="pravidelný příjezd v">
-					<sound-file sound-file="349786" sound-name="\CZ\Slova\414" sound-format="mp3" sound-role="unipis"/>
+				<phrase visual="pravidelný příjezd">
+					<sound-file sound-file="359858" sound-name="\CZ\Slova\414" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
 			</tr>
 			<tr lang="de">

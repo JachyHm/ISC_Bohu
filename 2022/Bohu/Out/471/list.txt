@@ -171,6 +171,8 @@
 121 121 H\xA0j ve Slezsku
 122 122 Jile\xA8ovice
 123 123 Lhota u Opavy
+124 124 Vlak bude nahrazen autobusovou dopravou v \xA3seku Hav\xA1\xA9ov - \x80\x65sk\x98 T\x88\xA8\xA1n (Czeski Cieszyn)
+124 124 
 124 124 Hav\xA1\xA9ov
 125 125 \x9B\x65nov
 126 126 Drahotu\xA8\x65
@@ -222,5 +224,6 @@
 179 179 Ostrava-V\xA1tkovice
 181 181 Petrovice u Karvin\x82
 182 182 Z\xA0vada
+183 183 
 183 183 \x80\x65sk\x98 T\x88\xA8\xA1n (Czeski Cieszyn)
 185 185 Hav\xA1\xA9ov st\xA9\x65\x64
