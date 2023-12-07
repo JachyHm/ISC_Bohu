@@ -2,6 +2,8 @@
 
 <!-- Verzování souboru
 rr.mm.dd - popis
+23.01.16 - přečíslování vstupních bodů T30, 31..32, 41..42
+23.01.13 - zkrácení T30, 21..22
 22.11.11 - T29, 11..12 prodloužena do KOutů n.Desnou a posunutí vstupního bodu 12
 22.11.09 - Troubelice střed
 22.11.04 - doplněny Františkovy Lázně
@@ -7409,7 +7411,7 @@ rr.mm.dd - popis
   </trasa>
 
 
-  <!-- T=30 B=11..12 -->
+  <!-- T=30 B=31..32 -->
   <!-- Val.Mez - Kojetin-->
   <trasa>
     <cisloTrasy>30</cisloTrasy>
@@ -7577,12 +7579,12 @@ rr.mm.dd - popis
   </trasa>
 
   
-  <!-- T=30 B=21..22 -->
-  <!-- Ostrava uhelne - ValMez.-->
+  <!-- T=30 B=41..42 -->
+  <!-- Ostrava-Kunčice - ValMez.-->
   <trasa>
     <cisloTrasy>32</cisloTrasy>
     <vstupniBodyOd>41</vstupniBodyOd>
-    <vstupniBodyDo>42</vstupniBodyDo>
+    <vstupniBodyDo>46</vstupniBodyDo>
     <cisloDleSJR>302</cisloDleSJR>
     <bodyNaMape>
        1278,405; 1279,428; 1290,460; 1294,486; 1248,506; 1227,509; 1216,527
@@ -7594,15 +7596,19 @@ rr.mm.dd - popis
     <stanice>
       <cisloStanice>34414300</cisloStanice>
       <nazevStanice>Ostrava-Kuncice</nazevStanice>
-      
+
       <vstupniBod>
         <veSmeru>41</veSmeru>
       </vstupniBod>  
       
-      <vjezdDoPrimaVeSmeru />
-      <odjezdDoPrimaVeSmeru />
-      <vjezdDoPrimaVProtismeru />
-      <odjezdDoPrimaVProtismeru />
+      <navestVjezd>
+         <veSmeru>50</veSmeru>
+         <vProtismeru>50</vProtismeru>
+      </navestVjezd>
+      <navestOdjezd>
+         <veSmeru>50</veSmeru>
+         <vProtismeru>50</vProtismeru>
+      </navestOdjezd> 
     </stanice>
     
     <stanice>
@@ -7610,11 +7616,14 @@ rr.mm.dd - popis
       <nazevStanice>Vratimov</nazevStanice>
       
       <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
       <vjezdDoPrimaVProtismeru />
       <odjezdDoPrimaVProtismeru />
+<!-- zrušeno na požadavek Jáchyma 2023.01.16  
       <navestOdjezd>
          <veSmeru>40</veSmeru>
       </navestOdjezd>
+-->
     </stanice>
     
     <stanice>
@@ -7640,7 +7649,10 @@ rr.mm.dd - popis
     <stanice>
       <cisloStanice>33344300</cisloStanice>
       <nazevStanice>Frydek-Mistek</nazevStanice>
-
+      <vstupniBod>
+        <veSmeru>43</veSmeru>
+        <vProtismeru>44</vProtismeru>
+      </vstupniBod>
       <navestVjezd>
          <veSmeru>40</veSmeru>
          <vProtismeru>40</vProtismeru>
@@ -7674,7 +7686,10 @@ rr.mm.dd - popis
     <stanice>
       <cisloStanice>33354200</cisloStanice>
       <nazevStanice>Frydlant nO</nazevStanice>
-      
+      <vstupniBod>
+        <veSmeru>45</veSmeru>
+        <vProtismeru>46</vProtismeru>
+      </vstupniBod>
       <vjezdDoPrimaVeSmeru />
       <odjezdDoPrimaVeSmeru />
       <vjezdDoPrimaVProtismeru />
@@ -7745,7 +7760,13 @@ rr.mm.dd - popis
       <vstupniBod>
         <vProtismeru>42</vProtismeru>
       </vstupniBod>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
       
+<!-- zrušeno na požadavek Jáchyma 2023.01.16     
       <navestVjezd>
          <veSmeru>40</veSmeru>
          <vProtismeru>40</vProtismeru>
@@ -7754,9 +7775,58 @@ rr.mm.dd - popis
          <veSmeru>40</veSmeru>
          <vProtismeru>40</vProtismeru>
       </navestOdjezd> 
+--> 
     </stanice>   
   </trasa>
 
+  <trasa>
+    <cisloTrasy>32</cisloTrasy>
+    <vstupniBodyOd>51</vstupniBodyOd>
+    <vstupniBodyDo>52</vstupniBodyDo>
+    <cisloDleSJR>302</cisloDleSJR>
+    <bodyNaMape></bodyNaMape>
+    <typNaMapeMIB>0</typNaMapeMIB>
+    <typNaMapeGIB>1</typNaMapeGIB>
+    <typNaMapeETCS>0</typNaMapeETCS>
+
+    <stanice>
+      <cisloStanice>33354200</cisloStanice>
+      <nazevStanice>Frydlant nO</nazevStanice>
+
+      <vstupniBod>
+        <veSmeru>51</veSmeru>
+      </vstupniBod>
+      
+      <navestVjezd>
+         <veSmeru>50</veSmeru>
+         <vProtismeru>50</vProtismeru>
+      </navestVjezd>
+      <navestOdjezd>
+         <veSmeru>50</veSmeru>
+         <vProtismeru>50</vProtismeru>
+      </navestOdjezd>
+    </stanice>
+    <stanice>
+      <cisloStanice>33384200</cisloStanice>
+    </stanice>
+    <stanice>
+      <cisloStanice>33374200</cisloStanice>
+    </stanice>
+    <stanice>
+      <cisloStanice>34494200</cisloStanice>
+    </stanice>
+    <stanice>
+      <cisloStanice>34464200</cisloStanice>
+      <nazevStanice>Ostravice</nazevStanice>
+      <vstupniBod>
+        <vProtismeru>52</vProtismeru>
+      </vstupniBod>
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+  </trasa>
 
   <!-- T=32 B=1..8 -->
   <!-- Bohumin - Mosty u Jablunkova -->
