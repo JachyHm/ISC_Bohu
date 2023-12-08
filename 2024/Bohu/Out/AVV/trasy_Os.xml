@@ -8266,13 +8266,14 @@ rr.mm.dd - popis
         <veSmeru>41</veSmeru>
       </vstupniBod>  
       
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
       <navestVjezd>
-         <veSmeru>50</veSmeru>
-         <vProtismeru>50</vProtismeru>
+        <vProtismeru>50</vProtismeru>
       </navestVjezd>
+
       <navestOdjezd>
-         <veSmeru>50</veSmeru>
-         <vProtismeru>50</vProtismeru>
+        <vProtismeru>50</vProtismeru>
       </navestOdjezd> 
     </stanice>
     
@@ -8315,6 +8316,11 @@ rr.mm.dd - popis
       <cisloStanice>33344300</cisloStanice>
       <nazevStanice>Frydek-Mistek</nazevStanice>
 
+      <vstupniBod>
+          <veSmeru>43</veSmeru>
+          <vProtismeru>44</vProtismeru>
+      </vstupniBod>
+
       <navestVjezd>
          <veSmeru>40</veSmeru>
          <vProtismeru>40</vProtismeru>
@@ -8348,6 +8354,11 @@ rr.mm.dd - popis
     <stanice>
       <cisloStanice>33354200</cisloStanice>
       <nazevStanice>Frydlant nO</nazevStanice>
+      
+      <vstupniBod>
+          <veSmeru>45</veSmeru>
+          <vProtismeru>46</vProtismeru>
+      </vstupniBod>
       
       <vjezdDoPrimaVeSmeru />
       <odjezdDoPrimaVeSmeru />
@@ -8431,6 +8442,63 @@ rr.mm.dd - popis
       </navestOdjezd> 
 --> 
     </stanice>   
+  </trasa>
+
+  <!-- T=32 B=51..52 -->
+  <!-- Frydlant nad Ostravici - Ostravice-->
+  <trasa>
+    <cisloTrasy>32</cisloTrasy>
+    <vstupniBodyOd>51</vstupniBodyOd>
+    <vstupniBodyDo>52</vstupniBodyDo>
+    <cisloDleSJR>302</cisloDleSJR>
+    <bodyNaMape/>
+    <typNaMapeMIB>0</typNaMapeMIB>
+    <typNaMapeGIB>1</typNaMapeGIB>
+    <typNaMapeETCS>0</typNaMapeETCS>
+    
+    <stanice>
+      <cisloStanice>33354200</cisloStanice>
+      <nazevStanice>Frydlant nO</nazevStanice>
+      
+      <vstupniBod>
+          <veSmeru>51</veSmeru>
+      </vstupniBod>
+      
+      <navestVjezd>
+         <veSmeru>40</veSmeru>
+         <vProtismeru>40</vProtismeru>
+      </navestVjezd>
+      <navestOdjezd>
+         <veSmeru>40</veSmeru>
+         <vProtismeru>40</vProtismeru>
+      </navestOdjezd>
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>34484300</cisloStanice>
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>34474100</cisloStanice>
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>34494800</cisloStanice>
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>34464200</cisloStanice>
+      <nazevStanice>Ostravice</nazevStanice>
+      
+      <vstupniBod>
+          <vProtismeru>52</vProtismeru>
+      </vstupniBod>
+      
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
   </trasa>
 
 
