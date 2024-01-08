@@ -8,7 +8,7 @@
 					<calendar yesno="yes" id="sobota"/>
 					<calendar yesno="no" id="2024-03-30/2024-03-30"/>
 					<calendar yesno="no" id="6-cervenec"/>
-					<calendar yesno="yes" id="velkypatek"/>
+					<calendar yesno="yes" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="yes" id="1-kveten"/>
 					<calendar yesno="yes" id="8-kveten"/>
 					<calendar yesno="yes" id="5-cervenec"/>
@@ -797,8 +797,6 @@
 						<line line_group="Linky" line="Lin-R61"/>
 					</station>
 					<station id="5434434" arrival="05:35:00" departure="05:39:00" stop="yes" report-via="yes" real-distance="28300.0" silent-audio="no">
-						<connection-direction direction="5433454"/>
-						<connection-direction direction="5433234"/>
 						<connection-direction direction="5434694"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-R61"/>
@@ -1736,8 +1734,6 @@
 						<line line_group="Linky" line="Lin-R61"/>
 					</station>
 					<station id="5434434" arrival="08:48:00" departure="08:53:00" stop="yes" report-via="yes" real-distance="28300.0" silent-audio="no">
-						<connection-direction direction="5433454"/>
-						<connection-direction direction="5433234"/>
 						<connection-direction direction="5434694"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-R61"/>
@@ -1825,8 +1821,6 @@
 						<line line_group="Linky" line="Lin-R61"/>
 					</station>
 					<station id="5434434" arrival="08:48:00" departure="08:53:00" stop="yes" report-via="yes" real-distance="28300.0" silent-audio="no">
-						<connection-direction direction="5433454"/>
-						<connection-direction direction="5433234"/>
 						<connection-direction direction="5434694"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-R61"/>
@@ -2346,8 +2340,6 @@
 						<line line_group="Linky" line="Lin-R61"/>
 					</station>
 					<station id="5434434" arrival="10:48:00" departure="10:53:00" stop="yes" report-via="yes" real-distance="28300.0" silent-audio="no">
-						<connection-direction direction="5433454"/>
-						<connection-direction direction="5433234"/>
 						<connection-direction direction="5434694"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-R61"/>
@@ -2761,8 +2753,6 @@
 						<line line_group="Linky" line="Lin-R61"/>
 					</station>
 					<station id="5434434" arrival="12:48:00" departure="12:53:00" stop="yes" report-via="yes" real-distance="28300.0" silent-audio="no">
-						<connection-direction direction="5433454"/>
-						<connection-direction direction="5433234"/>
 						<connection-direction direction="5434694"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-R61"/>
@@ -3421,8 +3411,6 @@
 						<line line_group="Linky" line="Lin-R61"/>
 					</station>
 					<station id="5434434" arrival="14:48:00" departure="14:53:00" stop="yes" report-via="yes" real-distance="28300.0" silent-audio="no">
-						<connection-direction direction="5433454"/>
-						<connection-direction direction="5433234"/>
 						<connection-direction direction="5434694"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-R61"/>
@@ -4012,8 +4000,6 @@
 						<line line_group="Linky" line="Lin-R61"/>
 					</station>
 					<station id="5434434" arrival="16:48:00" departure="16:53:00" stop="yes" report-via="yes" real-distance="28300.0" silent-audio="no">
-						<connection-direction direction="5433454"/>
-						<connection-direction direction="5433234"/>
 						<connection-direction direction="5434694"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-R61"/>
@@ -4155,8 +4141,6 @@
 						<line line_group="Linky" line="Lin-R61"/>
 					</station>
 					<station id="5434434" arrival="16:48:00" departure="16:53:00" stop="yes" report-via="yes" real-distance="28300.0" silent-audio="no">
-						<connection-direction direction="5433454"/>
-						<connection-direction direction="5433234"/>
 						<connection-direction direction="5434694"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-R61"/>
@@ -4297,8 +4281,6 @@
 						<line line_group="Linky" line="Lin-R61"/>
 					</station>
 					<station id="5434434" arrival="16:48:00" departure="16:53:00" stop="yes" report-via="yes" real-distance="28300.0" silent-audio="no">
-						<connection-direction direction="5433454"/>
-						<connection-direction direction="5433234"/>
 						<connection-direction direction="5434694"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-R61"/>
@@ -4746,8 +4728,6 @@
 						<line line_group="Linky" line="Lin-R61"/>
 					</station>
 					<station id="5434434" arrival="18:48:00" departure="18:53:00" stop="yes" report-via="yes" real-distance="28300.0" silent-audio="no">
-						<connection-direction direction="5433454"/>
-						<connection-direction direction="5433234"/>
 						<connection-direction direction="5434694"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-R61"/>
@@ -4984,7 +4964,7 @@
 				<schedule>
 					<calendar yesno="yes" id="patek"/>
 					<calendar yesno="no" id="2023-12-29/2023-12-29"/>
-					<calendar yesno="no" id="velkypatek"/>
+					<calendar yesno="no" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="no" id="2024-07-05/2024-08-30"/>
 					<calendar yesno="yes" id="2024-03-28/2024-03-28"/>
 					<calendar yesno="yes" id="2024-04-30/2024-04-30"/>
@@ -5942,7 +5922,7 @@
 					<calendar yesno="no" id="2023-12-30/2023-12-30"/>
 					<calendar yesno="no" id="2024-03-30/2024-03-30"/>
 					<calendar yesno="no" id="6-cervenec"/>
-					<calendar yesno="yes" id="velkypatek"/>
+					<calendar yesno="yes" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="yes" id="1-kveten"/>
 					<calendar yesno="yes" id="8-kveten"/>
 					<calendar yesno="yes" id="5-cervenec"/>
@@ -6436,7 +6416,7 @@
 					<calendar yesno="no" id="2024-03-30/2024-03-30"/>
 					<calendar yesno="no" id="6-cervenec"/>
 					<calendar yesno="yes" id="2023-12-10/2023-12-10"/>
-					<calendar yesno="yes" id="velkypatek"/>
+					<calendar yesno="yes" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="yes" id="1-kveten"/>
 					<calendar yesno="yes" id="8-kveten"/>
 					<calendar yesno="yes" id="5-cervenec"/>
@@ -7000,10 +6980,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="21">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="Bdt280"/>
 							<carriage res="1002" construction="Bdtee286"/>
 							<carriage res="1003" construction="Bdt280"/>
@@ -16758,7 +16736,7 @@
 				<schedule>
 					<calendar yesno="yes" id="patek"/>
 					<calendar yesno="no" id="2023-12-29/2023-12-29"/>
-					<calendar yesno="no" id="velkypatek"/>
+					<calendar yesno="no" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="no" id="2024-07-05/2024-08-30"/>
 					<calendar yesno="yes" id="2024-03-28/2024-03-28"/>
 					<calendar yesno="yes" id="2024-04-30/2024-04-30"/>
@@ -16840,10 +16818,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="18">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="Bdt280"/>
 							<carriage res="1002" construction="Bdtee286"/>
 							<carriage res="1003" construction="Bdt280"/>
@@ -16940,10 +16916,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="18">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="Bdt280"/>
 							<carriage res="1002" construction="Bdtee286"/>
 							<carriage res="1003" construction="Bdt280"/>
@@ -21027,7 +21001,7 @@
 					<calendar yesno="yes" id="sobota"/>
 					<calendar yesno="no" id="2024-03-30/2024-03-30"/>
 					<calendar yesno="no" id="6-cervenec"/>
-					<calendar yesno="yes" id="velkypatek"/>
+					<calendar yesno="yes" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="yes" id="1-kveten"/>
 					<calendar yesno="yes" id="8-kveten"/>
 					<calendar yesno="yes" id="5-cervenec"/>
@@ -26199,7 +26173,7 @@
 					<calendar yesno="yes" id="sobota"/>
 					<calendar yesno="no" id="2024-03-30/2024-03-30"/>
 					<calendar yesno="no" id="6-cervenec"/>
-					<calendar yesno="yes" id="velkypatek"/>
+					<calendar yesno="yes" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="yes" id="1-kveten"/>
 					<calendar yesno="yes" id="8-kveten"/>
 					<calendar yesno="yes" id="5-cervenec"/>
@@ -26478,7 +26452,7 @@
 					<calendar yesno="no" id="2024-03-30/2024-03-30"/>
 					<calendar yesno="no" id="6-cervenec"/>
 					<calendar yesno="yes" id="2023-12-10/2023-12-10"/>
-					<calendar yesno="yes" id="velkypatek"/>
+					<calendar yesno="yes" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="yes" id="1-kveten"/>
 					<calendar yesno="yes" id="8-kveten"/>
 					<calendar yesno="yes" id="5-cervenec"/>
@@ -32403,7 +32377,7 @@
 					<calendar yesno="no" id="6-cervenec"/>
 					<calendar yesno="yes" id="25-prosinec"/>
 					<calendar yesno="yes" id="novy-rok"/>
-					<calendar yesno="yes" id="velkypatek"/>
+					<calendar yesno="yes" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="yes" id="1-kveten"/>
 					<calendar yesno="yes" id="8-kveten"/>
 					<calendar yesno="yes" id="5-cervenec"/>
@@ -32950,7 +32924,7 @@
 					<calendar yesno="yes" id="sobota"/>
 					<calendar yesno="no" id="2024-03-30/2024-03-30"/>
 					<calendar yesno="no" id="6-cervenec"/>
-					<calendar yesno="yes" id="velkypatek"/>
+					<calendar yesno="yes" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="yes" id="1-kveten"/>
 					<calendar yesno="yes" id="8-kveten"/>
 					<calendar yesno="yes" id="5-cervenec"/>
@@ -38753,7 +38727,7 @@
 			<variant id="0">
 				<schedule>
 					<calendar yesno="yes" id="patek"/>
-					<calendar yesno="no" id="velkypatek"/>
+					<calendar yesno="no" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="no" id="5-cervenec"/>
 					<calendar yesno="yes" id="2024-03-28/2024-03-28"/>
 					<calendar yesno="yes" id="2024-04-30/2024-04-30"/>
@@ -39260,7 +39234,7 @@
 			<variant id="0">
 				<schedule>
 					<calendar yesno="yes" id="patek"/>
-					<calendar yesno="no" id="velkypatek"/>
+					<calendar yesno="no" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="no" id="5-cervenec"/>
 					<calendar yesno="yes" id="2024-03-28/2024-03-28"/>
 					<calendar yesno="yes" id="2024-04-30/2024-04-30"/>
@@ -39306,7 +39280,7 @@
 					<calendar yesno="yes" id="sobota"/>
 					<calendar yesno="no" id="2024-03-30/2024-03-30"/>
 					<calendar yesno="no" id="6-cervenec"/>
-					<calendar yesno="yes" id="velkypatek"/>
+					<calendar yesno="yes" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="yes" id="1-kveten"/>
 					<calendar yesno="yes" id="8-kveten"/>
 					<calendar yesno="yes" id="5-cervenec"/>
@@ -39674,7 +39648,7 @@
 					<calendar yesno="yes" id="sobota"/>
 					<calendar yesno="no" id="2024-03-30/2024-03-30"/>
 					<calendar yesno="no" id="6-cervenec"/>
-					<calendar yesno="yes" id="velkypatek"/>
+					<calendar yesno="yes" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="yes" id="1-kveten"/>
 					<calendar yesno="yes" id="8-kveten"/>
 					<calendar yesno="yes" id="5-cervenec"/>
@@ -39867,7 +39841,7 @@
 					<calendar yesno="no" id="2024-03-30/2024-03-30"/>
 					<calendar yesno="no" id="6-cervenec"/>
 					<calendar yesno="yes" id="2023-12-27/2023-12-29"/>
-					<calendar yesno="yes" id="velkypatek"/>
+					<calendar yesno="yes" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="yes" id="1-kveten"/>
 					<calendar yesno="yes" id="8-kveten"/>
 					<calendar yesno="yes" id="5-cervenec"/>
@@ -40074,7 +40048,7 @@
 					<calendar yesno="no" id="2024-03-30/2024-03-30"/>
 					<calendar yesno="no" id="6-cervenec"/>
 					<calendar yesno="yes" id="2023-12-27/2023-12-29"/>
-					<calendar yesno="yes" id="velkypatek"/>
+					<calendar yesno="yes" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="yes" id="1-kveten"/>
 					<calendar yesno="yes" id="8-kveten"/>
 					<calendar yesno="yes" id="5-cervenec"/>
@@ -43938,7 +43912,7 @@
 					<calendar yesno="no" id="2024-03-30/2024-03-30"/>
 					<calendar yesno="no" id="6-cervenec"/>
 					<calendar yesno="yes" id="2023-12-27/2023-12-29"/>
-					<calendar yesno="yes" id="velkypatek"/>
+					<calendar yesno="yes" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="yes" id="1-kveten"/>
 					<calendar yesno="yes" id="8-kveten"/>
 					<calendar yesno="yes" id="5-cervenec"/>
@@ -44005,7 +43979,7 @@
 					<calendar yesno="yes" id="sobota"/>
 					<calendar yesno="yes" id="nedele"/>
 					<calendar yesno="no" id="2023-12-10/2023-12-10"/>
-					<calendar yesno="yes" id="velkypatek"/>
+					<calendar yesno="yes" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="yes" id="5-cervenec"/>
 				</schedule>
 				<train-path>
@@ -44146,7 +44120,7 @@
 					<calendar yesno="no" id="2024-03-30/2024-03-30"/>
 					<calendar yesno="no" id="6-cervenec"/>
 					<calendar yesno="yes" id="2023-12-27/2023-12-29"/>
-					<calendar yesno="yes" id="velkypatek"/>
+					<calendar yesno="yes" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="yes" id="1-kveten"/>
 					<calendar yesno="yes" id="8-kveten"/>
 					<calendar yesno="yes" id="5-cervenec"/>
@@ -46348,7 +46322,7 @@
 					<calendar yesno="yes" id="nedele-nebo-svatek"/>
 					<calendar yesno="no" id="24-prosinec"/>
 					<calendar yesno="no" id="31-prosinec"/>
-					<calendar yesno="no" id="velkypatek"/>
+					<calendar yesno="no" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="no" id="1-kveten"/>
 					<calendar yesno="no" id="8-kveten"/>
 					<calendar yesno="no" id="5-cervenec"/>
@@ -46513,7 +46487,7 @@
 					<calendar yesno="yes" id="sobota"/>
 					<calendar yesno="no" id="2024-03-30/2024-03-30"/>
 					<calendar yesno="no" id="6-cervenec"/>
-					<calendar yesno="yes" id="velkypatek"/>
+					<calendar yesno="yes" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="yes" id="1-kveten"/>
 					<calendar yesno="yes" id="8-kveten"/>
 					<calendar yesno="yes" id="5-cervenec"/>
@@ -47140,7 +47114,7 @@
 					<calendar yesno="no" id="2023-12-27/2023-12-30"/>
 					<calendar yesno="no" id="2024-03-30/2024-03-30"/>
 					<calendar yesno="no" id="6-cervenec"/>
-					<calendar yesno="yes" id="velkypatek"/>
+					<calendar yesno="yes" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="yes" id="1-kveten"/>
 					<calendar yesno="yes" id="8-kveten"/>
 					<calendar yesno="yes" id="5-cervenec"/>
@@ -48094,7 +48068,7 @@
 					<calendar yesno="no" id="2023-12-23/2023-12-30"/>
 					<calendar yesno="no" id="2024-03-30/2024-03-30"/>
 					<calendar yesno="no" id="6-cervenec"/>
-					<calendar yesno="yes" id="velkypatek"/>
+					<calendar yesno="yes" id="2024-03-29/2024-03-29"/>
 					<calendar yesno="yes" id="1-kveten"/>
 					<calendar yesno="yes" id="8-kveten"/>
 					<calendar yesno="yes" id="5-cervenec"/>
@@ -49935,10 +49909,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -50234,10 +50206,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="17">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -50316,10 +50286,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -50411,10 +50379,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="17">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -50499,10 +50465,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="16">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -50581,10 +50545,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -50674,10 +50636,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="16">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -50749,10 +50709,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -50920,10 +50878,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -51015,10 +50971,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="17">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -51091,10 +51045,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -51169,10 +51121,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -51256,10 +51206,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="16">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -51339,10 +51287,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -51420,10 +51366,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -51509,10 +51453,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="16">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -51584,10 +51526,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -51675,10 +51615,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="17">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -51757,10 +51695,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -51852,10 +51788,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="17">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -51927,10 +51861,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -52022,10 +51954,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="17">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -52104,10 +52034,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -52197,10 +52125,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="16">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -52276,10 +52202,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -52367,10 +52291,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="16">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -52449,10 +52371,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -52544,10 +52464,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="17">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -52619,10 +52537,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -52714,10 +52630,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="17">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -52796,10 +52710,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -52889,10 +52801,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="16">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -52968,10 +52878,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -53059,10 +52967,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="16">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -53141,10 +53047,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -53236,10 +53140,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="17">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -53311,10 +53213,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -53402,10 +53302,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="16">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -53484,10 +53382,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -53577,10 +53473,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="16">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -53656,10 +53550,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -53751,10 +53643,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="17">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -53833,10 +53723,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -53928,10 +53816,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="17">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -54003,10 +53889,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -54094,10 +53978,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="16">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -54176,10 +54058,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -54265,10 +54145,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="16">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -54344,10 +54222,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -54439,10 +54315,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="17">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -54534,10 +54408,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="17">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -54609,10 +54481,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -54700,10 +54570,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="16">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -54794,10 +54662,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="16">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -54887,10 +54753,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="17">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -55084,10 +54948,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="16">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -55163,10 +55025,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -55254,10 +55114,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="16">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -55440,10 +55298,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="17">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -55532,10 +55388,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="17">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -55623,10 +55477,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="16">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -55715,10 +55567,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="17">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -56056,10 +55906,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="10">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -56121,10 +55969,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="10">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -56198,10 +56044,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -56280,10 +56124,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -56359,10 +56201,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -56441,10 +56281,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -56520,10 +56358,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -56603,10 +56439,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -56684,10 +56518,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -56760,10 +56592,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -56843,10 +56673,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -56918,10 +56746,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -57000,10 +56826,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -57079,10 +56903,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -57161,10 +56983,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -57240,10 +57060,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -57322,10 +57140,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -57401,10 +57217,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -57483,10 +57297,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -57562,10 +57374,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -57644,10 +57454,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -57719,10 +57527,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -57800,10 +57606,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="13">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -57863,10 +57667,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="10">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
@@ -58234,10 +58036,8 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="10">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 							<circulation when="after">
 								<schedule/>
@@ -58432,24 +58232,18 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="6">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
 					<composition from="6" to="10">
-						<unit id="0103">
-							<carriage res="1002" construction="842"/>
-						</unit>
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 						<unit id="0104">
+							<carriage res="1002" construction="842"/>
 							<carriage res="1003" construction="Bdtn 757"/>
 						</unit>
 					</composition>
@@ -58578,24 +58372,18 @@
 				<compositions rotation="01">
 					<schedule/>
 					<composition from="1" to="6">
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 					</composition>
 					<composition from="6" to="10">
-						<unit id="0103">
-							<carriage res="1002" construction="842"/>
-						</unit>
-						<unit id="0101">
-							<carriage res="0" construction="Lok"/>
-						</unit>
 						<unit id="0102">
+							<carriage res="0" construction="Lok"/>
 							<carriage res="1001" construction="ABfbdmteeo_396"/>
 						</unit>
 						<unit id="0104">
+							<carriage res="1002" construction="842"/>
 							<carriage res="1003" construction="Bdtn 757"/>
 						</unit>
 					</composition>
@@ -71616,7 +71404,1213 @@
 			</msg>
 		</train-name>
 	</train-names>
-	<vehicles/>
+	<vehicles>
+		<vehicle id="955458-42001" construction="842"/>
+		<vehicle id="955458-42002" construction="842"/>
+		<vehicle id="955458-42003" construction="842"/>
+		<vehicle id="955458-42004" construction="842"/>
+		<vehicle id="955458-42005" construction="842"/>
+		<vehicle id="955458-42006" construction="842"/>
+		<vehicle id="955458-42007" construction="842"/>
+		<vehicle id="955458-42008" construction="842"/>
+		<vehicle id="955458-42009" construction="842"/>
+		<vehicle id="955458-42010" construction="842"/>
+		<vehicle id="955458-42011" construction="842"/>
+		<vehicle id="955458-42012" construction="842"/>
+		<vehicle id="955458-42013" construction="842"/>
+		<vehicle id="955458-42014" construction="842"/>
+		<vehicle id="955458-42015" construction="842"/>
+		<vehicle id="955458-42016" construction="842"/>
+		<vehicle id="955458-42017" construction="842"/>
+		<vehicle id="955458-42018" construction="842"/>
+		<vehicle id="955458-42019" construction="842"/>
+		<vehicle id="955458-42020" construction="842"/>
+		<vehicle id="955458-42021" construction="842"/>
+		<vehicle id="955458-42022" construction="842"/>
+		<vehicle id="955458-42023" construction="842"/>
+		<vehicle id="955458-42024" construction="842"/>
+		<vehicle id="955458-42025" construction="842"/>
+		<vehicle id="955458-42026" construction="842"/>
+		<vehicle id="955458-42027" construction="842"/>
+		<vehicle id="955458-42028" construction="842"/>
+		<vehicle id="955458-42029" construction="842"/>
+		<vehicle id="955458-42030" construction="842"/>
+		<vehicle id="955458-42031" construction="842"/>
+		<vehicle id="955458-42032" construction="842"/>
+		<vehicle id="955458-42033" construction="842"/>
+		<vehicle id="955458-42034" construction="842"/>
+		<vehicle id="955458-42035" construction="842"/>
+		<vehicle id="955458-42036" construction="842"/>
+		<vehicle id="955458-42037" construction="842"/>
+		<vehicle id="955458-44000" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44001" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44002" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44003" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44004" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44005" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44006" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44007" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44008" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44009" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44010" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44011" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44012" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44013" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44014" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44015" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44016" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44017" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44018" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44019" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44020" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44021" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44022" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44023" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44024" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44025" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44026" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44027" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44028" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44029" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44030" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44031" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44032" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44033" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44034" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44035" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44036" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44037" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44038" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-44039" construction="844" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-10015" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10070" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10071" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10176" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10180" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10194" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10199" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10229" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10262" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10263" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10289" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10292" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10329" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10373" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10394" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10431" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10468" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10479" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10508" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10519" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10533" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10545" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10597" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10599" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10645" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10646" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10652" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="955458-10675" construction="810" announcement-group="Synergy_810"/>
+		<vehicle id="915473-80020" construction="Lok"/>
+		<vehicle id="915473-80000" construction="Lok"/>
+		<vehicle id="915473-80001" construction="Lok"/>
+		<vehicle id="915473-80002" construction="Lok"/>
+		<vehicle id="915473-80003" construction="Lok"/>
+		<vehicle id="915473-80004" construction="Lok"/>
+		<vehicle id="915473-80005" construction="Lok"/>
+		<vehicle id="915473-80006" construction="Lok"/>
+		<vehicle id="915473-80007" construction="Lok"/>
+		<vehicle id="915473-80008" construction="Lok"/>
+		<vehicle id="915473-80009" construction="Lok"/>
+		<vehicle id="915473-80010" construction="Lok"/>
+		<vehicle id="915473-80011" construction="Lok"/>
+		<vehicle id="915473-80012" construction="Lok"/>
+		<vehicle id="915473-80013" construction="Lok"/>
+		<vehicle id="915473-80014" construction="Lok"/>
+		<vehicle id="915473-80015" construction="Lok"/>
+		<vehicle id="915473-80016" construction="Lok"/>
+		<vehicle id="915473-80017" construction="Lok"/>
+		<vehicle id="915473-80018" construction="Lok"/>
+		<vehicle id="915473-80019" construction="Lok"/>
+		<vehicle id="925427-50700" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="925427-50701" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="925427-50702" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="925427-50703" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="925427-50704" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="925427-50705" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="925427-50706" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="925427-50707" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="925427-50708" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="925427-50709" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="925427-50710" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="925427-50711" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="925427-50712" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="925427-50713" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="925427-50714" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="925427-50715" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="925427-50716" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="925427-50717" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="925427-50718" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="925427-50719" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63000" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63001" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63002" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63003" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63004" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63005" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63006" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63007" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63008" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63009" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63010" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63011" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63012" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63013" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63014" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63015" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63016" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63017" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63018" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63019" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63020" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63021" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63022" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63023" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63024" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63025" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63026" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63027" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63028" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63029" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63030" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63031" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63032" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63033" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63034" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63035" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63036" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63037" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63038" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63039" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63040" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63041" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63042" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63043" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63044" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63045" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63046" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63047" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63048" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63049" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63050" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63051" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63052" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63053" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63054" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63055" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63056" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63057" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63058" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63059" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63060" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63061" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63062" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63063" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63064" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63065" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63066" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63067" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63068" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63069" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63070" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63071" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63072" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63073" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63074" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63075" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63076" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63077" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63078" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63079" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63080" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63081" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63082" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63083" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63084" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63085" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63086" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63087" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63088" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63089" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63090" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63091" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63092" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63093" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63094" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63095" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63096" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63097" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63098" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63099" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63100" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63101" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63102" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63103" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63104" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63105" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63106" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63107" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63108" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63109" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63110" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63111" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63112" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63113" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63114" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63115" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63116" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63117" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63118" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63119" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63120" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63121" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63122" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63123" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63124" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63125" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63126" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63127" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63128" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63129" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63130" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63131" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63132" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63133" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63134" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63135" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63136" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63137" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63138" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63139" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63140" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63141" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63142" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63143" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63144" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63145" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63146" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63147" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63148" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63149" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63150" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63151" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63152" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63153" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63154" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63155" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63156" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63157" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63158" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63159" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63160" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63161" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63162" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63163" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63164" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63165" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63166" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63167" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63168" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63169" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63170" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63171" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63172" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63173" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63174" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63175" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63176" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63177" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63178" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63179" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63180" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63181" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63182" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63183" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63184" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63185" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63186" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63187" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63188" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63189" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63190" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63191" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63192" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63193" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63194" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63195" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63196" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63197" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63198" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63199" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63200" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63201" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63202" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63203" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63204" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63205" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63206" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63207" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63208" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63209" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63210" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63211" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63212" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63213" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63214" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63215" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63216" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63217" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63218" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63219" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63220" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63221" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63222" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63223" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63224" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63225" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63226" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63227" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63228" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63229" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63230" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63231" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63232" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63233" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63234" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63235" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63236" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63237" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63238" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63239" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63240" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63241" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63242" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63243" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63244" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63245" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63246" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63247" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63248" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63249" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63250" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63251" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63252" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63253" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63254" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63255" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63256" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63257" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63258" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63259" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63260" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63261" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63262" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63263" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63264" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63265" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63266" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63267" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63268" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63269" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63270" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63271" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63272" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63273" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63274" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63275" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63276" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63277" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63278" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63279" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63280" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63281" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63282" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63283" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63284" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63285" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63286" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63287" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63288" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63289" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63290" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63291" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63292" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63293" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63294" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63295" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63296" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63297" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63298" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-63299" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62000" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62001" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62002" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62003" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62004" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62005" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62006" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62007" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62008" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62009" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62010" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62011" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62012" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62013" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62014" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62015" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62016" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62017" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62018" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62019" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62020" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62021" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62022" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62023" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62024" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62025" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62026" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62027" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62028" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62029" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62030" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62031" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62032" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62033" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62034" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62035" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62036" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62037" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62038" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62039" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62040" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62041" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62042" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62043" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62044" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62045" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62046" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62047" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62048" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62049" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62050" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62051" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62052" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62053" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62054" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62055" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62056" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62057" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62058" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62059" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62060" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62061" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62062" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62063" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62064" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62065" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62066" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62067" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62068" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62069" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62070" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62071" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62072" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62073" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62074" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62075" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62076" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62077" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62078" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62079" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62080" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62081" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62082" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62083" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62084" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62085" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62086" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62087" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62088" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62089" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62090" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62091" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62092" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62093" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62094" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62095" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62096" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62097" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62098" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62099" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62225" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915471-62239" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63000" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63001" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63002" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63003" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63004" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63005" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63006" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63007" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63008" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63009" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63010" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63011" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63012" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63013" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63014" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63015" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63016" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63017" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63018" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63019" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63020" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63021" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63022" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63023" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63024" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63025" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63026" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63027" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63028" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63029" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63030" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63031" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63032" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63033" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63034" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63035" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63036" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63037" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63038" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63039" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63040" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63041" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63042" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63043" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63044" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63045" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63046" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63047" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63048" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63049" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63050" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63051" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63052" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63053" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63054" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63055" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63056" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63057" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63058" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63059" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63060" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63061" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63062" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63063" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63064" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63065" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63066" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63067" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63068" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63069" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63070" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63071" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63072" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63073" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63074" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63075" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63076" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63077" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63078" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63079" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63080" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63081" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63082" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63083" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63084" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63085" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63086" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63087" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63088" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63089" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63090" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63091" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63092" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63093" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63094" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63095" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63096" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63097" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63098" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63099" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63100" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63101" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63102" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63103" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63104" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63105" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63106" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63107" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63108" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63109" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63110" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63111" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63112" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63113" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63114" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63115" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63116" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63117" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63118" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63119" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63120" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63121" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63122" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63123" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63124" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63125" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63126" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63127" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63128" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63129" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63130" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63131" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63132" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63133" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63134" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63135" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63136" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63137" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63138" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63139" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63140" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63141" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63142" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63143" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63144" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63145" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63146" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63147" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63148" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63149" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63150" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63151" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63152" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63153" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63154" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63155" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63156" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63157" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63158" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63159" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63160" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63161" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63162" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63163" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63164" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63165" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63166" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63167" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63168" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63169" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63170" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63171" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63172" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63173" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63174" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63175" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63176" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63177" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63178" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63179" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63180" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63181" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63182" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63183" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63184" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63185" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63186" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63187" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63188" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63189" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63190" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63191" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63192" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63193" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63194" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63195" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63196" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63197" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63198" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-63199" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62000" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62001" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62002" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62003" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62004" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62005" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62006" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62007" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62008" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62009" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62010" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62011" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62012" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62013" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62014" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62015" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62016" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62017" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62018" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62019" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62020" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62021" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62022" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62023" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62024" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62025" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62026" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62027" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62028" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62029" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62030" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62031" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62032" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62033" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62034" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62035" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62036" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62037" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62038" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62039" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62040" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62041" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62042" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62043" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62044" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62045" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62046" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62047" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62048" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62049" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62050" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62051" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62052" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62053" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62054" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62055" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62056" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62057" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62058" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62059" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62060" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62061" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62062" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62063" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62064" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62065" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62066" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62067" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62068" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62069" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62070" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62071" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62072" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62073" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62074" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62075" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62076" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62077" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62078" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62079" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62080" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62081" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62082" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62083" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62084" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62085" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62086" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62087" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62088" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62089" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62090" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62091" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62092" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62093" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62094" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62095" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62096" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62097" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62098" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62099" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62100" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62101" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62102" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62103" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62104" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62105" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62106" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62107" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62108" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62109" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62110" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62111" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62112" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62113" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62114" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62115" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62116" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62117" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62118" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62119" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62120" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62121" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62122" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62123" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62124" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62125" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62126" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62127" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62128" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62129" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62130" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62131" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62132" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62133" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62134" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62135" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62136" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62137" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62138" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62139" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62140" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62141" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62142" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62143" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62144" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62145" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62146" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62147" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62148" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62149" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62150" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62151" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62152" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62153" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62154" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62155" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62156" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62157" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62158" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62159" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62160" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62161" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62162" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62163" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62164" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62165" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62166" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62167" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62168" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62169" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62170" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62171" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62172" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62173" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62174" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62175" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62176" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62177" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62178" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62179" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62180" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62181" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62182" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62183" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62184" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62185" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62186" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62187" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62188" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62189" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62190" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62191" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62192" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62193" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62194" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62195" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62196" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62197" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62198" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915473-62199" construction="Lok" announcement-group="Regional"/>
+		<vehicle id="915472-42200" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42201" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42202" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42203" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42204" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42205" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42206" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42207" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42208" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42209" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42210" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42211" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42212" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42213" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42214" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42215" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42216" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42217" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42218" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42219" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42220" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42221" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42222" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42223" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42224" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42225" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42226" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42227" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42228" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42229" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42230" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42231" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42232" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42233" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42234" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42235" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42236" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42237" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42238" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42239" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42240" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42241" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42242" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42243" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42244" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42245" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42246" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42247" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42248" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42249" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42250" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42251" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42252" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42253" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42254" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42255" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42256" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42257" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42258" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42259" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42260" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42261" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42262" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42263" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42264" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42265" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42266" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42267" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42268" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42269" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42270" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42271" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42272" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42273" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42274" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42275" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42276" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42277" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42278" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42279" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42280" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42281" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42282" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42283" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42284" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42285" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42286" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42287" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42288" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42289" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42290" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42291" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42292" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42293" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42294" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42295" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42296" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42297" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42298" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="915472-42299" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-10007" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-10184" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-10349" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-10472" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-10487" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-10511" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-10633" construction="Lok" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="505480-29201" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29202" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29203" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29204" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29205" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29206" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29207" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29208" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29209" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29210" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29211" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29212" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29213" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29214" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29215" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29216" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29217" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29218" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29219" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29220" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29221" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29222" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29223" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29224" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29225" construction="ABfbrdtn795"/>
+		<vehicle id="505480-29226" construction="ABfbrdtn795"/>
+		<vehicle id="505421-29301" construction="Bdtn756"/>
+		<vehicle id="505421-29302" construction="Bdtn756"/>
+		<vehicle id="505421-29303" construction="Bdtn756"/>
+		<vehicle id="505421-29304" construction="Bdtn756"/>
+		<vehicle id="505421-29305" construction="Bdtn756"/>
+		<vehicle id="505421-29306" construction="Bdtn756"/>
+		<vehicle id="505421-29307" construction="Bdtn756"/>
+		<vehicle id="505421-29308" construction="Bdtn756"/>
+		<vehicle id="505421-29309" construction="Bdtn756"/>
+		<vehicle id="505421-29310" construction="Bdtn756"/>
+		<vehicle id="505421-29311" construction="Bdtn756"/>
+		<vehicle id="505421-29312" construction="Bdtn756"/>
+		<vehicle id="505421-29313" construction="Bdtn756"/>
+		<vehicle id="505421-29314" construction="Bdtn756"/>
+		<vehicle id="505421-29315" construction="Bdtn756"/>
+		<vehicle id="505421-29316" construction="Bdtn756"/>
+		<vehicle id="505421-29317" construction="Bdtn756"/>
+		<vehicle id="505421-29318" construction="Bdtn756"/>
+		<vehicle id="505421-29319" construction="Bdtn756"/>
+		<vehicle id="505421-29320" construction="Bdtn756"/>
+		<vehicle id="505421-29321" construction="Bdtn756"/>
+		<vehicle id="505421-29322" construction="Bdtn756"/>
+		<vehicle id="505421-29323" construction="Bdtn756"/>
+		<vehicle id="505421-29324" construction="Bdtn756"/>
+		<vehicle id="505421-29325" construction="Bdtn756"/>
+		<vehicle id="505421-29326" construction="Bdtn756"/>
+		<vehicle id="505421-29327" construction="Bdtn756"/>
+		<vehicle id="505421-29328" construction="Bdtn756"/>
+		<vehicle id="505421-29329" construction="Bdtn756"/>
+		<vehicle id="505421-29330" construction="Bdtn756"/>
+		<vehicle id="505421-29331" construction="Bdtn756"/>
+		<vehicle id="505421-29332" construction="Bdtn756"/>
+		<vehicle id="505421-29333" construction="Bdtn756"/>
+		<vehicle id="505421-29334" construction="Bdtn756"/>
+		<vehicle id="505421-29335" construction="Bdtn756"/>
+		<vehicle id="505421-29336" construction="Bdtn756"/>
+		<vehicle id="505421-29337" construction="Bdtn756"/>
+		<vehicle id="505421-29338" construction="Bdtn756"/>
+		<vehicle id="505421-29339" construction="Bdtn756"/>
+		<vehicle id="505421-29340" construction="Bdtn756"/>
+		<vehicle id="505421-29341" construction="Bdtn756"/>
+		<vehicle id="505421-29342" construction="Bdtn756"/>
+		<vehicle id="505421-29343" construction="Bdtn756"/>
+		<vehicle id="505421-29344" construction="Bdtn756"/>
+		<vehicle id="505421-29345" construction="Bdtn756"/>
+		<vehicle id="505421-29346" construction="Bdtn756"/>
+		<vehicle id="505421-29347" construction="Bdtn756"/>
+		<vehicle id="505421-29348" construction="Bdtn756"/>
+		<vehicle id="505421-29349" construction="Bdtn756"/>
+		<vehicle id="505421-29350" construction="Bdtn756"/>
+		<vehicle id="505421-29351" construction="Bdtn756"/>
+		<vehicle id="505421-29352" construction="Bdtn756"/>
+		<vehicle id="505421-29353" construction="Bdtn756"/>
+		<vehicle id="505421-29354" construction="Bdtn756"/>
+		<vehicle id="505421-29355" construction="Bdtn756"/>
+		<vehicle id="505421-29356" construction="Bdtn756"/>
+		<vehicle id="505421-29357" construction="Bdtn756"/>
+		<vehicle id="505421-29358" construction="Bdtn756"/>
+		<vehicle id="505421-29359" construction="Bdtn756"/>
+		<vehicle id="505421-29360" construction="Bdtn756"/>
+		<vehicle id="505421-29361" construction="Bdtn756"/>
+		<vehicle id="505421-29362" construction="Bdtn756"/>
+		<vehicle id="505421-29363" construction="Bdtn756"/>
+		<vehicle id="505421-29364" construction="Bdtn756"/>
+		<vehicle id="955458-54001" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54002" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54003" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54004" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54005" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54006" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54007" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54008" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54009" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54010" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54011" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54012" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54013" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54014" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54015" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54016" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54017" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54018" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54019" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54020" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54021" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54022" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54023" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54024" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54025" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54026" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54027" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54028" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54029" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54030" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54031" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54032" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54033" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54034" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54035" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54201" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-54202" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-54203" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-54204" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-54205" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-54206" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-54207" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-54208" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-54209" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-54210" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-54211" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-54212" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54213" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54214" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-54215" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-54216" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-54217" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54218" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-54219" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-54220" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-54221" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-54222" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-54223" construction="854" announcement-group="Expres" implementation="uc-unipis"/>
+		<vehicle id="955458-54224" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+		<vehicle id="955458-54225" construction="854" announcement-group="Regional" implementation="uc-unipis"/>
+	</vehicles>
 	<carriers>
 		<carrier id="CD" name="České dráhy a.s."/>
 		<carrier id="JHMD" name="Jindřichohradecké místní dráhy, a.s."/>
@@ -71681,7 +72675,7 @@
 			<days yesno="yes" id="25-prosinec"/>
 			<days yesno="yes" id="26-prosinec"/>
 			<days yesno="yes" id="velikonoce"/>
-			<days yesno="yes" id="velkypatek"/>
+			<days yesno="yes" id="2024-03-29/2024-03-29"/>
 		</calendar>
 		<calendar id="novy-rok">
 			<days yesno="yes" from-yearly="2000-01-01"/>
@@ -71727,7 +72721,7 @@
 			<days yesno="yes" from="2024-04-01"/>
 			<days yesno="yes" from="2025-04-21"/>
 		</calendar>
-		<calendar id="velkypatek">
+		<calendar id="2024-03-29/2024-03-29">
 			<days yesno="yes" from="2020-04-10"/>
 			<days yesno="yes" from="2021-04-02"/>
 			<days yesno="yes" from="2022-04-15"/>
