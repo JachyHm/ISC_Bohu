@@ -7,7 +7,7 @@ settitle verze
 stranka01=0
 soubor01=""
 stranka02=1
-soubor02="c:\Data\2024\Bohu\Out\AVV\Mapy\T27_22.bin"
+soubor02="c:\Data\2024\Bohu\Out\AVV\Mapy\T27_23.bin"
 stranka03=0
 soubor03=""
 stranka04=1
@@ -15,7 +15,7 @@ soubor04="c:\Data\2024\Bohu\Out\AVV\Mapy\Trat30.bin"
 stranka05=0
 soubor05=""
 stranka06=1
-soubor06="c:\Data\2024\Bohu\Out\AVV\Mapy\T32_21.bin"
+soubor06="c:\Data\2024\Bohu\Out\AVV\Mapy\T32_22.bin"
 stranka07=0
 soubor07=""
 stranka08=1
