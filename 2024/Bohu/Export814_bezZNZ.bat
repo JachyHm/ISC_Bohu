@@ -1,0 +1,1 @@
+CleanUp.exe "BohuRegio.xml" -g=5 -k -o -a=3 -m -t -e -i -r="814sc" -x -v="814temp_bezZNZ.xml"
