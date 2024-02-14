@@ -1393,7 +1393,7 @@ Jr1600:       BAZE 03:32
               JIZRAD  P,  140,          03:34*, 03:34*   ;
               JIZRAD  Z,  140, (6/6)     0:00,  03:32    ;Bohumin
 Jr1600a:      JIZRAD  Z,  140, (T/T)    03:43,  03:58    ;Ostrava-Svinov
-              JIZRAD  Z,  140,          04:01*, 04:01*   ;
+              JIZRAD PP,  140,          04:01*, 04:01*   ;
               JIZRAD  P,  140, (T/T)    04:04*, 04:04*   ;Dehylov
               JIZRAD  P,  140,          04:06*, 04:06*   ;
               JIZRAD  Z,  140, (T/T)    04:09,  04:10    ;Haj vS
@@ -1415,7 +1415,7 @@ Jr1601a:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Ostrava-Svinov
               JIZRAD  P,  140,           0:00,   0:00    ;
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Ostrava-Vitkovice
               JIZRAD  Z,  140, (5/5)    05:10*, 05:11*   ;Ostrava-Kuncice
-              JIZRAD  Z,  140, (4/6)    05:15*, 05:15*   ;Ostrava-Bartovice
+              JIZRAD PP,  140, (4/6)    05:15*, 05:15*   ;Ostrava-Bartovice
               JIZRAD  Z,  140,          05:17*, 05:17*   ;
               JIZRAD  Z,  140, (T/T)    05:21*, 05:22*   ;Havirov
               JIZRAD  Z,  140,          05:25*, 05:26    ;
@@ -1526,7 +1526,7 @@ Jr1603c:      JIZRAD  Z,  140, (T/T)    05:35,  05:39    ;Ostrava-Svinov
               JIZRAD  P,  140,           0:00,   0:00    ;
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Ostrava-Vitkovice
               JIZRAD  Z,  140, (5/5)    06:10*, 06:11*   ;Ostrava-Kuncice
-              JIZRAD  Z,  140, (4/6)    06:15*, 06:15*   ;Ostrava-Bartovice
+              JIZRAD PP,  140, (4/6)    06:15*, 06:15*   ;Ostrava-Bartovice
               JIZRAD  P,  140,          06:17,  06:17    ;
               JIZRAD  Z,  140, (T/T)    06:20*, 06:21*   ;Havirov
               JIZRAD  Z,  140,          06:24*, 06:25    ;
@@ -1628,7 +1628,7 @@ Jr1605c:      JIZRAD  Z,  140, (T/T)    06:40,  06:45    ;Ostrava-Svinov
               JIZRAD  P,  140,           0:00,   0:00    ;
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Ostrava-Vitkovice
               JIZRAD  Z,  140, (5/5)    07:10*, 07:11*   ;Ostrava-Kuncice
-              JIZRAD  Z,  140, (4/6)    07:15*, 07:15*   ;Ostrava-Bartovice
+              JIZRAD PP,  140, (4/6)    07:15*, 07:15*   ;Ostrava-Bartovice
               JIZRAD  Z,  140,          07:17*, 07:17*   ;
               JIZRAD  Z,  140, (T/T)    07:21*, 07:22*   ;Havirov
               JIZRAD  Z,  140,          07:25*, 07:26    ;
@@ -1749,7 +1749,7 @@ Jr1607c:      JIZRAD  Z,  140, (T/T)    07:35,  07:43*   ;Ostrava-Svinov
               JIZRAD  P,  140,           0:00,   0:00    ;
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Ostrava-Vitkovice
               JIZRAD  Z,  140, (5/5)    08:10*, 08:12    ;Ostrava-Kuncice
-              JIZRAD  Z,  140, (4/6)    08:16,  08:16    ;Ostrava-Bartovice
+              JIZRAD PP,  140, (4/6)    08:16,  08:16    ;Ostrava-Bartovice
               JIZRAD  P,  140,          08:17*, 08:17*   ;
               JIZRAD  Z,  140, (T/T)    08:21,   0:00    ;Havirov
               JIZRAD  P,  140,           0:00,   0:00    ;
@@ -1821,7 +1821,7 @@ Jr1608c:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
 
 Jr1609:       BAZE 08:24
               JIZRAD  Z,  140, (5/T)    08:48,  08:53    ;Ostrava-Svinov
-              JIZRAD  Z,  140,          08:45,  08:45    ;
+              JIZRAD PP,  140,          08:45,  08:45    ;
               JIZRAD  P,  140, (T/T)    08:41*, 08:41*   ;Dehylov
               JIZRAD  P,  140,          08:39*, 08:39*   ;
               JIZRAD  Z,  140, (T/T)    08:36,  08:37    ;Haj vS
@@ -1860,7 +1860,7 @@ Jr1609c:      JIZRAD  Z,  140, (T/T)    08:48,  08:53    ;Ostrava-Svinov
               JIZRAD  P,  140,           0:00,   0:00    ;
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Ostrava-Vitkovice
               JIZRAD  Z,  140, (5/5)    09:10*, 09:12    ;Ostrava-Kuncice
-              JIZRAD  Z,  140, (4/6)    09:16,  09:16    ;Ostrava-Bartovice
+              JIZRAD PP,  140, (4/6)    09:16,  09:16    ;Ostrava-Bartovice
               JIZRAD  P,  140,          09:17*, 09:17*   ;
               JIZRAD  Z,  140, (T/T)    09:21,  09:22*   ;Havirov
               JIZRAD  Z,  140,          09:25*, 09:26    ;
@@ -1933,7 +1933,7 @@ Jr1611a:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Ostrava-Svinov
               JIZRAD  P,  140,           0:00,   0:00    ;
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Ostrava-Vitkovice
               JIZRAD  Z,  140, (5/5)    10:10*, 10:12    ;Ostrava-Kuncice
-              JIZRAD  Z,  140, (4/6)    10:16,  10:16    ;Ostrava-Bartovice
+              JIZRAD PP,  140, (4/6)    10:16,  10:16    ;Ostrava-Bartovice
               JIZRAD  P,  140,          10:17*, 10:17*   ;
               JIZRAD  Z,  140, (T/T)    10:21,   0:00    ;Havirov
               JIZRAD  P,  140,           0:00,   0:00    ;
@@ -1977,7 +1977,7 @@ Jr1615a:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Ostrava-Svinov
               JIZRAD  P,  140,           0:00,   0:00    ;
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Ostrava-Vitkovice
               JIZRAD  Z,  140, (5/5)    12:10*, 12:11*   ;Ostrava-Kuncice
-              JIZRAD  Z,  140, (4/6)    12:15*, 12:15*   ;Ostrava-Bartovice
+              JIZRAD PP,  140, (4/6)    12:15*, 12:15*   ;Ostrava-Bartovice
               JIZRAD  Z,  140,          12:17*, 12:17*   ;
               JIZRAD  Z,  140, (T/T)    12:21*, 12:22*   ;Havirov
               JIZRAD  Z,  140,          12:25*, 12:26    ;
@@ -2069,7 +2069,7 @@ Jr1619b:      JIZRAD  Z,  140, (T/T)     0:00,  13:51    ;Ostrava-Svinov
               JIZRAD  P,  140,           0:00,   0:00    ;
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Ostrava-Vitkovice
               JIZRAD  Z,  140, (5/5)    14:10*, 14:11*   ;Ostrava-Kuncice
-              JIZRAD  Z,  140, (4/6)    14:15*, 14:15*   ;Ostrava-Bartovice
+              JIZRAD PP,  140, (4/6)    14:15*, 14:15*   ;Ostrava-Bartovice
               JIZRAD  P,  140,          14:17,  14:17    ;
               JIZRAD  Z,  140, (T/T)    14:20*, 14:21*   ;Havirov
               JIZRAD  Z,  140,          14:24*, 14:25    ;
@@ -2122,7 +2122,7 @@ Jr1620b:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
 
 Jr1621:       BAZE 14:24
               JIZRAD  Z,  140, (5/T)    14:48,  14:53    ;Ostrava-Svinov
-              JIZRAD  Z,  140,          14:45,  14:45    ;
+              JIZRAD PP,  140,          14:45,  14:45    ;
               JIZRAD  P,  140, (T/T)    14:41*, 14:41*   ;Dehylov
               JIZRAD  P,  140,          14:39*, 14:39*   ;
               JIZRAD  Z,  140, (T/T)    14:36,  14:37    ;Haj vS
@@ -2161,7 +2161,7 @@ Jr1621c:      JIZRAD  Z,  140, (T/T)    14:48,  14:53    ;Ostrava-Svinov
               JIZRAD  P,  140,           0:00,   0:00    ;
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Ostrava-Vitkovice
               JIZRAD  Z,  140, (5/5)    15:10*, 15:12    ;Ostrava-Kuncice
-              JIZRAD  Z,  140, (4/6)    15:16,  15:16    ;Ostrava-Bartovice
+              JIZRAD PP,  140, (4/6)    15:16,  15:16    ;Ostrava-Bartovice
               JIZRAD  P,  140,          15:17*, 15:17*   ;
               JIZRAD  Z,  140, (T/T)    15:21,  15:22*   ;Havirov
               JIZRAD  Z,  140,          15:25*, 15:26    ;
@@ -2221,7 +2221,7 @@ Jr1623b:      JIZRAD  Z,  140, (T/T)     0:00,  15:51    ;Ostrava-Svinov
               JIZRAD  P,  140,           0:00,   0:00    ;
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Ostrava-Vitkovice
               JIZRAD  Z,  140, (5/5)    16:10*, 16:11*   ;Ostrava-Kuncice
-              JIZRAD  Z,  140, (4/6)    16:15*, 16:15*   ;Ostrava-Bartovice
+              JIZRAD PP,  140, (4/6)    16:15*, 16:15*   ;Ostrava-Bartovice
               JIZRAD  Z,  140,          16:17*, 16:17*   ;
               JIZRAD  Z,  140, (T/T)    16:21*, 16:22*   ;Havirov
               JIZRAD  Z,  140,          16:25*, 16:26    ;
@@ -2392,7 +2392,7 @@ Jr1627b:      JIZRAD  Z,  140, (T/T)     0:00,  17:51    ;Ostrava-Svinov
               JIZRAD  P,  140,           0:00,   0:00    ;
               JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Ostrava-Vitkovice
               JIZRAD  Z,  140, (5/5)    18:10*, 18:12    ;Ostrava-Kuncice
-              JIZRAD  Z,  140, (4/6)    18:16,  18:16    ;Ostrava-Bartovice
+              JIZRAD PP,  140, (4/6)    18:16,  18:16    ;Ostrava-Bartovice
               JIZRAD  P,  140,          18:17*, 18:17*   ;
               JIZRAD  Z,  140, (T/T)    18:21,   0:00    ;Havirov
               JIZRAD  P,  140,           0:00,   0:00    ;
@@ -2485,7 +2485,7 @@ Jr1630b:      JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
               JIZRAD  P,  140, (6/6)     0:00,   0:00    ;Bohumin
 Jr1630c:      JIZRAD  Z,  140, (T/T)    19:09,  19:13    ;Ostrava-Svinov
               JIZRAD  P,  140,          19:15*, 19:15*   ;
-              JIZRAD  Z,  140, (T/T)    19:18*, 19:18*   ;Dehylov
+              JIZRAD PP,  140, (T/T)    19:18*, 19:18*   ;Dehylov
               JIZRAD  P,  140,          19:20*, 19:20*   ;
               JIZRAD  Z,  140, (T/T)    19:23,  19:24    ;Haj vS
               JIZRAD  P,  140,          19:26*, 19:26*   ;
@@ -2496,7 +2496,7 @@ Jr1630c:      JIZRAD  Z,  140, (T/T)    19:09,  19:13    ;Ostrava-Svinov
 
 Jr1633:       BAZE 20:24
               JIZRAD  Z,  140, (5/T)    20:48,   0:00    ;Ostrava-Svinov
-              JIZRAD  Z,  140,          20:45,  20:45    ;
+              JIZRAD PP,  140,          20:45,  20:45    ;
               JIZRAD  P,  140, (T/T)    20:41*, 20:41*   ;Dehylov
               JIZRAD  P,  140,          20:39*, 20:39*   ;
               JIZRAD  Z,  140, (T/T)    20:36,  20:37    ;Haj vS
@@ -4299,7 +4299,7 @@ Jr3056a:      JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prerov
 Jr3072:       BAZE 08:30
               JIZRAD  Z,  140, (5/T)    08:57,  09:02    ;Ostrava-Svinov
               JIZRAD  P,  140,          08:54,  08:54    ;
-              JIZRAD  Z,  140, (T/T)    08:49,  08:51    ;Dehylov
+              JIZRAD PP,  140, (T/T)    08:49,  08:51    ;Dehylov
               JIZRAD  P,  140,          08:45*, 08:45*   ;
               JIZRAD  Z,  140, (T/T)    08:42,  08:43    ;Haj vS
               JIZRAD  P,  140,          08:39,  08:39    ;
