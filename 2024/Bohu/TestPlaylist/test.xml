@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlists version="2.0">
+    <timetable id="gvd_20231210_20241214" from="2023-12-10" to="2024-12-14" issued="2023-11-24"/>
+    <properties accounts="default" purposes="adv fun manual"/>
+</playlists>

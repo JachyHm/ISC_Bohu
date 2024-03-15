@@ -121,38 +121,270 @@
 95 95 
 96 96 
 97 97 
+98 98 Ex1
+98 98 Ex2
+98 98 Ex3
+98 98 Ex4
+98 98 Ex5
+98 98 Ex6
+98 98 Ex7
+98 98 ExP
+98 98 L1
+98 98 L12
+98 98 L18
+98 98 L2
+98 98 L3
+98 98 L31
+98 98 L34
+98 98 L35
+98 98 L4
+98 98 L5
+98 98 L6
+98 98 L61
+98 98 L62
+98 98 L7
+98 98 L9
+98 98 P1
+98 98 P11
+98 98 P12
+98 98 P13
+98 98 P14
+98 98 P2
+98 98 P21
+98 98 P22
+98 98 P23
+98 98 P24
+98 98 P3
+98 98 P31
+98 98 P32
+98 98 P33
+98 98 P34
+98 98 P4
+98 98 R1
+98 98 R10
+98 98 R11
 98 98 R12
 98 98 R13
+98 98 R14
+98 98 R15
+98 98 R16
+98 98 R17
+98 98 R18
+98 98 R19
+98 98 R2
+98 98 R20
+98 98 R21
+98 98 R22
+98 98 R23
+98 98 R24
+98 98 R26
 98 98 R27
+98 98 R29
+98 98 R3
+98 98 R32
+98 98 R4
+98 98 R41
+98 98 R43
+98 98 R44
+98 98 R45
+98 98 R49
+98 98 R5
+98 98 R51
+98 98 R52
+98 98 R53
+98 98 R54
 98 98 R56
+98 98 R6
 98 98 R61
+98 98 R7
+98 98 R8
+98 98 R9
+98 98 RE20
 98 98 S1
+98 98 S10
 98 98 S11
+98 98 S12
+98 98 S13
+98 98 S14
+98 98 S15
+98 98 S16
+98 98 S18
 98 98 S2
+98 98 S20
+98 98 S21
+98 98 S22
+98 98 S23
+98 98 S25
+98 98 S26
+98 98 S27
+98 98 S28
 98 98 S3
+98 98 S30
 98 98 S31
 98 98 S32
 98 98 S33
 98 98 S34
+98 98 S35
+98 98 S36
 98 98 S4
+98 98 S40
+98 98 S41
 98 98 S42
 98 98 S43
+98 98 S44
+98 98 S45
+98 98 S46
 98 98 S5
+98 98 S50
 98 98 S51
+98 98 S52
+98 98 S53
+98 98 S54
+98 98 S57
 98 98 S6
+98 98 S60
+98 98 S61
+98 98 S65
+98 98 S66
+98 98 S67
 98 98 S7
+98 98 S70
 98 98 S71
+98 98 S75
+98 98 S76
 98 98 S8
+98 98 S80
+98 98 S81
+98 98 S82
+98 98 S88
 98 98 S9
+98 98 S90
 98 98 S91
 98 98 S96
+98 98 S98
+98 98 S99
 98 98 Sp1
 98 98 Sp2
 98 98 Sp3
 98 98 Sp4
 98 98 Sp5
 98 98 Sp8
+98 98 T2
+98 98 T4
+98 98 T6
+98 98 T7
+98 98 T8
+98 98 T9
+98 98 U1
+98 98 U10
+98 98 U11
+98 98 U12
+98 98 U13
+98 98 U14
+98 98 U15
+98 98 U16
+98 98 U18
+98 98 U2
+98 98 U21
+98 98 U22
+98 98 U23
+98 98 U24
+98 98 U25
+98 98 U26
+98 98 U27
+98 98 U28
+98 98 U3
+98 98 U32
+98 98 U4
+98 98 U40
+98 98 U5
+98 98 U51
+98 98 U54
+98 98 U57
+98 98 U6
+98 98 U7
+98 98 U8
+98 98 U9
+98 98 V10
+98 98 V2
+98 98 V20
+98 98 V21
+98 98 V22
+98 98 V23
+98 98 V24
+98 98 V25
+98 98 V3
+98 98 V30
+98 98 V31
+98 98 V32
+98 98 V33
+98 98 V34
+98 98 V4
+98 98 V40
+98 98 V41
+98 98 V42
+98 98 V43
+98 98 V44
+98 98 V5
+98 98 V50
+98 98 V51
+98 98 V6
+98 98 Gdansk Glowny
+98 98 Gdynia Glowna
+98 98 Gliwice
+98 98 Katowice
+98 98 Krak\xA2w Gl\xA2wny
+98 98 Malbork
+98 98 Oswiecim
+98 98 Sopot
+98 98 Tczew
+98 98 Warszawa Centralna
+98 98 Warszawa Wschodnia
+98 98 Warszawa Zachodnia
+98 98 Zabrze
+98 98 Trzebinia
+98 98 Ilawa Glowna
+98 98 Dzialdowo
+98 98 Sosnowiec Gl\xA2wny
+98 98 Warszawa Gdanska
+98 98 Przeworsk
+98 98 Zawiercie
+98 98 Miechow
+98 98 Bochnia
+98 98 Debica
+98 98 Rzeszow Glowny
+98 98 Tarnow
+98 98 Jaroslaw
+98 98 Przemysl Gl.
+98 98 Krak\xA2w Plasz\xA2w
+98 98 Dabrowa Gornicza
+98 98 Czechowice Dziedzice
+98 98 Tychy
+98 98 Rybnik(PL)
+98 98 Raciborz
+98 98 Zebrzydowice
+98 98 Brzesko Okocim
+98 98 Chalupki
+98 98 Chrzanow Srodmiescie
+98 98 Gdansk Oliwa
+98 98 Grodzisk Mazowiecki
+98 98 Gdansk Wrzeszcz
+98 98 Krzeszowice
+98 98 Lancut
+98 98 Przemysl Zasanie
+98 98 Radymno
+98 98 Ropczyce
+98 98 Sedziszow Malopolski
+98 98 Wodzislaw Sl.
+98 98 Zory
+98 98 Wloszczowa Polnoc
+98 98 Opoczno Pooudnie
 98 98 ValMez - VLAK JEDE DO DEPA
+98 98 Hul\xA1n - MANIPULA\x80N\x8B J\x8BZDA
+98 98 Krom\x88\xA9\xA1\x91 - MANIPULA\x80N\x8B J\x8BZDA
+98 98 Odry - MANIPULA\x80N\x8B J\x8BZDA
+98 98 Budi\xA8ov nad Budi\xA8ovkou - MANIPULA\x80N\x8B J\x8BZDA
+98 98 \x9Btramberk - MANIPULA\x80N\x8B J\x8BZDA
 98 98 Zku\xA8\x65\x62n\xA1 j\xA1zda (NASTAV)
 98 98 Slu\x91\x65\x62n\xA1 j\xA1zda (NASTAV)
 98 98 \x97klid soupravy (NASTAV)
@@ -166,6 +398,11 @@
 98 98 Den \x91\x65leznice
 98 98 Test displej\x96
 98 98 ValMez - NENASTUPOVAT
+98 98 Hul\xA1n - NENASTUPOVAT
+98 98 Krom\x88\xA9\xA1\x91 - NENASTUPOVAT
+98 98 Odry - NENASTUPOVAT
+98 98 Budi\xA8ov nad Budi\xA8ovkou - NENASTUPOVAT
+98 98 \x9Btramberk - NENASTUPOVAT
 98 98 Ba\xA8ka
 98 98 Budi\xA8ov nad Budi\xA8ovkou
 98 98 Bohu\xA4ovice
@@ -179,6 +416,7 @@
 98 98 Pr\x91no
 98 98 B\xA9\x65\x63lav
 98 98 Hosta\xA8ovice
+98 98 Horn\xA1 Lide\x87
 98 98 Mo\xA9kov hlavn\xA1 tra\x9F
 98 98 Kop\xA9ivnice
 98 98 Kop\xA9ivnice zast\xA0vka
@@ -261,6 +499,66 @@
 98 98 Vnorovy
 98 98 Vesel\xA1 nad Moravou-Zarazice
 98 98 Vesel\xA1 nad Moravou-Miloko\xA8\x9F
+98 98 Kol\xA1n
+98 98 P\xA9\x65lou\x87
+98 98 Pardubice hl.n.
+98 98 Choce\xA4
+98 98 \x97st\xA1 nad Orlic\xA1
+98 98 \x97st\xA1 nad Orlic\xA1 m\x88sto
+98 98 \x80\x65sk\xA0 T\xA9\x65\x62ov\xA0
+98 98 Praha hl.n.
+98 98 Praha-Libe\xA4
+98 98 Praha-Sm\xA1\x63hov
+98 98 Praha-Vr\xA8ovice
+98 98 Plze\xA4 hl.n.
+98 98 Franti\xA8kovy L\xA0zn\x88
+98 98 Mari\xA0nsk\x82 L\xA0zn\x88
+98 98 Plze\xA4-Ji\x91n\xA1 P\xA9\x65\x64m\x88st\xA1
+98 98 St\xA9\xA1\x62ro
+98 98 Plan\xA0 u Mari\xA0nsk\x98\x63h L\xA0zn\xA1
+98 98 L\xA0zn\x88 Kyn\x91vart
+98 98 Cheb
+98 98 Karlovy Vary
+98 98 Sokolov
+98 98 Szob
+98 98 Budapest-Nyugati
+98 98 Nagymaros-Visegr\xA0\x64
+98 98 V\xA0\x63
+98 98 K\xA3ty
+98 98 Ru\x91omberok
+98 98 Liptovsk\x98 Mikul\xA0\xA8
+98 98 \x9Btrba
+98 98 Bratislava hl.st.
+98 98 Poprad-Tatry
+98 98 Spi\xA8sk\xA0 Nov\xA0 Ves
+98 98 Nov\x82 Z\xA0mky
+98 98 Margecany
+98 98 \x9Bt\xA3rovo
+98 98 Kysak
+98 98 Ko\xA8ice
+98 98 Str\xA0\x91ske
+98 98 Trebi\xA8ov
+98 98 B\xA0novce n.Ondavou
+98 98 Michalovce
+98 98 Kra\x96ovany
+98 98 Pova\x91sk\xA0 Bystrica
+98 98 P\xA3\x63hov
+98 98 Vr\xA3tky
+98 98 \x92ilina
+98 98 M\x81nchen Ost
+98 98 Rosenheim
+98 98 M\x81nchen Hbf
+98 98 Salzburg Hbf
+98 98 St.P\x94lten Hbf
+98 98 Linz Hbf
+98 98 Attnang-Puchheim
+98 98 M\x81rzzuschlag
+98 98 Kapfenberg
+98 98 Bruck/Mur
+98 98 Graz Hbf
+98 98 Wien Meidling
+98 98 Wiener Neustadt Hbf
+98 98 Wien Hbf
 100 100 \x9Bumperk
 101 101 Bludov
 102 102 Post\xA9\x65lmov
@@ -290,6 +588,8 @@
 128 128 Grygov
 129 129 Horn\xA1 Such\xA0
 130 130 Hladk\x82 \x92ivotice
+131 131 N\xA0vs\xA1 - MANIPULA\x80N\x8B J\x8BZDA
+131 131 N\xA0vs\xA1 - NENASTUPOVAT
 131 131 N\xA0vs\xA1 (Nawsie)
 132 132 Bocanovice (Boconowice)
 133 133 Jistebn\xA1k
@@ -300,11 +600,17 @@
 138 138 T\xA9inec centrum (Trzyniec Centrum)
 139 139 Louky nad Ol\xA8\xA1
 140 140 Lipn\xA1k nad Be\x87vou
+141 141 Mosty u Jablunkova - MANIPULA\x80N\x8B J\x8BZDA
+141 141 Mosty u Jablunkova - NENASTUPOVAT
 141 141 Mosty u Jablunkova (Mosty kolo Jabl.)
 142 142 Mosty u Jablunkova zast\xA0vka
+143 143 Bohum\xA1n - VLAK JEDE DO DEPA
+143 143 Bohum\xA1n - NENASTUPOVAT
 143 143 Bohum\xA1n
 144 144 Doln\xA1 Lutyn\x88
 145 145 Lukavice na Morav\x88
+146 146 Opava-V\x98\x63hod - MANIPULA\x80N\x8B J\x8BZDA
+146 146 Opava-V\x98\x63hod - NENASTUPOVAT
 146 146 Opava v\x98\x63hod
 147 147 Opava-Kom\xA0rov
 148 148 Svr\x87inovec zast.
@@ -312,14 +618,20 @@
 150 150 Mohelnice
 151 151 Moravi\x87\x61ny
 152 152 Olomouc hl.n.
+153 153 Ostrava hl.n. - MANIPULA\x80N\x8B J\x8BZDA
+153 153 Ostrava hl.n. - NENASTUPOVAT
 153 153 Ostrava hl.n.
 154 154 Ostrava-Mari\xA0nsk\x82 Hory
 155 155 Ostrava-Stodoln\xA1
 156 156 Ostrava st\xA9\x65\x64 - MANIPULA\x80N\x8B J\x8BZDA
+156 156 Ostrava st\xA9\x65\x64 - NENASTUPOVAT
 156 156 Ostrava st\xA9\x65\x64
+157 157 Ostrava-Kun\x87ice - MANIPULA\x80N\x8B J\x8BZDA
 157 157 Ostrava-Kun\x87ice - NENASTUPOVAT
 157 157 Ostrava-Kun\x87ice
 158 158 Ostrava-Bartovice
+159 159 Ostrava-Svinov - MANIPULA\x80N\x8B J\x8BZDA
+159 159 Ostrava-Svinov - NENASTUPOVAT
 159 159 Ostrava-Svinov
 160 160 Ostrava-T\xA9\x65\x62ovice
 161 161 Polanka nad Odrou
@@ -343,6 +655,8 @@
 173 173 \x9Bt\xA1tina
 174 174 Mokr\x82 Lazce
 175 175 St\xA9\x65\xA4
+176 176 T\xA9inec - MANIPULA\x80N\x8B J\x8BZDA
+176 176 T\xA9inec - NENASTUPOVAT
 176 176 T\xA9inec (Trzyniec)
 177 177 \x9Bt\x88p\xA0nov
 178 178 T\xA9inec-Konsk\xA0 (Trzyniec-Konska)
@@ -350,6 +664,8 @@
 180 180 Z\xA0\x62\xA9\x65h na Morav\x88
 181 181 Petrovice u Karvin\x82
 182 182 Z\xA0vada
+183 183 \x80\x65sk\x98 T\x88\xA8\xA1n - MANIPULA\x80N\x8B J\x8BZDA
+183 183 \x80\x65sk\x98 T\x88\xA8\xA1n - NENASTUPOVAT
 183 183 \x80\x65sk\x98 T\x88\xA8\xA1n (Czeski Cieszyn)
 184 184 Cieszyn
 185 185 Hav\xA1\xA9ov st\xA9\x65\x64
