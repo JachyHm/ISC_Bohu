@@ -1,0 +1,557 @@
+show -1
+;---
+verze='AVV842 (G24O750A)'
+settitle verze
+;---
+;kam nahrat + co nahrat
+stranka01=0
+soubor01=""
+stranka02=1
+soubor02="c:\Data\2024\Bohu\Out\AVV\Mapy\T27_23.bin"
+stranka03=0
+soubor03=""
+stranka04=1
+soubor04="c:\Data\2024\Bohu\Out\AVV\Mapy\Trat30.bin"
+stranka05=0
+soubor05=""
+stranka06=1
+soubor06="c:\Data\2024\Bohu\Out\AVV\Mapy\T32_22.bin"
+stranka07=0
+soubor07=""
+stranka08=1
+soubor08="c:\Data\2024\Bohu\Out\AVV\Mapy\Mosnov_1.bin"
+stranka09=0
+soubor09=""
+stranka10=1
+soubor10="c:\Data\2024\Bohu\Out\AVV\Mapy\T33_4.bin"
+stranka11=0
+soubor11=""
+stranka12=0
+soubor12=""
+stranka13=0
+soubor13=""
+stranka14=1
+soubor14="C:\Data\2022\Bohu\Out\AVV\842\G24O842C.bin"
+stranka15=0
+soubor15=""
+stranka16=1
+soubor16="C:\Data\2022\Bohu\Out\AVV\842\H24O842C.bin"
+stranka17=0
+soubor17=""
+stranka18=0
+soubor18=""
+stranka19=0
+soubor19=""
+stranka20=0
+soubor20=""
+stranka21=0
+soubor21=""
+stranka22=0
+soubor22=""
+stranka23=0
+soubor23=""
+stranka24=0
+soubor24=""
+stranka25=0
+soubor25=""
+stranka26=0
+soubor26=""
+stranka27=0
+soubor27=""
+stranka28=0
+soubor28=""
+stranka29=0
+soubor29=""
+stranka30=0
+soubor30=""
+;---
+
+messagebox 'Pripoj nahravaci kabel do karty AVV a stiskni OK' 'Nahravani AVV'
+
+send #13
+
+;wait 'Heslo:'
+ if result=1 sendln 'avv842'
+
+send #13
+send #13
+
+;----- Mazani stranek -----
+;----- stranka 1 a 2 -----
+pause 2
+send 'e1' #13
+wait 'Smazat stranku 01 [A/N] ?'
+   if result=1 sendln 'A'
+ wait 'Smazat, Obnovit (+ Ulozit), Konec [S/O/U/K] ?' 'Stranky smazany O.K.'
+    if result=0 goto dalsi1
+    if result=1 sendln 'S'
+    if result=2 goto dalsi1
+wait 'Stranky smazany O.K.'
+
+:dalsi1
+;----- stranka 3 a 4 -----
+send 'e3' #13
+wait 'Smazat stranku 03 [A/N] ?'
+   if result=1 sendln 'A'
+ wait 'Smazat, Obnovit (+ Ulozit), Konec [S/O/U/K] ?' 'Stranky smazany O.K.'
+    if result=0 goto dalsi2
+    if result=1 sendln 'S'
+    if result=2 goto dalsi2
+wait 'Stranky smazany O.K.'
+
+:dalsi2
+;----- stranka 5 a 6 -----
+send 'e5' #13
+wait 'Smazat stranku 05 [A/N] ?'
+   if result=1 sendln 'A'
+ wait 'Smazat, Obnovit (+ Ulozit), Konec [S/O/U/K] ?' 'Stranky smazany O.K.'
+    if result=0 goto dalsi3
+    if result=1 sendln 'S'
+    if result=2 goto dalsi3
+wait 'Stranky smazany O.K.'
+
+:dalsi3
+;----- stranka 7 a 8 -----
+send 'e7' #13
+wait 'Smazat stranku 07 [A/N] ?'
+   if result=1 sendln 'A'
+ wait 'Smazat, Obnovit (+ Ulozit), Konec [S/O/U/K] ?' 'Stranky smazany O.K.'
+    if result=0 goto dalsi4
+    if result=1 sendln 'S'
+    if result=2 goto dalsi4
+wait 'Stranky smazany O.K.'
+
+:dalsi4
+;----- stranka 9 a 10 -----
+send 'e9' #13
+wait 'Smazat stranku 09 [A/N] ?'
+   if result=1 sendln 'A'
+ wait 'Smazat, Obnovit (+ Ulozit), Konec [S/O/U/K] ?' 'Stranky smazany O.K.'
+    if result=0 goto dalsi5
+    if result=1 sendln 'S'
+    if result=2 goto dalsi5
+wait 'Stranky smazany O.K.'
+
+:dalsi5
+;----- stranka 11 a 12 -----
+send 'e11' #13
+wait 'Smazat stranku 11 [A/N] ?'
+   if result=1 sendln 'A'
+ wait 'Smazat, Obnovit (+ Ulozit), Konec [S/O/U/K] ?' 'Stranky smazany O.K.'
+    if result=0 goto dalsi6
+    if result=1 sendln 'S'
+    if result=2 goto dalsi6
+wait 'Stranky smazany O.K.'
+
+:dalsi6
+;----- stranka 13 a 14 -----
+send 'e13' #13
+wait 'Smazat stranku 13 [A/N] ?'
+   if result=1 sendln 'A'
+ wait 'Smazat, Obnovit (+ Ulozit), Konec [S/O/U/K] ?' 'Stranky smazany O.K.'
+    if result=0 goto dalsi7
+    if result=1 sendln 'S'
+    if result=2 goto dalsi7
+wait 'Stranky smazany O.K.'
+
+:dalsi7
+;----- stranka 15 a 16 -----
+send 'e15' #13
+wait 'Smazat stranku 15 [A/N] ?'
+   if result=1 sendln 'A'
+ wait 'Smazat, Obnovit (+ Ulozit), Konec [S/O/U/K] ?' 'Stranky smazany O.K.'
+    if result=0 goto dalsi8
+    if result=1 sendln 'S'
+    if result=2 goto dalsi8
+wait 'Stranky smazany O.K.'
+
+:dalsi8
+;----- stranka 17 a 18 -----
+send 'e17' #13
+wait 'Smazat stranku 17 [A/N] ?'
+   if result=1 sendln 'A'
+ wait 'Smazat, Obnovit (+ Ulozit), Konec [S/O/U/K] ?' 'Stranky smazany O.K.'
+    if result=0 goto dalsi9
+    if result=1 sendln 'S'
+    if result=2 goto dalsi9
+wait 'Stranky smazany O.K.'
+
+:dalsi9
+;----- stranka 19 a 20 -----
+send 'e19' #13
+wait 'Smazat stranku 19 [A/N] ?'
+   if result=1 sendln 'A'
+ wait 'Smazat, Obnovit (+ Ulozit), Konec [S/O/U/K] ?' 'Stranky smazany O.K.'
+    if result=0 goto dalsi10
+    if result=1 sendln 'S'
+    if result=2 goto dalsi10
+wait 'Stranky smazany O.K.'
+
+:dalsi10
+;----- stranka 21 a 22 -----
+send 'e21' #13
+wait 'Smazat stranku 21 [A/N] ?'
+   if result=1 sendln 'A'
+ wait 'Smazat, Obnovit (+ Ulozit), Konec [S/O/U/K] ?' 'Stranky smazany O.K.'
+    if result=0 goto dalsi11
+    if result=1 sendln 'S'
+    if result=2 goto dalsi11
+wait 'Stranky smazany O.K.'
+
+:dalsi11
+;----- stranka 23 a 24 -----
+send 'e23' #13
+wait 'Smazat stranku 23 [A/N] ?'
+   if result=1 sendln 'A'
+ wait 'Smazat, Obnovit (+ Ulozit), Konec [S/O/U/K] ?' 'Stranky smazany O.K.'
+    if result=0 goto dalsi12
+    if result=1 sendln 'S'
+    if result=2 goto dalsi12
+wait 'Stranky smazany O.K.'
+
+:dalsi12
+;----- stranka 25 a 26 -----
+send 'e25' #13
+wait 'Smazat stranku 25 [A/N] ?'
+   if result=1 sendln 'A'
+ wait 'Smazat, Obnovit (+ Ulozit), Konec [S/O/U/K] ?' 'Stranky smazany O.K.'
+    if result=0 goto dalsi13
+    if result=1 sendln 'S'
+    if result=2 goto dalsi13
+wait 'Stranky smazany O.K.'
+
+:dalsi13
+;----- stranka 27 a 28 -----
+send 'e27' #13
+wait 'Smazat stranku 27 [A/N] ?'
+   if result=1 sendln 'A'
+ wait 'Smazat, Obnovit (+ Ulozit), Konec [S/O/U/K] ?' 'Stranky smazany O.K.'
+    if result=0 goto dalsi14
+    if result=1 sendln 'S'
+    if result=2 goto dalsi14
+wait 'Stranky smazany O.K.'
+
+:dalsi14
+;----- stranka 29 a 30 -----
+send 'e29' #13
+wait 'Smazat stranku 29 [A/N] ?'
+   if result=1 sendln 'A'
+ wait 'Smazat, Obnovit (+ Ulozit), Konec [S/O/U/K] ?' 'Stranky smazany O.K.'
+    if result=0 goto pokracuj
+    if result=1 sendln 'S'
+    if result=2 goto pokracuj
+wait 'Stranky smazany O.K.'
+
+:pokracuj
+send #13
+pause 1
+
+;--- paleni souboru ---
+;--- strana 01 ---
+if stranka01=1 then
+   send 'p1' #13
+   pause 1
+   kmtsend soubor01
+   wait 'Zapsat soubor do stranky 01 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif    
+   
+;--- strana 02 ---
+if stranka02=1 then
+   send 'p2' #13
+   pause 1
+   kmtsend soubor02
+   wait 'Zapsat soubor do stranky 02 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif    
+
+;--- strana 03 ---
+if stranka03=1 then
+   send 'p3' #13
+   pause 1
+   kmtsend soubor03
+   wait 'Zapsat soubor do stranky 03 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 04 ---
+if stranka04=1 then
+   send 'p4' #13
+   pause 1
+   kmtsend soubor04
+   wait 'Zapsat soubor do stranky 04 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 05 ---
+if stranka05=1 then
+   send 'p5' #13
+   pause 1
+   kmtsend soubor05
+   wait 'Zapsat soubor do stranky 05 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 06 ---
+if stranka06=1 then
+   send 'p6' #13
+   pause 1
+   kmtsend soubor06
+   wait 'Zapsat soubor do stranky 06 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 07 ---
+if stranka07=1 then
+   send 'p7' #13
+   pause 1
+   kmtsend soubor07
+   wait 'Zapsat soubor do stranky 07 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 08 ---
+if stranka08=1 then
+   send 'p8' #13
+   pause 1
+   kmtsend soubor08
+   wait 'Zapsat soubor do stranky 08 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 09 ---
+if stranka09=1 then
+   send 'p9' #13
+   pause 1
+   kmtsend soubor09
+   wait 'Zapsat soubor do stranky 09 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 10 ---
+if stranka10=1 then
+   send 'p10' #13
+   pause 1
+   kmtsend soubor10
+   wait 'Zapsat soubor do stranky 10 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 11 ---
+if stranka11=1 then
+   send 'p11' #13
+   pause 1
+   kmtsend soubor11
+   wait 'Zapsat soubor do stranky 11 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 12 ---
+if stranka12=1 then
+   send 'p12' #13
+   pause 1
+   kmtsend soubor12
+   wait 'Zapsat soubor do stranky 12 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 13 ---
+if stranka13=1 then
+   send 'p13' #13
+   pause 1
+   kmtsend soubor13
+   wait 'Zapsat soubor do stranky 13 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 14 ---
+if stranka14=1 then
+   send 'p14' #13
+   pause 1
+   kmtsend soubor14
+   wait 'Zapsat soubor do stranky 14 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 15 ---
+if stranka15=1 then
+   send 'p15' #13
+   pause 1
+   kmtsend soubor15
+   wait 'Zapsat soubor do stranky 15 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 16 ---
+if stranka16=1 then
+   send 'p16' #13
+   pause 1
+   kmtsend soubor16
+   wait 'Zapsat soubor do stranky 16 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 17 ---
+if stranka17=1 then
+   send 'p17' #13
+   pause 1
+   kmtsend soubor17
+   wait 'Zapsat soubor do stranky 17 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 18 ---
+if stranka18=1 then
+   send 'p18' #13
+   pause 1
+   kmtsend soubor18
+   wait 'Zapsat soubor do stranky 18 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 19 ---
+if stranka19=1 then
+   send 'p19' #13
+   pause 1
+   kmtsend soubor19
+   wait 'Zapsat soubor do stranky 19 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 20 ---
+if stranka20=1 then
+   send 'p20' #13
+   pause 1
+   kmtsend soubor20
+   wait 'Zapsat soubor do stranky 20 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 21 ---
+if stranka21=1 then
+   send 'p21' #13
+   pause 1
+   kmtsend soubor21
+   wait 'Zapsat soubor do stranky 21 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 22 ---
+if stranka22=1 then
+   send 'p22' #13
+   pause 1
+   kmtsend soubor22
+   wait 'Zapsat soubor do stranky 22 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 23 ---
+if stranka23=1 then
+   send 'p23' #13
+   pause 1
+   kmtsend soubor23
+   wait 'Zapsat soubor do stranky 23 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 24 ---
+if stranka24=1 then
+   send 'p24' #13
+   pause 1
+   kmtsend soubor24
+   wait 'Zapsat soubor do stranky 24 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 25 ---
+if stranka25=1 then
+   send 'p25' #13
+   pause 1
+   kmtsend soubor25
+   wait 'Zapsat soubor do stranky 25 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 26 ---
+if stranka26=1 then
+   send 'p26' #13
+   pause 1
+   kmtsend soubor26
+   wait 'Zapsat soubor do stranky 26 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 27 ---
+if stranka27=1 then
+   send 'p27' #13
+   pause 1
+   kmtsend soubor27
+   wait 'Zapsat soubor do stranky 27 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 28 ---
+if stranka28=1 then
+   send 'p28' #13
+   pause 1
+   kmtsend soubor28
+   wait 'Zapsat soubor do stranky 28 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 29 ---
+if stranka29=1 then
+   send 'p29' #13
+   pause 1
+   kmtsend soubor29
+   wait 'Zapsat soubor do stranky 29 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+;--- strana 30 ---
+if stranka30=1 then
+   send 'p30' #13
+   pause 1
+   kmtsend soubor30
+   wait 'Zapsat soubor do stranky 30 [A/N] ?'
+      if result=1 sendln 'A'
+  wait 'Data se shoduji.'
+endif
+
+wait 'AVV>'
+if result=1 then
+   sendln 'm'
+   sendln 'q'
+   messagebox 'Zadej m a potvrd a pak q a potvrd!!!' 'Nahravani AVV'
+endif
+
+;closett
