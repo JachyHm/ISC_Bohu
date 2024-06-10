@@ -1,0 +1,60 @@
+Obsah:        PLATI   1, 10/12/2023, 14/12/2024
+              VLAK    70027, 09:08, Tr70027
+
+              KONEC
+              ZAROVNEJ
+
+Tr70027:      TRASA 27, 4, Jr70027
+              TRASA 27,12, Jr70027a
+              TRASA
+
+              ZAROVNEJ
+
+
+Jr70027:      BAZE 09:08
+              JIZRAD  Z,  160, (T/T)    09:29,  09:35    ;Prerov
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Dluhonice
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Brodek
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Grygov
+              JIZRAD  Z,  160, (T/T)     0:00,  09:08    ;Olomouc hln
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Stepanov
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Cervenka
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Moravicany
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Mohelnice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lukavice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Zabreh nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostejn predjk
+              JIZRAD  P,    0,           0:00,   0:00    ;Hostejn
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0,           0:00,   0:00    ;Krasikov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Krasikov predjk
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Rudoltice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Trebovice vC
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ceska Trebova
+Jr70027a:     JIZRAD  Z,  160, (T/T)    09:29,  09:35    ;Prerov
+              JIZRAD  P,  160, (T/T)    09:40*, 09:40*   ;Prosenice
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  160, (T/T)    10:33,  10:42    ;Ostrava-Svinov
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Ostrava hln
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  Z,  160, (6/6)    10:54,   0:00    ;Bohumin
+
+
+;vse vypsano

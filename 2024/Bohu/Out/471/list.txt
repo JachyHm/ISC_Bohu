@@ -634,22 +634,17 @@
 159 159 Ostrava-Svinov - NENASTUPOVAT
 159 159 Ostrava-Svinov
 160 160 Ostrava-T\xA9\x65\x62ovice
-161 161 
-161 161 Vlak mimo\xA9\xA0\x64n\x88 proj\xA1\x91\x64\xA1 stanici Polanka n.Odrou
 161 161 Polanka nad Odrou
 162 162 Polom
 163 163 B\x88lot\xA1n
 164 164 Osek nad Be\x87vou
 165 165 Prosenice
 166 166 P\xA9\x65rov
-167 167 
 167 167 Mo\xA8nov,Ostrava Airport - MANIPULA\x80N\x8B J\x8BZDA
 167 167 Mo\xA8nov,Ostrava Airport - NENASTUPOVAT
 167 167 Mo\xA8nov,Ostrava Airport
 168 168 Sedlnice
 169 169 Chot\x88\x62uz
-170 170 
-170 170 Vlak bude nahrazen autobusovou dopravou v \xA3seku Stud\x82nka - Mo\xA8nov, Ostrava Airport
 170 170 Stud\x82nka - MANIPULA\x80N\x8B J\x8BZDA
 170 170 Stud\x82nka - NENASTUPOVAT
 170 170 Stud\x82nka

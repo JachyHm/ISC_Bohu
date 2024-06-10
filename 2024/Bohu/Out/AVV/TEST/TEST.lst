@@ -1,0 +1,89 @@
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        01/06/24
+
+C:\Data\2024\Bohu\Out\AVV\TEST\TEST.pop                         Str 1
+
+
+0000  0A 00 16 19                       Zahlavi:	<verze prekladace>
+0004     20 24 06 01                    		<datum prekladu>
+0008     43 44 6F 6C 63 56 4D 31        		<drzitel licence>
+0010     0302 633252C5 6233             		<kontrolni udaje>
+
+0018  0B 01 231210 241214               Obsah:        PLATI   1, 10/12/2023, 14/12/2024
+0020  077002709 10 FF 0100                            VLAK    70027, 09:08, Tr70027
+                                        
+0028  87                                              KONEC
+0100                                                  ZAROVNEJ
+                                        
+0100  1B 04 00FE                        Tr70027:      TRASA 27, 4, Jr70027
+0104  1B 0C 018A                                      TRASA 27,12, Jr70027a
+0108  00                                              TRASA
+                                        
+0200                                                  ZAROVNEJ
+                                        
+                                        
+0200                                    Jr70027:      BAZE 09:08
+0200  A0 40 00 2A 00 36                               JIZRAD  Z,  160, (T/T)    09:29,  09:35    ;Prerov
+0206  20 40 0E 68 0E 68                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Dluhonice
+020C  20 00 0E 68 0E 68                               JIZRAD  P,  160,           0:00,   0:00    ;
+0212  20 40 0E 68 0E 68                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Brodek
+0218  20 40 0E 68 0E 68                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Grygov
+021E  A0 40 0E 68 00 00                               JIZRAD  Z,  160, (T/T)     0:00,  09:08    ;Olomouc hln
+0224  00 40 0E 68 0E 68                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Stepanov
+022A  00 00 0E 68 0E 68                               JIZRAD  P,    0,           0:00,   0:00    ;
+0230  00 40 0E 68 0E 68                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Cervenka
+0236  00 40 0E 68 0E 68                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Moravicany
+023C  00 40 0E 68 0E 68                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Mohelnice
+0242  00 40 0E 68 0E 68                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lukavice
+0248  00 40 0E 68 0E 68                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Zabreh nM
+024E  00 00 0E 68 0E 68                               JIZRAD  P,    0,           0:00,   0:00    ;
+0254  00 40 0E 68 0E 68                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostejn predjk
+025A  00 00 0E 68 0E 68                               JIZRAD  P,    0,           0:00,   0:00    ;Hostejn
+0260  00 00 0E 68 0E 68                               JIZRAD  P,    0,           0:00,   0:00    ;
+0266  00 00 0E 68 0E 68                               JIZRAD  P,    0,           0:00,   0:00    ;Krasikov
+026C  00 40 0E 68 0E 68                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Krasikov predjk
+0272  00 00 0E 68 0E 68                               JIZRAD  P,    0,           0:00,   0:00    ;
+0278  00 00 0E 68 0E 68                               JIZRAD  P,    0,           0:00,   0:00    ;
+027E  00 40 0E 68 0E 68                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Rudoltice
+0284  00 40 0E 68 0E 68                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Trebovice vC
+028A  00 40 0E 68 0E 68                               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ceska Trebova
+0290  A0 40 00 2A 00 36                 Jr70027a:     JIZRAD  Z,  160, (T/T)    09:29,  09:35    ;Prerov
+0296  20 40 00 41 00 41                               JIZRAD  P,  160, (T/T)    09:40*, 09:40*   ;Prosenice
+029C  20 40 0E 68 0E 68                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
+02A2  20 40 0E 68 0E 68                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Lipnik nB
+02A8  20 00 0E 68 0E 68                               JIZRAD  P,  160,           0:00,   0:00    ;
+02AE  20 40 0E 68 0E 68                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hranice nM
+02B4  20 00 0E 68 0E 68                               JIZRAD  P,  160,           0:00,   0:00    ;
+02BA  20 40 0E 68 0E 68                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polom
+02C0  20 00 0E 68 0E 68                               JIZRAD  P,  160,           0:00,   0:00    ;
+02C6  20 40 0E 68 0E 68                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Suchdol nO
+02CC  20 00 0E 68 0E 68                               JIZRAD  P,  160,           0:00,   0:00    ;
+02D2  20 40 0E 68 0E 68                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Studenka
+02D8  20 00 0E 68 0E 68                               JIZRAD  P,  160,           0:00,   0:00    ;
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        01/06/24
+
+C:\Data\2024\Bohu\Out\AVV\TEST\TEST.pop                         Str 2
+
+
+02DE  20 40 0E 68 0E 68                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polanka
+02E4  A0 40 01 32 01 44                               JIZRAD  Z,  160, (T/T)    10:33,  10:42    ;Ostrava-Svinov
+02EA  20 00 0E 68 0E 68                               JIZRAD  P,  160,           0:00,   0:00    ;
+02F0  20 40 0E 68 0E 68                               JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Ostrava hln
+02F6  20 00 0E 68 0E 68                               JIZRAD  P,  160,           0:00,   0:00    ;
+02FC  A0 4A 01 5C 0E 68                               JIZRAD  Z,  160, (6/6)    10:54,   0:00    ;Bohumin
+                                        
+                                        
+                                        ;vse vypsano
+Prekladac jizdnich radu - verze 1.6 WinC    (C)  Mysoft 2014        01/06/24
+
+C:\Data\2024\Bohu\Out\AVV\TEST\TEST.pop                         Nav 1
+
+
+Navesti    Adresa   Kilometr
+
+Jr70027     0200   
+Jr70027a    0290   
+Obsah       0018   
+Tr70027     0100   
+
+Pocet chyb: 0 
+
