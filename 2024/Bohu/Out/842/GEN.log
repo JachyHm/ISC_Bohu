@@ -1,20 +1,17 @@
-{\rtf1\ansi\ansicpg1250\deff0\deflang1029{\fonttbl{\f0\fswiss\fcharset238 Tahoma;}}
+{\rtf1\ansi\ansicpg1250\deff0\deflang1029{\fonttbl{\f0\fnil MS Sans Serif;}{\f1\fswiss\fcharset0 Tahoma;}{\f2\fswiss\fcharset238 Tahoma;}{\f3\fnil\fcharset238 MS Sans Serif;}}
 {\colortbl ;\red128\green0\blue0;\red0\green0\blue255;\red255\green0\blue0;}
-\viewkind4\uc1\pard\cf1\b\f0\fs16 !!! C\'edlov\'fd adres\'e1\'f8 nen\'ed pr\'e1zdn\'fd, nalezeno 1496 soubor\'f9 !!!
-\par Maz\'e1n\'ed datov\'fdch soubor\'f9
-\par Sobory smaz\'e1ny
-\par !!! Do\'e8asn\'fd c\'edlov\'fd adres\'e1\'f8 nen\'ed pr\'e1zdn\'fd, nalezeno 1 soubor\'f9 !!!
-\par Maz\'e1n\'ed do\'e8asn\'fdch datov\'fdch soubor\'f9
-\par Do\'e8asn\'e9 sobory smaz\'e1ny
-\par \cf2 Verze p\'f8eklada\'e8e: V0.05 (SW00264)
-\par Generov\'e1n\'ed seznamu skupin vlak\'f9, \'e8ekejte pros\'edm. \'c8as: 0:39:12
-\par Generov\'e1n\'ed skupin ukon\'e8eno. \'c8as: 0:39:13
-\par \cf1 Vybr\'e1na skupina: 814_VM
-\par \cf2 P\'f8eklad, \'e8ekejte pros\'edm. \'c8as: 0:39:13
-\par P\'f8eklad ukon\'e8en. \'c8as: 0:39:31
-\par \cf1 Finalizuj\'ed se datov\'e9 soubory...
-\par Platnost J\'d8: 10.12.2023 - 14.12.2024
-\par Soubor 1200.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
+\viewkind4\uc1\pard\cf1\b\f0\fs16 !!! C\f1\'edlov\'fd adres\'e1\f2\'f8 nen\'ed pr\'e1zdn\'fd, nalezeno 1534 soubor\'f9 !!!
+\par \f0 Maz\f1\'e1n\'ed datov\'fdch soubor\f2\'f9
+\par \f0 Sobory smaz\f1\'e1ny\cf2 
+\par \cf1\f0 Verze p\f3\'f8eklada\'e8e: V0.05 (SW00264)
+\par \cf2\f0 Generov\f1\'e1n\'ed seznamu skupin vlak\f2\'f9, \'e8ekejte pros\'edm. \'c8as: 14:26:39
+\par \f0 Generov\f1\'e1n\'ed skupin ukon\f2\'e8eno. \'c8as: 14:26:41
+\par \cf1\f0 Vybr\f1\'e1na skupina: 814_VM
+\par \cf2\f0 P\f3\'f8eklad, \'e8ekejte pros\'edm. \'c8as: 14:26:41
+\par \f0 P\f3\'f8eklad ukon\'e8en. \'c8as: 14:27:17
+\par \cf1\f0 Finalizuj\f1\'ed se datov\'e9 soubory...
+\par \f0 Platnost J\f3\'d8: 10.12.2023 - 14.12.2024
+\par \f0 Soubor 1200.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 1210.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 1220.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor 1230.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
@@ -769,12 +766,11 @@
 \par Soubor 39902.dat upraven, sestav: 1, ZNZ: 8, ZDD: 0
 \par Soubor 39930.dat upraven, sestav: 1, ZNZ: 9, ZDD: 1
 \par Soubor 39860.dat upraven, sestav: 1, ZNZ: 8, ZDD: 0
-\par Soubor 39861.dat upraven, sestav: 1, ZNZ: 12, ZDD: 0
+\par Soubor 39861.dat upraven, sestav: 1, ZNZ: 12, ZDD: 1
 \par Soubor 39030.dat upraven, sestav: 1, ZNZ: 12, ZDD: 1
 \par Soubor 39031.dat upraven, sestav: 1, ZNZ: 12, ZDD: 1
 \par Soubor 39040.dat upraven, sestav: 1, ZNZ: 12, ZDD: 1
-\par Soubor 39750.dat upraven, sestav: 1, ZNZ: 3, ZDD: 0
-\par Soubor 39751.dat upraven, sestav: 2, ZNZ: 10, ZDD: 1
+\par Soubor 39750.dat upraven, sestav: 2, ZNZ: 10, ZDD: 1
 \par Soubor 39060.dat upraven, sestav: 1, ZNZ: 12, ZDD: 1
 \par Soubor 39061.dat upraven, sestav: 1, ZNZ: 12, ZDD: 1
 \par Soubor 39970.dat upraven, sestav: 1, ZNZ: 10, ZDD: 1
@@ -788,8 +784,7 @@
 \par Soubor 39761.dat upraven, sestav: 1, ZNZ: 12, ZDD: 1
 \par Soubor 39790.dat upraven, sestav: 1, ZNZ: 12, ZDD: 1
 \par Soubor 39791.dat upraven, sestav: 1, ZNZ: 12, ZDD: 1
-\par Soubor 39140.dat upraven, sestav: 2, ZNZ: 8, ZDD: 0
-\par Soubor 39141.dat upraven, sestav: 1, ZNZ: 8, ZDD: 0
+\par Soubor 39140.dat upraven, sestav: 1, ZNZ: 8, ZDD: 0
 \par Soubor 39150.dat upraven, sestav: 1, ZNZ: 12, ZDD: 1
 \par Soubor 39940.dat upraven, sestav: 1, ZNZ: 12, ZDD: 1
 \par Soubor 39850.dat upraven, sestav: 1, ZNZ: 12, ZDD: 1
@@ -812,9 +807,9 @@
 \par Soubor 39330.dat upraven, sestav: 1, ZNZ: 8, ZDD: 0
 \par Soubor 39331.dat upraven, sestav: 1, ZNZ: 8, ZDD: 0
 \par Soubor 39332.dat upraven, sestav: 1, ZNZ: 8, ZDD: 0
-\par Soubor 39340.dat upraven, sestav: 1, ZNZ: 10, ZDD: 0
-\par Soubor 39341.dat upraven, sestav: 1, ZNZ: 10, ZDD: 0
-\par Soubor 39342.dat upraven, sestav: 1, ZNZ: 12, ZDD: 0
+\par Soubor 39340.dat upraven, sestav: 1, ZNZ: 10, ZDD: 1
+\par Soubor 39341.dat upraven, sestav: 1, ZNZ: 10, ZDD: 1
+\par Soubor 39342.dat upraven, sestav: 1, ZNZ: 12, ZDD: 1
 \par Soubor 39730.dat upraven, sestav: 1, ZNZ: 6, ZDD: 0
 \par Soubor 39731.dat upraven, sestav: 1, ZNZ: 6, ZDD: 0
 \par Soubor 39732.dat upraven, sestav: 1, ZNZ: 6, ZDD: 0
@@ -1583,10 +1578,10 @@
 \par Soubor 233753.dat upraven, sestav: 1, ZNZ: 2, ZDD: 0
 \par Soubor 241780.dat upraven, sestav: 1, ZNZ: 0, ZDD: 0
 \par Soubor skupina.dat upraven.
-\par Kop\'edrov\'e1n\'ed soubor\'f9 do c\'edlov\'e9ho adres\'e1\'f8e
-\par Maz\'e1n\'ed do\'e8asn\'fdch soubor\'f9
-\par \cf2 
-\par Generov\'e1n\'ed dat dokon\'e8eno. \'c8as: 0:39:53
-\par 
+\par Kop\f1\'edrov\'e1n\'ed soubor\f2\'f9 do c\'edlov\'e9ho adres\'e1\'f8e
+\par \f0 Maz\f1\'e1n\'ed do\f2\'e8asn\'fdch soubor\'f9
+\par \cf2\f0 
+\par Generov\f1\'e1n\'ed dat dokon\f2\'e8eno. \'c8as: 14:27:41
+\par \f0 
 \par }
  
