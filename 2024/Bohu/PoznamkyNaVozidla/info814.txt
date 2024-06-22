@@ -6,6 +6,7 @@ Data 814 ValMez 1. GVD 23/24 9.6.2023
 8. 6. - doplněny vlaky od 1. změny GVD 9. 6.
 11. 6. - oprava chybně zadaných ZDD ve Stříteži
 12. 6. - oprava dalších chybně zadaných kalendářů v KASO
+22. 6. - doplněn vlak 4249
 
 V případě nesrovnalostí volej/piš:
 +420 725 245 545 - Jáchym Hurtík
