@@ -575,6 +575,7 @@
 113 113 Brodek u P\xA9\x65rova
 114 114 Rokytnice u P\xA9\x65rova
 117 117 Ropice zast\xA0vka (Ropica przystanek)
+118 118 D\x88hylov - MANIPULA\x80N\x8B J\x8BZDA
 118 118 D\x88hylov
 119 119 D\x88tmarovice
 120 120 \x80\x65rvenka
