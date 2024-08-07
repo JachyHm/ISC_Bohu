@@ -1,1 +1,1 @@
-CleanUp.exe "BohuRegio.xml" -g=2 -k -o -a=8 -m -t -e -n -r="471boh" -v="471temp.xml"
+CleanUp.exe "BohuRegio.xml" -g=2 -k -o -a=8 -m -t -e -h -r="471boh" -v="471temp.xml"
