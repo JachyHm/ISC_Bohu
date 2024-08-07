@@ -569,12 +569,12 @@
 107 107 M\x88rovice nad Hanou
 108 108 N\x88m\x87ice nad Hanou
 109 109 Albrechtice u \x80\x65sk\x82ho T\x88\xA8\xA1na
-110 110 Byst\xA9ice (Bystrzyca)
-111 111 Hr\xA0\x64\x65k (Gr\xA2\x64\x65k)
-112 112 Vendryn\x88 (Wedrynia)
+110 110 Byst\xA9ice
+111 111 Hr\xA0\x64\x65k
+112 112 Vendryn\x88
 113 113 Brodek u P\xA9\x65rova
 114 114 Rokytnice u P\xA9\x65rova
-117 117 Ropice zast\xA0vka (Ropica przystanek)
+117 117 Ropice zast\xA0vka
 118 118 D\x88hylov - MANIPULA\x80N\x8B J\x8BZDA
 118 118 D\x88hylov
 119 119 D\x88tmarovice
@@ -591,19 +591,19 @@
 130 130 Hladk\x82 \x92ivotice
 131 131 N\xA0vs\xA1 - MANIPULA\x80N\x8B J\x8BZDA
 131 131 N\xA0vs\xA1 - NENASTUPOVAT
-131 131 N\xA0vs\xA1 (Nawsie)
-132 132 Bocanovice (Boconowice)
+131 131 N\xA0vs\xA1
+132 132 Bocanovice
 133 133 Jistebn\xA1k
 134 134 Karvin\xA0 hl.n.
 135 135 Karvin\xA0-Darkov
 136 136 Hranice na Morav\x88
 137 137 Nezamyslice
-138 138 T\xA9inec centrum (Trzyniec Centrum)
+138 138 T\xA9inec centrum
 139 139 Louky nad Ol\xA8\xA1
 140 140 Lipn\xA1k nad Be\x87vou
 141 141 Mosty u Jablunkova - MANIPULA\x80N\x8B J\x8BZDA
 141 141 Mosty u Jablunkova - NENASTUPOVAT
-141 141 Mosty u Jablunkova (Mosty kolo Jabl.)
+141 141 Mosty u Jablunkova
 142 142 Mosty u Jablunkova zast\xA0vka
 143 143 Bohum\xA1n - VLAK JEDE DO DEPA
 143 143 Bohum\xA1n - NENASTUPOVAT
@@ -658,16 +658,16 @@
 175 175 St\xA9\x65\xA4
 176 176 T\xA9inec - MANIPULA\x80N\x8B J\x8BZDA
 176 176 T\xA9inec - NENASTUPOVAT
-176 176 T\xA9inec (Trzyniec)
+176 176 T\xA9inec
 177 177 \x9Bt\x88p\xA0nov
-178 178 T\xA9inec-Konsk\xA0 (Trzyniec-Konska)
+178 178 T\xA9inec-Konsk\xA0
 179 179 Ostrava-V\xA1tkovice
 180 180 Z\xA0\x62\xA9\x65h na Morav\x88
 181 181 Petrovice u Karvin\x82
 182 182 Z\xA0vada
 183 183 \x80\x65sk\x98 T\x88\xA8\xA1n - MANIPULA\x80N\x8B J\x8BZDA
 183 183 \x80\x65sk\x98 T\x88\xA8\xA1n - NENASTUPOVAT
-183 183 \x80\x65sk\x98 T\x88\xA8\xA1n (Czeski Cieszyn)
+183 183 \x80\x65sk\x98 T\x88\xA8\xA1n
 184 184 Cieszyn
 185 185 Hav\xA1\xA9ov st\xA9\x65\x64
 186 186 Ostrava-Z\xA0\x62\xA9\x65h
