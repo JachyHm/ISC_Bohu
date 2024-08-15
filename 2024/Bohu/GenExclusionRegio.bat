@@ -1,0 +1,1 @@
+GenerateExclusion BohuRegio.xml
