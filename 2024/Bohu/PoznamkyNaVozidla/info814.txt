@@ -1,4 +1,4 @@
-Data 814 ValMez GVD 23/24 akt. 6.9.2023
+Data 814 ValMez GVD 23/24 akt. 5.11.2023
 2. změna GVD k 9. 6. 2024
 
 15. 3. - doplněny hlášení "zadní část vlaku končí jízdu ve stanici _"
@@ -10,6 +10,7 @@ Data 814 ValMez GVD 23/24 akt. 6.9.2023
 15. 8. - výluky Krz - Hun a Vlm - Hos
 5. 9. - výluka RpR - VlM
 6. 9. - vlaky na festival POJEZ
+5. 11. - Hornovy vláčky do Svobodných Heřmanic
 
 V případě nesrovnalostí volej/piš:
 +420 725 245 545 - Jáchym Hurtík

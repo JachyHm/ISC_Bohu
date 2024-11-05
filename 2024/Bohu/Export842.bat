@@ -1,1 +1,1 @@
-CleanUp.exe "BohuRegio_cista.xml" -b=5 -z -a=0 -t -v="842temp.xml"
+CleanUp.exe "BohuRegio.xml" -b=5 -z -a=0 -t -v="842temp.xml"
