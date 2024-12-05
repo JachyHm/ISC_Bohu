@@ -1,0 +1,1 @@
+"../../CleanUp.exe" "BohuRegio.xml" -g=5 -k -o -a=3 -m -t -e -i -f -r="814sc" -v="814VMtemp.xml"
