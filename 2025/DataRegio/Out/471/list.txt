@@ -1,0 +1,3260 @@
+4294967295 -1 p\xA9\x65s
+4294967295 -1 Tento v\x96z zde kon\x87\xA1, pros\xA1me vystupte 
+4294967295 -1 kone\x87n\xA0 stanice tohoto vozu
+4294967295 -1 posledn\xA1 stanice integrovan\x82 dopravy 
+4294967295 -1 Vlak jede odklonem
+4294967295 -1 V\x96z bez pr\x96vod\x87\xA1ho
+0 0 Stud\x82nka n\xA0kl.n.
+0 0 Kop\xA9ivnice n\xA0kl.n\xA0\x64ra\x91\xA1
+0 0 Sedlnice kol. 1-6
+0 0 Sedlnice-Barto\xA8ovice
+0 0 Ova hl.n. Sc101,102
+0 0  
+0 0 Linka
+0 0 sm\x88r
+1 1 Vlak zde j\xA1zdu kon\x87\xA1. Pros\xA1me, p\xA9\x65stupte na n\xA0hradn\xA1 vlakovou soupravu.
+1 1 V\xA0\x91\x65n\xA1 cestuj\xA1\x63\xA1, z d\x96vodu v\x98luky na trati tento vlak kon\x87\xA1 j\xA1zdu. D\x88kujeme za pochopen\xA1.
+1 1 V\xA0\x91\x65n\xA1 cestuj\xA1\x63\xA1, omluvte pros\xA1m zpo\x91\x64\x88n\xA1 vlaku. P\xA9\x65\x64pokl\xA0\x64\x61n\xA0 doba zpo\x91\x64\x88n\xA1 bude asi 10 minut. D\x88kujeme za pochopen\xA1.
+1 1 V\xA0\x91\x65n\xA1 cestuj\xA1\x63\xA1, omluvte pros\xA1m zpo\x91\x64\x88n\xA1 vlaku. P\xA9\x65\x64pokl\xA0\x64\x61n\xA0 doba zpo\x91\x64\x88n\xA1 bude asi 20 minut. D\x88kujeme za pochopen\xA1.
+1 1 V\xA0\x91\x65n\xA1 cestuj\xA1\x63\xA1, omluvte pros\xA1m zpo\x91\x64\x88n\xA1 vlaku. P\xA9\x65\x64pokl\xA0\x64\x61n\xA0 doba zpo\x91\x64\x88n\xA1 bude asi 30 minut. D\x88kujeme za pochopen\xA1.
+1 1 Vlak je opo\x91\x64\x88n z d\x96vodu v\x98luky na trati. Omluvte pros\xA1m zpo\x91\x64\x88n\xA1 vlaku.
+1 1 Vlak je opo\x91\x64\x88n z d\x96vodu \x87\x65k\xA0n\xA1 na p\xA9\xA1pojn\x98 vlak. Omluvte pros\xA1m zpo\x91\x64\x88n\xA1 vlaku.
+1 1 Vlak je opo\x91\x64\x88n z d\x96vodu \x87\x65k\xA0n\xA1 na zpo\x91\x64\x88n\x98 vlak opa\x87n\x82ho sm\x88ru. Omluvte pros\xA1m zpo\x91\x64\x88n\xA1 vlaku.
+1 1 Vlak je opo\x91\x64\x88n z d\x96vodu poruchy vozu. Omluvte pros\xA1m zpo\x91\x64\x88n\xA1 vlaku.
+1 1 Vlak je opo\x91\x64\x88n z d\x96vodu p\xA9\x65k\xA0\x91ky na trati. Omluvte pros\xA1m zpo\x91\x64\x88n\xA1 vlaku.
+1 1 Vlak je opo\x91\x64\x88n z d\x96vodu p\xA9\x65\x64j\xA1\x91\x64\x88n\xA1 vlakem vy\xA8\xA8\xA1 kategorie. Omluvte pros\xA1m zpo\x91\x64\x88n\xA1 vlaku.
+1 1 Vlak je opo\x91\x64\x88n z d\x96vodu nep\xA9\xA1zniv\x98\x63h pov\x88trnostn\xA1\x63h podm\xA1nek. Omluvte pros\xA1m zpo\x91\x64\x88n\xA1 vlaku.
+1 1 Tento vlak jede po n\xA0hradn\xA1 odklonov\x82 trase. Bli\x91\xA8\xA1 informace V\xA0m pod\xA0 vlakov\x98 person\xA0l.
+1 1 Tento vlak mimo\xA9\xA0\x64n\x88 zastavil z d\x96vodu nep\xA9\x65\x64v\xA1\x64\x61n\x82 situace na trati. Pros\xA1me, nevystupujte.
+1 1 Vlak v t\x82to stanici mimo\xA9\xA0\x64n\x88 kon\x87\xA1 j\xA1zdu, pros\xA1me vystupte.
+1 1 V\xA0\x91\x65n\xA1 cestuj\xA1\x63\xA1, pros\xA1me, p\xA9\x65stupte na n\xA0hradn\xA1 dopravu. D\x88kujeme za pochopen\xA1.
+1 1 D\x88kujeme V\xA0m za vyu\x91it\xA1 slu\x91\x65\x62 \x80\x65sk\x98\x63h drah.
+2 2 p\xA9\xA1\xA8t\xA1 stanice
+2 2 P\xA9\xA1\xA8t\xA1 stanice - zast\xA0vka na znamen\xA1, pro v\x98stup stiskn\x88te tla\x87\xA1tko signalizace
+3 3 p\xA9\x65stupn\xA1 stanice pro sm\x88r
+4 4 zast\xA0vka na znamen\xA1
+4 4 
+4 4 zast\xA0vka na znamen\xA1 - zastav\xA1me
+5 5 kone\x87n\xA0 stanice, pros\xA1me vystupte
+8 8 pokra\x87uje do stanice
+9 9 zde j\xA1zdu kon\x87\xA1
+11 11 1
+12 12 2
+13 13 3
+14 14 4
+15 15 5
+16 16 6
+17 17 7
+18 18 8
+19 19 9
+20 20 10
+20 20 
+21 21 11
+22 22 12
+23 23 
+25 25 kone\x87n\xA0 stanice
+26 26  a 
+27 27 zastav\xA1me
+27 27 
+29 29 p\xA9\x65stup na
+39 39 p\xA9\x65\x64n\xA1 \x87\xA0st vlaku
+40 40 st\xA9\x65\x64n\xA1 \x87\xA0st vlaku
+41 41 zadn\xA1 \x87\xA0st vlaku
+42 42 pro v\x98stup stiskn\x88te tla\x87\xA1tko signalizace
+42 42 
+44 44 
+45 45 
+46 46 Vlak sm\x88r
+48 48 V\xA0\x91\x65n\xA1 cestuj\xA1\x63\xA1, v\xA1t\xA0me V\xA0s ve vlaku jm\x82nem n\xA0rodn\xA1ho dopravce \x80\x65sk\x82 dr\xA0hy.
+49 49 Z\xA0\x63hrann\xA0 brzda aktivov\xA0na, zastav\xA1me.
+50 50 13
+51 51 14
+52 52 15
+53 53 16
+54 54 17
+55 55 18
+56 56 19
+57 57 20
+57 57 
+58 58 30
+58 58 
+59 59 40
+60 60 50
+61 61 60
+62 62 70
+63 63 80
+64 64 90
+65 65 100
+65 65 Zastaven\xA1 pro slu\x91\x65\x62n\xA1 \xA3\x87\x65ly. Pros\xA1me, nevystupujte. 
+66 66 200
+66 66 Pros\xA1me pozor! Se soupravou se bude posunovat. Pros\xA1me, nevystupujte.
+67 67 300
+68 68 400
+68 68 Vystupujte vlevo ve sm\x88ru j\xA1zdy.
+69 69 500
+69 69 Vystupujte vpravo ve sm\x88ru j\xA1zdy.
+70 70 600
+71 71 700
+72 72 800
+73 73 900
+74 74 Vlak je opo\x91\x64\x88n z d\x96vodu st\xA9\x65tnut\xA1 na \x91\x65lezni\x87n\xA1m p\xA9\x65jezdu. Omluvte pros\xA1m zpo\x91\x64\x88n\xA1 vlaku.
+75 75 Z d\x96vodu v\x98luky na trati tento vlak v p\xA9\xA1\xA8t\xA1 stanici kon\x87\xA1 j\xA1zdu.
+76 76 Z d\x96vodu v\x98luky na trati tento vlak v p\xA9\xA1\xA8t\xA1 stanici kon\x87\xA1 j\xA1zdu. D\xA0le budete p\xA9\x65praveni n\xA0hradn\xA1 autobusovou dopravou.
+77 77 Vlak zde j\xA1zdu kon\x87\xA1. Pros\xA1me, p\xA9\x65stupte na n\xA0hradn\xA1 autobusovou dopravu.
+78 78 
+79 79 
+80 80 
+81 81 
+82 82 
+83 83 
+84 84 
+85 85 
+86 86 
+87 87 
+88 88 
+89 89 
+90 90 
+91 91 
+92 92 
+93 93 
+95 95 
+96 96 
+97 97 
+98 98 Ex1
+98 98 Ex2
+98 98 Ex3
+98 98 Ex32
+98 98 Ex4
+98 98 Ex5
+98 98 Ex6
+98 98 Ex7
+98 98 ExP
+98 98 L1
+98 98 L12
+98 98 L18
+98 98 L2
+98 98 L3
+98 98 L31
+98 98 L34
+98 98 L35
+98 98 L4
+98 98 L5
+98 98 L6
+98 98 L61
+98 98 L62
+98 98 L7
+98 98 L9
+98 98 M1
+98 98 M10
+98 98 M11
+98 98 M12
+98 98 M13
+98 98 M14
+98 98 M15
+98 98 M2
+98 98 M20
+98 98 M3
+98 98 M4
+98 98 M41
+98 98 M42
+98 98 M44
+98 98 M5
+98 98 M6
+98 98 M61
+98 98 M62
+98 98 M65
+98 98 M7
+98 98 M70
+98 98 M8
+98 98 M9
+98 98 P1
+98 98 P11
+98 98 P12
+98 98 P13
+98 98 P14
+98 98 P2
+98 98 P21
+98 98 P22
+98 98 P23
+98 98 P24
+98 98 P3
+98 98 P31
+98 98 P32
+98 98 P33
+98 98 P34
+98 98 P4
+98 98 R1
+98 98 R10
+98 98 R11
+98 98 R12
+98 98 R13
+98 98 R14
+98 98 R15
+98 98 R16
+98 98 R17
+98 98 R18
+98 98 R19
+98 98 R2
+98 98 R20
+98 98 R21
+98 98 R22
+98 98 R23
+98 98 R24
+98 98 R26
+98 98 R27
+98 98 R29
+98 98 R3
+98 98 R32
+98 98 R4
+98 98 R41
+98 98 R42
+98 98 R43
+98 98 R44
+98 98 R45
+98 98 R49
+98 98 R5
+98 98 R51
+98 98 R52
+98 98 R53
+98 98 R54
+98 98 R56
+98 98 R6
+98 98 R61
+98 98 R7
+98 98 R8
+98 98 R9
+98 98 RE20
+98 98 S1
+98 98 S10
+98 98 S11
+98 98 S12
+98 98 S13
+98 98 S14
+98 98 S15
+98 98 S16
+98 98 S18
+98 98 S2
+98 98 S20
+98 98 S21
+98 98 S22
+98 98 S23
+98 98 S25
+98 98 S26
+98 98 S27
+98 98 S28
+98 98 S3
+98 98 S30
+98 98 S31
+98 98 S32
+98 98 S33
+98 98 S34
+98 98 S35
+98 98 S36
+98 98 S4
+98 98 S40
+98 98 S41
+98 98 S42
+98 98 S43
+98 98 S44
+98 98 S45
+98 98 S46
+98 98 S5
+98 98 S50
+98 98 S51
+98 98 S52
+98 98 S53
+98 98 S54
+98 98 S57
+98 98 S6
+98 98 S60
+98 98 S61
+98 98 S65
+98 98 S66
+98 98 S67
+98 98 S7
+98 98 S70
+98 98 S71
+98 98 S75
+98 98 S76
+98 98 S8
+98 98 S80
+98 98 S81
+98 98 S82
+98 98 S88
+98 98 S9
+98 98 S90
+98 98 S91
+98 98 S96
+98 98 S98
+98 98 S99
+98 98 Sp1
+98 98 Sp2
+98 98 Sp3
+98 98 Sp4
+98 98 Sp5
+98 98 Sp8
+98 98 T2
+98 98 T4
+98 98 T6
+98 98 T7
+98 98 T8
+98 98 T9
+98 98 U1
+98 98 U10
+98 98 U11
+98 98 U12
+98 98 U13
+98 98 U14
+98 98 U15
+98 98 U16
+98 98 U18
+98 98 U2
+98 98 U21
+98 98 U22
+98 98 U23
+98 98 U24
+98 98 U25
+98 98 U26
+98 98 U27
+98 98 U28
+98 98 U3
+98 98 U32
+98 98 U4
+98 98 U40
+98 98 U5
+98 98 U51
+98 98 U54
+98 98 U57
+98 98 U6
+98 98 U7
+98 98 U8
+98 98 U9
+98 98 V10
+98 98 V2
+98 98 V20
+98 98 V21
+98 98 V22
+98 98 V23
+98 98 V24
+98 98 V25
+98 98 V3
+98 98 V30
+98 98 V31
+98 98 V32
+98 98 V33
+98 98 V34
+98 98 V4
+98 98 V40
+98 98 V41
+98 98 V42
+98 98 V43
+98 98 V44
+98 98 V5
+98 98 V50
+98 98 V51
+98 98 V6
+98 98 xU0
+98 98 Gliwice
+98 98 Katowice
+98 98 Krak\xA2w Gl\xA2wny
+98 98 Oswiecim
+98 98 Szklarska Poreba G\xA2rna
+98 98 Warszawa Centralna
+98 98 Warszawa Wschodnia
+98 98 Warszawa Zachodnia
+98 98 Zabrze
+98 98 Trzebinia
+98 98 Sosnowiec Gl\xA2wny
+98 98 Przeworsk
+98 98 Zawiercie
+98 98 Bochnia
+98 98 Debica
+98 98 Rzeszow Glowny
+98 98 Tarnow
+98 98 Jaroslaw
+98 98 Przemysl Gl.
+98 98 Krak\xA2w Plasz\xA2w
+98 98 Dabrowa Gornicza
+98 98 Czechowice Dziedzice
+98 98 Tychy
+98 98 Rybnik(PL)
+98 98 Raciborz
+98 98 Zebrzydowice
+98 98 Brzesko Okocim
+98 98 Chalupki
+98 98 Chrzanow Srodmiescie
+98 98 Grodzisk Mazowiecki
+98 98 Krzeszowice
+98 98 Lancut
+98 98 Przemysl Zasanie
+98 98 Pszczyna
+98 98 Radymno
+98 98 Ropczyce
+98 98 Sedziszow Malopolski
+98 98 Wodzislaw Sl.
+98 98 Zory
+98 98 Wloszczowa Polnoc
+98 98 Opoczno Poludnie
+98 98 Polana Jakuszycka
+98 98 Szklarska Poreba Huta
+98 98 ValMez - VLAK JEDE DO DEPA
+98 98 Hul\xA1n - MANIPULA\x80N\x8B J\x8BZDA
+98 98 Krom\x88\xA9\xA1\x91 - MANIPULA\x80N\x8B J\x8BZDA
+98 98 Odry - MANIPULA\x80N\x8B J\x8BZDA
+98 98 Budi\xA8ov nad Budi\xA8ovkou - MANIPULA\x80N\x8B J\x8BZDA
+98 98 \x9Btramberk - MANIPULA\x80N\x8B J\x8BZDA
+98 98 Sm\x88rov\x98 bod AVV LnL - Mil
+98 98 Zku\xA8\x65\x62n\xA1 j\xA1zda (NASTAV)
+98 98 Slu\x91\x65\x62n\xA1 j\xA1zda (NASTAV)
+98 98 \x97klid soupravy (NASTAV)
+98 98 Nenastupovat (NASTAV)
+98 98 V\xA1t\xA0me V\xA0s na palub\x88
+98 98 Zvl\xA0\xA8tn\xA1 vlak (NASTAV)
+98 98 Nespojovat (NASTAV)
+98 98 Nen\xA1 ur\x87\x65n (NASTAV)
+98 98 N\xA0hradn\xA1 doprava (NASTAV)
+98 98 Vlak vp\xA9\x65\x64u (NASTAV)
+98 98 Den \x91\x65leznice
+98 98 Test displej\x96
+98 98 ValMez - NENASTUPOVAT
+98 98 Hul\xA1n - NENASTUPOVAT
+98 98 Krom\x88\xA9\xA1\x91 - NENASTUPOVAT
+98 98 Odry - NENASTUPOVAT
+98 98 Budi\xA8ov nad Budi\xA8ovkou - NENASTUPOVAT
+98 98 \x9Btramberk - NENASTUPOVAT
+98 98 Sm\x88rov\x98 bod AVV Hru\xA8 - \x92idl
+98 98 Glucholazy
+98 98 Sm\x88rov\x98 bod AVV Hust - \x9B\x61kv
+98 98 Bojkovice m\x88sto
+98 98 Blatec
+98 98 Adamov
+98 98 Nemilany
+98 98 Ba\xA8ka
+98 98 Adamov zast\xA0vka
+98 98 Olomouc-Nov\x82 Sady
+98 98 Babice nad Svitavou
+98 98 Bediho\xA8\x9F
+98 98 Bohut\xA1n
+98 98 Stud\x82nka m\x88sto
+98 98 \x80\x65l\x87ice
+98 98 Bludov l\xA0zn\x88
+98 98 B\xA1lovec
+98 98 Doloplazy
+98 98 Bohd\xA1kov
+98 98 Velk\x82 Albrechtice
+98 98 Piv\xA1n
+98 98 Kom\xA4\xA0tka
+98 98 Budi\xA8ov nad Budi\xA8ovkou
+98 98 B\xA1lovice nad Svitavou
+98 98 Bohu\xA4ovice
+98 98 Svato\xA4ovice
+98 98 Blansko
+98 98 Hlu\xA8ovice
+98 98 Doln\xA1 Lhota
+98 98 Brann\xA0
+98 98 Blansko m\x88sto
+98 98 Brantice
+98 98 Bla\x91ovice
+98 98 Z\xA0tor
+98 98 K\xA9\x65novice doln\xA1 n\xA0\x64ra\x91\xA1
+98 98 Bohuslavice nad Vl\xA0\xA9\xA1
+98 98 Divnice
+98 98 Brunt\xA0l
+98 98 Popov
+98 98 Bohuslavice u Kyjova
+98 98 Ko\x91u\xA8\x61ny
+98 98 Bojkovice
+98 98 Pit\xA1n zast\xA0vka
+98 98 Boskovice
+98 98 Bo\xA9\xA1 les
+98 98 Bo\x91ice u Znojma
+98 98 B\xA9idli\x87n\xA0
+98 98 Branky na Morav\x88
+98 98 B\xA9idli\x87n\xA0 zast\xA0vka
+98 98 Police u Vala\xA8sk\x82ho Mezi\xA9\xA1\x87\xA1
+98 98 Ra\xA8kov
+98 98 Bransouze
+98 98 P\xA9\xA1m\x88lkov
+98 98 Doln\xA1 Smr\x87n\x82
+98 98 Dobr\xA0 u Fr\x98\x64ku-M\xA1stku
+98 98 \x80\xA1\x63hov
+98 98 \x80\x65lechovice na Han\x82
+98 98 Dobratice-Vojkovice
+98 98 Brno hl.n.
+98 98 Kaple
+98 98 Doln\xA1 Bene\xA8ov
+98 98 Brno-Horn\xA1 Her\xA8pice
+98 98 H.Her\xA8pice-mod\xA9.zhl.
+98 98 Brno-H.Her\xA8p.vhb.651
+98 98 Brno-H.Her\xA8p.St.sil.
+98 98 Kozmice
+98 98 Brno-Kr\xA0lovo Pole
+98 98 D\x88t\xA9ichov nad Byst\xA9ic\xA1
+98 98 Fren\xA8t\xA0t pod Radho\xA8t\x88m m\x88sto
+98 98 Brno-\x9E\x65\x87kovice
+98 98 Lomnice u R\x98ma\xA9ova
+98 98 Fren\xA8t\xA0t pod Radho\xA8t\x88m
+98 98 Brno-Lesn\xA0
+98 98 Fr\x98\x64\x65k-M\xA1stek
+98 98 Fr\x98\x64lant nad Ostravic\xA1
+98 98 Brno-Malom\x88\xA9ice
+98 98 \x80\x65ladn\xA0
+98 98 Brno-Slatina
+98 98 Fr\x98\x64lant nad Ostravic\xA1-Nov\xA0 D\x88\x64ina
+98 98 Fr\x98\x64lant nad Ostravic\xA1 zast\xA0vka
+98 98 Brno-\x80\x65rnovice
+98 98 Pr\x91no
+98 98 Brno-\x92idenice
+98 98 Fulnek
+98 98 Brumov
+98 98 Halenkov zast\xA0vka
+98 98 Stachovice
+98 98 N\xA0vojn\xA0
+98 98 Doma\xA8ov nad Byst\xA9ic\xA1
+98 98 B\xA9\x65\x63lav
+98 98 Hrub\xA0 Voda-Smilov
+98 98 Brumov st\xA9\x65\x64
+98 98 B\xA9\x65zov\xA0 nad Svitavou
+98 98 J\xA1vov\xA0
+98 98 B\xA9\x65zov\xA0 nad Svitavou-Dlouh\xA0
+98 98 Drahanovice
+98 98 Hradec nad Svitavou
+98 98 Slatinice
+98 98 Jankovice
+98 98 Moravsk\xA0 Chrastov\xA0
+98 98 Bzenec-Ol\xA8ovec
+98 98 Svitavy-L\xA0ny
+98 98 B\xA9\x65\x91\x61ny
+98 98 Halenkov
+98 98 Pravice
+98 98 Huslenky
+98 98 Hlu\x87\xA1n
+98 98 Bu\x87ovice
+98 98 Huslenky zast\xA0vka
+98 98 Hnojn\xA1k
+98 98 Marefy
+98 98 Nov\x98 Hrozenkov
+98 98 St\xA9\xA1te\x91 u \x80\x65sk\x82ho T\x88\xA8\xA1na
+98 98 Nevojice
+98 98 Nov\x98 Hrozenkov zast\xA0vka
+98 98 Horn\xA1 To\xA8\x61novice
+98 98 Bylnice
+98 98 Hanu\xA8ovice
+98 98 Svat\x98 \x9Bt\x88p\xA0n
+98 98 Chrastice
+98 98 Jakartovice
+98 98 Byst\xA9ice nad Pern\xA8tejnem
+98 98 Pot\x96\x87n\xA1k
+98 98 Svobodn\x82 He\xA9manice
+98 98 Rovn\x82-Divi\xA8ov
+98 98 Vysok\x82 \x92ib\xA9idovice
+98 98 Hradec nad Moravic\xA1
+98 98 Rozsochy
+98 98 Hanu\xA8ovice zast\xA0vka
+98 98 Branka u Opavy
+98 98 Byst\xA9ice pod Host\x98nem
+98 98 Hlubo\x87ky
+98 98 Chucheln\xA0
+98 98 Hlinsko pod Host\x98nem
+98 98 Hlubo\x87ky-Mari\xA0nsk\x82 \x97\x64ol\xA1
+98 98 Bolatice
+98 98 Loukov
+98 98 Hlubo\x87ky zast\xA0vka
+98 98 \x9Bt\x88p\xA0nkovice
+98 98 Bzenec
+98 98 Hosta\xA8ovice
+98 98 Vracov
+98 98 \x80\x65j\x87
+98 98 Horka nad Moravou
+98 98 Jind\xA9ichov ve Slezsku
+98 98 Horn\xA1 Lide\x87
+98 98 Dobron\xA1n
+98 98 Mo\xA9kov hlavn\xA1 tra\x9F
+98 98 Lide\x87ko
+98 98 St\xA9\xA1te\x91 u Jihlavy
+98 98 Lide\x87ko ves
+98 98 Kamenn\xA0
+98 98 St\xA9\x65ln\xA0
+98 98 Horn\xA1 Lipov\xA0
+98 98 Kop\xA9ivnice
+98 98 Kop\xA9ivnice zast\xA0vka
+98 98 Dzbel
+98 98 Jesenec
+98 98 Hranice na Morav\x88 m\x88sto
+98 98 Konice
+98 98 \x80\x65rnot\xA1n
+98 98 Zl\xA1n-Malenovice
+98 98 Hrub\xA0 Voda
+98 98 Krava\xA9\x65 ve Slezsku
+98 98 Zl\xA1n st\xA9\x65\x64
+98 98 Hrub\xA0 Voda zast\xA0vka
+98 98 Krava\xA9\x65-Kouty
+98 98 Zl\xA1n-Louky
+98 98 Velk\xA0 Kra\xA8
+98 98 Mal\x82 Ho\xA8tice
+98 98 Zl\xA1n-Podvesn\xA0
+98 98 Kobyl\xA0 nad Vidnavkou
+98 98 Velk\x82 Ho\xA8tice
+98 98 Zl\xA1n-Pr\xA8tn\x82
+98 98 Velk\xA0 Kra\xA8 zast\xA0vka
+98 98 Doln\xA1 Bene\xA8ov-Z\xA0\x62\xA9\x65h
+98 98 Zl\xA1n-P\xA9\xA1luky
+98 98 Vidnava
+98 98 Gre\xA8lov\x82 M\x98to
+98 98 Hustope\x87\x65 nad Be\x87vou
+98 98 Bl\xA1\x91kovice
+98 98 Milotice nad Be\x87vou
+98 98 Hodonice
+98 98 \x9Bpi\x87ky
+98 98 Dyje
+98 98 Jabl\x96nka
+98 98 Hodon\xA1n
+98 98 Byst\xA9i\x87ka
+98 98 Hole\xA8ov
+98 98 Javorn\xA1k ve Slezsku
+98 98 Dobrotice
+98 98 Bernartice u Javorn\xA1ka
+98 98 V\xA8\x65tuly nz
+98 98 Horn\xA1 He\xA9manice
+98 98 Holubice
+98 98 Jesen\xA1k
+98 98 Hrad\x87ovice
+98 98 Jind\xA9ichov na Morav\x88
+98 98 Krnov
+98 98 V\x98h. Hru\xA8ky
+98 98 Nov\x82 Losiny
+98 98 Krnov-Cvil\xA1n
+98 98 Hru\xA8ky zast\xA0vka
+98 98 Hru\xA8ovany nad Jevi\xA8ovkou-\x9B\x61nov
+98 98 Kun\x87ice pod Ond\xA9\x65jn\xA1kem
+98 98 Hevl\xA1n
+98 98 Lou\x87n\xA0 nad Desnou-Filipov\xA0
+98 98 Krom\x88\xA9\xA1\x91-Oskol
+98 98 Hrab\x88tice
+98 98 Kouty nad Desnou
+98 98 Hru\xA8ovany u Brna
+98 98 Lou\x87n\xA0 nad Desnou
+98 98 Vojkovice nad Svratkou
+98 98 Lou\x87n\xA0 nad Desnou-Rejhotice
+98 98 L\xA1skovec u Fr\x98\x64ku
+98 98 \x92\x61\x62\x87ice
+98 98 Libina
+98 98 Hul\xA1n
+98 98 Hrabi\xA8\xA1n
+98 98 B\xA9\x65st
+98 98 T\xA9\x65\x62\x88tice
+98 98 Opava zast\xA0vka
+98 98 Hustope\x87\x65 u Brna
+98 98 Slavkov u Opavy
+98 98 Hu\xA8t\x88novice
+98 98 M\x88sto Albrechtice
+98 98 Chornice
+98 98 Odb Jezernice A
+98 98 Kr\xA0sn\x82 Lou\x87ky
+98 98 Meziho\xA9\xA1
+98 98 Lipov\xA0 L\xA0zn\x88
+98 98 Linhartovy
+98 98 Nectava
+98 98 Lipov\xA0 L\xA0zn\x88 jeskyn\x88
+98 98 Mladecko
+98 98 \x9Bub\xA1\xA9ov
+98 98 Lipov\xA0 L\xA0zn\x88 zast\xA0vka
+98 98 Doln\xA1 \x92ivotice
+98 98 Brno-Chrlice
+98 98 Litovel
+98 98 Litultovice
+98 98 Litovel p\xA9\x65\x64m\x88st\xA1
+98 98 \x9Bt\xA0\x62lovice
+98 98 Cholina
+98 98 Chudob\xA1n
+98 98 Litovel m\x88sto
+98 98 Ivan\x87ice
+98 98 Mlade\x87
+98 98 Ivan\x87ice m\x88sto
+98 98 Mlade\x87 jeskyn\x88
+98 98 Nov\x98 Ji\x87\xA1n m\x88sto
+98 98 Ivanovice na Han\x82
+98 98 Myslechovice
+98 98 \x9B\x65nov u Nov\x82ho Ji\x87\xA1na
+98 98 Ho\xA8tice-Heroltice
+98 98 Odry
+98 98 Jarom\x88\xA9ice nad Rokytnou
+98 98 Bohu\xA8ice
+98 98 Odry-Lou\x87ky
+98 98 He\xA9m\xA0nky
+98 98 \x9B\x65\x62kovice
+98 98 Jakub\x87ovice nad Odrou
+98 98 Jemnice
+98 98 Jihlava-Bosch Diesel
+98 98 Jev\xA1\x87ko
+98 98 Jihlava-Star\x82 Hory
+98 98 Biskupice u Jev\xA1\x87ka
+98 98 Kyle\xA8ovice
+98 98 Jihlava
+98 98 Otice
+98 98 Jihlava m\x88sto
+98 98 Mikulovice
+98 98 Opava z\xA0pad
+98 98 Ond\xA9\x65jovice
+98 98 Milotice nad Opavou
+98 98 V\xA0vrovice
+98 98 Kobyl\xA1 na Morav\x88
+98 98 Brumovice
+98 98 Osoblaha
+98 98 Kojetice na Morav\x88
+98 98 Moravsk\x98 Beroun
+98 98 Amal\xA1n
+98 98 N\xA0m\x88\xA8\x9F na Han\x82
+98 98 Bohu\xA8ov
+98 98 Horn\xA1 Povelice
+98 98 \x80\x65rvenka zast\xA0vka
+98 98 Koberno
+98 98 \x9Blapanice zast\xA0vka
+98 98 Nov\x98 Mal\xA1n
+98 98 Slezsk\x82 Rudoltice
+98 98 Komo\xA9\x61ny u Vy\xA8kova
+98 98 Olomouc m\x88sto
+98 98 Ostrava-Kun\x87i\x87ky
+98 98 Olomouc-Hej\x87\xA1n
+98 98 Kostelec na Han\x82
+98 98 Olomouc-\x9E\x65p\x87\xA1n
+98 98 Lutot\xA1n
+98 98 Olomouc-Nov\xA0 Ulice
+98 98 Zd\x88t\xA1n u Prost\x88jova
+98 98 Olomouc-Smetanovy sady
+98 98 Krahulov
+98 98 Ostravice
+98 98 Kralice nad Oslavou
+98 98 Ostru\x91n\xA0
+98 98 Krom\x88\xA9\xA1\x91
+98 98 Ramzov\xA0
+98 98 Bezm\x88rov
+98 98 Ostravice zast\xA0vka
+98 98 Jarohn\x88vice
+98 98 Kotojedy
+98 98 Rapot\xA1n zast\xA0vka
+98 98 Paskov
+98 98 Postoupky
+98 98 Petrov nad Desnou
+98 98 Rapot\xA1n
+98 98 \x9B\x65le\xA8ovice
+98 98 Velk\x82 Losiny
+98 98 K\xA9\x65novice horn\xA1 n\xA0\x64ra\x91\xA1
+98 98 Velk\x82 Losiny zast\xA0vka
+98 98 Velk\x82 Losiny z\xA0mek
+98 98 Host\x88r\xA0\x64ky-Re\xA8ov
+98 98 P\xA1se\x87n\xA0
+98 98 Zb\x98\xA8ov
+98 98 Troubelice st\xA9\x65\x64
+98 98 \x80\x65sk\xA0 Ves
+98 98 P\xA9\xA1\x62or
+98 98 K\xA9i\x91\x61nov
+98 98 Hradec-Nov\xA0 Ves
+98 98 Ropice (Ropica)
+98 98 O\xA9\x65\x63hov
+98 98 \x80\x65sk\xA0 Ves baz\x82n
+98 98 Ropice-Z\xA0les\xA1 (Ropica-Zalesie)
+98 98 Kunovice
+98 98 Sedlnice-Barto\xA8ovice
+98 98 Sedlnice kol. 1-6
+98 98 Kunovice zast\xA0vka
+98 98 Skotnice
+98 98 Popovice u Uhersk\x82ho Hradi\xA8t\x88
+98 98 V\x82sky
+98 98 Kunovice-Lou\x87ka
+98 98 Podhradn\xA1 Lhota
+98 98 Ku\xA9im
+98 98 Skrochovice
+98 98 \x80\x65sk\xA0
+98 98 Horn\xA1 Mo\xA8t\x88nice
+98 98 Holasovice
+98 98 Kyjov
+98 98 \x97valno
+98 98 Kyjov zast\xA0vka
+98 98 Stud\x82nka n\xA0kl.n.
+98 98 Lan\x91hot
+98 98 P\xA9\xA1kazy
+98 98 Lednice
+98 98 Skrbe\xA4
+98 98 Letovice
+98 98 Letovice zast\xA0vka
+98 98 Rozhran\xA1
+98 98 Luha\x87ovice
+98 98 Biskupice u Luha\x87ovic
+98 98 Hanu\xA8ovice Holba
+98 98 Polichno
+98 98 Ro\x91nov pod Radho\xA8t\x88m
+98 98 Luka nad Jihlavou
+98 98 St\xA9\xA1te\x91 nad Be\x87vou
+98 98 Mal\x98 Beranov
+98 98 Zub\xA9\xA1
+98 98 B\xA1tov\x87ice
+98 98 Ruda nad Moravou
+98 98 Hladk\x82 \x92ivotice m\xA1stn\xA1 n\xA0\x64ra\x91\xA1
+98 98 Lule\x87
+98 98 Barto\xA4ov
+98 98 Lu\x91ice
+98 98 R\x98ma\xA9ov
+98 98 M\x88ste\x87ko Trn\xA0vka
+98 98 Jamartice
+98 98 Mankovice
+98 98 Rozst\xA0n\xA1
+98 98 Znojmo nemocnice
+98 98 Velk\xA0 \x9Bt\xA0hle
+98 98 Mikulov na Morav\x88
+98 98 Senice na Han\x82
+98 98 B\xA9\x65z\xA1
+98 98 Odrlice
+98 98 \x9Btramberk
+98 98 Miroslav
+98 98 Senice na Han\x82 zast\xA0vka
+98 98 \x92\x65nklava
+98 98 Dolenice
+98 98 Sobot\xA1n
+98 98 T\xA9\x65me\xA8n\xA0 ve Slezsku
+98 98 Star\x82 M\x88sto pod Sn\x88\x91n\xA1kem
+98 98 D\xA1v\x87\xA1 Hrad
+98 98 Mlad\x88jov na Morav\x88
+98 98 Lipta\xA4
+98 98 Anensk\xA0 Stud\xA0nka
+98 98 Petrov nad Desnou zast\xA0vka
+98 98 Kun\x87ina
+98 98 Trp\xA1k
+98 98 \x9Bternberk
+98 98 Mod\xA9ice
+98 98 Mlad\x88jovice
+98 98 Moravsk\xA0 Nov\xA0 Ves
+98 98 \x9Btarnov
+98 98 Moravsk\xA0 T\xA9\x65\x62ov\xA0
+98 98 Ostopovice
+98 98 Brno-Star\x98 L\xA1skovec
+98 98 Linhartice
+98 98 Vik\x98\xA9ovice
+98 98 Ve\xA9ovice
+98 98 Moravsk\x82 Br\xA0nice
+98 98 Teplice nad Be\x87vou
+98 98 Ivan\x87ice letovisko
+98 98 Troubelice
+98 98 V\xA1tkov
+98 98 Moravsk\x82 Bud\x88jovice
+98 98 Nov\xA0 Hrade\x87n\xA0
+98 98 \x80\x65rmn\xA0 ve Slezsku
+98 98 D\x88\x64ice
+98 98 Troubelice zast\xA0vka
+98 98 Kloko\x87ov
+98 98 Babice u \x9Bternberka
+98 98 Vratimov
+98 98 Jackov
+98 98 T\xA9\x65\x62\x87\xA1n
+98 98 Lhotice u Jemnice
+98 98 R\xA0\x63ovice
+98 98 T\xA9\x65\x62\x65lovice
+98 98 Vesce
+98 98 Moravsk\x98 Krumlov
+98 98 Uni\x87ov
+98 98 \x97jezd u Uni\x87ova
+98 98 Moravsk\x98 P\xA1sek
+98 98 Uni\x87ov zast\xA0vka
+98 98 Moravsk\x98 P\xA1sek zast\xA0vka
+98 98 Vala\xA8sk\xA0 Polanka
+98 98 Mut\x88nice
+98 98 Lu\x91n\xA0 u Vset\xA1na
+98 98 Mut\x88nice zast\xA0vka
+98 98 Vala\xA8sk\x82 Mezi\xA9\xA1\x87\xA1
+98 98 Br\xA4ov
+98 98 N\xA0m\x88\xA8\x9F nad Oslavou
+98 98 Hrachovec
+98 98 Napajedla
+98 98 Krhov\xA0
+98 98 Spytihn\x88v
+98 98 Lhotka nad Be\x87vou
+98 98 Nedakonice
+98 98 Za\xA8ov\xA0
+98 98 Nedv\x88\x64ice
+98 98 Val\xA8ov
+98 98 Doubravn\xA1k
+98 98 B\xA9idli\x87n\xA0 lesy
+98 98 V\xA0penn\xA0
+98 98 Nemotice
+98 98 Jest\xA9\x61\x62ice
+98 98 Nesovice
+98 98 Karolinka zast\xA0vka
+98 98 Brankovice
+98 98 Velk\xA0 Byst\xA9ice
+98 98 Bystrovany
+98 98 Chvalkovice na Han\x82
+98 98 Velk\xA0 Byst\xA9ice zast\xA0vka
+98 98 Velk\x82 Karlovice
+98 98 Karolinka
+98 98 Velk\x82 Karlovice zast\xA0vka
+98 98 Vrb\xA0tky
+98 98 Krali\x87ky
+98 98 Nezdenice
+98 98 Z\xA0horovice
+98 98 Nov\x82 M\x88sto na Morav\x88
+98 98 Nov\x82 M\x88sto na Morav\x88 zast\xA0vka
+98 98 Ole\xA8n\xA0 na Morav\x88
+98 98 Novosedly
+98 98 Jevi\xA8ovka
+98 98 Dobr\x82 Pole
+98 98 Vset\xA1n
+98 98 Ok\xA9\xA1\xA8ky
+98 98 Hov\x88z\xA1
+98 98 Hv\x88zdo\xA4ovice
+98 98 Janov\xA0
+98 98 Olbramkostel
+98 98 Leskovec
+98 98 Os\xA1\x87ko
+98 98 Oslavany
+98 98 \x97st\xA1 u Vset\xA1na zast\xA0vka
+98 98 Uhersk\x98 Ostroh
+98 98 Ostrov nad Oslavou
+98 98 Zl\xA1n-Dlouh\xA0
+98 98 Zlat\x82 Hory
+98 98 Zl\xA1n-U ml\x98na
+98 98 Ond\xA9\x65jovice zast\xA0vka
+98 98 Ostro\x91sk\xA0 Nov\xA0 Ves
+98 98 Ostro\x91sk\xA0 Nov\xA0 Ves l\xA0zn\x88
+98 98 \x92ulov\xA0
+98 98 Otrokovice
+98 98 Tom\xA1kovice
+98 98 Zl\xA1n-Malenovice zast\xA0vka
+98 98 Podiv\xA1n
+98 98 Ladn\xA0
+98 98 Rakvice
+98 98 Otrokovice-Tr\xA0vn\xA1ky
+98 98 Pohled
+98 98 St\xA9\xA1\x62rn\x82 Hory
+98 98 Poln\xA0
+98 98 Po\xA8torn\xA0
+98 98 Prost\x88jov hl.n.
+98 98 Vrahovice
+98 98 Prost\x88jov m\xA1stn\xA1 n\xA0\x64ra\x91\xA1
+98 98 P\xA9ibyslav
+98 98 P\xA9ibyslav zast\xA0vka
+98 98 Ronov nad S\xA0zavou
+98 98 K\xA9\x65menec
+98 98 N\xA1\x91kov
+98 98 Pten\xA1
+98 98 \x80un\xA1n
+98 98 Stra\x91isko
+98 98 R\xA0jec-Jest\xA9\x65\x62\xA1
+98 98 Rajhrad
+98 98 Popovice u Rajhradu
+98 98 Rak\xA8ice
+98 98 Bohutice
+98 98 Rapotice
+98 98 Vysok\x82 Popovice
+98 98 Rohatec
+98 98 Rohatec zast\xA0vka
+98 98 Rohatec kolonie
+98 98 Rous\xA1nov
+98 98 Ro\x91n\xA0
+98 98 V\x88\x91n\xA0
+98 98 \x9Eikon\xA1n
+98 98 \x9E\xA1kovice
+98 98 S\xA0zava u \x92\x83\xA0ru
+98 98 Vik\x98\xA9ovice-Lesn\xA1
+98 98 Sil\x96vky
+98 98 Vik\x98\xA9ovice u penzionu
+98 98 Skalice nad Svitavou
+98 98 Doubravice nad Svitavou
+98 98 Svit\xA0vka
+98 98 Zbon\x88k
+98 98 Sklen\x82 nad Oslavou
+98 98 La\xA8tovi\x87ky
+98 98 Slavi\x87\xA1n
+98 98 Host\x88t\xA1n
+98 98 Slavkov u Brna
+98 98 K\xA9i\x91\x61novice
+98 98 Sokolnice-Telnice
+98 98 \x97jezd u Brna
+98 98 Star\x82 M\x88sto u Uhersk\x82ho Hradi\xA8t\x88
+98 98 Kostelany nad Moravou
+98 98 Sta\xA9\x65\x87
+98 98 Bzenec p\xA9\xA1voz
+98 98 St\xA9\x65lice
+98 98 St\xA9\x65lice doln\xA1
+98 98 Vl\x87\x61t\xA1n
+98 98 Radostice
+98 98 Troubsko
+98 98 Studenec
+98 98 Poz\x83\x61t\xA1n
+98 98 \x9B\x61kvice
+98 98 Popice
+98 98 Pouzd\xA9\x61ny
+98 98 Znojmo-Nov\x98 \x9B\x61ldorf
+98 98 \x9B\x61tov
+98 98 \x9B\x65\x62\x65tov
+98 98 Cetkovice
+98 98 Kn\xA1nice u Boskovic
+98 98 \x9Blapanov
+98 98 Kojat\xA1n
+98 98 \x9Blapanice
+98 98 Pon\x88tovice
+98 98 \x9Bumn\xA0
+98 98 Tet\x87ice
+98 98 Tet\x87ice-Bobrava
+98 98 Omice
+98 98 Ti\xA8nov
+98 98 Bora\x87
+98 98 \x80\x65\x62\xA1n
+98 98 Doln\xA1 Lou\x87ky
+98 98 Hrad\x87\x61ny
+98 98 Prudk\xA0 zast\xA0vka
+98 98 \x9Bt\x88p\xA0novice
+98 98 Tluma\x87ov
+98 98 Z\xA0hlinice
+98 98 Vladislav zast\xA0vka
+98 98 Pote\x87
+98 98 T\xA9\x65\x62\xA1\x87
+98 98 T\xA9\x65\x62\xA1\x87-Borovina
+98 98 Uhersk\x82 Hradi\xA8t\x88
+98 98 Uhersk\x98 Brod
+98 98 Hav\xA9ice
+98 98 \x97jezdec u Luha\x87ovic
+98 98 \x9Bumice
+98 98 Vala\xA8sk\x82 Klobouky
+98 98 Vala\xA8sk\x82 P\xA9\xA1kazy
+98 98 Valtice
+98 98 Sedlec u Mikulova
+98 98 Valtice m\x88sto
+98 98 Velk\x82 Mezi\xA9\xA1\x87\xA1
+98 98 Martinice u Velk\x82ho Mezi\xA9\xA1\x87\xA1
+98 98 Oslavice
+98 98 Oslavi\x87ka
+98 98 Budi\xA8ov u T\xA9\x65\x62\xA1\x87\x65
+98 98 Rud\xA1kov
+98 98 Velk\x82 Mezi\xA9\xA1\x87\xA1 zast\xA0vka
+98 98 Velk\x82 Opatovice
+98 98 Velk\x82 Pavlovice
+98 98 Bo\xA9\x65tice
+98 98 Velk\x82 Pavlovice zast\xA0vka
+98 98 Vesel\xA1 nad Moravou
+98 98 Vizovice
+98 98 Z\xA0\x64ve\xA9ice
+98 98 Vladislav
+98 98 Vlko\xA8
+98 98 Vlkov u Ti\xA8nova
+98 98 Vlkov-Osov\xA0
+98 98 N\xA1hov
+98 98 Osov\xA0 B\xA1t\x98\xA8ka
+98 98 Vranovice
+98 98 Vy\xA8kov na Morav\x88
+98 98 Zaje\x87\xA1
+98 98 Zast\xA0vka u Brna
+98 98 Rosice u Brna
+98 98 Zdounky
+98 98 Zborovice
+98 98 Znojmo
+98 98 Citonice
+98 98 Zborovice zast\xA0vka
+98 98 \x92\x83\xA0r nad S\xA0zavou
+98 98 Vesel\xA1\x87ko
+98 98 Hamry nad S\xA0zavou
+98 98 Rad\xA4ovice
+98 98 L\xA1pa nad D\xA9\x65vnic\xA1
+98 98 \x92\x65lechovice nad D\xA9\x65vnic\xA1
+98 98 \x92idlochovice
+98 98 Sudom\x88\xA9ice nad Moravou
+98 98 Str\xA0\x91nice
+98 98 Petrov u Str\xA0\x91nice
+98 98 Vnorovy
+98 98 Blatnice pod Svat\x98m Anton\xA1nkem
+98 98 Lipov
+98 98 Velk\xA0 nad Veli\x87kou
+98 98 Louka u Ostrohu
+98 98 Javorn\xA1k nad Veli\x87kou zast\xA0vka
+98 98 Vl\xA0rsk\x98 pr\x96smyk
+98 98 Vesel\xA1 nad Moravou-Zarazice
+98 98 Vesel\xA1 nad Moravou-Miloko\xA8\x9F
+98 98 Bohum\xA1n p\xA9\x65\x64n\xA0\x64ra\x91\xA1
+98 98 B\xA9\x65\x63lav p\xA9\x65\x64n\xA0\x64ra\x91\xA1
+98 98 \x80.T\x88\xA8\xA1n n.n.
+98 98 Olomouc p\xA9\x65\x64n\xA0\x64ra\x91\xA1
+98 98 Brno doln\xA1 n\xA0\x64ra\x91\xA1
+98 98 Brno p. n.S3b,Lc3c
+98 98 Km 113.760
+98 98 D\x96l Darkov
+98 98 P\xA9\x65rov p\xA9\x65\x64n\xA0\x64ra\x91\xA1
+98 98 Brno hl.n. p\xA9\x65\x64n\xA0\x64r.
+98 98 V\x98h. Dluhonice
+98 98 Ostrava b\xA0\xA4sk\x82 n.VOK
+98 98 Ova hl.n. Sc101,102
+98 98 P\xA9\x65rov St. 9
+98 98 Odb Skalka
+98 98 Kop\xA9ivnice n\xA0kl.n\xA0\x64ra\x91\xA1
+98 98 BIOCEL Paskov z\xA0vod
+98 98 Bohum\xA1n-Vrbice
+98 98 Doubrava
+98 98 Karvin\xA0-Doly
+98 98 Prost\xA9\x65\x64n\xA1 Such\xA0-\x97ZK
+98 98 Odb. Brno-\x80\x65rnovice
+98 98 Odb B.-\x80\x65rn.zhl.T\xA0\x62.
+98 98 Odb Koukoln\xA0
+98 98 Odb Odra
+98 98 Polanka n.O.v\x98h.
+98 98 Zittau
+98 98 Harrachov st.hr.
+98 98 Odb Sudom\x88\xA9ice
+98 98 Praha-B\x88\x63hovice st\xA9\x65\x64
+98 98 Dob\xA8ice nad Cidlinou
+98 98 V\xA8\x65taty
+98 98 Praha-B\x88\x63hovice
+98 98 M\x88ln\xA1k
+98 98 L\xA1pa nad Orlic\xA1
+98 98 S\xA0ny
+98 98 D\xA9\xA1sy
+98 98 Praha-\x92vahov
+98 98 Mal\x98 \x97jezd
+98 98 P\xA9\x65v\x98\xA8ov
+98 98 Ov\x87\xA0ry
+98 98 Praha-Doln\xA1 Po\x87\x65rnice
+98 98 Cho\x9Fovice
+98 98 Star\xA0 Boleslav
+98 98 \x97valy
+98 98 M\x88ln\xA1k-Mlazice
+98 98 Chlumec nad Cidlinou
+98 98 Otradovice
+98 98 Praha-Kl\xA0novice
+98 98 Lib\x88\x63hov
+98 98 Nov\x82 M\x88sto nad Cidlinou
+98 98 \x80\x65sk\x98 Brod
+98 98 \x9Bt\x88t\xA1
+98 98 K\xA0ranice
+98 98 Tuklaty
+98 98 Ho\xA8tka
+98 98 Dob\xA9\x65nice
+98 98 Rostoklaty
+98 98 Polepy
+98 98 Kratonohy
+98 98 Po\xA9\xA1\x87\x61ny
+98 98 Litom\x88\xA9ice dol.n.
+98 98 Lhota pod Lib\x87\x61ny
+98 98 Klu\x87ov
+98 98 K\xA9\x65\xA8ice u Litom\x88\xA9ic
+98 98 Praska\x87ka
+98 98 Lys\xA0 nad Labem
+98 98 Pe\x87ky
+98 98 Litom\x88\xA9ice m\x88sto
+98 98 Hradec Kr\xA0lov\x82 hl.n.
+98 98 Lys\xA0 nad Labem-Dvorce
+98 98 Tatce
+98 98 Odb Tatce
+98 98 Velk\x82 \x92\x65rnoseky
+98 98 Hradec Kr\xA0lov\x82-Kukleny
+98 98 Kostomlaty nad Labem
+98 98 Radim
+98 98 Libochovany
+98 98 Hradec Kr\xA0lov\x82-Slezsk\x82 P\xA9\x65\x64m\x88st\xA1
+98 98 Stratov
+98 98 Chotutice
+98 98 Sebuz\xA1n
+98 98 Hradec Kr\xA0lov\x82 zast\xA0vka
+98 98 Ostr\xA0
+98 98 Velim
+98 98 \x97st\xA1 nad Labem z\xA0pad
+98 98 T\xA9\x65\x62\x65\x63hovice pod Orebem
+98 98 Cerhenice
+98 98 Odb Cerhenice
+98 98 Velk\x82 \x92\x65rnoseky zast.
+98 98 Ble\xA8no
+98 98 Nov\xA0 Ves u Kol\xA1na
+98 98 \x97st\xA1 nad Labem hl.n.
+98 98 T\x98ni\xA8t\x88 nad Orlic\xA1
+98 98 Karl\xA8tejn
+98 98 Petrovice nad Orlic\xA1
+98 98 Srbsko
+98 98 \x97st\xA1 nad Labem sever
+98 98 \x80\x61stolovice
+98 98 Zadn\xA1 T\xA9\x65\x62\x61\xA4
+98 98 \x97st\xA1 nad Labem-St\xA9\x65kov
+98 98 \x80\x65stice
+98 98 Nymburk hl.n.
+98 98 \x9E\x65vnice
+98 98 \x80\x61stolovice zast\xA0vka
+98 98 Praha-Rajsk\xA0 zahrada
+98 98 Kamenn\x82 Zbo\x91\xA1
+98 98 Dob\xA9ichovice
+98 98 Synkov
+98 98 Pod\x88\x62rady
+98 98 V\xA8\x65nory
+98 98 Trmice
+98 98 Kostelec nad Orlic\xA1
+98 98 Velk\x82 Zbo\x91\xA1
+98 98 \x80\x65rno\xA8ice-Mokropsy
+98 98 Ko\xA8tov
+98 98 Kostelec nad Orlic\xA1 m\x88sto
+98 98 Libice nad Cidlinou
+98 98 Praha-Radot\xA1n
+98 98 Doudleby nad Orlic\xA1
+98 98 \x80\x65rno\xA8ice
+98 98 Z\xA0m\x88l
+98 98 Pot\xA8tejn
+98 98 Trnovany nz
+98 98 Teplice v \x80\x65\x63h\xA0\x63h
+98 98 Sopotnice
+98 98 Dob\xA9\xA1\x87\x61ny z
+98 98 Probo\xA8tov
+98 98 Litice nad Orlic\xA1
+98 98 Veletice
+98 98 \x9E\x65tenice
+98 98 Bohousov\xA0
+98 98 Velk\x98 Osek
+98 98 S\xA0\x64\x65k u \x92\x61tce
+98 98 Old\xA9ichov u Duchcova
+98 98 \x92\x61mberk
+98 98 Veltruby
+98 98 Letohrad
+98 98 M\x88\x63holupy
+98 98 Duchcov
+98 98 Lukavice v \x80\x65\x63h\xA0\x63h
+98 98 \x92\x65le\x87
+98 98 \x92\x65l\x82nky
+98 98 Verm\x88\xA9ovice
+98 98 Milost\xA1n
+98 98 Chot\x88jovice
+98 98 Doln\xA1 Dobrou\x87
+98 98 De\xA8tnice
+98 98 Hn\xA0tnice
+98 98 Krup\xA0
+98 98 Lan\xA8perk
+98 98 Mut\x88jovice zast\xA0vka
+98 98 Doln\xA1 Libchavy
+98 98 Most
+98 98 Jablonn\x82 nad Orlic\xA1
+98 98 Hlubok\x98 D\x96l
+98 98 T\xA9\x65\x62u\xA8ice
+98 98 Jamn\x82 nad Orlic\xA1
+98 98 Kol\xA1n
+98 98 T\x88\x63hon\xA1n
+98 98 Kol\xA1n zast\xA0vka
+98 98 Lichkov
+98 98 Kol\xA1n-Z\xA0lab\xA1
+98 98 \x80\x65rnov\xA1r
+98 98 Kol\xA1n m\xA1stn\xA1 n\xA0\x64ra\x91\xA1
+98 98 Mladkov
+98 98 Z\xA0\x62o\xA9\xA1 nad Labem
+98 98 Lu\x91n\xA0 u Rakovn\xA1ka
+98 98 Kyjice
+98 98 Doln\xA1 Lipka
+98 98 Star\x98 Kol\xA1n
+98 98 Rakovn\xA1k zast\xA0vka
+98 98 Prost\xA9\x65\x64n\xA1 Lipka
+98 98 T\x98nec nad Labem
+98 98 \x9E\x65vni\x87ov
+98 98 \x80\x65rven\x98 Potok
+98 98 \x9E\x65\x87\x61ny nad Labem
+98 98 Kol\xA1n d\xA1lny
+98 98 Nov\x82 Stra\xA8\x65\x63\xA1
+98 98 Chomutov
+98 98 Kr\xA0l\xA1ky zast\xA0vka
+98 98 Kojice
+98 98 Stochov
+98 98 \x80\x65rnovice u Chomutova
+98 98 Kr\xA0l\xA1ky
+98 98 Chvaletice
+98 98 Rynholec
+98 98 Doln\xA1 Orlice
+98 98 P\xA9\x65lou\x87
+98 98 Kladno
+98 98 Kl\xA0\xA8terec nad Oh\xA9\xA1
+98 98 \x80\x65rven\xA0 Voda
+98 98 Lhota pod P\xA9\x65lou\x87\xA1
+98 98 \x80\x65rven\xA0 Voda - Pod rozhlednou
+98 98 Kamenn\x82 \x92\x65hrovice
+98 98 M\xA0lkov
+98 98 Moravsk\x98 Karlov
+98 98 Valy u P\xA9\x65lou\x87\x65
+98 98 Ka\x87ice
+98 98 B\xA1l\xA0 Voda
+98 98 Kladno-Rozd\x88lov
+98 98 Kada\xA4-Prun\x82\xA9ov
+98 98 Ml\x98nick\x98 Dv\x96r
+98 98 Kladno m\x88sto
+98 98 Hradec u Kadan\x88
+98 98 Heroltice
+98 98 Kladno-Dub\xA1
+98 98 Kada\xA4 p\xA9\x65\x64m\x88st\xA1
+98 98 \x9Bt\xA1ty
+98 98 Kladno-Vrapice
+98 98 Pol\xA0ky
+98 98 Podles\xA1
+98 98 \x92\x65lina
+98 98 Vlask\x82
+98 98 Kladno-\x9Bvermov
+98 98 Broumov
+98 98 Pardubice hl.n.
+98 98 Kladno-Ostrovec
+98 98 Pardubice-Opo\x87\xA1nek
+98 98 Unho\xA8\x9F
+98 98 Pardubice-Sv\xA1tkov
+98 98 Jene\x87
+98 98 Pardubice-Pardubi\x87ky
+98 98 Pardubice centrum
+98 98 Pavlov
+98 98 Broumov-Oliv\x88t\xA1n
+98 98 Kost\x88nice
+98 98 Hostivice
+98 98 Pardubice-\x80\x65rn\xA0 za Bory
+98 98 Hostivice-Litovice
+98 98 Moravany
+98 98 Hostivice-Sadov\xA0
+98 98 Chlum\x87\x61ny u Loun
+98 98 Uhersko
+98 98 Hostivice-U h\xA9\x62itova
+98 98 Z\xA0mrsk
+98 98 Vrbno nad Lesy
+98 98 Most-Kopisty
+98 98 Sedl\xA1\xA8\x9Fka
+98 98 Peruc
+98 98 Litv\xA1nov m\x88sto
+98 98 Mezim\x88st\xA1
+98 98 Dob\xA9\xA1kov u Chocn\x88
+98 98 Telce
+98 98 Drou\x91kovice
+98 98 B\xA9\x65zno u Chomutova
+98 98 Klobuky v \x80\x65\x63h\xA0\x63h
+98 98 Libo\x87\x61ny z
+98 98 Hyn\x87ice
+98 98 Vrbi\x87\x61ny
+98 98 Holetice z
+98 98 Ruprechtice
+98 98 P\xA0le\x87\x65k
+98 98 Ho\xA9\x65tice
+98 98 B\xA9\x65zov\xA0 u Broumova
+98 98 Zlonice
+98 98 Den\x88tice z
+98 98 Bohda\xA8\xA1n
+98 98 Zlonice zast\xA0vka
+98 98 \x92i\x91\x65lice
+98 98 Teplice nad Metuj\xA1
+98 98 Tm\xA0\xA4
+98 98 \x92\x61tec
+98 98 \x80\x65sk\xA0 Metuje
+98 98 Kmetin\x88ves
+98 98 \x92\x61tec z\xA0pad
+98 98 D\x88\x64ov
+98 98 \x80\x65rnuc
+98 98 Kada\xA4
+98 98 Police nad Metuj\xA1
+98 98 Slan\x98
+98 98 \x92\x61\x62okliky
+98 98 \x92\x83\xA0r nad Metuj\xA1
+98 98 Choce\xA4
+98 98 Kr\xA0lovice u Zlonic
+98 98 K\xA9imov
+98 98 Hronov
+98 98 Sruby
+98 98 Slan\x98 p\xA9\x65\x64m\x88st\xA1
+98 98 Domina
+98 98 Hronov zast\xA0vka
+98 98 Dvo\xA9isko
+98 98 Podle\xA8\xA1n
+98 98 N\xA0\x63hod
+98 98 Brand\x98s n.O.kol. 1-4
+98 98 Brand\x98s nad Orlic\xA1
+98 98 Zvolen\x88ves
+98 98 K\xA9imov-Suchdol
+98 98 N\xA0\x63hod-Mal\x82 Po\xA9\xA1\x87\xA1
+98 98 Velk\x82 Po\xA9\xA1\x87\xA1
+98 98 Odb Bezpr\xA0v\xA1
+98 98 Bezpr\xA0v\xA1
+98 98 Kamenn\x98 Most u Kralup nad Vltavou
+98 98 K\xA9imov zast\xA0vka
+98 98 N\xA0\x63hod-B\x88loves
+98 98 \x97st\xA1 nad Orlic\xA1
+98 98 Nov\xA0 Ves u K\xA9imova
+98 98 N\xA0\x63hod zast\xA0vka
+98 98 \x97st\xA1 nad Orlic\xA1 m\x88sto
+98 98 V\x98slun\xA1
+98 98 V\xA0\x63lavice
+98 98 Rusov\xA0
+98 98 Nov\x82 M\x88sto nad Metuj\xA1
+98 98 Kov\xA0\xA9sk\xA0
+98 98 \x80\x65sk\x82 Hamry
+98 98 Bohuslavice nad Metuj\xA1
+98 98 \x80\x65sk\xA0 T\xA9\x65\x62ov\xA0
+98 98 \x80.T\xA9\x65\x62ov\xA0 n\xA0v. OS
+98 98 Kov\xA0\xA9sk\xA0 m\x88stys
+98 98 \x80\x65rn\x87ice
+98 98 Dlouh\xA0 T\xA9\x65\x62ov\xA0
+98 98 Olovnice
+98 98 M\x88\x64\x88nec
+98 98 Opo\x87no pod Orlick\x98mi horami
+98 98 T\xA9\x65\x62ovice v \x80\x65\x63h\xA0\x63h
+98 98 Neum\x88\xA9ice
+98 98 M\x88\x64\x88nec zast\xA0vka
+98 98 Bohuslavice nad Metuj\xA1 zast\xA0vka
+98 98 Rudoltice v \x80\x65\x63h\xA0\x63h
+98 98 Kralupy nad Vltavou p\xA9\x65\x64m\x88st\xA1
+98 98 Vejprty
+98 98 Poho\xA9\xA1
+98 98 \x92ichl\xA1nek
+98 98 Zem\x88\x63hy
+98 98 Vejprty koupali\xA8t\x88
+98 98 Kras\xA1kov
+98 98 Vejprty zast\xA0vka
+98 98 Kras\xA1kov kol. 1-4
+98 98 Tatenice
+98 98 Kole\x87
+98 98 Ho\xA8tejn kol. 1-4
+98 98 Ho\xA8tejn
+98 98 \x92\x65lenice u Slan\x82ho
+98 98 Lup\x88n\x82
+98 98 Z\xA0kolany zast\xA0vka
+98 98 Lukov\xA0 u Rudoltic v \x80\x65\x63h\xA0\x63h
+98 98 T\xA9\x65\x62\x65\xA8ice
+98 98 Noutonice
+98 98 Jirkov
+98 98 Dobru\xA8ka
+98 98 Kutn\xA0 Hora hl.n.
+98 98 K.Hora hl.n.n\xA0v.L11a
+98 98 Kov\xA0ry
+98 98 Jirkov zast\xA0vka
+98 98 Dobru\xA8ka-Pulice
+98 98 Hl\xA1zov
+98 98 St\xA9\x65\x64okluky
+98 98 Boleho\xA8\x9F
+98 98 C\xA1rkvice
+98 98 Tuchom\x88\xA9ice
+98 98 O\x87\x65lice
+98 98 \x80\xA0slav
+98 98 Praha-Zli\x87\xA1n
+98 98 Borohr\xA0\x64\x65k
+98 98 Horky u \x80\xA0slavi
+98 98 \x80\xA0slav se\xA9.n.
+98 98 Dobrov\xA1z
+98 98 Stra\xA8kov
+98 98 \x92\x83\xA0r nad Orlic\xA1
+98 98 Dobrov\xA1z-Amazon
+98 98 Jene\x87 zast\xA0vka
+98 98 Louck\xA0
+98 98 \x80\x65rmn\xA0 nad Orlic\xA1
+98 98 Vrdy-Koudelov
+98 98 Hostou\xA4 u Prahy
+98 98 \x97jezd u Chocn\x88
+98 98 Gol\x87\x96v Jen\xA1kov
+98 98 Litv\xA1nov
+98 98 Plch\x96vky
+98 98 Gol\x87\x96v Jen\xA1kov m\x88sto
+98 98 Vra\x91kov
+98 98 Most-Minerva
+98 98 Solnice
+98 98 Nov\xA0 Ves u Le\xA8tiny
+98 98 Vlkane\x87
+98 98 Solnice zast\xA0vka
+98 98 Mnet\x88\xA8
+98 98 Lom u Mostu
+98 98 Rychnov nad Kn\x88\x91nou
+98 98 Le\xA8tina u Sv\x88tl\x82
+98 98 B\xA9\xA1za obec
+98 98 Osek
+98 98 Rychnov nad Kn\x88\x91nou zast\xA0vka
+98 98 S\xA0zavka
+98 98 Roudnice nad Labem-Hracholusky
+98 98 H\xA0j u Duchcova
+98 98 Slemeno
+98 98 Sv\x88tl\xA0 nad S\xA0zavou
+98 98 Praha-Bubny Vltavsk\xA0
+98 98 Roudnice nad Labem m\x88sto
+98 98 Rokytnice v Orlick\x98\x63h hor\xA0\x63h
+98 98 Pohle\x83
+98 98 Klene\x87
+98 98 Louka u Litv\xA1nova
+98 98 P\x88\x87\xA1n
+98 98 Sv\x88tl\xA0 nad S\xA0zavou-Josefodol
+98 98 Lom u Mostu zast\xA0vka
+98 98 Vamberk
+98 98 Mrzkovice
+98 98 Osek m\x88sto
+98 98 Slatina nad Zdobnic\xA1
+98 98 Doln\xA1 B\xA9\x65zinka
+98 98 Horn\xA1 H\xA0j
+98 98 Rybn\xA0 nad Zdobnic\xA1
+98 98 Sv\x88tl\xA0 nad S\xA0zavou m\x88sto
+98 98 Hrob
+98 98 Peklo nad Zdobnic\xA1
+98 98 Okrouhlice
+98 98 Budyn\x88 n.Oh\xA9\xA1
+98 98 St\xA9\x65ln\xA0 v Kru\xA8n\x98\x63h hor\xA0\x63h
+98 98 Havl\xA1\x87k\x96v Brod-Perknov
+98 98 Dub\xA1
+98 98 Liberec
+98 98 Havl\xA1\x87k\x96v Brod
+98 98 Mikulov v Kru\xA8n\x98\x63h hor\xA0\x63h
+98 98 Liberec-Rochlice
+98 98 Petrkov
+98 98 Lu\xA8t\x88nice
+98 98 Horn\xA1 Be\xA9kovice
+98 98 Moldava v Kru\xA8n\x98\x63h hor\xA0\x63h
+98 98 Rychnov u Jablonce nad Nisou
+98 98 L\xA1pa
+98 98 Ctin\x88ves
+98 98 Mikulov-Nov\x82 M\x88sto
+98 98 R\xA0\x64lo
+98 98 B\xA9\x65vnice
+98 98 Kostomlaty pod \x9E\xA1pem
+98 98 Je\xA9manice
+98 98 Pohled\xA8t\xA1 Dvo\xA9\xA0\x63i
+98 98 Roudnice nad Labem
+98 98 Pil\xA1nkov
+98 98 M\xA1rovka
+98 98 Dob\xA9\xA1\xA4
+98 98 Hodkovice nad Mohelkou
+98 98 Dol\xA1k
+98 98 Roudnice nad Labem-Bezd\x88kov
+98 98 Sychrov
+98 98 Hn\x88vice
+98 98 Sedlejovice
+98 98 Z\xA0lu\x91\xA1
+98 98 Turnov
+98 98 Doln\xA1 Be\xA9kovice
+98 98 Doub\xA1 u Turnova
+98 98 Opatov
+98 98 Horn\xA1 Po\x87\x61ply
+98 98 Jen\xA1kov-Old\xA9ichov
+98 98 Loukov u Mnichova Hradi\xA8t\x88
+98 98 Seman\xA1n
+98 98 Vra\xA4\x61ny
+98 98 P\xA9\xA1\xA8ovice
+98 98 Svitavy
+98 98 C\xA1tov
+98 98 B\xA9\x65zina nad Jizerou
+98 98 Opatovec
+98 98 Lu\x91\x65\x63 nad Vltavou
+98 98 Mnichovo Hradi\xA8t\x88
+98 98 Svitavy zast\xA0vka
+98 98 Ml\x87\x65\x63hvosty
+98 98 Bakov nad Jizerou
+98 98 Nelahozeves
+98 98 Bakov nad Jizerou m\x88sto
+98 98 Nov\x82 Ouholice
+98 98 Nelahozeves z\xA0mek
+98 98 Kralupy nad Vltavou
+98 98 Chvat\x88ruby
+98 98 Buda
+98 98 Milovice
+98 98 Kn\x88\x91most
+98 98 Veleliby
+98 98 Zlon\xA1n
+98 98 Krupka-Bohosudov
+98 98 L\xA1tkovice
+98 98 Lib\x87ice nad Vltavou
+98 98 Mlad\xA0 Boleslav-Deb\xA9
+98 98 M.Boleslav m. p\xA9\x65\x64n.
+98 98 Dolany nad Vltavou
+98 98 Mlad\xA0 Boleslav hl.n.
+98 98 Lib\x87ice nad Vltavou-Letky
+98 98 Roztoky u Prahy
+98 98 Krnsko
+98 98 \x9E\x65\x91
+98 98 Chot\x88tov
+98 98 \x97holi\x87ky
+98 98 Roztoky-\x92\x61lov
+98 98 Praha-Sedlec
+98 98 Obrnice
+98 98 Kojovice
+98 98 P\xA9\x65lou\x87 n\xA0kl. n.
+98 98 Sadsk\xA0
+98 98 Otvovice
+98 98 Zd\x88t\xA1n u Chot\x88tova
+98 98 Kralupy nad Vltavou-Minice
+98 98 Krop\xA0\x87ova Vrutice
+98 98 Varnsdorf-pivovar Kocour
+98 98 Z\xA0kolany
+98 98 Ko\xA8\xA0tky
+98 98 Brand\x98sek
+98 98 \x92\x65lenice nad B\xA1linou
+98 98 By\xA8ice
+98 98 Nymburk m\x88sto
+98 98 D\xA9\x65tovice
+98 98 Be\x87ov u Mostu
+98 98 Kada\xA4-Byst\xA9ice
+98 98 Nov\x82 M\x88sto pod Smrkem
+98 98 Ho\xA9\xA0tev
+98 98 Velvary
+98 98 B\xA9vany
+98 98 Jind\xA9ichovice pod Smrkem
+98 98 Olovnice zast\xA0vka
+98 98 Lene\xA8ice
+98 98 Horn\xA1 \x9E\x61snice
+98 98 T\xA9\x65\x62\x65stovice
+98 98 Velk\xA0 Bu\x87ina
+98 98 Dobrom\x88\xA9ice
+98 98 Jind\xA9ichovice pod Smrkem-Skanzen
+98 98 Chlum\xA1n
+98 98 Louny
+98 98 Hajni\xA8t\x88
+98 98 \x97\x91ice
+98 98 Louny m\x88sto
+98 98 Louny p\xA9\x65\x64m. St.II
+98 98 \x9E\x61snice zast\xA0vka
+98 98 Pardubice-Rosice nad Labem
+98 98 Net\xA9\x65\x62\x61
+98 98 Louny p\xA9\x65\x64m\x88st\xA1
+98 98 \x9E\x61snice
+98 98 Ji\xA9ice
+98 98 Velt\x88\x91\x65
+98 98 Kr\xA0sn\x98 Les
+98 98 Pardubice z\xA0vodi\xA8t\x88
+98 98 Kostelec nad Labem
+98 98 Louny st\xA9\x65\x64
+98 98 Kr\xA0sn\x98 Les ba\x91\x61ntnice
+98 98 Star\x82 Jesen\x87\x61ny
+98 98 Brand\x98s nad Labem
+98 98 Brand\x98s nad Labem-Z\xA0psk\xA0
+98 98 Fr\x98\x64lant v \x80\x65\x63h\xA0\x63h
+98 98 Chrudim
+98 98 Polerady nad Labem
+98 98 Fr\x98\x64lant v \x80\x65\x63h\xA0\x63h p\xA9\x65\x64m\x88st\xA1
+98 98 Medle\xA8ice
+98 98 Brand\x98s nad Labem zast\xA0vka
+98 98 Chrudim zast\xA0vka
+98 98 Slati\xA4\x61ny
+98 98 Neratovice
+98 98 Neratovice m\x88sto
+98 98 Neratovice s\xA1\x64li\xA8t\x88
+98 98 Chrast u Chrudimi
+98 98 Lobkovice
+98 98 Zaje\x87ice
+98 98 Ti\xA8ice
+98 98 \x9E\x65hlovice
+98 98 Horka u Chrudimi
+98 98 Kojetice u Prahy
+98 98 Broz\xA0nky
+98 98 Orel
+98 98 M\x88\xA8ice u Prahy
+98 98 Stadice
+98 98 Hovor\x87ovice
+98 98 Rtyn\x88 nad B\xA1linou
+98 98 Vi\xA8\xA4ov\xA0
+98 98 Velv\x88ty
+98 98 \x80\x65rnousy
+98 98 \x80\x65l\xA0kovice zast\xA0vka
+98 98 Ohn\xA1\x87
+98 98 Filipovka
+98 98 Praha-Satalice
+98 98 Minkovice
+98 98 \x80\x65l\xA0kovice-Ji\xA9ina
+98 98 \x80\x65l\xA0kovice
+98 98 L\xA0zn\x88 Tou\xA8\x65\xA4
+98 98 Sv\x88tec
+98 98 B\xA1lina-Chude\xA9ice
+98 98 Mst\x88tice
+98 98 Hostomice nad B\xA1linou
+98 98 Opatovice nad Labem
+98 98 Raspenava
+98 98 \x92\x83\xA0rec u Skut\x87\x65
+98 98 Zelene\x87
+98 98 B\xA1lina
+98 98 Luh pod Smrkem
+98 98 Vrbat\x96v Kostelec
+98 98 Praha-Horn\xA1 Po\x87\x65rnice
+98 98 B\xA1lina kyselka
+98 98 Hejnice
+98 98 Proset\xA1n
+98 98 Vr\xA0\x91 u Berouna
+98 98 Lu\x91\x65\x63 pod Smrkem
+98 98 Pok\xA9ikov
+98 98 Lod\x88nice
+98 98 B\xA1l\x98 Potok pod Smrkem
+98 98 Hlinsko v \x80\x65\x63h\xA0\x63h
+98 98 Nu\x87ice
+98 98 Po\x87\x65rady
+98 98 Mn\xA1\xA8\x65k u Liberce
+98 98 Vojt\x88\x63hov
+98 98 Nu\x87ice zast\xA0vka
+98 98 Volev\x87ice
+98 98 Old\xA9ichov v H\xA0j\xA1\x63h
+98 98 Holet\xA1n
+98 98 Ch\x98n\x88
+98 98 V\x98\xA8kov v \x80\x65\x63h\xA0\x63h
+98 98 Kr\xA0sn\xA0 Stud\xA0nka
+98 98 Hlinsko-Kouty
+98 98 Ch\x98n\x88 jih
+98 98 V\xA1tanov
+98 98 Str\xA0\x91 nad Nisou
+98 98 Stru\x91inec
+98 98 Rudn\xA0 zast\xA0vka
+98 98 Tanvaldsk\x98 \x9Bpi\x87\xA0k
+98 98 \x92\x64\xA1rec nad Doubravou
+98 98 Jino\x87\x61ny
+98 98 Postoloprty
+98 98 Ko\xA9\x65nov
+98 98 Sob\xA1\xA4ov
+98 98 Rudn\xA0 u Prahy
+98 98 Li\xA8\x61ny u \x92\x61tce
+98 98 Harrachov
+98 98 Chot\x88\x62o\xA9
+98 98 Praha-\x9E\x65poryje
+98 98 Dolej\xA8\xA1 H\x96rky
+98 98 B\xA1lek
+98 98 Zbuzany
+98 98 Touchovice u Loun
+98 98 Ko\xA9\x65nov zast\xA0vka
+98 98 Rozsochatec
+98 98 Praha-Holyn\x88
+98 98 Tvr\xA8ice
+98 98 Tanvald
+98 98 Praha-Uh\xA9\xA1n\x88ves
+98 98 B\xA9\x65zno u Postoloprt
+98 98 Doln\xA1 Polubn\x98
+98 98 H\xA9ivice
+98 98 Desn\xA0
+98 98 Desn\xA0-Riedlova Vila
+98 98 Desn\xA0-Pustinsk\xA0
+98 98 Praha-Kolovraty
+98 98 Jiml\xA1n
+98 98 Tanvald zast\xA0vka
+98 98 \x9E\xA1\x87\x61ny
+98 98 Opo\x87no u Loun
+98 98 Smr\x91ovka doln\xA1 n\xA0\x64ra\x91\xA1
+98 98 Sv\x88tice
+98 98 Solopysky
+98 98 Jablonec nad Nisou centrum
+98 98 Borov\xA0 u Poli\x87ky zast\xA0vka
+98 98 Stran\x87ice
+98 98 Kon\x88topy
+98 98 Smr\x91ovka st\xA9\x65\x64
+98 98 Skute\x87
+98 98 Mnichovice
+98 98 Domou\xA8ice
+98 98 Smr\x91ovka
+98 98 P\xA9\x65\x64hrad\xA1
+98 98 Senohraby
+98 98 Mut\x88jovice
+98 98 Josef\x96v D\x96l
+98 98 \x80\x61\x63hnov
+98 98 Miro\xA8ovice u Prahy
+98 98 Kounov
+98 98 Anton\xA1nov
+98 98 Krouna
+98 98 \x80\x65r\x87\x61ny
+98 98 Svojet\xA1n
+98 98 Ji\xA9\x65t\xA1n pod Bukovou
+98 98 Pust\xA0 Kamenice
+98 98 Py\xA8\x65ly
+98 98 Ho\xA9\x65sedly
+98 98 Nov\xA0 Ves nad Nisou
+98 98 Poli\x87ka
+98 98 Mra\x87
+98 98 Chr\xA0\xA8\x9F\x61ny
+98 98 Lu\x87\x61ny nad Nisou
+98 98 Borov\xA0 u Poli\x87ky
+98 98 L\xA8t\x88n\xA1
+98 98 Jabloneck\x82 Paseky
+98 98 Old\xA9i\xA8
+98 98 Zlenice
+98 98 Jablonec nad Nisou
+98 98 S\xA0\x64\x65k u Poli\x87ky
+98 98 Po\xA9\xA1\x87\xA1 nad S\xA0zavou
+98 98 Jablonec nad Nisou zast\xA0vka
+98 98 Pomez\xA1 zast\xA0vka
+98 98 Bene\xA8ov u Prahy
+98 98 Teplice z\xA0meck\xA0 zahrada
+98 98 Jablonec nad Nisou doln\xA1 n\xA0\x64ra\x91\xA1
+98 98 Pomez\xA1
+98 98 Byst\xA9ice u Bene\xA8ova
+98 98 Byst\xA9\x61ny v \x80\x65\x63h\xA0\x63h
+98 98 Vesec u Liberce
+98 98 Kv\x88tn\xA0
+98 98 Tomice
+98 98 Prosetice
+98 98 Prose\x87 nad Nisou
+98 98 Vendol\xA1 zast\xA0vka
+98 98 Olbramovice
+98 98 \x97po\xA9iny
+98 98 Vratislavice nad Nisou
+98 98 Vendol\xA1
+98 98 Vrchotovy Janovice
+98 98 Lb\xA1n
+98 98 Liberec-Horn\xA1 R\x96\x91odol
+98 98 Pust\xA0 Kamenice zast\xA0vka
+98 98 Vora\x87ice
+98 98 \x92\x61lany
+98 98 Osta\xA8ov
+98 98 Kv\x88tn\xA0 zast\xA0vka
+98 98 Minartice
+98 98 Hradi\xA8t\x88 v \x80\x65\x63h\xA0\x63h
+98 98 Karlov pod Je\xA8t\x88\x64\x65m
+98 98 Krouna zast\xA0vka
+98 98 Sedl\x87\x61ny
+98 98 \x92\x61lany zast\xA0vka
+98 98 K\xA9i\x91\x61ny
+98 98 \x9Bt\x88tkovice
+98 98 Radej\x87\xA1n
+98 98 Novina
+98 98 Km 15.500
+98 98 Kosova Hora
+98 98 Bo\xA9islav
+98 98 Kry\xA8tofovo \x97\x64ol\xA1
+98 98 Litomy\xA8l zast\xA0vka
+98 98 Votice
+98 98 \x92im
+98 98 Zdislava
+98 98 Litomy\xA8l
+98 98 He\xA9mani\x87ky
+98 98 Chotim\x88\xA9
+98 98 Rynoltice
+98 98 Litomy\xA8l-Nedo\xA8\xA1n
+98 98 St\xA9\x65zim\xA1\xA9
+98 98 Dobkovi\x87ky
+98 98 Lvov\xA0
+98 98 Tr\x91\x65k
+98 98 Je\xA8\x65tice
+98 98 Oparno
+98 98 Velk\x82 Hamry
+98 98 \x9E\xA1\x64k\x98
+98 98 \x80\x65rven\x98 \x97jezd u Votic zast.
+98 98 Plavy
+98 98 Cerekvice nad Lou\x87nou
+98 98 Mezno
+98 98 Velk\x82 Hamry m\x88sto
+98 98 Cerekvice nad Lou\x87nou zast\xA0vka
+98 98 Sudom\x88\xA9ice u T\xA0\x62ora
+98 98 N\xA0varov
+98 98 Hru\xA8ov\xA0
+98 98 Chotoviny
+98 98 Jesenn\x98
+98 98 Vysok\x82 M\x98to
+98 98 Postupice
+98 98 Sp\xA0lov
+98 98 Smr\x91ovka-Lu\x87n\xA1
+98 98 D\x91\x62\xA0nov
+98 98 Mysl\xA1\x87
+98 98 Vysok\x82 M\x98to m\x88sto
+98 98 Struha\xA9ov
+98 98 Rovensko pod Troskami
+98 98 Slatina u Vysok\x82ho M\x98ta
+98 98 Dob\xA9\xA1\x87kov
+98 98 Turnov m\x88sto
+98 98 P\xA9\x65pe\xA9\x65 u Turnova
+98 98 M\x88ste\x87ko u Bene\xA8ova
+98 98 Karlovice-Sedmihorky
+98 98 Lhota Veselka
+98 98 Hrub\xA0 Sk\xA0la
+98 98 Doma\xA8\xA1n
+98 98 Borek pod Troskami
+98 98 Lan\xA8kroun
+98 98 Vla\xA8im
+98 98 Ktov\xA0
+98 98 Znosim
+98 98 Sem\xA1nova Lhota
+98 98 Vla\xA8im zast\xA0vka
+98 98 Jivany
+98 98 Trhov\x98 \x9Bt\x88p\xA0nov
+98 98 Libu\xA4
+98 98 Libu\xA4 zast\xA0vka
+98 98 Bolina
+98 98 Jinolice
+98 98 Zdislavice
+98 98 \x92\x65leznice
+98 98 T\xA9\x65mo\xA8nice
+98 98 \x80ty\xA9koly
+98 98 Ji\x87\xA1n
+98 98 \x92lebsk\x82 Chvalovice
+98 98 \x80\xA1\x91kovice
+98 98 Ji\x87\xA1n zast\xA0vka
+98 98 Ronov nad Doubravou zast\xA0vka
+98 98 Sulejovice
+98 98 Ronov nad Doubravou
+98 98 Libochovice
+98 98 Z\xA0vratec
+98 98 Dubany
+98 98 \x92leby zast\xA0vka
+98 98 Chot\x88\xA8ov pod Hazmburkem
+98 98 \x92leby
+98 98 Ko\xA8tice nad Oh\xA9\xA1
+98 98 Skovice
+98 98 K\xA9\x65s\xA1n
+98 98 Libochovice m\x88sto
+98 98 P\xA0tek
+98 98 Butoves
+98 98 Holice
+98 98 Radonice nad Oh\xA9\xA1
+98 98 Vitin\x88ves
+98 98 Holice zast\xA0vka
+98 98 Praha-Komo\xA9\x61ny
+98 98 Slatina pod Hazmburkem
+98 98 Kova\x87
+98 98 Rove\xA4
+98 98 Praha-Zbraslav
+98 98 Slav\x88t\xA1n nad Oh\xA9\xA1
+98 98 Ostrom\x88\xA9
+98 98 Plat\x88nice
+98 98 Vran\x82 nad Vltavou
+98 98 \x97pohlavy
+98 98 Vojice
+98 98 Chrudim m\x88sto
+98 98 Doln\xA1 B\xA9\x65\x91\x61ny-Jarov
+98 98 Sob\x87ice
+98 98 Vejvanovice
+98 98 Skochovice odb.
+98 98 \x97h\xA9\x65tice
+98 98 M\x88\x63henice
+98 98 Ho\xA9ice v Podkrkono\xA8\xA1
+98 98 Tun\x88\x63hody
+98 98 Kl\xA1nec
+98 98 Dobr\xA0 Voda u Ho\xA9ic
+98 98 Topol
+98 98 \x80isovice
+98 98 T\xA9\x65\x62ov\x88tice
+98 98 Bylany
+98 98 Bojov
+98 98 D\x88\x87\xA1n-Prost\xA9\x65\x64n\xA1 \x92leb
+98 98 Je\xA9ice
+98 98 Hroch\x96v T\x98nec
+98 98 Bojanovice
+98 98 D\x88\x87\xA1n-\x80\x65rtova Voda
+98 98 Cerekvice nad Byst\xA9ic\xA1
+98 98 Bo\xA9ice
+98 98 Ryman\x88
+98 98 D\x88\x87\xA1n-P\xA9\xA1pe\xA9
+98 98 Sadov\xA0
+98 98 Mn\xA1\xA8\x65k pod Brdy
+98 98 Doln\xA1 \x92leb
+98 98 Hn\x88v\x87\x65ves
+98 98 Dob\xA9\xA1\xA8
+98 98 Doln\xA1 \x92leb zast\xA0vka
+98 98 Dohalice
+98 98 Nov\xA0 Ves pod Ple\xA8\xA1
+98 98 D\x88\x87\xA1n hl.n.
+98 98 V\xA8\x65stary
+98 98 Mal\xA0 Hra\xA8tice
+98 98 Dlouh\x82 Dvory
+98 98 Mokrovraty
+98 98 Ploti\xA8t\x88 nad Labem
+98 98 Star\xA0 Hu\x9F
+98 98 D\x88\x87\xA1n v\x98\x63hod
+98 98 Davle
+98 98 Jen\xA1kovice
+98 98 He\xA9man\x96v M\x88stec
+98 98 Petrov-Chlomek
+98 98 Valy u P\xA9\x65lou\x87\x65 zast\xA0vka
+98 98 Petrov u Prahy
+98 98 Vesel\xA1 u P\xA9\x65lou\x87\x65
+98 98 J\xA1lov\x82 u Prahy
+98 98 Dobkovice
+98 98 Choltice
+98 98 Luka pod Medn\xA1kem
+98 98 Choratice
+98 98 Rozhovice
+98 98 Kamenn\x98 P\xA9\xA1voz
+98 98 Vilsnice
+98 98 Kle\xA8ice
+98 98 Krhanice
+98 98 Povrly
+98 98 Prachovice
+98 98 Prose\x87nice
+98 98 Ne\xA8t\x88\x64ice
+98 98 Lomnice nad Popelkou
+98 98 Km 61,050
+98 98 Kostelec u He\xA9manova M\x88stce
+98 98 T\x98nec nad S\xA0zavou
+98 98 Povrly-Roztoky
+98 98 \x97st\xA1 u Star\x82 Paky
+98 98 Kostelec u He\xA9manova M\x88stce-P\xA1sn\xA1k
+98 98 Chr\xA0st nad S\xA0zavou
+98 98 Ne\xA8t\x88mice
+98 98 Sy\xA9\x65nov
+98 98 Pecerady
+98 98 Moj\x91\xA1\xA9
+98 98 Nov\xA0 Ves nad Popelkou
+98 98 Humpolec
+98 98 Po\xA9\xA1\x87\xA1 nad S\xA0zavou-Sv\xA0rov
+98 98 Prackovice nad Labem
+98 98 Plou\x91nice
+98 98 Pla\x87kov
+98 98 Doln\xA1 Z\xA0lezly
+98 98 Kyje u Ji\x87\xA1na
+98 98 Kamenice u Humpolce
+98 98 Litochovice nad Labem
+98 98 Cidlina
+98 98 Her\xA0lec
+98 98 Kn\x88\x91nice
+98 98 Rad\xA4ov
+98 98 Lovosice
+98 98 Mlad\x88jov v \x80\x65\x63h\xA0\x63h
+98 98 Slavn\xA1\x87
+98 98 Hrdo\xA4ovice
+98 98 Lovosice m\x88sto
+98 98 Sobotka
+98 98 Lovosice zast\xA0vka
+98 98 Malechovice
+98 98 Mal\x82 \x92\x65rnoseky
+98 98 Libo\xA8ovice
+98 98 Plu\x91iny
+98 98 Bohu\xA8ovice nad Oh\xA9\xA1
+98 98 Doln\xA1 Bousov
+98 98 Samechov
+98 98 Hrdly
+98 98 Hv\x88zdonice
+98 98 Lukavec
+98 98 Obrubce
+98 98 Chocerady
+98 98 Nov\x82 Kopisty
+98 98 B\xA9\x65zno u Mlad\x82 Boleslavi
+98 98 Vlkovec
+98 98 Hrobce
+98 98 Bechov
+98 98 St\xA9\xA1\x62rn\xA0 Skalice
+98 98 Ole\xA8ko
+98 98 Dlouh\xA0 Lhota
+98 98 S\xA0zava
+98 98 Kolomuty
+98 98 S\xA0zava zast\xA0vka
+98 98 \x9E\x65pov
+98 98 Samop\xA8\x65
+98 98 Mlad\xA0 Boleslav m\x88sto
+98 98 Lede\x87ko
+98 98 Boletice nad Labem
+98 98 Skalsko
+98 98 Rataje nad S\xA0zavou zast\xA0vka
+98 98 D\x88\x87\xA1n-Star\x82 M\x88sto
+98 98 Rohatsko
+98 98 Rataje nad S\xA0zavou-Iva\xA4
+98 98 Bukovno
+98 98 Malovidy
+98 98 K\xA9\x65\xA8ice u D\x88\x87\xA1na
+98 98 L\xA1ny
+98 98 \x80\x65sk\x98 \x9Bternberk
+98 98 Katusice
+98 98 \x80\x65sk\x98 \x9Bternberk zast\xA0vka
+98 98 Velk\x82 B\xA9\x65zno
+98 98 Sudom\x88\xA9 u Mlad\x82 Boleslavi
+98 98 K\xA0\x63ov
+98 98 Trnov\xA0
+98 98 Sob\x88\xA8\xA1n
+98 98 Vr\xA0tno
+98 98 Vranice
+98 98 M\xA8\x65no
+98 98 K\xA0\x63ov zast\xA0vka
+98 98 Skramou\xA8
+98 98 St\xA9\x65\x63hov nad S\xA0zavou
+98 98 Kanina
+98 98 \x80\xA1\x91ov
+98 98 Mal\x82 B\xA9\x65zno nad Labem
+98 98 \x92ivon\xA1n
+98 98 Chabe\xA9ice
+98 98 Nebu\x91\x65ly
+98 98 Zru\x87 nad S\xA0zavou
+98 98 vl. v km 11.600
+98 98 Lhotka u M\x88ln\xA1ka
+98 98 Zru\x87 nad S\xA0zavou zast\xA0vka
+98 98 Sv\xA0\x64ov
+98 98 Lhotka u M\x88ln\xA1ka zast\xA0vka
+98 98 Horka nad S\xA0zavou
+98 98 T\x88\x63hlovice
+98 98 Hle\x83sebe
+98 98 Lazi\xA8t\x88
+98 98 M\x88lnick\xA0 Vrutice
+98 98 Vlast\x88jovice
+98 98 Valt\xA1\xA9ov
+98 98 Velk\x98 Borek
+98 98 Bud\x87ice
+98 98 Dobrovice
+98 98 Lede\x87 nad S\xA0zavou
+98 98 \x80\x65sk\xA0 L\xA1pa-Hol\x98 vrch
+98 98 Nep\xA9\x65v\xA0zka
+98 98 Ch\xA9\x65novice
+98 98 Bene\xA8ov nad Plou\x87nic\xA1
+98 98 Vod\x88rady
+98 98 Ch\xA9\x65novice-Podhrad\xA1
+98 98 B\xA9\x65ziny u D\x88\x87\xA1na
+98 98 Lu\xA8t\x88nice-\x97jezd
+98 98 Horn\xA1 Lede\x87
+98 98 Hodkov zast\xA0vka
+98 98 Mal\xA0 Vele\xA4
+98 98 \x80\x61\x63hovice
+98 98 Vil\x82movice
+98 98 \x9Btipoklasy
+98 98 Franti\xA8kov nad Plou\x87nic\xA1
+98 98 V\xA8\x65jany
+98 98 Stvo\xA9idla
+98 98 P\xA9\x65\x64\x62o\xA9ice
+98 98 Horn\xA1 Police
+98 98 V\x98h Straky
+98 98 Smr\x87n\xA0
+98 98 Kraso\xA4ovice
+98 98 Star\x98 \x9B\x61\x63hov
+98 98 K\xA9inec
+98 98 Zbraslavice
+98 98 Stru\x91nice
+98 98 Ro\x91\x83\x61lovice
+98 98 \x92\x65livec
+98 98 Markvartice
+98 98 Lede\x87ky
+98 98 Hodkov
+98 98 Doln\xA1 Habartice
+98 98 Ml\x98nec
+98 98 J\xA1kev
+98 98 \x80\x65rn\xA1ny
+98 98 \x80\x65sk\xA0 Kamenice
+98 98 Kopidlno
+98 98 Osko\xA9\xA1nek
+98 98 T\x98ni\xA8t\x88
+98 98 Male\xA8ov
+98 98 Horn\xA1 Kamenice
+98 98 P\xA8\x65ves
+98 98 Vesel\x82 pod Rab\xA8tejnem
+98 98 \x92it\x88t\xA1n
+98 98 Bahno
+98 98 Ji\x87\xA1n\x88ves
+98 98 Byk\xA0\xA4
+98 98 \x92\x61ndov
+98 98 Nemy\x87\x65ves
+98 98 Kutn\xA0 Hora m\x88sto
+98 98 Star\x82 M\xA1sto u Ji\x87\xA1na
+98 98 Kutn\xA0 Hora-Poli\x87\x61ny
+98 98 Bartou\xA8ov zast\xA0vka
+98 98 M\x88stec Kr\xA0lov\x82
+98 98 Kutn\xA0 Hora-Vrchlice
+98 98 Sv\xA1\x64nice
+98 98 Kutn\xA0 Hora-Sedlec
+98 98 Dymokury
+98 98 Uhl\xA1\xA9sk\x82 Janovice
+98 98 Zachra\xA8\x9F\x61ny
+98 98 \x80in\x88ves
+98 98 Rataje nad S\xA0zavou
+98 98 B\x88runice
+98 98 Rataje nad S\xA0zavou p\xA9\x65\x64m\x88st\xA1
+98 98 Slibovice
+98 98 Miro\xA8ovice u Rataj nad S\xA0zavou
+98 98 Ml\x98ny
+98 98 Lov\x87ice obec
+98 98 Mitrov
+98 98 Kytlice
+98 98 Nov\x98 Byd\x91ov
+98 98 Chmeli\xA8t\x88
+98 98 Lukov\xA0
+98 98 Hat\x88
+98 98 Ji\xA9\xA1kov-Filipov
+98 98 Sk\xA9ivany
+98 98 Be\x87v\xA0ry
+98 98 Rumburk
+98 98 Smidary
+98 98 Drahobudice
+98 98 Brtn\xA1ky
+98 98 Ohni\xA8\x9F\x61ny
+98 98 Ratbo\xA9
+98 98 Doln\xA1 K\xA9\x65\x87\x61ny
+98 98 L\xA0zn\x88 B\x88lohrad
+98 98 Pu\x87\x65ry
+98 98 Pansk\x98
+98 98 \x9B\xA0rovcova Lhota
+98 98 Chotouchov
+98 98 Horn\xA1 Nov\xA0 Ves
+98 98 Ko\xA9\x65nice
+98 98 \x80\x65rven\x82 Pe\x87ky
+98 98 Star\x82 K\xA9\x65\x87\x61ny
+98 98 Doln\xA1 Poustevna
+98 98 Kou\xA9im
+98 98 Horn\xA1 Poustevna
+98 98 Bo\xA8ice
+98 98 Mikul\xA0\xA8ovice doln\xA1 n\xA0\x64ra\x91\xA1
+98 98 Mal\xA0 Sk\xA0la
+98 98 Mikul\xA0\xA8ovice horn\xA1 n\xA0\x64ra\x91\xA1
+98 98 Dol\xA0nky
+98 98 Mikul\xA0\xA8ovice st\xA9\x65\x64
+98 98 L\xA1\xA8n\x98
+98 98 Zale\xA8\x61ny
+98 98 Vil\x82mov u \x9Bluknova
+98 98 Semonice
+98 98 \x92\x65lezn\x98 Brod
+98 98 Pla\xA4\x61ny
+98 98 Velk\x98 \x9B\x65nov
+98 98 Semily
+98 98 \x92\x61\x62onosy
+98 98 Lipov\xA0 u \x9Bluknova
+98 98 Nedv\x88z\xA1
+98 98 Pla\xA4\x61ny zast\xA0vka
+98 98 Velk\x98 \x9B\x65nov zast\xA0vka
+98 98 Ko\xA8\x9F\xA0lov
+98 98 Vrb\x87\x61ny
+98 98 \x9Bluknov
+98 98 Lib\xA8t\xA0t
+98 98 Chroustov
+98 98 B\x88l\xA0 u Star\x82 Paky
+98 98 \x9Bluknov zast\xA0vka
+98 98 Star\xA0 Paka
+98 98 Valdek
+98 98 Lev\xA1nsk\xA0 Ole\xA8nice
+98 98 Kr\xA0sn\xA0 L\xA1pa
+98 98 B\x88l\xA0 u Star\x82 Paky zast\xA0vka
+98 98 Kr\xA0sn\xA0 L\xA1pa m\x88sto
+98 98 Nov\xA0 Paka
+98 98 Zahrady u Rumburka
+98 98 Nov\xA0 Paka m\x88sto
+98 98 Varnsdorf
+98 98 Horka u Star\x82 Paky
+98 98 Doln\xA1 Podlu\x91\xA1
+98 98 Borovnice
+98 98 Varnsdorf star\x82 n\xA0\x64ra\x91\xA1
+98 98 Mostek
+98 98 Rybni\xA8t\x88
+98 98 Borovni\x87ka
+98 98 Horn\xA1 Podlu\x91\xA1
+98 98 B\xA1l\xA0 T\xA9\x65me\xA8n\xA0
+98 98 Ji\xA9\x65t\xA1n pod Jedlovou
+98 98 Dv\x96r Kr\xA0lov\x82 nad Labem
+98 98 Ch\xA9ibsk\xA0
+98 98 \x92ire\x87
+98 98 Jedlov\xA0
+98 98 Kuks
+98 98 Nov\xA0 Hu\x9F v Lu\x91ick\x98\x63h hor\xA0\x63h
+98 98 Jarom\x88\xA9
+98 98 Svor
+98 98 Jarom\x88\xA9 zast\xA0vka
+98 98 Nov\x98 Bor
+98 98 Rychnovek
+98 98 Skalice u \x80\x65sk\x82 L\xA1py
+98 98 Smi\xA9ice
+98 98 \x80\x65sk\xA0 L\xA1pa hl.n.
+98 98 \x80\x65rno\x91ice
+98 98 \x80\x65sk\xA0 L\xA1pa st\xA9\x65lnice
+98 98 Jest\xA9\x65\x62\xA1
+98 98 Srn\xA1 u \x80\x65sk\x82 L\xA1py
+98 98 Doksy
+98 98 P\xA9\x65\x64m\x88\xA9ice nad Labem
+98 98 Star\x82 Splavy
+98 98 Lochenice
+98 98 Okna
+98 98 Opatovice nad Labem - Poh\xA9\x65\x62\x61\x87ka
+98 98 Bezd\x88z
+98 98 St\x82\x62lov\xA0
+98 98 St\x82\x62lov\xA0 obec
+98 98 B\x88l\xA0 pod Bezd\x88zem
+98 98 \x80\x65perka
+98 98 B\x88l\xA0 pod Bezd\x88zem m\x88sto
+98 98 Roztoky u Jilemnice
+98 98 Roztoky u Jilemnice zast\xA0vka
+98 98 B\x88l\xA0 pod Bezd\x88zem zast\xA0vka
+98 98 Tample
+98 98 Mal\xA0 B\x88l\xA0
+98 98 Martinice v Krkono\xA8\xA1\x63h
+98 98 Kun\x87ice nad Labem
+98 98 Horn\xA1 Brann\xA0
+98 98 Kl\xA0\xA8tersk\xA0 Lhota
+98 98 Hostinn\x82
+98 98 Hostinn\x82 m\x88sto
+98 98 Prose\x87n\x82
+98 98 Chot\x88vice
+98 98 Lovosice z\xA0vod
+98 98 Piln\xA1kov
+98 98 \x92\x61lhostice
+98 98 Vl\x87ice
+98 98 Praha-Bran\xA1k
+98 98 Litom\x88\xA9ice horn\xA1 n\xA0\x64ra\x91\xA1
+98 98 Trutnov hl.n.
+98 98 Praha-Bubene\x87
+98 98 Praha-Podbaba
+98 98 Ploskovice
+98 98 Trutnov-Po\xA9\xA1\x87\xA1
+98 98 Praha-Bubny
+98 98 Praha-V\x98stavi\xA8t\x88
+98 98 Lib\x88\xA8ice
+98 98 Trutnov st\xA9\x65\x64
+98 98 Praha-Hole\xA8ovice zast\xA0vka
+98 98 Horn\xA1 \x9E\x65p\x87ice
+98 98 Trutnov zast\xA0vka
+98 98 \x97\xA8t\x88k
+98 98 Lhota u Trutnova
+98 98 Praha-Dejvice
+98 98 Dubi\x87n\xA0
+98 98 Pet\xA9\xA1kovice
+98 98 Praha hl.n.
+98 98 Bohuslavice nad \x97pou
+98 98 Praha-Hlubo\x87\x65py
+98 98 Bl\xA1\x91\x65vedly
+98 98 Libe\x87
+98 98 Praha-Hostiva\xA9
+98 98 Krava\xA9\x65 v \x80\x65\x63h\xA0\x63h
+98 98 Trutnov-Volanov
+98 98 Praha-Waltrovka
+98 98 Praha-Jinonice
+98 98 Zahr\xA0\x64ky u \x80\x65sk\x82 L\xA1py
+98 98 Rokytnice nad Jizerou
+98 98 Praha-Cibulka
+98 98 Stvol\xA1nky
+98 98 Jablonec nad Jizerou
+98 98 Z\xA0kupy
+98 98 Jablonec nad Jizerou-Hradsko
+98 98 Z\xA0kupy-Bo\x91\xA1kov
+98 98 Ponikl\xA0 zast\xA0vka
+98 98 Praha-Stod\x96lky
+98 98 Ponikl\xA0
+98 98 Praha-Kr\x87
+98 98 Vl\x87\xA1 D\x96l-Dobranov
+98 98 Jilemnice
+98 98 Mimo\xA4
+98 98 Horn\xA1 Sytov\xA0
+98 98 Praha-Libe\xA4
+98 98 Pertoltice pod Ralskem
+98 98 V\xA1\x63hov\xA0 nad Jizerou
+98 98 Velk\x98 Grunov
+98 98 Hraba\x87ov
+98 98 Praha-Male\xA8ice
+98 98 Brni\xA8t\x88
+98 98 Vrchlab\xA1
+98 98 Praha-Ruzyn\x88
+98 98 Jablonn\x82 v Podje\xA8t\x88\x64\xA1
+98 98 Podh\x96\xA9\xA1
+98 98 Trnovany u Litom\x88\xA9ic
+98 98 Svoboda nad \x97pou
+98 98 Praha-Sm\xA1\x63hov
+98 98 Pr.-Sm\xA1\x63hov ji\x91.zhl.
+98 98 Velk\x98 Valtinov
+98 98 Mlad\x82 Buky
+98 98 Praha Masarykovo n\xA0\x64ra\x91\xA1
+98 98 Praha M.n. v\x98h.\x87.703
+98 98 Trutnov-Star\x82 m\x88sto
+98 98 Praha-Hole\xA8ovice
+98 98 Praha-Eden
+98 98 Praha-Veleslav\xA1n
+98 98 Praha-Vr\xA8ovice
+98 98 Praha-Vr\xA8ovice depo
+98 98 Praha-Zahradn\xA1 M\x88sto
+98 98 Praha-Ka\x87\x65rov
+98 98 Trutnov-Zelen\xA0 Louka
+98 98 Praha-Stra\xA8nice zast\xA0vka
+98 98 Praha-Vyso\x87\x61ny
+98 98 Litom\x88\xA9ice Cihelna
+98 98 Radvanice
+98 98 Chvale\x87
+98 98 Praha-\x80\x61kovice
+98 98 Janovice u Trutnova
+98 98 Praha-Horn\xA1 M\x88\x63holupy
+98 98 Adr\xA8pach
+98 98 Praha-Kbely
+98 98 Hodkovice u Trutnova
+98 98 Praha-Kyje
+98 98 Horn\xA1 Adr\xA8pach
+98 98 Teplice nad Metuj\xA1 sk\xA0ly
+98 98 Praha-Mod\xA9\x61ny zast\xA0vka
+98 98 Teplice nad Metuj\xA1 m\x88sto
+98 98 Praha-Velk\xA0 Chuchle
+98 98 Mal\x82 Svato\xA4ovice
+98 98 Suchovr\xA8ice
+98 98 Velk\x82 Svato\xA4ovice
+98 98 Rtyn\x88 v Podkrkono\xA8\xA1
+98 98 \x80\x65rven\x98 Kostelec
+98 98 Rtyn\x88 v Podkrkono\xA8\xA1 zast\xA0vka
+98 98 Ole\xA8nice
+98 98 Starko\x87
+98 98 \x9E\x65\xA8\x65tova Lhota
+98 98 \x80\x65sk\xA0 Skalice
+98 98 Velk\xA0 Jesenice
+98 98 Hr\xA0\x64\x65k nad Nisou
+98 98 Chotyn\x88
+98 98 Chrastava
+98 98 B\xA1l\x98 Kostel nad Nisou
+98 98 Chrastava-And\x88lsk\xA0 Hora
+98 98 Machn\xA1n hrad
+98 98 Machn\xA1n
+98 98 Pardubice-Semt\xA1n
+98 98 \x80\x65sk\xA0 T\xA9\x65\x62ov\xA0 odj.sk.
+98 98 \x80\x65sk\xA0 T\xA9\x65\x62ov\xA0 vj.sk.
+98 98 Hn\x88vice se\xA9.n.
+98 98 Kol\xA1n se\xA9.n.
+98 98 Liberec \x97TD
+98 98 Lovosice jih
+98 98 Praha-Vr\xA8ov. odj.n.
+98 98 \x97st\xA1 n.L.z.vjezd.n.
+98 98 \x97st\xA1 n.L.z.vn\x88j\xA8\xA1 n.
+98 98 Most nov\x82 n. St.1
+98 98 Most nov\x82 n. St. 7
+98 98 Turnov kol. \x87.23
+98 98 Odb. Z\xA0lu\x87\xA1
+98 98 V\x98h. Velk\x98 Osek-Kan\xA1n
+98 98 V\x98h Cej\xA9ov
+98 98 Nymburk-depo
+98 98 Odb Kube\xA8\x96v Ml\x98n
+98 98 Turnov stav\x88\x64lo 4
+98 98 Ml.Boleslav hl.n. n\xA0v. SMc
+98 98 P.-Hole\xA8.-Stromovka
+98 98 Neratovice v\x98h.\x87.104
+98 98 \x97st\xA1 n.L.jih
+98 98 Praha-Vr\xA8ovice vj.n.
+98 98 V\x98h Bartou\xA8ov
+98 98 V\x98h Prokopsk\x82 \xA3\x64ol\xA1
+98 98 Jene\x87\x65k Odb
+98 98 Chomutov m\x88sto
+98 98 Odb Z\xA0vodi\xA8t\x88
+98 98 Prachovice kolej 1
+98 98 Skochovice
+98 98 Odb. Balabenka
+98 98 Odb. Sk\xA0ly
+98 98 V\x98h. Ledvice
+98 98 V\x98h Praha-Vy\xA8\x65hrad
+98 98 Praha jih
+98 98 Praha M.n. v\x98h.\x87.107
+98 98 Praha-Sm\xA1\x63hov severn\xA1 n\xA0stupi\xA8t\x88
+98 98 Praha-Sm\xA1\x63hov Na Kn\xA1\x91\x65\x63\xA1
+98 98 Praha-Zl\xA1\x63hov
+98 98 A\xA8
+98 98 Dobr\xA0 Voda u B\xA9\x65znice
+98 98 A\xA8 m\x88sto
+98 98 Mirovice
+98 98 A\xA8 p\xA9\x65\x64m\x88st\xA1
+98 98 Mysl\xA1n
+98 98 \x9Bt\xA1tary
+98 98 \x80imelice
+98 98 Podhrad\xA1
+98 98 Smetanova Lhota
+98 98 Stud\xA0nka
+98 98 Doln\xA1 Ostrovec
+98 98 Hranice v \x80\x65\x63h\xA0\x63h
+98 98 Vr\xA0\x91 u P\xA1sku
+98 98 Beroun
+98 98 \x80\xA1\x91ov\xA0
+98 98 Kr\xA0l\x96v Dv\x96r
+98 98 P\xA1sek zast\xA0vka
+98 98 Kr\xA0l\x96v Dv\x96r-Popovice
+98 98 Vojtanov obec
+98 98 Horn\xA1 Nerestce
+98 98 Zdice
+98 98 Sta\xA8ov
+98 98 He\xA9ma\xA4
+98 98 Praskolesy
+98 98 Ho\xA9ovice
+98 98 Hud\x87ice
+98 98 Cerhovice
+98 98 Slav\x88t\xA1n u B\xA9\x65znice
+98 98 Zbiroh
+98 98 Ka\xA9\x65z
+98 98 B\x88l\x87ice
+98 98 Ka\xA9\xA1zek
+98 98 Z\xA0vi\xA8\xA1n
+98 98 M\x98to
+98 98 Bezd\x88\x64ovice
+98 98 Holoubkov
+98 98 Ma\x87kov
+98 98 Svojkovice
+98 98 Sedlice
+98 98 Rokycany
+98 98 Sedlice m\x88sto
+98 98 Klabava
+98 98 Rojice
+98 98 Ejpovice
+98 98 Velk\xA0 Turn\xA0
+98 98 D\x98\xA8ina-Horomyslice
+98 98 Radomy\xA8l
+98 98 Chr\xA0st u Plzn\x88
+98 98 Radomy\xA8l zast\xA0vka
+98 98 Chr\xA0st u Plzn\x88 obec
+98 98 Domanice
+98 98 Plze\xA4-Doubravka
+98 98 \x9E\x65pice
+98 98 Plze\xA4 hl.n.
+98 98 \x80\x65sk\x82 Bud\x88jovice
+98 98 Malm\x88\xA9ice
+98 98 Le\x91ky
+98 98 Hlubok\xA0 nad Vltavou
+98 98 Lubenec
+98 98 Zliv
+98 98 Lubenec zast\xA0vka
+98 98 Zbudov
+98 98 Libkovice
+98 98 D\xA1v\x87ice
+98 98 Chy\xA8\x65
+98 98 Z\xA0\x62lat\xA1\x87ko
+98 98 Protivec
+98 98 \x80\xA1\x87\x65nice
+98 98 Z\xA0ho\xA9ice
+98 98 Milenovice
+98 98 \x92lutice
+98 98 Protiv\xA1n zast\xA0vka
+98 98 Borek u \x92lutic
+98 98 Protiv\xA1n
+98 98 \x9Bt\x88\x64r\xA0
+98 98 Sk\xA0ly
+98 98 Smilov
+98 98 He\xA9ma\xA4 obec
+98 98 Luhov
+98 98 Ra\x91ice
+98 98 Tou\x91im
+98 98 Sudom\x88\xA9 u P\xA1sku
+98 98 Pose\x87
+98 98 \x80\x65jetice
+98 98 Otro\x87\xA1n
+98 98 Modle\xA8ovice
+98 98 Dalovice
+98 98 \x80\x65sk\x82 Bud\x88jovice severn\xA1 zast\xA0vka
+98 98 Sadov
+98 98 Hrd\x88jovice
+98 98 Sadov-Podles\xA1
+98 98 Hos\xA1n
+98 98 Velk\x98 Rybn\xA1k
+98 98 Hlubok\xA0 nad Vltavou-Z\xA0most\xA1
+98 98 Hrozn\x88t\xA1n
+98 98 Chot\x98\x87\x61ny
+98 98 Hrozn\x88t\xA1n zast\xA0vka
+98 98 \x9B\x65v\x88t\xA1n
+98 98 Merkl\xA1n
+98 98 Neplachov
+98 98 Doma\x91lice
+98 98 Dyn\xA1n
+98 98 Doma\x91lice m\x88sto
+98 98 Horusice
+98 98 Havlovice
+98 98 Vesel\xA1 nad Lu\x91nic\xA1 zast\xA0vka
+98 98 Pila
+98 98 Vesel\xA1 nad Lu\x91nic\xA1
+98 98 Trhanov
+98 98 \x9E\xA1pec-Dr\xA0\x63hov
+98 98 \x9E\xA1pec
+98 98 Klen\x87\xA1 pod \x80\x65rchovem
+98 98 Sob\x88slav
+98 98 Post\xA9\x65kov
+98 98 Roudn\xA0
+98 98 Nov\x98 Kramol\xA1n
+98 98 Doub\xA1 u T\xA0\x62ora
+98 98 Hazlov
+98 98 Vlkanov
+98 98 Plan\xA0 nad Lu\x91nic\xA1
+98 98 Hora\x91\x83ovice
+98 98 Sezimovo \x97st\xA1
+98 98 T\xA0\x62or-\x80\xA0p\x96v Dv\x96r
+98 98 Velk\x82 Hyd\x87ice
+98 98 T\xA0\x62or
+98 98 \x92ichovice
+98 98 \x80\x65sk\x82 Velenice
+98 98 T\xA0\x62or-M\x88\xA8ice
+98 98 Su\xA8ice
+98 98 Nov\xA0 Ves nad Lu\x91nic\xA1
+98 98 Hr\xA0\x64\x65k u Su\xA8ice
+98 98 Dvory nad Lu\x91nic\xA1
+98 98 Mokrosuky
+98 98 Hrdlo\xA9\x65zy
+98 98 Kolinec
+98 98 Suchdol nad Lu\x91nic\xA1 zast\xA0vka
+98 98 Malonice
+98 98 Myslkovice
+98 98 Suchdol nad Lu\x91nic\xA1
+98 98 Nemilkov
+98 98 Majdalena
+98 98 B\x88\xA8iny
+98 98 T\xA9\x65\x62o\xA4 l\xA0zn\x88
+98 98 Nezna\xA8ovy
+98 98 T\xA9\x65\x62o\xA4
+98 98 Vrhave\x87
+98 98 Lu\x91nice
+98 98 Luby u Klatov
+98 98 Lomnice nad Lu\x91nic\xA1
+98 98 Klatovy m\x88sto
+98 98 Frahel\x91
+98 98 Klatovy
+98 98 Vlkov nad Lu\x91nic\xA1
+98 98 Bezd\x88kov u Klatov
+98 98 Vod\xA4\x61ny
+98 98 Janovice nad \x97hlavou
+98 98 Pra\x91\xA0k
+98 98 Dubov\xA0 Lhota
+98 98 Svin\x88tice
+98 98 \x97\x62orsko
+98 98 Bavorov
+98 98 Pocinovice
+98 98 Blanice
+98 98 Lou\x87im
+98 98 Strunkovice nad Blanic\xA1
+98 98 Dob\xA9\xA1kov na \x9Bumav\x88
+98 98 Husinec
+98 98 Chodsk\xA0 Lhota
+98 98 Prachatice
+98 98 Kdyn\x88
+98 98 Prachatice l\xA0zn\x88
+98 98 Kout na \x9Bumav\x88
+98 98 Rohanov
+98 98 Sp\xA0\xA4ov
+98 98 Chroboly
+98 98 Hora\x91\x83ovice p\xA9\x65\x64m\x88st\xA1
+98 98 Ovesn\x82 u Prachatic
+98 98 Velk\x98 Bor
+98 98 Sk\xA9\xA1n\x88\xA9ov
+98 98 Jetenovice
+98 98 Zbytiny
+98 98 Pa\x87\x65jov
+98 98 Kov\x87\xA1n
+98 98 Sp\xA0lenec
+98 98 Nekvasovy
+98 98 Volary
+98 98 Mile\x87
+98 98 Dobr\xA0 na \x9Bumav\x88
+98 98 Nepomuk
+98 98 \x80\x65rn\x98 K\xA9\xA1\x91
+98 98 Srby
+98 98 Sto\x91\x65\x63
+98 98 \x92\x64\xA1rec u Plzn\x88
+98 98 Nov\x82 \x97\x64ol\xA1
+98 98 Blovice
+98 98 Majdalena zast\xA0vka
+98 98 Zdemyslice
+98 98 \x9B\x9F\xA0hlavy
+98 98 Star\x98 Plzenec
+98 98 Z\xA0\x62o\xA9\xA1 u \x80\xA1\x87\x65nic
+98 98 Plze\xA4-Koterov
+98 98 Plze\xA4-Slovany
+98 98 \x97jezdec u \x80\xA1\x87\x65nic
+98 98 Franti\xA8kovy L\xA0zn\x88
+98 98 Franti\xA8kovy L\xA0zn\x88-Aquaforum
+98 98 Chvale\xA8ovice
+98 98 \x92\xA1rovice-Sen\xA1ky
+98 98 Lhota pod Horami
+98 98 Vojtanov
+98 98 Temel\xA1n
+98 98 Plesn\xA0
+98 98 Bohunice
+98 98 T\x98n nad Vltavou
+98 98 Chodov
+98 98 Chodov-\xA3vra\x9F km 0.4
+98 98 M\xA1rov\xA0
+98 98 Lib\x88jovice
+98 98 Bo\x91i\x87\x61ny
+98 98 Malovice u Netolic
+98 98 Nov\xA0 Role
+98 98 Hole\x87kov
+98 98 Doln\xA1 Stupno
+98 98 Netolice
+98 98 Chr\xA0st u Plzn\x88 zast\xA0vka
+98 98 Vy\xA8n\x82
+98 98 Sedlecko
+98 98 Nov\x82 Hrady
+98 98 V\xA8\x65nice
+98 98 Pet\xA9\xA1kov
+98 98 Stupno
+98 98 J\xA1lovice
+98 98 Bezd\x88kov u Radnic
+98 98 Hlubok\xA0 u Borovan
+98 98 Radnice
+98 98 Borovany
+98 98 Star\xA0 Role
+98 98 Trocnov
+98 98 St\xA9\x61pole
+98 98 Nov\xA0 Ves u \x80\x65sk\x98\x63h Bud\x88jovic
+98 98 Nov\xA0 Role zast\xA0vka
+98 98 Nov\x82 Hod\x88jovice
+98 98 Nejdek-Such\xA0
+98 98 H\xA9\xA1\x62\x88\x63\xA1
+98 98 Nejdek
+98 98 Nov\xA0 Bukov\xA0
+98 98 Nejdek zast\xA0vka
+98 98 Dobr\xA0 Voda u Pelh\xA9imova
+98 98 Vysok\xA0 Pec
+98 98 Zaj\xA1\x87kov
+98 98 D\x98\xA8ina
+98 98 Nov\x82 Hamry
+98 98 Ryn\xA0rec
+98 98 Nejdek-Tisov\xA0
+98 98 Pelh\xA9imov
+98 98 Nejdek-Sejfy
+98 98 Vl\xA0senice
+98 98 Nejdek-Old\xA9ichov
+98 98 Nov\xA0 Cerekev
+98 98 Pernink
+98 98 Leskovice
+98 98 Horn\xA1 Blatn\xA0
+98 98 Pacov
+98 98 Pot\x96\x87ky zast\xA0vka
+98 98 \x9Bimpach
+98 98 Pot\x96\x87ky
+98 98 Po\xA9\xA1n
+98 98 Kr\xA0sn\x98 Jez
+98 98 Kr\xA0sn\x98 Jez zast.
+98 98 Ch\x98nov
+98 98 Horni Slavkov-Kounice
+98 98 Dobronice u Ch\x98nova
+98 98 Smyslov
+98 98 Radostice u Trocnova
+98 98 Jind\xA9ich\x96v Hradec
+98 98 Loket p\xA9\x65\x64m\x88st\xA1
+98 98 Lou\x87ky
+98 98 Nov\x82 Sedlo u Lokte
+98 98 Mari\xA0nsk\x82 L\xA0zn\x88
+98 98 Be\x87ov nad Teplou
+98 98 Vodn\xA0
+98 98 Loket
+98 98 Dyn\xA1n zast.
+98 98 Tepli\x87ka u Kar.Var\x96
+98 98 Tepli\x87ka
+98 98 Kfely
+98 98 Cihelny
+98 98 Karlovy Vary-B\xA9\x65zov\xA0
+98 98 Karlovy Vary-Ar\x82na
+98 98 Doub\xA1 u K.Var\x96
+98 98 Karlovy Vary doln\xA1 n\xA0\x64ra\x91\xA1
+98 98 N\x98\xA9\x61ny
+98 98 St\xA9\xA1te\x91 u \x80\x65rnovic
+98 98 Kamenn\x98 \x97jezd u N\x98\xA9\x61n
+98 98 Blatnice u N\x98\xA9\x61n
+98 98 Rochlov
+98 98 Obrata\xA4
+98 98 Kasejovice zast\xA0vka
+98 98 P\xA9\x65h\x98\xA8ov
+98 98 Netolice zast\xA0vka
+98 98 T\xA9\x65\x62\x87ice
+98 98 He\xA9manova Hu\x9F
+98 98 \x92\x65lvice
+98 98 Plze\xA4-Ji\x91n\xA1 P\xA9\x65\x64m\x88st\xA1
+98 98 Plze\xA4-Zadn\xA1 Skvr\xA4\x61ny
+98 98 P\xA1sek jih
+98 98 Kotou\xA4
+98 98 Plze\xA4-Skvr\xA4\x61ny
+98 98 \x92ivotice
+98 98 Vejprnice
+98 98 Kasejovice
+98 98 Tlu\x87n\xA0
+98 98 Hradi\xA8t\x88 u Blatn\x82
+98 98 Zb\x96\x63h
+98 98 Ln\xA0\xA9\x65
+98 98 Chot\x88\xA8ov u Stoda
+98 98 Tcho\xA9ovice
+98 98 Stod
+98 98 Blatn\xA0
+98 98 Hradec u Stoda
+98 98 Jen\xA1n
+98 98 Hol\x98\xA8ov
+98 98 Ro\x91mberk nad Vltavou
+98 98 Doln\xA1 Kamenice
+98 98 Herbertov
+98 98 Osvra\x87\xA1n
+98 98 T\x88\x63horaz
+98 98 Bl\xA1\x91\x65jov
+98 98 Vy\xA8\xA8\xA1 Brod kl\xA0\xA8ter
+98 98 Milav\x87\x65
+98 98 \x80\x65rtova St\x88na
+98 98 St\xA9\xA1\x62ro
+98 98 Lou\x87ovice
+98 98 Babylon
+98 98 Lou\x87ovice zast\xA0vka
+98 98 \x80\x65sk\xA0 Kubice
+98 98 Lipno nad Vltavou
+98 98 Plze\xA4-K\xA9imice
+98 98 Slavonice
+98 98 Vochov
+98 98 Muti\xA8ov
+98 98 Kozolupy
+98 98 Doln\xA1 Bol\xA1kov
+98 98 B\xA9\x61sy
+98 98 Pe\x87
+98 98 P\xA4ovany zast\xA0vka
+98 98 Urbane\x87
+98 98 Sulislav
+98 98 Da\x87ice m\x88sto
+98 98 Vranov u St\xA9\xA1\x62ra
+98 98 Da\x87ice
+98 98 Mal\x98 P\x88\x87\xA1n
+98 98 Mil\xA1kov
+98 98 Tel\x87-Star\x82 M\x88sto
+98 98 Velk\x98 P\x88\x87\xA1n
+98 98 Svoj\xA8\xA1n
+98 98 Slavibo\xA9
+98 98 O\xA8\x65l\xA1n
+98 98 Radkov
+98 98 Tochovice zast\xA0vka
+98 98 Pavlovice
+98 98 Tel\x87
+98 98 Brod nad Tichou
+98 98 Myslibo\xA9
+98 98 Plan\xA0 u Mari\xA0nsk\x98\x63h L\xA0zn\xA1
+98 98 Sedlejov
+98 98 P\xA9\xA1\x62ram s\xA1\x64li\xA8t\x88
+98 98 Chodov\xA0 Plan\xA0
+98 98 Hodice
+98 98 Valy u Mari\xA0nsk\x98\x63h L\xA0zn\xA1
+98 98 T\xA9\x65\xA8\x9F m\x88sto
+98 98 L\xA0zn\x88 Kyn\x91vart
+98 98 T\xA9\x65\xA8\x9F
+98 98 Doln\xA1 \x92\x61ndov
+98 98 Jezdovice
+98 98 Salajna
+98 98 Salavice
+98 98 Lipov\xA0 u Chebu
+98 98 Rado\xA8ovice
+98 98 Stebnice
+98 98 P\xA9\x65\x64n\xA1 Zborovice
+98 98 Cheb-V\xA8\x65\x62o\xA9
+98 98 Strunkovice nad Voly\xA4kou
+98 98 Strunkovice nad Voly\xA4kou obec
+98 98 Cheb
+98 98 Cheb-Skalka
+98 98 Pomez\xA1 nad Oh\xA9\xA1
+98 98 Ho\xA8tice u Volyn\x88
+98 98 Plze\xA4-B\xA1l\xA0 Hora
+98 98 Plze\xA4-Bolevec
+98 98 Volyn\x88
+98 98 Plze\xA4-Orl\xA1k
+98 98 Ni\xA8ovice
+98 98 T\xA9\x65mo\xA8n\xA0 u Plzn\x88
+98 98 Malenice nad Voly\xA4kou
+98 98 Horn\xA1 B\xA9\xA1za zast\xA0vka
+98 98 L\x87ovice
+98 98 Horn\xA1 B\xA9\xA1za
+98 98 \x80kyn\x88
+98 98 Obora u Kazn\x88jova
+98 98 Bohumilice v \x80\x65\x63h\xA0\x63h zast\xA0vka
+98 98 Kazn\x88jov
+98 98 Bohumilice v \x80\x65\x63h\xA0\x63h
+98 98 Plasy
+98 98 Vimperk
+98 98 Horn\xA1 Hradi\xA8t\x88
+98 98 Vimperk zast\xA0vka
+98 98 Mladotice zast\xA0vka
+98 98 Lipka
+98 98 Mladotice
+98 98 Lenora zast\xA0vka
+98 98 Potvorov
+98 98 Kubova Hu\x9F
+98 98 \x92ihle
+98 98 Horn\xA1 Vltavice
+98 98 Pastuchovice
+98 98 Z\xA0to\xA4
+98 98 Blatno u Jesenice
+98 98 Z\xA0to\xA4-Boub\xA1n
+98 98 Stebno
+98 98 Lenora
+98 98 Petrohrad
+98 98 Soumarsk\x98 Most
+98 98 Kryry
+98 98 Horn\xA1 Dvo\xA9i\xA8t\x88
+98 98 Vroutek
+98 98 Rybn\xA1k
+98 98 Podbo\xA9\x61ny
+98 98 P\xA8\x65nice
+98 98 Ka\xA8tice
+98 98 Bujanov
+98 98 Kn\x88\x91ice z
+98 98 Omlenice
+98 98 \x80\x65jkovice z
+98 98 Kaplice
+98 98 V\x98he\xA4
+98 98 Vele\xA8\xA1n
+98 98 Plze\xA4 zast\xA0vka
+98 98 Vele\xA8\xA1n m\x88sto
+98 98 Plze\xA4-Doudlevce
+98 98 Holkov
+98 98 Plze\xA4-Valcha
+98 98 Chlumec u \x80\x65sk\x98\x63h Bud\x88jovic
+98 98 Dob\xA9\x61ny
+98 98 Kamenn\x98 \x97jezd u \x80\x65sk\x98\x63h Bud\x88jovic
+98 98 Chlum\x87\x61ny u Dob\xA9\x61n
+98 98 Kamenn\x98 \x97jezd u \x80\x65sk\x98\x63h Bud\x88jovic zast\xA0vka
+98 98 P\xA9\x65\xA8tice-Zast\xA0vka
+98 98 V\x87\x65ln\xA0
+98 98 P\xA9\x65\xA8tice
+98 98 \x80\x65sk\x82 Bud\x88jovice ji\x91n\xA1 zast\xA0vka
+98 98 Lu\x91\x61ny
+98 98 Horky u T\xA0\x62ora
+98 98 Borovy
+98 98 Slapy
+98 98 \x80\x65rven\x82 Po\xA9\xA1\x87\xA1
+98 98 Lib\x88jice
+98 98 \x9Bvihov u Klatov
+98 98 Mal\xA8ice
+98 98 Deht\xA1n
+98 98 \x80\x65nkov u Mal\xA8ic
+98 98 To\x87n\xA1k
+98 98 T\xA9\x65\x62\x65lice
+98 98 P\xA4ovany
+98 98 V\xA8\x65\x63hlapy
+98 98 Blahousty
+98 98 Bechy\xA4sk\xA0 Smole\x87
+98 98 Trp\xA1sty
+98 98 Sudom\x88\xA9ice u Bechyn\x88
+98 98 Lomni\x87ka
+98 98 Be\x91\x65rovice
+98 98 Cebiv
+98 98 Bechyn\x88 zast\xA0vka
+98 98 Strahov
+98 98 Bechyn\x88
+98 98 B\xA9\x65tislav
+98 98 Nasavrky
+98 98 Koka\xA8ice
+98 98 Balkova Lhota
+98 98 Konstantinovy L\xA0zn\x88
+98 98 Mezi\xA9\xA1\x87\xA1
+98 98 Bezdru\x91ice
+98 98 Pada\xA9ov
+98 98 Pob\x88\x91ovice
+98 98 Bo\x91\x65jovice
+98 98 Mut\x88n\xA1n
+98 98 Sepekov
+98 98 Hostou\xA4
+98 98 Milevsko
+98 98 Svr\x91no
+98 98 L\xA1\xA8nice
+98 98 \x97jezd Svat\x82ho K\xA9\xA1\x91\x65
+98 98 Branice
+98 98 B\x88l\xA0 nad Radbuzou
+98 98 Stehlovice
+98 98 B\x88l\xA0 nad Radbuzou zast\xA0vka
+98 98 Jet\x88tice
+98 98 T\xA9\x65me\xA8n\x82 pod P\xA9imdou
+98 98 \x80\x65rven\xA0 nad Vltavou
+98 98 Dubec
+98 98 Vlastec
+98 98 Borek u Tachova
+98 98 Z\xA0ho\xA9\xA1
+98 98 Str\xA0\x91 u Tachova
+98 98 Vrcovice
+98 98 Doly
+98 98 P\xA1sek m\x88sto
+98 98 Star\x82 Sedli\xA8t\x88
+98 98 P\xA1sek
+98 98 P\xA1sek-Dobe\xA8ice
+98 98 Pernolec
+98 98 Putim
+98 98 Mal\x98 Rapot\xA1n
+98 98 Do\xA4ov
+98 98 Tachov zast\xA0vka
+98 98 Karda\xA8ova \x9E\x65\x87ice
+98 98 Tachov
+98 98 Mnich
+98 98 Tachov-B\xA1let\xA1n
+98 98 D\x88\x62ol\xA1n
+98 98 Lom u Tachova
+98 98 Rodv\xA1nov
+98 98 Jaro\xA8ov nad Ne\x91\xA0rkou
+98 98 Bedn\xA0rec
+98 98 Bedn\xA0re\x87\x65k
+98 98 Popel\xA1n
+98 98 Po\x87\xA0tky-\x92irovnice
+98 98 Horn\xA1 Vil\xA1me\x87
+98 98 Jihl\xA0vka
+98 98 Horn\xA1 Ves
+98 98 Horn\xA1 Cerekev
+98 98 Kotvina
+98 98 \x9Bv\xA0\x62ov
+98 98 Per\xA8tejn
+98 98 Batelov
+98 98 Bo\x87
+98 98 Doln\xA1 Cerekev
+98 98 Str\xA0\x91 nad Oh\xA9\xA1
+98 98 Kostelec u Jihlavy
+98 98 Kostelec u Jihlavy masna
+98 98 Vojkovice nad Oh\xA9\xA1
+98 98 Dvorce
+98 98 Ostrov nad Oh\xA9\xA1
+98 98 Rant\xA1\xA9ov
+98 98 Horn\xA1 Plan\xA0 zast\xA0vka
+98 98 H\xA0jek
+98 98 P\x88kn\xA0
+98 98 Karlovy Vary
+98 98 Ovesn\xA0
+98 98 Karlovy Vary-Dvory
+98 98 Nov\xA0 Pec
+98 98 Kr\xA0lovsk\x82 Po\xA9\xA1\x87\xA1
+98 98 Pernek-Hory
+98 98 Citice
+98 98 Horn\xA1 Plan\xA0
+98 98 Hlavno
+98 98 \x80\x65rn\xA0 v Po\xA8umav\xA1
+98 98 Dasnice
+98 98 \x92l\xA0\x62\x65k
+98 98 Kyn\xA8perk nad Oh\xA9\xA1
+98 98 Hod\xA4ov
+98 98 Nebanice
+98 98 Pole\x87nice
+98 98 Tr\xA8nice
+98 98 Poln\xA0 na \x9Bumav\x88
+98 98 Chlum u Rakovn\xA1ka
+98 98 Ho\xA9ice na \x9Bumav\x88
+98 98 La\xA8ovice
+98 98 Mezipoto\x87\xA1
+98 98 Pustov\x88ty
+98 98 K\xA0jov
+98 98 M\x88ste\x87ko u K\xA9ivokl\xA0tu
+98 98 \x80\x65sk\x98 Krumlov
+98 98 K\xA9ivokl\xA0t
+98 98 P\xA9\xA1se\x87n\xA0
+98 98 Roztoky u K\xA9ivokl\xA0tu
+98 98 Zlat\xA0 Koruna
+98 98 \x97jezd nad Zbe\x87nem
+98 98 Ple\xA8ovice
+98 98 Zbe\x87no
+98 98 Ple\xA8nice
+98 98 T\xA9\xA1sov
+98 98 Ra\x87ice nad Berounkou
+98 98 Holubov
+98 98 \x92loukovice
+98 98 K\xA9\x65m\x91\x65
+98 98 Ni\x91\x62or
+98 98 Vr\xA0\x62\x87\x65
+98 98 Hradce
+98 98 H\x98skov
+98 98 \x80\x65rn\x98 Dub
+98 98 Beroun-Z\xA0vod\xA1
+98 98 Bor\xA8ov nad Vltavou
+98 98 Rakovn\xA1k
+98 98 Strakonice
+98 98 Senomaty
+98 98 \x9B\x61nov
+98 98 Pracejovice
+98 98 P\xA8ovlky
+98 98 Katovice
+98 98 \x9Bvihov u Jesenice
+98 98 Doln\xA1 Po\xA9\xA1\x87\xA1
+98 98 Or\xA0\x87ov
+98 98 St\xA9\x65lsk\x82 Ho\xA8tice
+98 98 Kosobody
+98 98 Jesenice
+98 98 Krty
+98 98 Lubn\xA0
+98 98 P\xA9\xA1\x87ina
+98 98 Zavidov
+98 98 V\xA8\x65sulov
+98 98 \x80ist\xA0
+98 98 Strachovice
+98 98 Ko\x91lany
+98 98 Rakovn\xA1k z\xA0pad
+98 98 Kralovice u Rakovn\xA1ka
+98 98 Rokycany p\xA9\x65\x64m\x88st\xA1
+98 98 Kamenn\x98 \x97jezd u Rokycan
+98 98 Nov\xA0 Hu\x9F
+98 98 Hr\xA0\x64\x65k u Rokycan
+98 98 Miro\xA8ov
+98 98 Miro\xA8ov m\x88sto
+98 98 P\xA9\xA1kosice zast\xA0vka
+98 98 P\xA9\xA1kosice
+98 98 Me\xA8no
+98 98 Lipnice
+98 98 Kornatice
+98 98 Kornatice rybn\xA1k
+98 98 \x9B\x9F\xA0hlavice
+98 98 Nezv\x88stice
+98 98 Zadn\xA1 Po\xA9\xA1\x87\xA1
+98 98 Osl\xA1
+98 98 Skuhrov pod T\xA9\x65m\xA8\xA1nem
+98 98 Ro\x91mit\xA0l pod T\xA9\x65m\xA8\xA1nem
+98 98 Sokolov
+98 98 Lom u St\xA9\xA1\x62ra
+98 98 Holost\xA9\x65vy
+98 98 Skvi\xA9\xA1n
+98 98 Bor
+98 98 Sta\xA4kov
+98 98 K\xA9\x65novy
+98 98 Semo\xA8ice-Pe\xA9ina
+98 98 Semo\xA8ice
+98 98 Hor\xA8ovsk\x98 T\x98n
+98 98 Ma\xA8ovice
+98 98 Meclov
+98 98 Ohni\xA8\x9Fovice
+98 98 Z\xA0m\x88l\xA1\x87
+98 98 T\xA9\x65\x62\x65\xA4
+98 98 Nov\x98 Drahov
+98 98 Von\xA8ov
+98 98 Skaln\xA0
+98 98 Velk\x98 Luh
+98 98 Nov\x98 Kostel
+98 98 Doln\xA1 Luby
+98 98 Luby u Chebu
+98 98 B\x88le\x87
+98 98 Bor zast\xA0vka
+98 98 Lite\xA4
+98 98 Skuhrov pod Brdy
+98 98 Nesva\x87ily
+98 98 V\xA8\x65radice
+98 98 Vi\x91ina
+98 98 Osov
+98 98 Hostomice pod Brdy
+98 98 Radou\xA8
+98 98 Neum\x88tely
+98 98 Lochovice
+98 98 Libomy\xA8l
+98 98 Rejkovice
+98 98 Jince
+98 98 Bratkovice
+98 98 P\xA9\xA1\x62ram
+98 98 Starec
+98 98 Mil\xA1n
+98 98 Tochovice
+98 98 B\xA9\x65znice
+98 98 Dob\xA9\x61ny zast\xA0vka
+98 98 Ostrov u Tochovic
+98 98 Petrovice nad \x97hlavou
+98 98 N\x98rsko
+98 98 De\xA8\x65nice
+98 98 Zelen\xA0 Lhota
+98 98 Hamry-Hojsova Str\xA0\x91
+98 98 Hojsova Str\xA0\x91-Br\x87\xA0ln\xA1k
+98 98 \x9Bpi\x87\xA0k
+98 98 Domoradice
+98 98 \x92\x65lezn\xA0 Ruda m\x88sto
+98 98 \x92\x65lezn\xA0 Ruda-Al\x91\x62\x88t\xA1n
+98 98 \x92\x65lezn\xA0 Ruda centrum
+98 98 Km 29.225
+98 98 Nov\x82 \x97\x64ol\xA1 p\xA9\x65\x64j.k.
+98 98 Odb Dob\xA9\x65jovice
+98 98 V\x98h Kamenn\x98 Mal\xA1kov
+98 98 V\x98h. Nemanice I
+98 98 V\x98h. Sp\x88lov
+98 98 V\x98h. Velk\x98 Ratm\xA1rov
+98 98 V\x98h. Nemanice II
+98 98 V\x98h. Radonice
+98 98 Odb Doub\xA1 u T\xA0\x62ora
+98 98 V\x98h. Chot\x88\xA8ov
+98 98 Rakovn\xA1k-Rakona
+98 98 Km 52.9
+98 98 Szob
+98 98 Budapest-Nyugati
+98 98 Nagymaros-Visegr\xA0\x64
+98 98 V\xA0\x63
+98 98 K\xA3ty
+98 98 Brodsk\x82
+98 98 Ru\x91omberok
+98 98 Liptovsk\x98 Mikul\xA0\xA8
+98 98 \x9Btrba
+98 98 Bratislava hl.st.
+98 98 Poprad-Tatry
+98 98 Spi\xA8sk\xA0 Nov\xA0 Ves
+98 98 Nov\x82 Z\xA0mky
+98 98 \x9Bt\xA3rovo
+98 98 Kysak
+98 98 Ko\xA8ice
+98 98 Vrbovce
+98 98 Kra\x96ovany
+98 98 Pova\x91sk\xA0 Bystrica
+98 98 P\xA3\x63hov
+98 98 Vr\xA3tky
+98 98 \x92ilina
+98 98 Schwandorf
+98 98 Marktredwitz
+98 98 M\x81nchen Hbf
+98 98 Oberkotzau
+98 98 Regensburg Hbf
+98 98 Arzberg(Oberfr)
+98 98 Hof Hbf
+98 98 Rehau
+98 98 Schirnding
+98 98 Sch\x94nwald(Oberfr)
+98 98 Selb-Pl\x94ssberg
+98 98 Johanngeorgenstadt
+98 98 Cranzahl
+98 98 Bad Schandau Ost
+98 98 B\x84renstein
+98 98 M\x81rzzuschlag
+98 98 Kapfenberg
+98 98 Bruck/Mur
+98 98 Gm\x81nd N\x99
+98 98 Graz Hbf
+98 98 Summerau
+98 98 Retz
+98 98 Wien Meidling
+98 98 Wiener Neustadt Hbf
+98 98 Unterretzbach
+98 98 Wien Hbf
+100 100 \x9Bumperk
+101 101 Bludov
+102 102 Post\xA9\x65lmov
+103 103 Z\xA0\x62\xA9\x65h na Morav\x88 zast\xA0vka
+104 104 V\x88\x91ky
+105 105 Chropyn\x88
+106 106 Kojet\xA1n
+107 107 M\x88rovice nad Hanou
+108 108 N\x88m\x87ice nad Hanou
+109 109 Albrechtice u \x80\x65sk\x82ho T\x88\xA8\xA1na
+110 110 Byst\xA9ice - MANIPULA\x80N\x8B J\x8BZDA
+110 110 Byst\xA9ice - NENASTUPOVAT
+110 110 Byst\xA9ice (Bystrzyca)
+111 111 Hr\xA0\x64\x65k (Gr\xA2\x64\x65k)
+112 112 Vendryn\x88 (Wedrynia)
+113 113 Brodek u P\xA9\x65rova
+114 114 Rokytnice u P\xA9\x65rova
+117 117 Ropice zast\xA0vka (Ropica przystanek)
+118 118 D\x88hylov - MANIPULA\x80N\x8B J\x8BZDA
+118 118 D\x88hylov
+119 119 D\x88tmarovice
+120 120 \x80\x65rvenka
+121 121 H\xA0j ve Slezsku
+122 122 Jile\xA8ovice
+123 123 Lhota u Opavy
+124 124 Hav\xA1\xA9ov
+125 125 \x9B\x65nov
+126 126 Drahotu\xA8\x65
+127 127 Hav\xA1\xA9ov-Such\xA0
+128 128 Grygov
+129 129 Horn\xA1 Such\xA0
+130 130 Hladk\x82 \x92ivotice
+131 131 N\xA0vs\xA1 - MANIPULA\x80N\x8B J\x8BZDA
+131 131 N\xA0vs\xA1 - NENASTUPOVAT
+131 131 N\xA0vs\xA1 (Nawsie)
+132 132 Bocanovice (Boconowice)
+133 133 Jistebn\xA1k
+134 134 Karvin\xA0 hl.n.
+135 135 Karvin\xA0-Darkov
+136 136 Hranice na Morav\x88
+137 137 Nezamyslice
+138 138 T\xA9inec centrum  - MANIPULA\x80N\x8B J\x8BZDA
+138 138 T\xA9inec centrum (Trzyniec Centrum)
+139 139 Louky nad Ol\xA8\xA1
+140 140 Lipn\xA1k nad Be\x87vou
+141 141 Mosty u Jablunkova - MANIPULA\x80N\x8B J\x8BZDA
+141 141 Mosty u Jablunkova - NENASTUPOVAT
+141 141 Mosty u Jablunkova (Mosty kolo Jablonkowa)
+142 142 Mosty u Jablunkova zast\xA0vka
+143 143 Bohum\xA1n - VLAK JEDE DO DEPA
+143 143 Bohum\xA1n - NENASTUPOVAT
+143 143 Bohum\xA1n
+144 144 Doln\xA1 Lutyn\x88
+145 145 Lukavice na Morav\x88
+146 146 Opava-V\x98\x63hod - MANIPULA\x80N\x8B J\x8BZDA
+146 146 Opava-V\x98\x63hod - NENASTUPOVAT
+146 146 Opava v\x98\x63hod
+147 147 Opava-Kom\xA0rov
+148 148 Svr\x87inovec zast.
+149 149 \x80\x61\x64\x63\x61
+150 150 Mohelnice
+151 151 Moravi\x87\x61ny
+152 152 Olomouc hl.n.
+153 153 Ostrava hl.n. - MANIPULA\x80N\x8B J\x8BZDA
+153 153 Ostrava hl.n. - NENASTUPOVAT
+153 153 Ostrava hl.n.
+154 154 Ostrava-Mari\xA0nsk\x82 Hory
+155 155 Ostrava-Stodoln\xA1
+156 156 Ostrava st\xA9\x65\x64 - MANIPULA\x80N\x8B J\x8BZDA
+156 156 Ostrava st\xA9\x65\x64 - NENASTUPOVAT
+156 156 Ostrava st\xA9\x65\x64
+157 157 Ostrava-Kun\x87ice - MANIPULA\x80N\x8B J\x8BZDA
+157 157 Ostrava-Kun\x87ice - NENASTUPOVAT
+157 157 Ostrava-Kun\x87ice
+158 158 Ostrava-Bartovice
+159 159 Ostrava-Svinov - MANIPULA\x80N\x8B J\x8BZDA
+159 159 Ostrava-Svinov - NENASTUPOVAT
+159 159 Ostrava-Svinov
+160 160 Ostrava-T\xA9\x65\x62ovice
+161 161 Polanka nad Odrou
+162 162 Polom
+163 163 B\x88lot\xA1n
+164 164 Osek nad Be\x87vou
+165 165 Prosenice
+166 166 P\xA9\x65rov
+167 167 Mo\xA8nov,Ostrava Airport - MANIPULA\x80N\x8B J\x8BZDA
+167 167 Mo\xA8nov,Ostrava Airport - NENASTUPOVAT
+167 167 Mo\xA8nov,Ostrava Airport
+168 168 Sedlnice
+169 169 Chot\x88\x62uz
+170 170 Stud\x82nka - MANIPULA\x80N\x8B J\x8BZDA
+170 170 Stud\x82nka - NENASTUPOVAT
+170 170 Stud\x82nka
+171 171 Suchdol nad Odrou - MANIPULA\x80N\x8B J\x8BZDA
+171 171 Suchdol nad Odrou - NENASTUPOVAT
+171 171 Suchdol nad Odrou
+172 172 Jesen\xA1k nad Odrou
+173 173 \x9Bt\xA1tina
+174 174 Mokr\x82 Lazce
+175 175 St\xA9\x65\xA4
+176 176 T\xA9inec - MANIPULA\x80N\x8B J\x8BZDA
+176 176 T\xA9inec - NENASTUPOVAT
+176 176 T\xA9inec (Trzyniec)
+177 177 \x9Bt\x88p\xA0nov
+178 178 T\xA9inec-Konsk\xA0 (Trzyniec-Konska)
+179 179 Ostrava-V\xA1tkovice
+180 180 Z\xA0\x62\xA9\x65h na Morav\x88
+181 181 Petrovice u Karvin\x82
+182 182 Z\xA0vada
+183 183 \x80\x65sk\x98 T\x88\xA8\xA1n - MANIPULA\x80N\x8B J\x8BZDA
+183 183 \x80\x65sk\x98 T\x88\xA8\xA1n - NENASTUPOVAT
+183 183 \x80\x65sk\x98 T\x88\xA8\xA1n (Czeski Cieszyn)
+184 184 Cieszyn
+185 185 Hav\xA1\xA9ov st\xA9\x65\x64
+186 186 Ostrava-Z\xA0\x62\xA9\x65h
