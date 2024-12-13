@@ -549,9 +549,10 @@ endif
 
 wait 'AVV>'
 if result=1 then
-   sendln 'm'
-   sendln 'q'
-   messagebox 'Zadej m a potvrd a pak q a potvrd!!!' 'Nahravani AVV'
+   sendln 'xa'
+   pause 1
+   sendln 'a'
+   messagebox 'Vyckej nahrani ATO, zadej m a potvrd a pak q a potvrd!!!' 'Nahravani AVV'
 endif
 
 ;closett
