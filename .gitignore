@@ -2,4 +2,3 @@ Test_Komplet_*.zip
 *.log
 *temp.xml
 /Out
-/*/DataRegio/Out/AVV/$data.AVV
