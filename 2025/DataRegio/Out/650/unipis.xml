@@ -12149,19 +12149,23 @@
 						<connection-direction direction="5433344"/>
 						<connection-direction direction="5100873"/>
 						<connection-direction direction="5433454"/>
+						<announcement id="rear_ends_stations_2946" phase="leaving"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
 					<station id="5433244" arrival="17:50:00" departure="17:50:00" stop="yes" report-via="no" real-distance="33500.0" silent-audio="no">
 						<arrangement id="request_stop"/>
+						<announcement id="rear_ends_stations_2946" phase="leaving"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
 					<station id="5433984" arrival="17:52:00" departure="17:52:30" stop="yes" report-via="no" real-distance="35500.0" silent-audio="no">
+						<announcement id="rear_ends_stations_2946" phase="leaving"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
 					<station id="5433674" arrival="18:02:30" departure="18:03:30" stop="yes" report-via="no" real-distance="43600.0" silent-audio="no">
+						<announcement id="rear_ends_stations_2946" phase="leaving"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
@@ -12169,14 +12173,17 @@
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
 					<station id="5433274" arrival="18:08:00" departure="18:08:30" stop="yes" report-via="yes" real-distance="50200.0" silent-audio="no">
+						<announcement id="rear_ends_stations_2946" phase="leaving"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
 					<station id="5434134" arrival="18:13:00" departure="18:13:30" stop="yes" report-via="no" real-distance="54300.0" silent-audio="no">
+						<announcement id="rear_ends_stations_2946" phase="leaving"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
 					<station id="5434124" arrival="18:17:00" departure="18:18:00" stop="yes" report-via="yes" real-distance="58700.0" silent-audio="no">
+						<announcement id="rear_ends_stations_2946" phase="leaving"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
@@ -12186,6 +12193,7 @@
 					<station id="5434364" arrival="18:24:00" departure="18:25:00" stop="yes" report-via="yes" real-distance="67400.0" silent-audio="no">
 						<connection-direction direction="5433344"/>
 						<connection-direction direction="5433354"/>
+						<announcement id="rear_ends_here_2946" phase="arriving"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S2"/>
 					</station>
@@ -45105,8 +45113,8 @@
 					</tr>
 				</msg>
 			</station>
-			<station id="5434364" res-id="5434364" name="Ostrava hl.n." abbr20="Ostrava hl.n." metropolitan-area="0">
-				<msg list="station" name="Ostrava hl.n.">
+			<station id="5434364" res-id="5434364" name="Ostrava hlavní nádraží" abbr20="Ostrava hl.n." metropolitan-area="0">
+				<msg list="station" name="Ostrava hlavní nádraží">
 					<tr lang="cs" name="Ostrava hlavní nádraží">
 						<phrase visual="Ostrava hlavní nádraží">
 							<visualization str="@fn08OSTRAVA@n01@fn02HLAVNÍ NÁDRAŽÍ" hw="D4D1" role="trg_ext"/>
@@ -45125,12 +45133,6 @@
 							<visualization str="OSTRAVA HLAVNÍ NÁDRAŽÍ" hw="S123" role="trg_ext_ln"/>
 							<visualization str="@FHOstrava hl.n." hw="Pend-int" role="trg_int"/>
 							<visualization str="Ostrava hln" hw="res24" role="res"/>
-							<visualization str="Ostrava hl.n." hw="2202" role="trg_int"/>
-							<visualization str="Ostrava hl.n." hw="2202" role="trg_int_ln"/>
-							<visualization str="Ostrava hl.n." hw="2202" role="act_int"/>
-							<visualization str="Ostrava hl.n." hw="2202" role="via_int"/>
-							<visualization str="Ostrava hl.n." hw="2202" role="cross_int"/>
-							<visualization str="Ostrava hl.n." hw="2202" role="cross_int_alt"/>
 							<visualization str="Ostrava hlavní nádraží" hw="D4DL1" role="trg_int"/>
 							<visualization str="Ostrava hlavní nádraží" hw="D4DL1" role="trg_int_ln"/>
 							<visualization str="Ostrava hlavní nádraží" hw="D4DL1" role="act_int"/>
@@ -45162,9 +45164,9 @@
 						</phrase>
 					</tr>
 				</msg>
-				<msg list="station_final" name="Ostrava hl.n.">
-					<tr lang="cs" name="Ostrava hl.n.">
-						<phrase visual="Ostrava hl.n.">
+				<msg list="station_final" name="Ostrava hlavní nádraží">
+					<tr lang="cs" name="Ostrava hlavní nádraží">
+						<phrase visual="Ostrava hlavní nádraží">
 							<sound-file sound-file="303829" sound-name="\CZ\R4\5434364" sound-format="mp3" sound-role="unipis"/>
 						</phrase>
 					</tr>
@@ -54113,6 +54115,15 @@
 					<phrase visual="Den dětí" sound-file="empty"/>
 				</tr>
 			</msg>
+		</announcement>
+	</announcements>
+	<announcements group="Jen_do_trasy">
+		<announcement id="rear_ends_here_2946" msg="rear_ends" broadcast="yes" external="no" internal="yes">
+			<parameter ordinal="1" value="5434434"/>
+		</announcement>
+		<announcement id="rear_ends_stations_2946" msg="rear_ends_stations" broadcast="no" external="no" internal="yes">
+			<parameter ordinal="1" value="5434364"/>
+			<parameter ordinal="2" value="5434434"/>
 		</announcement>
 	</announcements>
 	<brands>
@@ -65935,6 +65946,28 @@
 			<tr lang="en" name="vogtlandbahn">
 				<phrase visual="GONG, Ladies and gentlemen, We are now arriving at"/>
 				<parameter ordinal="1" name="vogtlandbahn" list="station"/>
+			</tr>
+		</msg>
+		<msg list="extra_msg" id="rear_ends_stations">
+			<tr lang="cs" name="Zadní část končí ve stanici _, přední pokračuje do stanice _.">
+				<phrase visual="Zadní část vlaku končí jízdu ve stanici "/>
+				<parameter ordinal="1" name="Zadní část končí ve stanici _, přední pokračuje do stanice _." list="station_final"/>
+				<phrase visual="."/>
+				<phrase visual=" Přední část pokračuje do stanice "/>
+				<parameter ordinal="2" name="Zadní část končí ve stanici _, přední pokračuje do stanice _." list="station_final"/>
+				<phrase visual="."/>
+			</tr>
+		</msg>
+		<msg list="extra_msg" id="rear_ends">
+			<tr lang="cs" name="Zadní část zde končí, přední pokračuje do stanice _">
+				<phrase visual="Zadní část vlaku zde jízdu končí. Přední část pokračuje do stanice ">
+					<sound-file sound-file="349669" sound-format="mp3" sound-role="unipis"/>
+					<sound-file sound-file="349672" sound-format="mp3" sound-role="unipis"/>
+					<sound-file sound-file="349668" sound-format="mp3" sound-role="unipis"/>
+					<sound-file sound-file="349671" sound-format="mp3" sound-role="unipis"/>
+				</phrase>
+				<parameter ordinal="1" name="Zadní část zde končí, přední pokračuje do stanice _" list="station_final"/>
+				<phrase visual="."/>
 			</tr>
 		</msg>
 	</messages>
