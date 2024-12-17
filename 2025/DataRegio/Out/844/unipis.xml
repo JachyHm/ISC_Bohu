@@ -13460,6 +13460,121 @@
 				</compositions>
 			</variant>
 		</train>
+		<train id="1650" brand="Sp">
+			<variant id="0">
+				<schedule>
+					<calendar yesno="yes" id="kazdy-den"/>
+					<calendar yesno="no" id="25-prosinec"/>
+					<calendar yesno="no" id="novy-rok"/>
+				</schedule>
+				<train-path>
+					<station id="5434662" departure="00:10:00" stop="yes" report-via="no" silent-audio="no">
+						<integration id="IDSOK"/>
+						<line line_group="Linky" line="Lin-Sp1"/>
+					</station>
+					<station id="5434672" departure="00:13:00" stop="no" report-via="no" real-distance="3600.0" silent-audio="no">
+						<integration id="IDSOK"/>
+						<line line_group="Linky" line="Lin-Sp1"/>
+					</station>
+					<station id="5435956" departure="00:16:00" stop="no" report-via="no" real-distance="7600.0" silent-audio="no">
+						<integration id="IDSOK"/>
+						<line line_group="Linky" line="Lin-Sp1"/>
+					</station>
+					<station id="5433995" departure="00:18:00" stop="no" report-via="no" real-distance="11000.0" silent-audio="no">
+						<integration id="IDZK"/>
+						<integration id="IDSOK"/>
+						<line line_group="Linky" line="Lin-Sp1"/>
+					</station>
+					<station id="5433985" arrival="00:21:00" departure="00:22:00" stop="yes" report-via="yes" real-distance="14900.0" silent-audio="no">
+						<connection-direction direction="5434475"/>
+						<connection-direction direction="5433585"/>
+						<connection-direction direction="5435162"/>
+						<integration id="IDZK"/>
+						<integration id="IDSOK"/>
+						<line line_group="Linky" line="Lin-Sp1"/>
+					</station>
+					<station id="5436485" departure="00:24:00" stop="no" report-via="no" real-distance="17900.0" silent-audio="no">
+						<integration id="IDZK"/>
+						<line line_group="Linky" line="Lin-Sp1"/>
+					</station>
+					<station id="5436475" departure="00:26:30" stop="no" report-via="no" real-distance="22300.0" silent-audio="no">
+						<integration id="IDZK"/>
+						<line line_group="Linky" line="Lin-Sp1"/>
+					</station>
+					<station id="5435575" arrival="00:31:00" departure="00:32:00" stop="yes" report-via="yes" real-distance="28500.0" silent-audio="no">
+						<integration id="IDZK"/>
+						<line line_group="Linky" line="Lin-Sp1"/>
+					</station>
+					<station id="5435525" arrival="00:37:30" departure="00:37:30" stop="yes" report-via="no" real-distance="32800.0" silent-audio="no">
+						<arrangement id="request_stop"/>
+						<integration id="IDZK"/>
+						<line line_group="Linky" line="Lin-Sp1"/>
+					</station>
+					<station id="5433785" arrival="00:42:30" departure="00:42:30" stop="yes" report-via="no" real-distance="37000.0" silent-audio="no">
+						<arrangement id="request_stop"/>
+						<integration id="IDZK"/>
+						<line line_group="Linky" line="Lin-Sp1"/>
+					</station>
+					<station id="5433755" arrival="00:45:00" stop="yes" report-via="no" real-distance="38600.0" number="1651" silent-audio="no">
+						<integration id="IDZK"/>
+						<line line_group="Linky" line="Lin-Sp1"/>
+					</station>
+				</train-path>
+				<compositions rotation="01">
+					<schedule/>
+					<composition from="1" to="11">
+						<unit id="0101">
+							<carriage res="1001" construction="844"/>
+							<circulation when="after">
+								<schedule/>
+								<train train="1651" show="no" switch="auto"/>
+							</circulation>
+						</unit>
+					</composition>
+				</compositions>
+			</variant>
+		</train>
+		<train id="1651" brand="Sp">
+			<variant id="0">
+				<schedule>
+					<calendar yesno="yes" id="kazdy-den"/>
+					<calendar yesno="no" id="25-prosinec"/>
+					<calendar yesno="no" id="novy-rok"/>
+				</schedule>
+				<train-path>
+					<station id="5433755" departure="03:04:00" stop="yes" report-via="no" silent-audio="no">
+						<integration id="IDZK"/>
+						<line line_group="Linky" line="Lin-Sp1"/>
+					</station>
+					<station id="5433785" arrival="03:06:30" departure="03:07:00" stop="yes" report-via="no" real-distance="1600.0" silent-audio="no">
+						<arrangement id="request_stop"/>
+						<integration id="IDZK"/>
+						<line line_group="Linky" line="Lin-Sp1"/>
+					</station>
+					<station id="5435525" arrival="03:12:30" departure="03:13:00" stop="yes" report-via="no" real-distance="5800.0" silent-audio="no">
+						<arrangement id="request_stop"/>
+						<integration id="IDZK"/>
+						<line line_group="Linky" line="Lin-Sp1"/>
+					</station>
+					<station id="5435575" arrival="03:19:00" stop="yes" report-via="no" real-distance="10100.0" number="14201" silent-audio="no">
+						<integration id="IDZK"/>
+						<line line_group="Linky" line="Lin-Sp1"/>
+					</station>
+				</train-path>
+				<compositions rotation="01">
+					<schedule/>
+					<composition from="1" to="4">
+						<unit id="0101">
+							<carriage res="1001" construction="844"/>
+							<circulation when="after">
+								<schedule/>
+								<train train="14201" show="no" switch="auto"/>
+							</circulation>
+						</unit>
+					</composition>
+				</compositions>
+			</variant>
+		</train>
 		<train id="1783" name="RADHOŠŤ" brand="Sp">
 			<variant id="0">
 				<schedule>
@@ -33143,6 +33258,10 @@
 					<composition from="1" to="20">
 						<unit id="0101">
 							<carriage res="1001" construction="844"/>
+							<circulation when="after">
+								<schedule/>
+								<train train="1650" show="no" switch="auto"/>
+							</circulation>
 						</unit>
 					</composition>
 				</compositions>
@@ -51805,6 +51924,8 @@
 			<train id="93231"/>
 			<train id="93927"/>
 			<train id="95926"/>
+			<train id="1650"/>
+			<train id="1651"/>
 		</train-group>
 	</timetable>
 	<infrastructure id="gvd_20241215_20251213" from="2024-12-15" to="2025-12-13" time-zone="Europe/Prague">
@@ -60784,6 +60905,20 @@
 				</msg>
 			</integration>
 			<line-group id="Linky" name="Linky ČR">
+				<line id="Lin-Sp1" name="Lin-Sp1">
+					<msg list="lines" name="Lin-Sp1">
+						<tr lang="cs" name="Lin-Sp1">
+							<phrase visual="Sp1">
+								<sound-file sound-file="364897" sound-name="\CZ\slova\linS" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="349827" sound-name="\CZ\slova\linP" sound-format="mp3" sound-role="unipis"/>
+								<sound-file sound-file="302746" sound-name="\CZ\Vlaknum\C2_x1" sound-format="mp3" sound-role="unipis"/>
+							</phrase>
+						</tr>
+						<tr lang="uni" name="Lin-Sp1">
+							<phrase visual="Sp1"/>
+						</tr>
+					</msg>
+				</line>
 				<line id="Lin-Sp4" name="Lin-Sp4">
 					<msg list="lines" name="Lin-Sp4">
 						<tr lang="cs" name="Lin-Sp4">
