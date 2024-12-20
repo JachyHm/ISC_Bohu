@@ -1,0 +1,200 @@
+show -1
+timeout=0
+mtimeout=500
+rychlost = 115200
+ato=0
+;---
+filenamebox "Vyber pálící pøedpis"
+if result <> 0 then
+    include inputstr
+else
+    messagebox 'Nebyl vybrán žádný soubor, nahrávání ukonèeno' 'Chyba'
+    end
+endif
+;---
+connect ""
+settitle verze
+
+messagebox 'Pøipoj nahrávací kabel do karty AVV a stiskni OK' 'Nahravani AVV'
+for indexport 1 99
+    int2str jmport indexport
+    seriport = "/C="
+    strconcat seriport jmport
+    connect seriport
+    setbaud rychlost
+    testlink
+    if result<>2 goto pokrcom
+
+    sendbreak
+    pause 3
+    send #13
+
+    wait 'Heslo:'
+    if result=0 goto pokrcom
+
+    vypisport = "Nalezen COM "     
+    strconcat vypisport jmport    
+    messagebox vypisport "Sériový port"
+    send #13
+    pause 1
+    goto naselcom
+        
+    :pokrcom	
+next
+
+messagebox 'Nenalezen žádný COM port s AVV, zkontrolujte COM' 'Chyba'
+end
+
+:naselcom
+
+strlen jmport        
+if result=1 then
+    nula="0"
+    strconcat nula jmport
+    jmport=nula
+endif
+
+send #13
+
+wait 'Heslo:' 'Je k dispozici zaznam'
+if result=1 sendln heslo
+if result=2 then
+    sendln #13
+    pause 1
+    sendln heslo
+endif
+
+send #13
+mpause 300
+
+;----- Mazani stranek -----
+
+for indexparu 0 15 
+    int2str sudastr (2*indexparu)
+    testmaz = "mazani"
+    prikmaz = "e"
+    dotazradek = "Smazat stranku "
+    strlen sudastr        
+    if result=1 then
+        strconcat dotazradek "0"     
+    endif
+    strconcat dotazradek sudastr
+    strconcat dotazradek " [A/N] ?"
+    strconcat prikmaz sudastr
+    if mazani[indexparu]=1 then 
+        send prikmaz #13
+        wait dotazradek
+        if result=1 sendln 'A'
+        wait 'Smazat, Obnovit (+ Ulozit), Konec [S/O/U/K] ?' 'Stranky smazany O.K.'
+        if result=0 goto pokrmaz
+        if result=1 sendln 'S'
+        if result=2 goto pokrmaz
+        wait 'Stranky smazany O.K.'
+    endif
+    :pokrmaz
+next
+
+beep 0
+send #13
+mpause 500
+
+;--- Paleni stranek ---
+
+for indexstran 0 31 
+    int2str strstran indexstran
+    prikpal = "p"
+    dotazradek = "Zapsat soubor do stranky "
+    strlen strstran        
+    if result=1 then
+        strconcat dotazradek "0"     
+    endif
+    strconcat dotazradek strstran
+    strconcat dotazradek " [A/N] ?"
+    strconcat prikpal strstran
+    strlen soubor[indexstran]
+    if result<=1 goto pokrnahr
+    filesearch soubor[indexstran]
+    if result<>0 then
+        send prikpal #13
+        mpause 300
+        kmtsend soubor[indexstran]
+        wait dotazradek
+        if result=1 sendln 'A'
+        wait 'Data se shoduji.'
+    else
+        chyba = 'Soubor s daty "'
+        strconcat chyba soubor[indexstran]
+        strconcat chyba '" nebyl nalezen!'
+        messagebox chyba "Chyba"
+    endif
+    :pokrnahr
+next
+
+wait 'AVV>'
+
+if ato<>1 goto protokol
+
+sendln 'xa'
+wait "Aktualizovat stranky v modulu ATO [A/N] ?"
+if result=1 then
+    sendln 'A'
+    mtimeout=0
+    timeout=100
+    wait "Data prenesena uspesne."
+    if result=1 goto kopiok
+endif
+
+messagebox "Chyba pøi kopírování dat do ATO!" "Chyba"
+goto protokol
+
+:kopiok
+messagebox "Data do ATO úspìšnì zkopírována" "AVV OK"
+
+:protokol
+beep 0
+inputbox "Vlož øadu vozidla a potvrï OK:" "Protokol o nahrávání"
+idrada="XXX"
+strlen inputstr
+if result>0 then
+    idrada=inputstr
+endif
+
+inputbox "Vlož inv. trojèíslí vozidla bez mezer a potvrï OK:" "Protokol o nahrávání"
+strlen inputstr
+if result>0 then
+    idlok=inputstr
+endif
+
+dirnamebox 'Vyber složku pro uložení záznamu'
+if result<>1 goto konec
+
+expsoub=".txt"
+getdate datestr "-%y%m%d"
+gettime timestr "-%H%M%S"
+
+palsoub=inputstr
+strconcat palsoub "\"
+strconcat palsoub jmport
+strconcat palsoub "_"
+strconcat palsoub idrada
+strconcat palsoub "-"
+strconcat palsoub idlok
+strconcat palsoub datestr
+strconcat palsoub timestr
+strconcat palsoub expsoub
+
+logopen palsoub
+mpause 300 ; pauza 300 ms
+sendln 'm'
+pause 1
+send #13
+pause 1
+wait 'AVV>'
+if result=1 logclose
+
+:konec
+sendln 'q'
+
+messagebox 'Nahrávání korektnì ukonèeno' 'AVV OK'
+
+closett
