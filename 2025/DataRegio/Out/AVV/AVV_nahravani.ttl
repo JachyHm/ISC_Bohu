@@ -39,7 +39,8 @@ for indexport 1 99
     pause 1
     goto naselcom
         
-    :pokrcom	
+    :pokrcom
+    disconnect 0
 next
 
 messagebox 'Nenalezen žádný COM port s AVV, zkontrolujte COM' 'Chyba'
