@@ -3206,9 +3206,10 @@
 150 150 Mohelnice
 151 151 Moravi\x87\x61ny
 152 152 Olomouc hl.n.
+153 153 Zadn\xA1 \x87\xA0st vlaku kon\x87\xA1 j\xA1zdu ve stanici Ostrava hlavn\xA1 n\xA0\x64ra\x91\xA1. P\xA9\x65\x64n\xA1 \x87\xA0st pokra\x87uje do stanice Ostrava-Svinov.
 153 153 Ostrava hl.n. - MANIPULA\x80N\x8B J\x8BZDA
 153 153 Ostrava hl.n. - NENASTUPOVAT
-153 153 Ostrava hl.n.
+153 153 Ostrava hlavn\xA1 n\xA0\x64ra\x91\xA1
 154 154 Ostrava-Mari\xA0nsk\x82 Hory
 155 155 Ostrava-Stodoln\xA1
 156 156 Ostrava st\xA9\x65\x64 - MANIPULA\x80N\x8B J\x8BZDA
@@ -3218,6 +3219,8 @@
 157 157 Ostrava-Kun\x87ice - NENASTUPOVAT
 157 157 Ostrava-Kun\x87ice
 158 158 Ostrava-Bartovice
+159 159 
+159 159 Zadn\xA1 \x87\xA0st vlaku zde j\xA1zdu kon\x87\xA1. P\xA9\x65\x64n\xA1 \x87\xA0st pokra\x87uje do stanice Ostrava-Svinov.
 159 159 Ostrava-Svinov - MANIPULA\x80N\x8B J\x8BZDA
 159 159 Ostrava-Svinov - NENASTUPOVAT
 159 159 Ostrava-Svinov

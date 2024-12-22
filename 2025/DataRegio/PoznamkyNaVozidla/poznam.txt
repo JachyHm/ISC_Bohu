@@ -22,7 +22,8 @@ SPECIèLNã NèPISY -> v "JEN CãLOVè STANICE"
 
 99 - Test displejñ
 -------------------------------------------------
-Verze dat - 241215a zmàny:
+Verze dat - 241222a zmàny:
 10. 12. - generov†ny data pro novò GVD
+22. 12. - opraveny chybàj°c° vlaky pro mimo©†dnÇ hl†®en°
 -------------------------------------------------
 V p©°padà problÇmñ volej: +420 725 245 545 - J†chym Hurt°k
