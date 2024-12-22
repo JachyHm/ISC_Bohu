@@ -19,7 +19,7 @@ endif
 connect ""
 settitle verze
 
-messagebox 'Pøipoj nahrávací kabel do karty AVV a stiskni OK' 'Nahravani AVV'
+messagebox 'Pøipoj nahrávací kabel do karty AVV a stiskni OK' 'Nahrávání AVV'
 for indexport 1 99
     int2str jmport indexport
     seriport = "/C="
@@ -213,9 +213,9 @@ gettime timestr "-%H%M%S"
 
 strconcat logdir "\COM"
 strconcat logdir jmport
-strconcat logdir "_"
-strconcat logdir idrada
 strconcat logdir "-"
+strconcat logdir idrada
+strconcat logdir "_"
 strconcat logdir idlok
 strconcat logdir datestr
 strconcat logdir timestr
