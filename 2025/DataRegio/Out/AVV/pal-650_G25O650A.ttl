@@ -3,7 +3,10 @@ show -1
 ;settitle "Data AVV"
 verze = 'AVV650 (G25O650A)'
 heslo = 'avv650'
+
+logdir="Logy"
 rychlost = 115200
+
 intdim mazani 16
 strdim soubor 32
 ;---
@@ -28,15 +31,15 @@ mazani[15]=1
 ;---
 ;kam nahrat + co nahrat
 ;---
-soubor[0]="Mapy\T27_23.bin"
+soubor[0]=""
 soubor[1]=""
-soubor[2]=""
+soubor[2]="Mapy\T27_23.bin"
 soubor[3]=""
-soubor[4]="Mapy\T32_23.bin"
+soubor[4]=""
 soubor[5]=""
-soubor[6]="Mapy\Mosnov_1.bin"
+soubor[6]="Mapy\T32_23.bin"
 soubor[7]=""
-soubor[8]=""
+soubor[8]="Mapy\Mosnov_1.bin"
 soubor[9]=""
 soubor[10]=""
 soubor[11]=""

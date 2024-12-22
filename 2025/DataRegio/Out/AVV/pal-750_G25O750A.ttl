@@ -1,9 +1,12 @@
 show -1
 ;---
-;settitle "Data AVV"
+;povinne promenne
 verze = 'AVV750 (G25O750A)'
 heslo = 'avv750'
-rychlost = 115200
+
+;nepovinne promenne (pouziji se vychozi hodnoty)
+logdir="Logy"
+rychlost = 38400
 ato=1
 
 intdim mazani 16
@@ -30,13 +33,13 @@ mazani[15]=1
 ;---
 ;kam nahrat + co nahrat
 ;---
-soubor[0]="Mapy\T27_23.bin"
+soubor[0]=""
 soubor[1]=""
-soubor[2]="Mapy\T32G_1.bin"
+soubor[2]="Mapy\T27_23.bin"
 soubor[3]=""
-soubor[4]="Mapy\T32_23.bin"
+soubor[4]="Mapy\T32G_1.bin"
 soubor[5]=""
-soubor[6]=""
+soubor[6]="Mapy\T32_23.bin"
 soubor[7]=""
 soubor[8]=""
 soubor[9]=""
