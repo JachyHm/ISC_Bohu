@@ -80,7 +80,7 @@ messagebox vypisport "Sériový port"
 
 strlen jmport        
 if result=1 then
-    strinsert jmport '0'
+    strinsert jmport 1 '0'
 endif
 
 ;----- Mazani stranek -----
@@ -136,7 +136,7 @@ for indexstran 0 31
     if result<=1 goto pokrnahr
     strmatch absolutni '([A-z]:){0,1}\\'
     if result<>1 then
-        strinsert absolutni aktdir 1
+        strinsert absolutni 1 aktdir
     endif
     filesearch absolutni
     if result<>0 then
@@ -198,7 +198,7 @@ endif
 
 strmatch logdir '([A-z]:){0,1}\\'
 if result<>1 then
-    strinsert logdir aktdir 1
+    strinsert logdir 1 aktdir
 endif
 filesearch logdir 
 if result=0 then
