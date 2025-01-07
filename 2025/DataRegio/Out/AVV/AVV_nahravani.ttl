@@ -41,12 +41,14 @@ for indexport 1 99
 
     :pokrcom
     disconnect 0
+    mpause 300
 next
 
 messagebox 'Nenalezen žádný COM port s AVV, zkontrolujte COM' 'Chyba'
 end
 
 :prihlaseni
+mpause 300
 send #13
 mpause 300
 ;pri pomalych bd nelze prenest z nejakeho duvodu heslo jako sendln -> posila se postupne po znacich
@@ -167,9 +169,9 @@ endif
 sendln 'xa'
 wait "Aktualizovat stranky v modulu ATO [A/N] ?"
 if result=1 then
-    sendln 'A'
     mtimeout=0
     timeout=100
+    send 'A'
     wait "Data prenesena uspesne."
     if result=1 goto kopiok
 endif

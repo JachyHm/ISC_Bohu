@@ -5,7 +5,7 @@ verze = 'AVV842BOH (G25O690A)'
 heslo = 'avv842'
 
 logdir="Logy"
-rychlost = 115200
+rychlost = 38400
 ato=1
 
 intdim mazani 16
