@@ -3539,104 +3539,6 @@
 			</variant>
 		</train>
 		<train id="3105" brand="Os">
-			<variant id="0">
-				<schedule>
-					<calendar yesno="yes" id="novy-rok"/>
-				</schedule>
-				<train-path>
-					<station id="5433324" departure="05:20:00" stop="yes" report-via="no" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5433334" arrival="05:22:00" departure="05:24:00" stop="yes" report-via="yes" real-distance="1500.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5433934" arrival="05:30:30" departure="05:31:30" stop="yes" report-via="no" real-distance="7800.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5433364" arrival="05:35:00" departure="05:36:00" stop="yes" report-via="no" real-distance="11400.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5433354" arrival="05:41:00" departure="05:47:00" stop="yes" report-via="yes" real-distance="16100.0" silent-audio="no">
-						<connection-direction direction="5434464"/>
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5433394" arrival="05:51:00" departure="05:51:30" stop="yes" report-via="no" real-distance="19500.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5433024" arrival="05:56:00" departure="05:56:30" stop="yes" report-via="no" real-distance="23400.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5433344" arrival="06:00:00" departure="06:05:00" stop="yes" report-via="yes" real-distance="26600.0" silent-audio="no">
-						<connection-direction direction="5433514"/>
-						<connection-direction direction="5433234"/>
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5433974" arrival="06:09:30" departure="06:10:00" stop="yes" report-via="no" real-distance="29700.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5434514" arrival="06:16:00" departure="06:18:00" stop="yes" report-via="no" real-distance="34500.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5435034" arrival="06:23:00" departure="06:24:00" stop="yes" report-via="no" real-distance="38700.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5434414" arrival="06:27:30" departure="06:34:30" stop="yes" report-via="yes" real-distance="41000.0" silent-audio="no">
-						<connection-direction direction="5433454"/>
-						<connection-direction direction="5434194"/>
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5434374" arrival="06:37:30" departure="06:37:30" stop="yes" report-via="no" real-distance="43200.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5434394" arrival="06:41:00" departure="06:42:00" stop="yes" report-via="yes" real-distance="45900.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5434393" arrival="06:43:30" departure="06:44:00" stop="yes" report-via="no" real-distance="46600.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5438044" departure="06:45:30" stop="no" report-via="no" real-distance="47300.0" silent-audio="no">
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5434364" arrival="06:47:00" stop="yes" report-via="no" real-distance="48800.0" number="2040" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-				</train-path>
-				<compositions rotation="01">
-					<schedule/>
-					<composition from="1" to="8">
-						<unit id="0101">
-							<carriage res="1001" construction="842"/>
-							<carriage res="1002" construction="Bdtn 757"/>
-						</unit>
-					</composition>
-					<composition from="8" to="17">
-						<unit id="0101">
-							<carriage res="1001" construction="842"/>
-							<carriage res="1002" construction="Bdtn 757"/>
-						</unit>
-						<unit id="0103">
-							<carriage res="1003" construction="Bdtn 757"/>
-							<carriage res="1004" construction="842"/>
-						</unit>
-					</composition>
-				</compositions>
-			</variant>
 			<variant id="1">
 				<schedule>
 					<calendar yesno="yes" id="sobota"/>
@@ -12180,89 +12082,6 @@
 			</variant>
 		</train>
 		<train id="1427" brand="Sp">
-			<variant id="0">
-				<schedule>
-					<calendar yesno="yes" id="pracovni"/>
-					<calendar yesno="no" id="2024-12-16/2024-12-20"/>
-					<calendar yesno="no" id="2025-01-06/2025-12-12"/>
-				</schedule>
-				<train-path>
-					<station id="5433722" departure="15:02:00" stop="yes" report-via="no" silent-audio="no">
-						<integration id="IDSOK"/>
-						<line line_group="Linky" line="Lin-M70"/>
-					</station>
-					<station id="5438062" departure="15:04:30" stop="no" report-via="no" real-distance="2500.0" silent-audio="no">
-						<line line_group="Linky" line="Lin-M70"/>
-					</station>
-					<station id="5433732" arrival="15:07:00" departure="15:07:30" stop="yes" report-via="no" real-distance="5000.0" silent-audio="no">
-						<integration id="IDSOK"/>
-						<line line_group="Linky" line="Lin-M70"/>
-					</station>
-					<station id="5434992" arrival="15:09:30" departure="15:09:30" stop="yes" report-via="yes" real-distance="6900.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDSOK"/>
-						<line line_group="Linky" line="Lin-M70"/>
-					</station>
-					<station id="5433742" arrival="15:12:00" departure="15:12:00" stop="yes" report-via="no" real-distance="8900.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDSOK"/>
-						<line line_group="Linky" line="Lin-M70"/>
-					</station>
-					<station id="5433832" arrival="15:15:30" departure="15:15:30" stop="yes" report-via="no" real-distance="12300.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDSOK"/>
-						<line line_group="Linky" line="Lin-M70"/>
-					</station>
-					<station id="5433822" arrival="15:17:30" departure="15:17:30" stop="yes" report-via="no" real-distance="14000.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDSOK"/>
-						<line line_group="Linky" line="Lin-M70"/>
-					</station>
-					<station id="5433812" arrival="15:20:00" departure="15:21:00" stop="yes" report-via="no" real-distance="16400.0" silent-audio="no">
-						<integration id="IDSOK"/>
-						<line line_group="Linky" line="Lin-M70"/>
-					</station>
-					<station id="5435202" arrival="15:25:00" departure="15:25:30" stop="yes" report-via="no" real-distance="21900.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-M70"/>
-					</station>
-					<station id="5435162" arrival="15:29:00" departure="15:31:00" stop="yes" report-via="yes" real-distance="26100.0" silent-audio="no">
-						<connection-direction direction="5433334"/>
-						<connection-direction direction="5433354"/>
-						<connection-direction direction="5434782"/>
-						<connection-direction direction="5433585"/>
-						<connection-direction direction="5434306"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-M70"/>
-					</station>
-					<station id="5435172" arrival="15:35:00" departure="15:35:00" stop="yes" report-via="no" real-distance="30600.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-M70"/>
-					</station>
-					<station id="5433852" arrival="15:38:00" departure="15:38:30" stop="yes" report-via="no" real-distance="33600.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-M70"/>
-					</station>
-					<station id="5433842" arrival="15:43:00" departure="15:43:30" stop="yes" report-via="no" real-distance="38600.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-M70"/>
-					</station>
-					<station id="5435442" arrival="15:49:00" stop="yes" report-via="no" real-distance="44900.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-M70"/>
-					</station>
-				</train-path>
-				<compositions>
-					<schedule/>
-					<composition>
-						<unit id="unit1">
-							<carriage res="11"/>
-							<carriage res="12"/>
-						</unit>
-					</composition>
-				</compositions>
-			</variant>
 			<variant id="1">
 				<schedule>
 					<calendar yesno="yes" id="pracovni"/>
@@ -18488,47 +18307,6 @@
 			</variant>
 		</train>
 		<train id="3238" brand="Os">
-			<variant id="0">
-				<schedule>
-					<calendar yesno="yes" id="novy-rok"/>
-				</schedule>
-				<train-path>
-					<station id="5433722" departure="06:57:00" stop="yes" report-via="no" silent-audio="no">
-						<integration id="IDSOK"/>
-						<line line_group="Linky" line="Lin-M7"/>
-					</station>
-					<station id="5433472" arrival="07:01:00" departure="07:01:30" stop="yes" report-via="no" real-distance="4700.0" silent-audio="no">
-						<integration id="IDSOK"/>
-						<line line_group="Linky" line="Lin-M7"/>
-					</station>
-					<station id="5434042" arrival="07:09:30" departure="07:10:30" stop="yes" report-via="yes" real-distance="13200.0" silent-audio="no">
-						<integration id="IDSOK"/>
-						<line line_group="Linky" line="Lin-M7"/>
-					</station>
-					<station id="5434642" arrival="07:13:30" departure="07:13:30" stop="yes" report-via="no" real-distance="17100.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDSOK"/>
-						<line line_group="Linky" line="Lin-M7"/>
-					</station>
-					<station id="5434652" arrival="07:16:30" departure="07:17:00" stop="yes" report-via="no" real-distance="20400.0" silent-audio="no">
-						<integration id="IDSOK"/>
-						<line line_group="Linky" line="Lin-M7"/>
-					</station>
-					<station id="5434662" arrival="07:22:00" stop="yes" report-via="no" real-distance="28300.0" silent-audio="no">
-						<integration id="IDSOK"/>
-						<line line_group="Linky" line="Lin-M7"/>
-					</station>
-				</train-path>
-				<compositions>
-					<schedule/>
-					<composition>
-						<unit id="unit1">
-							<carriage res="11"/>
-							<carriage res="12"/>
-						</unit>
-					</composition>
-				</compositions>
-			</variant>
 			<variant id="1">
 				<schedule>
 					<calendar yesno="yes" id="pracovni"/>
@@ -19287,58 +19065,6 @@
 			</variant>
 		</train>
 		<train id="3903" brand="Os">
-			<variant id="0">
-				<schedule>
-					<calendar yesno="yes" id="25-prosinec"/>
-					<calendar yesno="yes" id="novy-rok"/>
-				</schedule>
-				<train-path>
-					<station id="5435162" departure="06:36:00" stop="yes" report-via="no" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5435192" arrival="06:40:00" departure="06:40:00" stop="yes" report-via="no" real-distance="2500.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5435182" arrival="06:42:00" departure="06:42:00" stop="yes" report-via="no" real-distance="3700.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5435212" arrival="06:46:00" departure="06:46:00" stop="yes" report-via="no" real-distance="6600.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5434792" arrival="06:48:30" departure="06:49:00" stop="yes" report-via="no" real-distance="8300.0" silent-audio="no">
-						<arrangement id="service_stop"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5434802" arrival="06:51:30" departure="06:51:30" stop="yes" report-via="no" real-distance="10500.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5434782" arrival="06:55:00" stop="yes" report-via="no" real-distance="13500.0" number="3912" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-				</train-path>
-				<compositions rotation="01">
-					<schedule/>
-					<composition from="1" to="7">
-						<unit id="0101">
-							<carriage res="1001" construction="844"/>
-							<circulation when="after">
-								<schedule/>
-								<train train="3912" show="no" switch="auto"/>
-							</circulation>
-						</unit>
-					</composition>
-				</compositions>
-			</variant>
 			<variant id="1">
 				<schedule>
 					<calendar yesno="yes" id="kazdy-den"/>
@@ -20878,107 +20604,6 @@
 			</variant>
 		</train>
 		<train id="3910" brand="Os">
-			<variant id="0">
-				<schedule>
-					<calendar yesno="yes" id="25-prosinec"/>
-					<calendar yesno="yes" id="novy-rok"/>
-				</schedule>
-				<train-path>
-					<station id="5435162" departure="06:21:00" stop="yes" report-via="no" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5433236" arrival="06:27:00" departure="06:28:00" stop="yes" report-via="no" real-distance="5400.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5433246" arrival="06:31:30" departure="06:31:30" stop="yes" report-via="no" real-distance="8500.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5434636" arrival="06:35:30" departure="06:36:00" stop="yes" report-via="no" real-distance="12400.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5434646" arrival="06:38:30" departure="06:39:00" stop="yes" report-via="no" real-distance="14300.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5435475" arrival="06:44:30" departure="06:45:00" stop="yes" report-via="no" real-distance="18900.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5433605" arrival="06:48:30" departure="06:48:30" stop="yes" report-via="no" real-distance="21500.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5433585" arrival="06:53:00" departure="07:01:00" stop="yes" report-via="yes" real-distance="26000.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5433595" arrival="07:05:00" departure="07:05:00" stop="yes" report-via="yes" real-distance="29700.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5433465" arrival="07:07:30" departure="07:07:30" stop="yes" report-via="no" real-distance="31600.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5433865" arrival="07:09:30" departure="07:09:30" stop="yes" report-via="no" real-distance="33200.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5433855" arrival="07:13:30" departure="07:15:00" stop="yes" report-via="yes" real-distance="36900.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5434005" arrival="07:19:00" departure="07:19:30" stop="yes" report-via="no" real-distance="40800.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5433985" arrival="07:24:00" departure="07:33:00" stop="yes" report-via="yes" real-distance="44300.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5434475" arrival="07:41:00" departure="07:42:00" stop="yes" report-via="yes" real-distance="51800.0" silent-audio="no">
-						<connection-direction direction="5436935"/>
-						<connection-direction direction="5436945"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5434515" arrival="07:46:30" departure="07:46:30" stop="yes" report-via="no" real-distance="55600.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5434485" arrival="07:49:30" departure="07:49:30" stop="yes" report-via="no" real-distance="57700.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5434306" arrival="07:54:00" stop="yes" report-via="no" real-distance="61000.0" number="3911" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-				</train-path>
-				<compositions rotation="01">
-					<schedule/>
-					<composition from="1" to="18">
-						<unit id="0101">
-							<carriage res="1001" construction="844"/>
-							<circulation when="after">
-								<schedule/>
-								<train train="3911" show="no" switch="auto"/>
-							</circulation>
-						</unit>
-					</composition>
-				</compositions>
-			</variant>
 			<variant id="1">
 				<schedule>
 					<calendar yesno="yes" id="kazdy-den"/>
@@ -21426,107 +21051,6 @@
 							<circulation when="after">
 								<schedule/>
 								<train train="13215" show="no" switch="auto"/>
-							</circulation>
-						</unit>
-					</composition>
-				</compositions>
-			</variant>
-			<variant id="3">
-				<schedule>
-					<calendar yesno="yes" id="2024-12-30/2024-12-30"/>
-					<calendar yesno="yes" id="2025-01-02/2025-01-02"/>
-				</schedule>
-				<train-path>
-					<station id="5434306" departure="08:03:00" stop="yes" report-via="no" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5434485" arrival="08:07:30" departure="08:07:30" stop="yes" report-via="no" real-distance="3300.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5434515" arrival="08:10:30" departure="08:10:30" stop="yes" report-via="no" real-distance="5400.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5434475" arrival="08:15:00" departure="08:17:00" stop="yes" report-via="yes" real-distance="9200.0" silent-audio="no">
-						<connection-direction direction="5436935"/>
-						<connection-direction direction="5436945"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5433985" arrival="08:25:00" departure="08:34:00" stop="yes" report-via="yes" real-distance="16700.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5434005" arrival="08:38:30" departure="08:39:00" stop="yes" report-via="no" real-distance="20200.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5433855" arrival="08:43:00" departure="08:44:00" stop="yes" report-via="yes" real-distance="24100.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5433865" arrival="08:48:00" departure="08:48:00" stop="yes" report-via="no" real-distance="27800.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5433465" arrival="08:50:30" departure="08:50:30" stop="yes" report-via="no" real-distance="29400.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5433595" arrival="08:53:00" departure="08:53:00" stop="yes" report-via="yes" real-distance="31300.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5433585" arrival="08:57:00" departure="09:03:00" stop="yes" report-via="yes" real-distance="35000.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5433605" arrival="09:07:30" departure="09:07:30" stop="yes" report-via="no" real-distance="39500.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5435475" arrival="09:11:00" departure="09:12:00" stop="yes" report-via="no" real-distance="42100.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5434646" arrival="09:16:30" departure="09:17:00" stop="yes" report-via="no" real-distance="46700.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5434636" arrival="09:19:30" departure="09:20:00" stop="yes" report-via="no" real-distance="48600.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5433246" arrival="09:24:00" departure="09:24:00" stop="yes" report-via="no" real-distance="52500.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5433236" arrival="09:27:30" departure="09:28:30" stop="yes" report-via="no" real-distance="55600.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-					<station id="5435162" arrival="09:35:00" stop="yes" report-via="no" real-distance="61000.0" number="3902" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S4"/>
-					</station>
-				</train-path>
-				<compositions rotation="01">
-					<schedule/>
-					<composition from="1" to="18">
-						<unit id="0101">
-							<carriage res="1001" construction="844"/>
-							<circulation when="after">
-								<schedule/>
-								<train train="3902" show="no" switch="auto"/>
 							</circulation>
 						</unit>
 					</composition>
@@ -29720,7 +29244,7 @@
 						<integration id="IDSJMK"/>
 						<line line_group="Linky" line="Lin-S9"/>
 					</station>
-					<station id="5433845" arrival="20:02:30" stop="yes" report-via="no" real-distance="64200.0" number="4247" silent-audio="no">
+					<station id="5433845" arrival="20:02:30" stop="yes" report-via="no" real-distance="64200.0" number="4275" silent-audio="no">
 						<integration id="IDSJMK"/>
 						<line line_group="Linky" line="Lin-S9"/>
 					</station>
@@ -29732,7 +29256,7 @@
 							<carriage res="1001" construction="844"/>
 							<circulation when="after">
 								<schedule/>
-								<train train="4247" show="no" switch="auto"/>
+								<train train="4275" show="no" switch="auto"/>
 							</circulation>
 						</unit>
 					</composition>
@@ -29979,6 +29503,74 @@
 					<composition from="1" to="20">
 						<unit id="0101">
 							<carriage res="1001" construction="844"/>
+						</unit>
+					</composition>
+				</compositions>
+			</variant>
+		</train>
+		<train id="4275" brand="Os">
+			<variant id="0">
+				<schedule>
+					<calendar yesno="yes" id="kazdy-den"/>
+					<calendar yesno="no" id="2025-09-01/2025-12-13"/>
+				</schedule>
+				<train-path>
+					<station id="5433845" departure="21:25:00" stop="yes" report-via="no" silent-audio="no">
+						<integration id="IDSJMK"/>
+						<line line_group="Linky" line="Lin-S9"/>
+					</station>
+					<station id="5435885" departure="21:28:00" stop="no" report-via="no" real-distance="5200.0" silent-audio="no">
+						<integration id="IDSJMK"/>
+						<line line_group="Linky" line="Lin-S9"/>
+					</station>
+					<station id="5435875" arrival="21:30:00" stop="yes" report-via="no" real-distance="7000.0" number="4276" silent-audio="no">
+						<integration id="IDSJMK"/>
+						<line line_group="Linky" line="Lin-S9"/>
+					</station>
+				</train-path>
+				<compositions>
+					<schedule/>
+					<composition from="1" to="3">
+						<unit id="0101">
+							<carriage res="1001" construction="844"/>
+							<circulation when="after">
+								<schedule/>
+								<train train="4276" show="no" switch="auto"/>
+							</circulation>
+						</unit>
+					</composition>
+				</compositions>
+			</variant>
+		</train>
+		<train id="4276" brand="Os">
+			<variant id="0">
+				<schedule>
+					<calendar yesno="yes" id="kazdy-den"/>
+					<calendar yesno="no" id="2025-09-01/2025-12-13"/>
+				</schedule>
+				<train-path>
+					<station id="5435875" departure="21:35:00" stop="yes" report-via="no" silent-audio="no">
+						<integration id="IDSJMK"/>
+						<line line_group="Linky" line="Lin-S9"/>
+					</station>
+					<station id="5435885" departure="21:37:00" stop="no" report-via="no" real-distance="1800.0" silent-audio="no">
+						<integration id="IDSJMK"/>
+						<line line_group="Linky" line="Lin-S9"/>
+					</station>
+					<station id="5433845" arrival="21:40:00" stop="yes" report-via="no" real-distance="7000.0" number="4247" silent-audio="no">
+						<integration id="IDSJMK"/>
+						<line line_group="Linky" line="Lin-S9"/>
+					</station>
+				</train-path>
+				<compositions>
+					<schedule/>
+					<composition from="1" to="3">
+						<unit id="0101">
+							<carriage res="1001" construction="844"/>
+							<circulation when="after">
+								<schedule/>
+								<train train="4247" show="no" switch="auto"/>
+							</circulation>
 						</unit>
 					</composition>
 				</compositions>
@@ -35331,96 +34923,6 @@
 							<circulation when="after">
 								<schedule/>
 								<train train="14202" show="no" switch="auto"/>
-							</circulation>
-						</unit>
-					</composition>
-				</compositions>
-			</variant>
-			<variant id="2">
-				<schedule>
-					<calendar yesno="yes" id="25-prosinec"/>
-					<calendar yesno="yes" id="novy-rok"/>
-				</schedule>
-				<train-path>
-					<station id="5435575" departure="03:35:00" stop="yes" report-via="no" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S11"/>
-					</station>
-					<station id="5435635" arrival="03:37:30" departure="03:37:30" stop="yes" report-via="no" real-distance="1400.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S11"/>
-					</station>
-					<station id="5435585" arrival="03:40:30" departure="03:40:30" stop="yes" report-via="no" real-distance="3400.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S11"/>
-					</station>
-					<station id="5435525" arrival="03:42:00" departure="03:42:00" stop="yes" report-via="no" real-distance="4300.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S11"/>
-					</station>
-					<station id="5433745" arrival="03:44:00" departure="03:44:30" stop="yes" report-via="yes" real-distance="5400.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S11"/>
-					</station>
-					<station id="5433765" arrival="03:47:30" departure="03:47:30" stop="yes" report-via="no" real-distance="7300.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S11"/>
-					</station>
-					<station id="5433785" arrival="03:49:30" departure="03:49:30" stop="yes" report-via="no" real-distance="8500.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S11"/>
-					</station>
-					<station id="5433755" arrival="03:52:00" departure="03:54:00" stop="yes" report-via="yes" real-distance="10100.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S11"/>
-					</station>
-					<station id="5435515" arrival="03:56:00" departure="03:56:00" stop="yes" report-via="no" real-distance="11200.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S11"/>
-					</station>
-					<station id="5433775" arrival="03:58:30" departure="03:58:30" stop="yes" report-via="no" real-distance="12700.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S11"/>
-					</station>
-					<station id="5433795" arrival="04:01:30" departure="04:01:30" stop="yes" report-via="no" real-distance="14600.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S11"/>
-					</station>
-					<station id="5437065" arrival="04:04:30" departure="04:04:30" stop="yes" report-via="no" real-distance="16700.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S11"/>
-					</station>
-					<station id="5437055" arrival="04:07:30" departure="04:08:30" stop="yes" report-via="yes" real-distance="18600.0" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S11"/>
-					</station>
-					<station id="5436815" arrival="04:13:00" departure="04:13:00" stop="yes" report-via="no" real-distance="21700.0" silent-audio="no">
-						<arrangement id="request_stop"/>
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S11"/>
-					</station>
-					<station id="5436805" arrival="04:17:00" stop="yes" report-via="no" real-distance="24600.0" number="14272" silent-audio="no">
-						<integration id="IDZK"/>
-						<line line_group="Linky" line="Lin-S11"/>
-					</station>
-				</train-path>
-				<compositions rotation="01">
-					<schedule/>
-					<composition from="1" to="15">
-						<unit id="0101">
-							<carriage res="1001" construction="844"/>
-							<circulation when="after">
-								<schedule/>
-								<train train="14272" show="no" switch="auto"/>
 							</circulation>
 						</unit>
 					</composition>
@@ -47422,6 +46924,8 @@
 			<train id="4245"/>
 			<train id="4246"/>
 			<train id="4247"/>
+			<train id="4275"/>
+			<train id="4276"/>
 			<train id="13227"/>
 			<train id="13229"/>
 			<train id="13100"/>
@@ -48589,7 +48093,7 @@
 			<station id="5433354" res-id="5433354" name="Frýdlant nad Ostravicí" abbr20="Frýdlant n.O." metropolitan-area="0">
 				<msg list="station" name="Frýdlant nad Ostravicí">
 					<tr lang="cs" name="Frýdlant nad Ostravicí">
-						<phrase visual="Frýdlant n.Ostr.">
+						<phrase visual="Frýdlant nad Ostravicí">
 							<visualization str="@f8n@Frýdlant nad Ostravicí@f8n@" hw="tmx" role="short"/>
 							<visualization str="@fn08FRÝDLANT@n01@fn02NAD OSTRAVICÍ" hw="D4D1" role="trg_ext"/>
 							<visualization str="@fn08FRÝDLANT@n01@fn02NAD OSTRAVICÍ" hw="D4D1" role="trg_ext_ln"/>
@@ -48628,13 +48132,13 @@
 					</tr>
 					<tr lang="uni" name="Frýdlant nad Ostravicí">
 						<phrase visual="Frýdlant nad Ostravicí">
-							<visualization str="@f8n@Frýdlant n.Ostr.@f8n@" hw="tmx" role="short"/>
+							<visualization str="@f8n@Frýdlant nad Ostravicí@f8n@" hw="tmx" role="short"/>
 						</phrase>
 					</tr>
 				</msg>
 				<msg list="station_final" name="Frýdlant nad Ostravicí">
 					<tr lang="cs" name="Frýdlant nad Ostravicí">
-						<phrase visual="Frýdlant n.Ostr.">
+						<phrase visual="Frýdlant nad Ostravicí">
 							<sound-file sound-file="304585" sound-name="\CZ\R4\5433354" sound-format="mp3" sound-role="unipis"/>
 						</phrase>
 					</tr>
@@ -59412,9 +58916,6 @@
 		<calendar id="2025-10-28/2025-10-29">
 			<days yesno="yes" from="2025-10-28" to="2025-10-29"/>
 		</calendar>
-		<calendar id="2025-01-02/2025-01-02">
-			<days yesno="yes" from="2025-01-02" to="2025-01-02"/>
-		</calendar>
 		<calendar id="2025-12-13/2025-12-13">
 			<days yesno="yes" from="2025-12-13" to="2025-12-13"/>
 		</calendar>
@@ -59664,9 +59165,6 @@
 		<calendar id="2025-07-18/2025-07-19">
 			<days yesno="yes" from="2025-07-18" to="2025-07-19"/>
 		</calendar>
-		<calendar id="2024-12-30/2024-12-30">
-			<days yesno="yes" from="2024-12-30" to="2024-12-30"/>
-		</calendar>
 		<calendar id="2024-12-23/2024-12-24">
 			<days yesno="yes" from="2024-12-23" to="2024-12-24"/>
 		</calendar>
@@ -59736,8 +59234,8 @@
 		<calendar id="2024-12-16/2025-02-14">
 			<days yesno="yes" from="2024-12-16" to="2025-02-14"/>
 		</calendar>
-		<calendar id="2025-01-06/2025-12-12">
-			<days yesno="yes" from="2025-01-06" to="2025-12-12"/>
+		<calendar id="2025-09-01/2025-12-13">
+			<days yesno="yes" from="2025-09-01" to="2025-12-13"/>
 		</calendar>
 	</calendars>
 	<messages>
