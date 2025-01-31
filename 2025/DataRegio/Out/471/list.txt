@@ -397,6 +397,8 @@
 98 98 Opoczno Poludnie
 98 98 Polana Jakuszycka
 98 98 Szklarska Poreba Huta
+98 98 PREZENTA\x80N\x8B J\x8BZDA
+98 98 NENASTUPUJTE!
 98 98 Fr\x98\x64\x65k - VLAK JEDE DO DEPA
 98 98 ValMez - VLAK JEDE DO DEPA
 98 98 Fren\xA8t\xA0t m\x88sto - MANIPULA\x80N\x8B J\x8BZDA

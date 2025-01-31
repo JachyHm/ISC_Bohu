@@ -22,8 +22,9 @@ SPECIèLNã NèPISY -> v "JEN CãLOVè STANICE"
 
 99 - Test displejñ
 -------------------------------------------------
-Verze dat - 241222a zmàny:
+Verze dat - 250131a zmàny:
 10. 12. - generov†ny data pro novò GVD
 22. 12. - opraveny chybàj°c° vlaky pro mimo©†dnÇ hl†®en°
+31. 01. - posunuta vzd†lenost Ä. Tà®°n - Chotàbuz o +350 m
 -------------------------------------------------
-V p©°padà problÇmñ volej: +420 725 245 545 - J†chym Hurt°k
+V p©°padà problÇmñ volej: +420 725 057 681 - J†chym Hurt°k
