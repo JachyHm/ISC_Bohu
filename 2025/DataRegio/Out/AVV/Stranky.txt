@@ -3,7 +3,7 @@
 3;
 4;T32G_1.bin (jenom vozidla s GIB na Frenštát)
 5;
-6;T32_23.bin
+6;T32_24.bin
 7;
 8;MOSNOV_1.BIN (jenom vozidla s GIB)
 9;
