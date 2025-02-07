@@ -2,6 +2,17 @@
 
 <!-- Verzování souboru
 rr.mm.dd - popis
+25.02.05 - nová trať T27, 23..25, nový vstupní body T27, 21..22 - 20
+25.01.08 - oprava SR čísla Vlkov-Osova, zakomentován Vlkov u Tišnova
+24.12.19 - úprava vstupních bodů v Kolíně na T23
+24.10.22 - nová T28, 1..6
+24.08.16 - doplněn km 52,9 - zakomentováno
+24.05.11 - nová tratě:
+           T22, 53..58, 71..72
+           T23, 80..84, 91..92
+           T25, 61..62
+           nové vstupní boby na T25, 1..2
+24.04.10 - prohozeni zastávek Třebešice, Církvice
 23.08.29 - oprava T=30, 1..2
          - nová trať T30, 11..12
          - úpravy skrz celé xml
@@ -3799,7 +3810,7 @@ rr.mm.dd - popis
     </stanice> 
 
     <stanice>
-      <cisloStanice>57056400</cisloStanice>
+      <cisloStanice>58187600</cisloStanice>
       <nazevStanice>ProkopUdoli</nazevStanice>
     </stanice> 
     
@@ -5161,15 +5172,15 @@ rr.mm.dd - popis
   </trasa>
 
 
-  <!-- T=22 B=57..58 -->
-  <!-- Havlíčkův Brod - Jihlava -->
+  <!-- T=22 B=53..58 -->
+  <!-- Havlíčkův Brod - Horni Cerekev -->
   <trasa>
     <cisloTrasy>22</cisloTrasy>
-    <vstupniBodyOd>57</vstupniBodyOd>
+    <vstupniBodyOd>53</vstupniBodyOd>
     <vstupniBodyDo>58</vstupniBodyDo>
     <cisloDleSJR>701</cisloDleSJR>
     <bodyNaMape>
-       742,480; 742,543
+       742,480; 742,543; 720,562; 690,572
     </bodyNaMape>
     <typNaMapeMIB>0</typNaMapeMIB>
     <typNaMapeGIB>1</typNaMapeGIB>
@@ -5177,10 +5188,10 @@ rr.mm.dd - popis
 
     <stanice>
       <cisloStanice>54213400</cisloStanice>
-      <nazevStanice>Havlickuv Brod</nazevStanice>
+      <nazevStanice>HavlBrod</nazevStanice>
       
       <vstupniBod>
-        <veSmeru>58</veSmeru>
+        <veSmeru>54</veSmeru>
       </vstupniBod>
       
       <vjezdDoPrimaVeSmeru />
@@ -5230,7 +5241,8 @@ rr.mm.dd - popis
       <nazevStanice>Jihlava</nazevStanice>
       
       <vstupniBod>
-        <vProtismeru>59</vProtismeru>
+        <vProtismeru>57</vProtismeru>
+        <veSmeru>58</veSmeru>
       </vstupniBod>
 
       <vjezdDoPrimaVeSmeru />
@@ -5242,9 +5254,82 @@ rr.mm.dd - popis
     <stanice>
       <cisloStanice>34225300</cisloStanice>
       <nazevStanice>Jihlava mesto</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+
+    <stanice>
+      <cisloStanice>34205500</cisloStanice>
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>75860700</cisloStanice>
+      <nazevStanice>Rantirov</nazevStanice>
+      
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+
+    <stanice>
+      <cisloStanice>75850800</cisloStanice>
+    </stanice>
+  
+    <stanice>
+      <cisloStanice>75840900</cisloStanice>
+      <nazevStanice>Kostelec uJ</nazevStanice>
+      
       
       <vstupniBod>
-        <vProtismeru>57</vProtismeru>
+        <vProtismeru>55</vProtismeru>
+        <veSmeru>56</veSmeru>
+      </vstupniBod>
+
+      
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+
+    <stanice>
+      <cisloStanice>75830000</cisloStanice>
+    </stanice>
+  
+    <stanice>
+      <cisloStanice>78042900</cisloStanice>
+      <nazevStanice>Spelov</nazevStanice>
+      
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+
+    <stanice>
+      <cisloStanice>75820100</cisloStanice>
+      <nazevStanice>Batelov</nazevStanice>
+      
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+
+    <stanice>
+      <cisloStanice>75810200</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>75802900</cisloStanice>
+      <nazevStanice>Horni Cerekev</nazevStanice>
+      
+      <vstupniBod>
+        <vProtismeru>53</vProtismeru>
       </vstupniBod>
 
       <vjezdDoPrimaVeSmeru />
@@ -5253,6 +5338,159 @@ rr.mm.dd - popis
       <odjezdDoPrimaVProtismeru />
     </stanice>
   </trasa>
+
+  <!-- T=22 B=71..72 -->
+  <!-- Kostelec – Slavonice -->
+  <trasa>
+    <cisloTrasy>22</cisloTrasy>
+    <vstupniBodyOd>71</vstupniBodyOd>
+    <vstupniBodyDo>72</vstupniBodyDo>
+    <cisloDleSJR>701</cisloDleSJR>
+    <bodyNaMape>
+        720,562; 718,610; 692,672
+    </bodyNaMape>
+    <typNaMapeMIB>0</typNaMapeMIB>
+    <typNaMapeGIB>1</typNaMapeGIB>
+    <typNaMapeETCS>0</typNaMapeETCS>
+
+    <stanice>
+      <cisloStanice>75840900</cisloStanice>
+      <nazevStanice>Kostelec uJ</nazevStanice>
+
+      <vstupniBod>
+        <veSmeru>72</veSmeru>
+      </vstupniBod>
+      
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>75841700</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>75000000</cisloStanice>
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>74990300</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>74980400</cisloStanice>
+      <nazevStanice>Trest</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+
+    <stanice>
+      <cisloStanice>74970500</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>74960600</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>74950700</cisloStanice>
+      <nazevStanice>Sedlejov</nazevStanice>
+      
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+
+    <stanice>
+      <cisloStanice>74940800</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>74930900</cisloStanice>
+      <nazevStanice>Telc</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+
+    <stanice>
+      <cisloStanice>74900200</cisloStanice>
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>74920000</cisloStanice>
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>74910100</cisloStanice>
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>74902800</cisloStanice>
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>74892100</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>74882200</cisloStanice>
+      <nazevStanice>Dacice</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+
+    <stanice>
+      <cisloStanice>74872300</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>78170800</cisloStanice>
+      <nazevStanice>km 52.9</nazevStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>74862400</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>74852500</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>74842600</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>74832700</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>74822800</cisloStanice>
+      <nazevStanice>Slavonice</nazevStanice>
+      
+      <vstupniBod>
+        <vProtismeru>71</vProtismeru>
+      </vstupniBod>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+  </trasa>
+
 
   <!-- T=23 B=0..4 -->
   <!-- Praha - Lysa n.L. -->
@@ -5519,6 +5757,7 @@ rr.mm.dd - popis
       <nazevStanice>Kolin</nazevStanice>
 
       <vstupniBod>
+        <veSmeru>10</veSmeru>
         <vProtismeru>11</vProtismeru>
       </vstupniBod>  
 
@@ -5540,10 +5779,6 @@ rr.mm.dd - popis
     <stanice>
       <cisloStanice>54014600</cisloStanice>
       <nazevStanice>Kutna Hora hln</nazevStanice>
-
-      <vstupniBod>
-        <vProtismeru>10</vProtismeru>
-      </vstupniBod>  
 
       <navestVjezd>
          <veSmeru>40</veSmeru>
@@ -5596,6 +5831,391 @@ rr.mm.dd - popis
 
       <vstupniBod>
         <vProtismeru>21</vProtismeru>
+      </vstupniBod>
+      
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+  </trasa>
+
+  <!-- T=23 B=81..84 -->
+  <!-- Pardubice - HavlBrod -->
+ <trasa>
+    <cisloTrasy>23</cisloTrasy>
+    <vstupniBodyOd>80</vstupniBodyOd>
+    <vstupniBodyDo>84</vstupniBodyDo>
+    <cisloDleSJR>507</cisloDleSJR>
+    <bodyNaMape>
+      792,348; 780,330; 788,382; 813,385; 828,410; 742,480;
+    </bodyNaMape>
+    <typNaMapeMIB>0</typNaMapeMIB>
+    <typNaMapeGIB>1</typNaMapeGIB>
+    <typNaMapeETCS>0</typNaMapeETCS>
+
+    <stanice>
+      <cisloStanice>53613600</cisloStanice>
+      <nazevStanice>Pardubice</nazevStanice>
+
+      <vstupniBod>
+        <veSmeru>80</veSmeru>
+      </vstupniBod>  
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>54613500</cisloStanice>
+      <nazevStanice>Rosice nL</nazevStanice>
+
+      <vstupniBod>
+        <veSmeru>82</veSmeru>
+      </vstupniBod>  
+      
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>54633300</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>54643200</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>54663000</cisloStanice>
+      <nazevStanice>Medlesice</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>54673900</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>54653100</cisloStanice>
+      <nazevStanice>Chrudim</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>54683800</cisloStanice>
+      <nazevStanice>Slatinany</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>54723200</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>54703400</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>54693700</cisloStanice>
+      <nazevStanice>Chrast u Ch</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>54713300</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>54823000</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>58073800</cisloStanice>
+      <nazevStanice>Cejrov</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>54833900</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>54813100</cisloStanice>
+      <nazevStanice>Zdarec u Sk</nazevStanice>
+
+      <vstupniBod>
+        <veSmeru>84</veSmeru>
+        <vProtismeru>83</vProtismeru>
+      </vstupniBod>  
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>54843800</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>54863600</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>54873500</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>54853700</cisloStanice>
+      <nazevStanice>Hlinsko</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>54883400</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>54888300</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>54893300</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>54903000</cisloStanice>
+      <nazevStanice>Zdirec nD</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>54913900</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>54933700</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>54923800</cisloStanice>
+      <nazevStanice>Chotebor</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>54943600</cisloStanice>
+      <nazevStanice>Rozsochatec</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>54243100</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>58086000</cisloStanice>
+      <nazevStanice>odb.Kubesuv Mlyn</nazevStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>54213400</cisloStanice>
+      <nazevStanice>HavlBrod</nazevStanice>
+
+      <vstupniBod>
+        <vProtismeru>81</vProtismeru>
+      </vstupniBod>
+      
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+  </trasa>
+
+
+  <!-- T=23 B=91..92 -->
+  <!-- Zdarec u Skutce - Svitavy -->
+ <trasa>
+    <cisloTrasy>23</cisloTrasy>
+    <vstupniBodyOd>91</vstupniBodyOd>
+    <vstupniBodyDo>92</vstupniBodyDo>
+    <cisloDleSJR>507</cisloDleSJR>
+    <bodyNaMape>
+      828,410; 882,438; 922,430
+    </bodyNaMape>
+    <typNaMapeMIB>0</typNaMapeMIB>
+    <typNaMapeGIB>1</typNaMapeGIB>
+    <typNaMapeETCS>0</typNaMapeETCS>
+
+    <stanice>
+      <cisloStanice>54813100</cisloStanice>
+      <nazevStanice>Zdarec u Sk</nazevStanice>
+
+      <vstupniBod>
+        <veSmeru>92</veSmeru>
+      </vstupniBod>  
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>55013700</cisloStanice>
+      <nazevStanice>Skutec</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>55023600</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>55173900</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>55043400</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>55033500</cisloStanice>
+      <nazevStanice>Cachnov</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>55053300</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>55153100</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>55073100</cisloStanice>
+      <nazevStanice>Borova</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>55003800</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>55083000</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>55093900</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>55063200</cisloStanice>
+      <nazevStanice>Policka</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>55103600</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>55113500</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>55163000</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>55123400</cisloStanice>
+      <nazevStanice>Kvetna</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>55133300</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>55143200</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>54353800</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>54333000</cisloStanice>
+      <nazevStanice>Svitavy</nazevStanice>
+
+      <vstupniBod>
+        <vProtismeru>91</vProtismeru>
       </vstupniBod>
       
       <vjezdDoPrimaVeSmeru />
@@ -5881,7 +6501,7 @@ rr.mm.dd - popis
     <bodyNaMape>
     940,615; 902,560; 838,553; 812,497; 745,482  
     </bodyNaMape>
-    <typNaMapeMIB>2</typNaMapeMIB>
+    <typNaMapeMIB>1</typNaMapeMIB>
     <typNaMapeGIB>0</typNaMapeGIB>
     <typNaMapeETCS>0</typNaMapeETCS>
     
@@ -5952,6 +6572,11 @@ rr.mm.dd - popis
     <stanice>
       <cisloStanice>36395200</cisloStanice>
       <nazevStanice>Tisnov</nazevStanice>
+
+      <vstupniBod>
+        <veSmeru>3</veSmeru>
+        <vProtismeru>4</vProtismeru>
+      </vstupniBod>         
       
       <vjezdDoPrimaVeSmeru />
       <odjezdDoPrimaVeSmeru />
@@ -5988,6 +6613,11 @@ rr.mm.dd - popis
     </stanice>
 
     <stanice>
+      <cisloStanice>36846400</cisloStanice>
+      <nazevStanice>Vlkov-Osova</nazevStanice>
+    </stanice>
+
+    <stanice>
       <cisloStanice>36865400</cisloStanice>
     </stanice>
 
@@ -5998,6 +6628,11 @@ rr.mm.dd - popis
     <stanice>
       <cisloStanice>34575100</cisloStanice>
       <nazevStanice>Krizanov</nazevStanice>
+
+      <vstupniBod>
+        <veSmeru>5</veSmeru>
+        <vProtismeru>6</vProtismeru>
+      </vstupniBod>         
 
       <vjezdDoPrimaVeSmeru />
       <odjezdDoPrimaVeSmeru />
@@ -6032,6 +6667,11 @@ rr.mm.dd - popis
     <stanice>
       <cisloStanice>37015500</cisloStanice>
       <nazevStanice>Zdar nS</nazevStanice>
+
+      <vstupniBod>
+        <veSmeru>7</veSmeru>
+        <vProtismeru>8</vProtismeru>
+      </vstupniBod>         
 
       <vjezdDoPrimaVeSmeru />
       <odjezdDoPrimaVeSmeru />
@@ -6120,7 +6760,7 @@ rr.mm.dd - popis
     742,480; 710,452; 707,375; 673,339
     </bodyNaMape>
 
-    <typNaMapeMIB>2</typNaMapeMIB>
+    <typNaMapeMIB>1</typNaMapeMIB>
     <typNaMapeGIB>0</typNaMapeGIB>
     <typNaMapeETCS>0</typNaMapeETCS>
     
@@ -6153,11 +6793,11 @@ rr.mm.dd - popis
     </stanice>
    
     <stanice>
-      <cisloStanice>54004700</cisloStanice>
+      <cisloStanice>54034400</cisloStanice>
     </stanice>   
 
     <stanice>
-      <cisloStanice>54034400</cisloStanice>
+      <cisloStanice>54004700</cisloStanice>
     </stanice>
     
     <stanice>
@@ -6351,6 +6991,140 @@ rr.mm.dd - popis
 
       <vstupniBod>
         <vProtismeru>42</vProtismeru>
+      </vstupniBod>
+      
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+  </trasa>
+
+
+  <!-- T=25 B=61..62 -->
+  <!-- Tisnov - Zdar n.S. stara trat -->
+ <trasa>
+    <cisloTrasy>25</cisloTrasy>
+    <vstupniBodyOd>61</vstupniBodyOd>
+    <vstupniBodyDo>62</vstupniBodyDo>
+    <cisloDleSJR>325</cisloDleSJR>
+    <bodyNaMape>
+        902,560; 836,497; 812,497  
+    </bodyNaMape>
+    <typNaMapeMIB>0</typNaMapeMIB>
+    <typNaMapeGIB>1</typNaMapeGIB>
+    <typNaMapeETCS>0</typNaMapeETCS>
+
+    <stanice>
+      <cisloStanice>36395200</cisloStanice>
+      <nazevStanice>Tisnov</nazevStanice>
+
+      <vstupniBod>
+        <veSmeru>61</veSmeru>
+      </vstupniBod>  
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>36465300</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>36405900</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>36455400</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>35225200</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>35215300</cisloStanice>
+      <nazevStanice>Nedvedice</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>35935600</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>35925700</cisloStanice>
+      <nazevStanice>Rozna</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>33555400</cisloStanice>
+      <nazevStanice>Bystrice nP</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>33575200</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>33565300</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>35405000</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>35385400</cisloStanice>
+      <nazevStanice>Nove Mesto nM</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>35395300</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>37045200</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>37025400</cisloStanice>
+      <nazevStanice>Veselicko</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>      
+
+    <stanice>
+      <cisloStanice>37015500</cisloStanice>
+      <nazevStanice>Zdar nS</nazevStanice>
+
+      <vstupniBod>
+        <vProtismeru>62</vProtismeru>
       </vstupniBod>
       
       <vjezdDoPrimaVeSmeru />
@@ -7157,11 +7931,11 @@ rr.mm.dd - popis
   </trasa>
 
 
-  <!-- T=27 B=21..22 -->
+  <!-- T=27 B=20..22 -->
   <!-- Studenka - Mosnov -->
   <trasa>
     <cisloTrasy>27</cisloTrasy>
-    <vstupniBodyOd>21</vstupniBodyOd>
+    <vstupniBodyOd>20</vstupniBodyOd>
     <vstupniBodyDo>22</vstupniBodyDo>
     <cisloDleSJR>306</cisloDleSJR>
     <bodyNaMape>
@@ -7200,6 +7974,10 @@ rr.mm.dd - popis
     
     <stanice>
       <cisloStanice>34608000</cisloStanice>
+      <nazevStanice>Sedlnice</nazevStanice>
+       <vstupniBod>
+        <vProtismeru>20</vProtismeru>
+      </vstupniBod>
     </stanice>
     
     <stanice>
@@ -7208,6 +7986,297 @@ rr.mm.dd - popis
       <vstupniBod>
         <vProtismeru>22</vProtismeru>
       </vstupniBod>
+      
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+  </trasa>
+
+  
+  <!-- T=27 B=23..25 -->
+  <!-- Mosnov - Verovice -->
+  <trasa>
+    <cisloTrasy>27</cisloTrasy>
+    <vstupniBodyOd>23</vstupniBodyOd>
+    <vstupniBodyDo>25</vstupniBodyDo>
+    <cisloDleSJR>306</cisloDleSJR>
+    <bodyNaMape>
+       1243, 453; 1241, 455; 1246, 490; 1246, 505
+    </bodyNaMape>
+    <typNaMapeMIB>0</typNaMapeMIB>
+    <typNaMapeGIB>1</typNaMapeGIB>
+    <typNaMapeETCS>0</typNaMapeETCS>
+
+    <stanice>
+      <cisloStanice>34603100</cisloStanice>
+      <nazevStanice>Mosnov</nazevStanice>
+
+      <vstupniBod>
+        <veSmeru>23</veSmeru>
+      </vstupniBod>
+      
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>34604900</cisloStanice>
+      <nazevStanice>Sedlnice predj.</nazevStanice>
+
+      <vstupniBod>
+        <veSmeru>25</veSmeru>
+      </vstupniBod>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+ 
+     <stanice>
+      <cisloStanice>34614800</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>34574400</cisloStanice>
+      <nazevStanice>Pribor</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+
+    <stanice>
+      <cisloStanice>38073300</cisloStanice>
+      <nazevStanice>Koprivnice n.</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+ 
+     <stanice>
+      <cisloStanice>33714700</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>33704800</cisloStanice>
+      <nazevStanice>Koprivnice</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+
+    <stanice>
+      <cisloStanice>34874800</cisloStanice>
+      <nazevStanice>Stramberk</nazevStanice>
+
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+
+     <stanice>
+      <cisloStanice>34884700</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>34984500</cisloStanice>
+      <nazevStanice>Verovice</nazevStanice>
+      <vstupniBod>
+        <vProtismeru>24</vProtismeru>
+      </vstupniBod>
+      
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+  </trasa>
+
+
+  <!-- T=28 B=1..6 -->
+  <!-- Hranice - Strelna -->
+  <trasa>
+    <cisloTrasy>28</cisloTrasy>
+    <vstupniBodyOd>1</vstupniBodyOd>
+    <vstupniBodyDo>6</vstupniBodyDo>
+    <cisloDleSJR>308</cisloDleSJR>
+    <bodyNaMape>
+       1165,500; 1216,525; 1218,570; 1235,620; 1247,629
+    </bodyNaMape>
+    <typNaMapeMIB>0</typNaMapeMIB>
+    <typNaMapeGIB>1</typNaMapeGIB>
+    <typNaMapeETCS>1</typNaMapeETCS>
+
+    <stanice>
+      <cisloStanice>33722000</cisloStanice>
+      <nazevStanice>Hranice nM</nazevStanice>
+
+      <vstupniBod>
+        <veSmeru>2</veSmeru>
+      </vstupniBod>
+      
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+
+    <stanice>
+      <cisloStanice>38062600</cisloStanice>
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>33732900</cisloStanice>
+      <nazevStanice>Hranice mesto</nazevStanice>
+      
+    <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>34992800</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>33742800</cisloStanice>
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>33832700</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>33822800</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>33812900</cisloStanice>
+      <nazevStanice>Hustopece nB</nazevStanice>
+      
+    <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+
+    <stanice>
+      <cisloStanice>35202100</cisloStanice>
+      <nazevStanice>Lhotka nB</nazevStanice>
+      
+    <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>35162700</cisloStanice>
+      <nazevStanice>ValMez</nazevStanice>
+      
+      <vstupniBod>
+        <veSmeru>6</veSmeru>
+        <vProtismeru>5</vProtismeru>
+      </vstupniBod>     
+      
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+
+    <stanice>
+      <cisloStanice>35172600</cisloStanice>
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>33852500</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>33842600</cisloStanice>
+      <nazevStanice>Jablunka</nazevStanice>
+      
+    <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>35442300</cisloStanice>
+      <nazevStanice>Vsetin</nazevStanice>
+      
+      <vstupniBod>
+        <veSmeru>4</veSmeru>
+        <vProtismeru>3</vProtismeru>
+      </vstupniBod>     
+      
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+
+    <stanice>
+      <cisloStanice>35443100</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>35472000</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>35142900</cisloStanice>
+      <nazevStanice>ValPolanka</nazevStanice>
+      
+    <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+
+    <stanice>
+      <cisloStanice>35152800</cisloStanice>
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>33672700</cisloStanice>
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>33682600</cisloStanice>
+    </stanice>
+
+    <stanice>
+      <cisloStanice>33652900</cisloStanice>
+      <nazevStanice>Horni Lidec</nazevStanice>
+
+      <vstupniBod>
+        <vProtismeru>1</vProtismeru>
+      </vstupniBod>
+      
+      <vjezdDoPrimaVeSmeru />
+      <odjezdDoPrimaVeSmeru />
+      <vjezdDoPrimaVProtismeru />
+      <odjezdDoPrimaVProtismeru />
+    </stanice>
+    
+    <stanice>
+      <cisloStanice>33692500</cisloStanice>
+      <nazevStanice>(Strelna)</nazevStanice>
       
       <vjezdDoPrimaVeSmeru />
       <odjezdDoPrimaVeSmeru />
