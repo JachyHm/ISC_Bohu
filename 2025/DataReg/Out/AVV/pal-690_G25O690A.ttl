@@ -1,7 +1,7 @@
 show -1
 ;---
 ;settitle "Data AVV"
-verze = 'AVV690 (G25O690A)'
+verze = 'AVV690 (G25O690B)'
 heslo = 'avv650'
 
 logdir="Logy"
@@ -43,7 +43,7 @@ soubor[8]="Mapy\Mosnov_2.bin"
 soubor[9]=""
 soubor[10]=""
 soubor[11]=""
-soubor[12]="690\G25O690A.bin"
+soubor[12]="690\G25O690B.bin"
 soubor[13]=""
 soubor[14]=""
 soubor[15]=""
