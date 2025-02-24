@@ -1,8 +1,8 @@
 show -1
 ;---
 ;settitle "Data AVV"
-verze = 'AVV162 (G25O650A)'
-heslo = 'avv362'
+verze = 'AVV842BOH (G25O690A)'
+heslo = 'avv842'
 
 logdir="Logy"
 rychlost = 38400
@@ -36,15 +36,15 @@ soubor[0]=""
 soubor[1]=""
 soubor[2]="Mapy\T27_23.bin"
 soubor[3]=""
-soubor[4]=""
+soubor[4]="Mapy\T32G_1.bin"
 soubor[5]=""
 soubor[6]="Mapy\T32_24.bin"
 soubor[7]=""
-soubor[8]="Mapy\Mosnov_1.bin"
+soubor[8]="Mapy\Mosnov_2.bin"
 soubor[9]=""
 soubor[10]=""
 soubor[11]=""
-soubor[12]="650\G25O650A.bin"
+soubor[12]="690\G25O690A.bin"
 soubor[13]=""
 soubor[14]=""
 soubor[15]=""

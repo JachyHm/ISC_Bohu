@@ -32,6 +32,7 @@ for indexport 1 99
     sendbreak
     pause 1
     send #13
+    pause 1
 
     wait 'Heslo:' 'AVV>' 'Zaznam dat pripraven'
     if result=1 goto zadejheslo
@@ -67,6 +68,9 @@ mpause 100
 send groupmatchstr6
 mpause 100
 send #13
+
+mtimeout=0
+timeout=2
 
 ;pokud po zadani hesla AVV neodpovi AVV>, nezadali jsme spravne heslo
 wait 'AVV>'
@@ -148,8 +152,20 @@ for indexstran 0 31
         ;vetsinou konci absolutni cinskou polevkou z AVV
         kmtsend absolutni
         wait dotazradek
-        if result=1 sendln 'A'
-        wait 'Data se shoduji.'
+        if result=0 goto strankanok
+
+        timeout=10
+        sendln 'A'
+        wait 'Stranka zapsana O.K.'
+        timeout=2
+        if result=1 goto pokrnahr
+
+        :strankanok
+        chyba = 'Nahrání stránky '
+        strconcat chyba strstran
+        strconcat chyba ' se nepovedlo! Pokraèovat?'
+        yesnobox chyba 'Chyba pøi nahrávání stránky!'
+        if result<>1 goto konec
     else
         chyba = 'Soubor s daty "'
         strconcat chyba absolutni
@@ -237,4 +253,5 @@ sendln 'q'
 
 messagebox 'Nahrávání korektnì ukonèeno' 'AVV OK'
 
+sendbreak
 closett

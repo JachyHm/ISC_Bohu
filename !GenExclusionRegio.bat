@@ -1,1 +1,1 @@
-GenerateExclusion "2025/DataRegio/BohuRegio.xml"
+GenerateExclusion "2025/DataReg/BohuRegio.xml"

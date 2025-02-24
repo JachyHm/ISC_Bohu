@@ -1,12 +1,11 @@
 show -1
 ;---
 ;settitle "Data AVV"
-verze = 'AVV842BOH (G25O690A)'
-heslo = 'avv842'
+verze = 'AVV690 (G25O690A)'
+heslo = 'avv650'
 
 logdir="Logy"
-rychlost = 38400
-ato=1
+rychlost = 115200
 
 intdim mazani 16
 strdim soubor 32
@@ -40,9 +39,9 @@ soubor[4]="Mapy\T32G_1.bin"
 soubor[5]=""
 soubor[6]="Mapy\T32_24.bin"
 soubor[7]=""
-soubor[8]="Mapy\Mosnov_1.bin"
+soubor[8]="Mapy\Mosnov_2.bin"
 soubor[9]=""
-soubor[10]=""
+soubor[10]="690\TEST_VER.bin"
 soubor[11]=""
 soubor[12]="690\G25O690A.bin"
 soubor[13]=""

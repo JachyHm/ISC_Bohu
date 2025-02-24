@@ -5,7 +5,7 @@
 5;
 6;T32_24.bin
 7;
-8;MOSNOV_1.BIN (jenom vozidla s GIB)
+8;Mosnov_2.BIN (jenom vozidla s GIB)
 9;
 10;T33_4.bin (jenom ~ vozidla)
 11;

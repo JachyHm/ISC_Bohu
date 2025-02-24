@@ -1,1 +1,1 @@
-AddTransferToStation "2025/DataDalkova/BohuDalkova.xml"
+AddTransferToStation "2025/DataDal/BohuDalkova.xml"

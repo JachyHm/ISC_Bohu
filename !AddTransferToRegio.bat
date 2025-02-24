@@ -1,1 +1,1 @@
-AddTransferToStation "2025/DataRegio/BohuRegio.xml"
+AddTransferToStation "2025/DataReg/BohuRegio.xml"

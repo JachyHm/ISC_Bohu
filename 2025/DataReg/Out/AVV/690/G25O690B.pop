@@ -249,7 +249,7 @@ Obsah:        PLATI 250, 15/12/2024, 13/12/2025
               VLAK     3040, 04:47, Tr3040
               VLAK     3041, 06:28, Tr3041
               VLAK     3042, 12:42, Tr3042
-              PLATI 223, 15/12/2024, 13/12/2025
+              PLATI 227, 15/12/2024, 13/12/2025
               VLAK     3043, 14:42, Tr3043
               VLAK     3044, 16:36, Tr3044
               VLAK     3045, 18:28, Tr3045
@@ -473,6 +473,10 @@ Obsah:        PLATI 250, 15/12/2024, 13/12/2025
               VLAK    28934, 11:56, Tr28930
               VLAK    28935, 19:15, Tr28931
               VLAK    28937, 23:25, Tr28931
+              VLAK    28940, 19:33, Tr28930
+              VLAK    28941, 19:58, Tr28931
+              VLAK    28942, 02:54, Tr28942
+              VLAK    28944, 06:32, Tr28930
 
               KONEC
               ZAROVNEJ
@@ -1598,6 +1602,10 @@ Tr28921:      TRASA 27,14, Jr28921
 Tr28930:      TRASA 27,11, Jr28930
               TRASA
 Tr28931:      TRASA 27,14, Jr28931
+              TRASA
+Tr28942:      TRASA 27,11, Jr28942
+              TRASA 32,31, Jr28942a
+              TRASA 32,41, Jr28942b
               TRASA
 
               ZAROVNEJ
@@ -11903,6 +11911,49 @@ Jr28931:      BAZE 09:26
               JIZRAD  Z,  160, (T/T)     0:00,  09:26    ;Ostrava hln
               JIZRAD  P,  160,          09:30,  09:30    ;
               JIZRAD  Z,  160, (6/6)    09:33,   0:00    ;Bohumin
+
+Jr28942:      BAZE 02:54
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  Z,  160, (T/T)    03:01,  03:04    ;Ostrava hln
+              JIZRAD  P,  160,          02:56*, 02:56*   ;
+              JIZRAD  Z,  160, (6/6)     0:00,  02:54    ;Bohumin
+Jr28942a:     JIZRAD  Z,  160, (4/4)    03:01,  03:04    ;Ostrava hln
+              JIZRAD  P,  160,          03:18,  03:18    ;Ostrava ban.n.
+              JIZRAD  P,  160,          03:19,  03:19    ;
+              JIZRAD  P,  160, (5/5)    03:20,  03:20    ;Ostrava stred
+              JIZRAD  P,  160,          03:21*, 03:21*   ;
+              JIZRAD  P,  160, (5/T)    03:23*, 03:23*   ;Ostrava-Kuncice
+Jr28942b:     JIZRAD  P,  160, (T/T)    03:23*, 03:23*   ;Ostrava-Kuncice
+              JIZRAD  P,  160, (T/T)    03:26,  03:26    ;Vratimov
+              JIZRAD  P,  160, (T/T)    03:29*, 03:29*   ;Paskov
+              JIZRAD  P,  160, (T/T)    03:33,  03:33    ;Liskovec u FM
+              JIZRAD  Z,  160, (4/4)    03:36*, 03:37*   ;Frydek-Mistek
+              JIZRAD  P,  160, (T/T)    03:41,  03:41    ;Baska
+              JIZRAD  P,  160, (T/T)    03:44,  03:44    ;Przno
+              JIZRAD  P,  160, (T/T)    03:47*, 03:47*   ;Frydlant nO
+              JIZRAD  P,  160, (T/T)    03:52,  03:52    ;
+              JIZRAD  P,  160, (T/T)    03:55,  03:55    ;Kuncice pO
+              JIZRAD  Z,  160, (T/T)    04:02,  04:10    ;Frenstat pR
+              JIZRAD  Z,  160,          04:13,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,  160,           0:00,   0:00    ;ValMez
 
 
 ;vse vypsano
