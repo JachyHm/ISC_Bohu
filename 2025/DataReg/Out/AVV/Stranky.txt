@@ -5,12 +5,12 @@
 5;
 6;T32_24.bin
 7;
-8;Mosnov_2.BIN (jenom vozidla s GIB)
+8;Mosnov_2.bin/T28G_1.bin (jenom vozidla s GIB)
 9;
 10;T33_4.bin (jenom ~ vozidla)
 11;
 12;T1_62.bin (jenom vozidla co mohou jet na Prahu)
 13;
-14;G25O471a.bin - nový J?
+14;G25O471B.bin - nový JØ
 15;
-16;G24O471a.bin - starý J?
+16;G24O471a.bin - starý JØ

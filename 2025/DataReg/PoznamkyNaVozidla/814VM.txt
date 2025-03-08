@@ -1,10 +1,12 @@
-Data 814 ValMez GVD 24/25 akt. 02.02.2025
-1. změna GVD k 15. 12. 2024
+Data 814 ValMez GVD 24/25 akt. 07.03.2025
+2. změna GVD k 9. 3. 2025
 
 10. 12. - generovány data pro GVD25
 12. 12. - přidány výlukové vlaky na trati 280
 16. 12. - doplněny hlášení "zadní část vlaku končí jízdu ve stanici"
 02. 02. - výluka Osíčko - Bystřice p. H.
+07. 03. - doplněny výlukové vlaky Vsetín - Lhotka/B
+09. 03. - 2. změna GVD 9. 3. 2025
 
 V případě nesrovnalostí volej/piš:
 +420 725 245 545 - Jáchym Hurtík

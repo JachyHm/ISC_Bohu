@@ -345,23 +345,23 @@
 					<calendar yesno="no" id="2024-12-23/2024-12-31"/>
 				</schedule>
 				<train-path>
-					<station id="5433324" departure="04:19:00" stop="yes" report-via="no" brand="Os" silent-audio="no">
+					<station id="5433324" departure="04:20:00" stop="yes" report-via="no" brand="Os" silent-audio="no">
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S6"/>
 					</station>
-					<station id="5433334" arrival="04:21:00" departure="04:22:00" stop="yes" report-via="yes" real-distance="1500.0" silent-audio="no">
+					<station id="5433334" arrival="04:22:00" departure="04:26:00" stop="yes" report-via="yes" real-distance="1500.0" silent-audio="no">
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S6"/>
 					</station>
-					<station id="5433934" arrival="04:29:00" departure="04:30:00" stop="yes" report-via="no" real-distance="7800.0" silent-audio="no">
+					<station id="5433934" arrival="04:33:00" departure="04:34:00" stop="yes" report-via="no" real-distance="7800.0" silent-audio="no">
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S6"/>
 					</station>
-					<station id="5433364" arrival="04:33:30" departure="04:34:00" stop="yes" report-via="no" real-distance="11400.0" silent-audio="no">
+					<station id="5433364" arrival="04:37:30" departure="04:38:00" stop="yes" report-via="no" real-distance="11400.0" silent-audio="no">
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S6"/>
 					</station>
-					<station id="5433354" arrival="04:38:30" departure="04:47:00" stop="yes" report-via="yes" real-distance="16100.0" silent-audio="no">
+					<station id="5433354" arrival="04:42:30" departure="04:47:00" stop="yes" report-via="yes" real-distance="16100.0" silent-audio="no">
 						<connection-direction direction="5434464"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S6"/>
@@ -701,104 +701,6 @@
 			</variant>
 		</train>
 		<train id="3105" brand="Os">
-			<variant id="0">
-				<schedule>
-					<calendar yesno="yes" id="novy-rok"/>
-				</schedule>
-				<train-path>
-					<station id="5433324" departure="05:20:00" stop="yes" report-via="no" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5433334" arrival="05:22:00" departure="05:24:00" stop="yes" report-via="yes" real-distance="1500.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5433934" arrival="05:30:30" departure="05:31:30" stop="yes" report-via="no" real-distance="7800.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5433364" arrival="05:35:00" departure="05:36:00" stop="yes" report-via="no" real-distance="11400.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5433354" arrival="05:41:00" departure="05:47:00" stop="yes" report-via="yes" real-distance="16100.0" silent-audio="no">
-						<connection-direction direction="5434464"/>
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5433394" arrival="05:51:00" departure="05:51:30" stop="yes" report-via="no" real-distance="19500.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5433024" arrival="05:56:00" departure="05:56:30" stop="yes" report-via="no" real-distance="23400.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5433344" arrival="06:00:00" departure="06:05:00" stop="yes" report-via="yes" real-distance="26600.0" silent-audio="no">
-						<connection-direction direction="5433514"/>
-						<connection-direction direction="5433234"/>
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5433974" arrival="06:09:30" departure="06:10:00" stop="yes" report-via="no" real-distance="29700.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5434514" arrival="06:16:00" departure="06:18:00" stop="yes" report-via="no" real-distance="34500.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5435034" arrival="06:23:00" departure="06:24:00" stop="yes" report-via="no" real-distance="38700.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5434414" arrival="06:27:30" departure="06:34:30" stop="yes" report-via="yes" real-distance="41000.0" silent-audio="no">
-						<connection-direction direction="5433454"/>
-						<connection-direction direction="5434194"/>
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5434374" arrival="06:37:30" departure="06:37:30" stop="yes" report-via="no" real-distance="43200.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5434394" arrival="06:41:00" departure="06:42:00" stop="yes" report-via="yes" real-distance="45900.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5434393" arrival="06:43:30" departure="06:44:00" stop="yes" report-via="no" real-distance="46600.0" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5438044" departure="06:45:30" stop="no" report-via="no" real-distance="47300.0" silent-audio="no">
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-					<station id="5434364" arrival="06:47:00" stop="yes" report-via="no" real-distance="48800.0" number="2040" silent-audio="no">
-						<integration id="ODIS"/>
-						<line line_group="Linky" line="Lin-S6"/>
-					</station>
-				</train-path>
-				<compositions rotation="01">
-					<schedule/>
-					<composition from="1" to="8">
-						<unit id="0101">
-							<carriage res="1001" construction="842"/>
-							<carriage res="1002" construction="Bdtn 757"/>
-						</unit>
-					</composition>
-					<composition from="8" to="17">
-						<unit id="0101">
-							<carriage res="1001" construction="842"/>
-							<carriage res="1002" construction="Bdtn 757"/>
-						</unit>
-						<unit id="0103">
-							<carriage res="1003" construction="Bdtn 757"/>
-							<carriage res="1004" construction="842"/>
-						</unit>
-					</composition>
-				</compositions>
-			</variant>
 			<variant id="1">
 				<schedule>
 					<calendar yesno="yes" id="sobota"/>
@@ -9720,7 +9622,18 @@
 		</train-group>
 	</timetable>
 	<infrastructure id="gvd_20241215_20251213" from="2024-12-15" to="2025-12-13" time-zone="Europe/Prague">
-		<transports/>
+		<transports>
+			<transport id="metro" name="metro">
+				<msg list="transport" name="metro">
+					<tr lang="cs" name="metro">
+						<phrase visual="metro">
+							<visualization str="metro @p57350@" hw="tmx" role="short"/>
+							<sound-file sound-file="349691" sound-name="\CZ\Slova\153" sound-format="mp3" sound-role="unipis"/>
+						</phrase>
+					</tr>
+				</msg>
+			</transport>
+		</transports>
 		<stations>
 			<station id="5433324" res-id="5433324" name="Frenštát pod Radhoštěm město" abbr20="Frenštát p.R. město" metropolitan-area="0">
 				<msg list="station" name="Frenštát pod Radhoštěm město">
@@ -10011,7 +9924,7 @@
 			<station id="5433354" res-id="5433354" name="Frýdlant nad Ostravicí" abbr20="Frýdlant n.O." metropolitan-area="0">
 				<msg list="station" name="Frýdlant nad Ostravicí">
 					<tr lang="cs" name="Frýdlant nad Ostravicí">
-						<phrase visual="Frýdlant n.Ostr.">
+						<phrase visual="Frýdlant nad Ostravicí">
 							<visualization str="@f8n@Frýdlant nad Ostravicí@f8n@" hw="tmx" role="short"/>
 							<visualization str="@fn08FRÝDLANT@n01@fn02NAD OSTRAVICÍ" hw="D4D1" role="trg_ext"/>
 							<visualization str="@fn08FRÝDLANT@n01@fn02NAD OSTRAVICÍ" hw="D4D1" role="trg_ext_ln"/>
@@ -10050,13 +9963,13 @@
 					</tr>
 					<tr lang="uni" name="Frýdlant nad Ostravicí">
 						<phrase visual="Frýdlant nad Ostravicí">
-							<visualization str="@f8n@Frýdlant n.Ostr.@f8n@" hw="tmx" role="short"/>
+							<visualization str="@f8n@Frýdlant nad Ostravicí@f8n@" hw="tmx" role="short"/>
 						</phrase>
 					</tr>
 				</msg>
 				<msg list="station_final" name="Frýdlant nad Ostravicí">
 					<tr lang="cs" name="Frýdlant nad Ostravicí">
-						<phrase visual="Frýdlant n.Ostr.">
+						<phrase visual="Frýdlant nad Ostravicí">
 							<sound-file sound-file="304585" sound-name="\CZ\R4\5433354" sound-format="mp3" sound-role="unipis"/>
 						</phrase>
 					</tr>
@@ -10192,7 +10105,7 @@
 					</tr>
 				</msg>
 			</station>
-			<station id="5433234" res-id="5433234" name="Český Těšín" abbr20="Český Těšín" metropolitan-area="0">
+			<station id="5433234" res-id="5433234" name="Český Těšín (Czeski Cieszyn)" abbr20="Český Těšín" metropolitan-area="0">
 				<msg list="station" name="Český Těšín (Czeski Cieszyn)">
 					<tr lang="cs" name="Český Těšín (Czeski Cieszyn)">
 						<phrase visual="Český Těšín (Czeski Cieszyn)">
@@ -10232,8 +10145,8 @@
 							<sound-file sound-file="379906" sound-name="\CZ\R1\5433234dv" sound-format="mp3" sound-role="unipis"/>
 						</phrase>
 					</tr>
-					<tr lang="en" name="Český Těšín">
-						<phrase visual="Český Těšín">
+					<tr lang="en" name="Český Těšín (Czeski Cieszyn)">
+						<phrase visual="Český Těšín (Czeski Cieszyn)">
 							<sound-file sound-file="314446" sound-name="\GB\R1\5433234" sound-format="mp3" sound-role="unipis"/>
 						</phrase>
 					</tr>
@@ -10243,14 +10156,14 @@
 						</phrase>
 					</tr>
 				</msg>
-				<msg list="station_final" name="Český Těšín">
-					<tr lang="cs" name="Český Těšín">
+				<msg list="station_final" name="Český Těšín (Czeski Cieszyn)">
+					<tr lang="cs" name="Český Těšín (Czeski Cieszyn)">
 						<phrase visual="Český Těšín (Czeski Cieszyn)">
 							<sound-file sound-file="379907" sound-name="\CZ\R4\5433234dv" sound-format="mp3" sound-role="unipis"/>
 						</phrase>
 					</tr>
-					<tr lang="en" name="Český Těšín">
-						<phrase visual="Český Těšín">
+					<tr lang="en" name="Český Těšín (Czeski Cieszyn)">
+						<phrase visual="Český Těšín (Czeski Cieszyn)">
 							<sound-file sound-file="323698" sound-name="\GB\R4\5433234" sound-format="mp3" sound-role="unipis"/>
 						</phrase>
 					</tr>
@@ -12126,6 +12039,7 @@
 				</tr>
 			</msg>
 		</announcement>
+		<announcement id="reg_prezentace_banter" msg="prezentace_banter" broadcast="no" external="yes" internal="no"/>
 	</announcements>
 	<brands>
 		<brand id="NJ" name="nightjet" rules="cd_long_distance">
@@ -13186,6 +13100,13 @@
 					<phrase visual="ZLÍNSKÝ EXPRES">
 						<sound-file sound-file="350336" sound-format="mp3" sound-role="unipis"/>
 					</phrase>
+				</tr>
+			</msg>
+		</train-name>
+		<train-name id="PREZENTACE - BATERIOVÝ PANTER" name="PREZENTACE - BATERIOVÝ PANTER">
+			<msg list="train_name" name="PREZENTACE - BATERIOVÝ PANTER">
+				<tr lang="cs" name="PREZENTACE - BATERIOVÝ PANTER">
+					<phrase visual="PREZENTACE - BATERIOVÝ PANTER"/>
 				</tr>
 			</msg>
 		</train-name>
@@ -23745,6 +23666,19 @@
 			<tr lang="en" name="vogtlandbahn">
 				<phrase visual="GONG, Ladies and gentlemen, We are now arriving at"/>
 				<parameter ordinal="1" name="vogtlandbahn" list="station"/>
+			</tr>
+		</msg>
+		<msg list="extra_msg" id="prezentace_banter">
+			<tr lang="cs" name="Prezentační jízda - NENASTUPUJTE!">
+				<phrase visual="Prezentační jízda - NENASTUPUJTE!"/>
+			</tr>
+		</msg>
+		<msg list="change_to" id="metro">
+			<tr lang="cs" name="metro">
+				<phrase visual="metro">
+					<visualization str="metro @p57350@" hw="tmx" role="short"/>
+					<sound-file sound-file="349691" sound-name="\CZ\Slova\153" sound-format="mp3" sound-role="unipis"/>
+				</phrase>
 			</tr>
 		</msg>
 	</messages>

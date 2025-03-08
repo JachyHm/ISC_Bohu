@@ -3182,7 +3182,6 @@
 121 121 H\xA0j ve Slezsku
 122 122 Jile\xA8ovice
 123 123 Lhota u Opavy
-124 124 Vlak bude nahrazen autobusovou dopravou v \xA3seku Hav\xA1\xA9ov - \x80\x65sk\x98 T\x88\xA8\xA1n (Czeski Cieszyn)
 124 124 Hav\xA1\xA9ov
 125 125 \x9B\x65nov
 126 126 Drahotu\xA8\x65
@@ -3212,6 +3211,7 @@
 143 143 Bohum\xA1n
 144 144 Doln\xA1 Lutyn\x88
 145 145 Lukavice na Morav\x88
+146 146 
 146 146 Opava-V\x98\x63hod - MANIPULA\x80N\x8B J\x8BZDA
 146 146 Opava-V\x98\x63hod - NENASTUPOVAT
 146 146 Opava v\x98\x63hod
@@ -3258,6 +3258,8 @@
 171 171 Suchdol nad Odrou - NENASTUPOVAT
 171 171 Suchdol nad Odrou
 172 172 Jesen\xA1k nad Odrou
+173 173 Vlak bude nahrazen autobusovou dopravou v \xA3seku \x9Bt\xA1tina - Opava v\x98\x63hod
+173 173 
 173 173 \x9Bt\xA1tina
 174 174 Mokr\x82 Lazce
 175 175 St\xA9\x65\xA4
@@ -3270,7 +3272,6 @@
 180 180 Z\xA0\x62\xA9\x65h na Morav\x88
 181 181 Petrovice u Karvin\x82
 182 182 Z\xA0vada
-183 183 
 183 183 \x80\x65sk\x98 T\x88\xA8\xA1n - MANIPULA\x80N\x8B J\x8BZDA
 183 183 \x80\x65sk\x98 T\x88\xA8\xA1n - NENASTUPOVAT
 183 183 \x80\x65sk\x98 T\x88\xA8\xA1n (Czeski Cieszyn)
