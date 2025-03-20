@@ -1,0 +1,67 @@
+show -1
+;---
+;settitle "Data AVV"
+verze = 'AVV162 (G25O650B)'
+heslo = 'avv362'
+
+logdir="Logy"
+rychlost = 115200
+ato=0
+
+intdim mazani 16
+strdim soubor 32
+;---
+;co vymazat
+;---
+mazani[0]=1
+mazani[1]=1
+mazani[2]=1
+mazani[3]=1
+mazani[4]=1
+mazani[5]=1
+mazani[6]=1
+mazani[7]=1
+mazani[8]=1
+mazani[9]=1
+mazani[10]=1
+mazani[11]=1
+mazani[12]=1
+mazani[13]=1
+mazani[14]=1
+mazani[15]=1
+;---
+;kam nahrat + co nahrat
+;---
+soubor[0]=""
+soubor[1]=""
+soubor[2]="Mapy\T27_23.bin"
+soubor[3]=""
+soubor[4]=""
+soubor[5]=""
+soubor[6]="Mapy\T32_24.bin"
+soubor[7]=""
+soubor[8]="Mapy\Mosnov_2.bin"
+soubor[9]=""
+soubor[10]=""
+soubor[11]=""
+soubor[12]="650\G25O650B.bin"
+soubor[13]=""
+soubor[14]=""
+soubor[15]=""
+soubor[16]=""
+soubor[17]=""
+soubor[18]=""
+soubor[19]=""
+soubor[20]=""
+soubor[21]=""
+soubor[22]=""
+soubor[23]=""
+soubor[24]=""
+soubor[25]=""
+soubor[26]=""
+soubor[27]=""
+soubor[28]=""
+soubor[29]=""
+soubor[30]=""
+soubor[31]=""
+;---
