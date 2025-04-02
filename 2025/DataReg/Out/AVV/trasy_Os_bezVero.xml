@@ -7894,6 +7894,10 @@ rr.mm.dd - popis
       <cisloStanice>34384800</cisloStanice>
     </stanice>
     
+    <jinyBod>
+      <cisloBodu>38045000</cisloBodu>
+    </jinyBod>
+    
     <stanice>
       <cisloStanice>34364000</cisloStanice>
       <nazevStanice>Ostrava hln</nazevStanice>
