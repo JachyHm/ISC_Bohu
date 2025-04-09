@@ -12,6 +12,9 @@
 0 0  
 0 0 Linka
 0 0 sm\x88r
+1 1 Tento vlak jede po n\xA0hradn\xA1 odklonov\x82 trase. Bli\x91\xA8\xA1 informace V\xA0m pod\xA0 vlakov\x98 person\xA0l.
+1 1 
+1 1 Vlak v t\x82to stanici mimo\xA9\xA0\x64n\x88 kon\x87\xA1 j\xA1zdu, pros\xA1me vystupte.
 1 1 Vlak zde j\xA1zdu kon\x87\xA1. Pros\xA1me, p\xA9\x65stupte na n\xA0hradn\xA1 vlakovou soupravu.
 1 1 V\xA0\x91\x65n\xA1 cestuj\xA1\x63\xA1, z d\x96vodu v\x98luky na trati tento vlak kon\x87\xA1 j\xA1zdu. D\x88kujeme za pochopen\xA1.
 1 1 V\xA0\x91\x65n\xA1 cestuj\xA1\x63\xA1, omluvte pros\xA1m zpo\x91\x64\x88n\xA1 vlaku. P\xA9\x65\x64pokl\xA0\x64\x61n\xA0 doba zpo\x91\x64\x88n\xA1 bude asi 10 minut. D\x88kujeme za pochopen\xA1.
@@ -53,6 +56,7 @@
 22 22 12
 23 23 
 25 25 kone\x87n\xA0 stanice
+26 26 
 26 26  a 
 27 27 zastav\xA1me
 27 27 
@@ -3211,7 +3215,6 @@
 143 143 Bohum\xA1n
 144 144 Doln\xA1 Lutyn\x88
 145 145 Lukavice na Morav\x88
-146 146 
 146 146 Opava-V\x98\x63hod - MANIPULA\x80N\x8B J\x8BZDA
 146 146 Opava-V\x98\x63hod - NENASTUPOVAT
 146 146 Opava v\x98\x63hod
@@ -3221,21 +3224,28 @@
 150 150 Mohelnice
 151 151 Moravi\x87\x61ny
 152 152 Olomouc hl.n.
+153 153 
 153 153 Zadn\xA1 \x87\xA0st vlaku kon\x87\xA1 j\xA1zdu ve stanici Ostrava hlavn\xA1 n\xA0\x64ra\x91\xA1. P\xA9\x65\x64n\xA1 \x87\xA0st pokra\x87uje do stanice Ostrava-Svinov.
 153 153 Ostrava hl.n. - MANIPULA\x80N\x8B J\x8BZDA
 153 153 Ostrava hl.n. - NENASTUPOVAT
 153 153 Ostrava hlavn\xA1 n\xA0\x64ra\x91\xA1
+154 154 Vlak mimo\xA9\xA0\x64n\x88 proj\xA1\x91\x64\xA1 stanici Ostrava-Mar.Hory
 154 154 Ostrava-Mari\xA0nsk\x82 Hory
+155 155 
 155 155 Ostrava-Stodoln\xA1
+156 156 Vlak pojede odklonem mimo stanice  Ostrava st\xA9\x65\x64, Ostrava-Stodoln\xA1  a  Ostrava hlavn\xA1 n\xA0\x64ra\x91\xA1 a mimo\xA9\xA0\x64n\x88 zastav\xA1 ve stanici Ostrava-Kun\x87ice
 156 156 Ostrava st\xA9\x65\x64 - MANIPULA\x80N\x8B J\x8BZDA
 156 156 Ostrava st\xA9\x65\x64 - NENASTUPOVAT
 156 156 Ostrava st\xA9\x65\x64
+157 157 
 157 157 Ostrava-Kun\x87ice - MANIPULA\x80N\x8B J\x8BZDA
 157 157 Ostrava-Kun\x87ice - NENASTUPOVAT
 157 157 Ostrava-Kun\x87ice
 158 158 Ostrava-Bartovice
 159 159 
 159 159 Zadn\xA1 \x87\xA0st vlaku zde j\xA1zdu kon\x87\xA1. P\xA9\x65\x64n\xA1 \x87\xA0st pokra\x87uje do stanice Ostrava-Svinov.
+159 159 Vlak mimo\xA9\xA0\x64n\x88 kon\x87\xA1 j\xA1zdu ve stanici Ostrava-Svinov
+159 159 
 159 159 Ostrava-Svinov - MANIPULA\x80N\x8B J\x8BZDA
 159 159 Ostrava-Svinov - NENASTUPOVAT
 159 159 Ostrava-Svinov
@@ -3258,8 +3268,6 @@
 171 171 Suchdol nad Odrou - NENASTUPOVAT
 171 171 Suchdol nad Odrou
 172 172 Jesen\xA1k nad Odrou
-173 173 Vlak bude nahrazen autobusovou dopravou v \xA3seku \x9Bt\xA1tina - Opava v\x98\x63hod
-173 173 
 173 173 \x9Bt\xA1tina
 174 174 Mokr\x82 Lazce
 175 175 St\xA9\x65\xA4
