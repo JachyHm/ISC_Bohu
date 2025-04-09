@@ -12,7 +12,6 @@
 0 0  
 0 0 Linka
 0 0 sm\x88r
-1 1 Tento vlak jede po n\xA0hradn\xA1 odklonov\x82 trase. Bli\x91\xA8\xA1 informace V\xA0m pod\xA0 vlakov\x98 person\xA0l.
 1 1 
 1 1 Vlak v t\x82to stanici mimo\xA9\xA0\x64n\x88 kon\x87\xA1 j\xA1zdu, pros\xA1me vystupte.
 1 1 Vlak zde j\xA1zdu kon\x87\xA1. Pros\xA1me, p\xA9\x65stupte na n\xA0hradn\xA1 vlakovou soupravu.
@@ -3224,7 +3223,7 @@
 150 150 Mohelnice
 151 151 Moravi\x87\x61ny
 152 152 Olomouc hl.n.
-153 153 
+153 153 Vlak pojede odklonem mimo stanice  Ostrava hlavn\xA1 n\xA0\x64ra\x91\xA1, Ostrava-Stodoln\xA1  a  Ostrava st\xA9\x65\x64 a mimo\xA9\xA0\x64n\x88 zastav\xA1 ve stanici Ostrava-Kun\x87ice
 153 153 Zadn\xA1 \x87\xA0st vlaku kon\x87\xA1 j\xA1zdu ve stanici Ostrava hlavn\xA1 n\xA0\x64ra\x91\xA1. P\xA9\x65\x64n\xA1 \x87\xA0st pokra\x87uje do stanice Ostrava-Svinov.
 153 153 Ostrava hl.n. - MANIPULA\x80N\x8B J\x8BZDA
 153 153 Ostrava hl.n. - NENASTUPOVAT
