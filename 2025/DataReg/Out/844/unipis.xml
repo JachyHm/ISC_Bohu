@@ -67141,7 +67141,7 @@
 				<phrase visual=" pokračuje jako přímá do stanice ">
 					<sound-file sound-file="349796" sound-name="\CZ\Slova\426" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
-				<parameter ordinal="2" name="Informace o přímých vozech" list="station"/>
+				<parameter ordinal="2" name="Informace o přímých vozech" list="station_final"/>
 			</tr>
 		</msg>
 		<msg list="internal_msg" id="ld_car_cont_normal">
@@ -67150,14 +67150,14 @@
 				<phrase visual=" pokračuje do stanice ">
 					<sound-file sound-file="349671" sound-name="\CZ\Slova\113" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
-				<parameter ordinal="2" name="Informace o přímých vozech" list="station"/>
+				<parameter ordinal="2" name="Informace o přímých vozech" list="station_final"/>
 			</tr>
 			<tr lang="en" name="Informace o přímých vozech">
 				<parameter ordinal="1" name="Informace o přímých vozech" list="train_end"/>
 				<phrase visual=" continue further to the station ">
 					<sound-file sound-file="323618" sound-name="\GB\Slova\28" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
-				<parameter ordinal="2" name="Informace o přímých vozech" list="station"/>
+				<parameter ordinal="2" name="Informace o přímých vozech" list="station_final"/>
 			</tr>
 			<tr lang="de" name="Informace o přímých vozech">
 				<parameter ordinal="1" name="Informace o přímých vozech" list="train_end"/>
@@ -67177,7 +67177,7 @@
 				<phrase visual=" do stanice ">
 					<sound-file sound-file="349782" sound-name="\CZ\Slova\410" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
-				<parameter ordinal="3" name="Informace o přímých vozech" list="station"/>
+				<parameter ordinal="3" name="Informace o přímých vozech" list="station_final"/>
 			</tr>
 			<tr lang="en" name="Informace o přímých vozech">
 				<parameter ordinal="1" name="Informace o přímých vozech" list="train_end"/>
@@ -67188,7 +67188,7 @@
 				<phrase visual=" to the station ">
 					<sound-file sound-file="323615" sound-name="\GB\Slova\25" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
-				<parameter ordinal="3" name="Informace o přímých vozech" list="station"/>
+				<parameter ordinal="3" name="Informace o přímých vozech" list="station_final"/>
 			</tr>
 			<tr lang="de" name="Informace o přímých vozech">
 				<parameter ordinal="1" name="Informace o přímých vozech" list="train_end"/>
@@ -67261,14 +67261,14 @@
 				<phrase visual="pokračuje do stanice">
 					<sound-file sound-file="349671" sound-name="\CZ\Slova\113" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
-				<parameter ordinal="2" name="Informace o vozech pokračujících v jízdě" list="station"/>
+				<parameter ordinal="2" name="Informace o vozech pokračujících v jízdě" list="station_final"/>
 			</tr>
 			<tr lang="en" name="Informace o přímých vozech">
 				<parameter ordinal="1" name="Informace o přímých vozech" list="train_end"/>
 				<phrase visual="continue further to the station">
 					<sound-file sound-file="323618" sound-name="\GB\Slova\28" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
-				<parameter ordinal="2" name="Informace o přímých vozech" list="station"/>
+				<parameter ordinal="2" name="Informace o přímých vozech" list="station_final"/>
 			</tr>
 			<tr lang="de" name="Informace o přímých vozech">
 				<parameter ordinal="1" name="Informace o přímých vozech" list="train_end"/>
@@ -67337,13 +67337,13 @@
 				<phrase visual="mimo stanici ">
 					<sound-file sound-file="349681" sound-name="\CZ\Slova\126" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
-				<parameter ordinal="1" name="Odklon - první část - jednotné číslo " list="station"/>
+				<parameter ordinal="1" name="Odklon - první část - jednotné číslo " list="station_final"/>
 			</tr>
 			<tr lang="en" name="Odklon - první část - jednotné číslo ">
 				<phrase visual="Ladies and gentlemen, because of closing of the railway line to traffic this train will have a diverted route and will not stop at the station ">
 					<sound-file sound-file="329191" sound-name="\GB\Slova\74" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
-				<parameter ordinal="1" name="Odklon - první část - jednotné číslo " list="station"/>
+				<parameter ordinal="1" name="Odklon - první část - jednotné číslo " list="station_final"/>
 			</tr>
 		</msg>
 		<msg list="internal_msg" id="except_route_plur">
@@ -67371,7 +67371,7 @@
 				<phrase visual="Vážení cestující, vlak mimořádně projíždí stanici ">
 					<sound-file sound-file="357668" sound-name="\CZ\Slova\vynechani_stanice" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
-				<parameter ordinal="1" name="Mim.průjezd - jednotné číslo - bez z." list="station"/>
+				<parameter ordinal="1" name="Mim.průjezd - jednotné číslo - bez z." list="station_final"/>
 				<phrase visual=". Bližší informace Vám podá vlakový personál. ">
 					<sound-file sound-file="349726" sound-name="\CZ\Slova\309" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
@@ -67383,7 +67383,7 @@
 				<phrase visual="Ladies and gentlemen, this train will not stop at the station ">
 					<sound-file sound-file="356984" sound-name="\GB\Slova\77" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
-				<parameter ordinal="1" name="Mim.průjezd - jednotné číslo - bez z." list="station"/>
+				<parameter ordinal="1" name="Mim.průjezd - jednotné číslo - bez z." list="station_final"/>
 				<phrase visual="Details will be provided by the train crew.">
 					<sound-file sound-file="329190" sound-name="\GB\Slova\73" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
@@ -67446,7 +67446,7 @@
 				<phrase visual=" a ">
 					<sound-file sound-file="349810" sound-name="\CZ\Slova\a" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
-				<parameter ordinal="3" name="Mimořádný přestup, dvě žst" list="station"/>
+				<parameter ordinal="3" name="Mimořádný přestup, dvě žst" list="station_final"/>
 				<phrase visual=". Děkujeme za pochopení.">
 					<sound-file sound-file="349678" sound-name="\CZ\Slova\123" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
@@ -67460,13 +67460,13 @@
 				<phrase visual="ve stanici ">
 					<sound-file sound-file="349684" sound-name="\CZ\Slova\129" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
-				<parameter ordinal="1" name="Odklon - druhá část - jednotné číslo " list="station"/>
+				<parameter ordinal="1" name="Odklon - druhá část - jednotné číslo " list="station_final"/>
 			</tr>
 			<tr lang="en" name="Odklon - druhá část - jednotné číslo ">
 				<phrase visual=", and it will have an extraordinary stop at the station ">
 					<sound-file sound-file="329192" sound-name="\GB\Slova\75" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
-				<parameter ordinal="1" name="Odklon - druhá část - jednotné číslo " list="station"/>
+				<parameter ordinal="1" name="Odklon - druhá část - jednotné číslo " list="station_final"/>
 			</tr>
 		</msg>
 		<msg list="internal_msg" id="except_route_stop_plur">
@@ -67678,7 +67678,7 @@
 				<phrase visual="z důvodu výluky na trati tento vlak končí jízdu ve stanici ">
 					<sound-file sound-file="349673" sound-name="\CZ\Slova\120" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
-				<parameter ordinal="1" name="Plánovaná výluka - NAD " list="station"/>
+				<parameter ordinal="1" name="Plánovaná výluka - NAD " list="station_final"/>
 				<phrase visual=". Mezi stanicemi ">
 					<sound-file sound-file="349676" sound-name="\CZ\Slova\121" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
@@ -67698,7 +67698,7 @@
 				<phrase visual="Ladies and gentlemen, because of closing of the railway line to traffic this train will end its journey at the station ">
 					<sound-file sound-file="329187" sound-name="\GB\Slova\70" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
-				<parameter ordinal="1" name="Plánovaná výluka - NAD " list="station"/>
+				<parameter ordinal="1" name="Plánovaná výluka - NAD " list="station_final"/>
 				<phrase visual=". Between the stations ">
 					<sound-file sound-file="327545" sound-name="\GB\Slova\bts" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
@@ -73733,7 +73733,7 @@
 				<phrase visual="z důvodu výluky na trati tento vlak končí jízdu ve stanici ">
 					<sound-file sound-file="349673" sound-name="\CZ\Slova\120" sound-format="mp3" sound-role="unipis"/>
 				</phrase>
-				<parameter ordinal="1" name="Plánovaná výluka - NAD " list="station"/>
+				<parameter ordinal="1" name="Plánovaná výluka - NAD " list="station_final"/>
 				<phrase visual=". Mezi stanicemi ">
 					<sound-file sound-file="349676" sound-name="\CZ\Slova\121" sound-format="mp3" sound-role="unipis"/>
 				</phrase>

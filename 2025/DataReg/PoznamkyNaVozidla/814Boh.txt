@@ -1,4 +1,4 @@
-Data 814 Bohumín GVD 24/25 akt. 08.03.2025
+Data 814 Bohumín GVD 24/25 akt. 28.04.2025
 1. změna GVD k 9. 3. 2025
 
 10. 12. - generovány data pro GVD25
@@ -6,6 +6,7 @@ Data 814 Bohumín GVD 24/25 akt. 08.03.2025
 18. 12. - opraveny přímé voze 231xx/30xx
 08. 03. - výluka Štítina - Opava Východ
 09. 03. - 1. změna GVD 9.3.
+28. 04. - doplněna hlášení 0/0-S pro ODIS
 
 V případě nesrovnalostí volej/piš:
-+420 725 245 545 - Jáchym Hurtík
++420 725 057 681 - Jáchym Hurtík
