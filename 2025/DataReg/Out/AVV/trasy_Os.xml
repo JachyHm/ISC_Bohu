@@ -9254,10 +9254,6 @@ rr.mm.dd - popis
       <vjezdDoPrimaVProtismeru />
       <odjezdDoPrimaVProtismeru />
     </stanice>
-
-    <stanice>
-      <cisloStanice>33875600</cisloStanice>
-    </stanice>
     
     <stanice>
       <cisloStanice>34005900</cisloStanice>

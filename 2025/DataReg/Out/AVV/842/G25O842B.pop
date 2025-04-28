@@ -539,6 +539,7 @@ Tr2043:       TRASA 32,52, Jr2043
               TRASA
 Tr2044:       TRASA 32,12, Jr2044
               TRASA 32,41, Jr2044a
+              TRASA 32,51, Jr2044b
               TRASA
 Tr2045:       TRASA 32,52, Jr2045
               TRASA 32,46, Jr2045a
@@ -2687,7 +2688,6 @@ Jr1783b:      JIZRAD  Z,    0, (4/4)    10:08,  10:10    ;ValMez
               JIZRAD  Z,    0,          09:26,  09:26*   ;
               JIZRAD  P,    0,          09:24,  09:24    ;
               JIZRAD  Z,    0, (T/T)    09:18*, 09:20    ;Holesov
-              JIZRAD  P,    0,           0:00,   0:00    ;
               JIZRAD  P,    0, (T/T)    09:15*, 09:15*   ;Trebetice
               JIZRAD  Z,    0, (4/4)    09:09*, 09:11    ;Hulin
               JIZRAD  Z,    0, (T/T)    09:00,  09:02    ;Kromeriz
@@ -2740,7 +2740,6 @@ Jr1784a:      JIZRAD  Z,  160, (4/4)    18:58,  19:05    ;ValMez
               JIZRAD  P,  160,          19:36*, 19:36*   ;
               JIZRAD  P,  160,          19:38,  19:38    ;
               JIZRAD  Z,  160, (T/T)    19:46,  19:47    ;Holesov
-              JIZRAD  P,  160,           0:00,   0:00    ;
               JIZRAD  P,  160, (T/T)    19:46*, 19:46*   ;Trebetice
               JIZRAD  Z,  160, (4/4)    19:55,  19:56    ;Hulin
               JIZRAD  Z,  160, (T/T)    20:04,  20:05    ;Kromeriz
@@ -3021,6 +3020,11 @@ Jr2044a:      JIZRAD  Z,  120, (T/T)    16:19,  16:19*   ;Ostrava-Kuncice
               JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Hostasovice
               JIZRAD  P,  120,           0:00,   0:00    ;ValMez
+Jr2044b:      JIZRAD  Z,  120, (4/4)    16:44*, 16:46    ;Frydlant nO
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  P,  120,           0:00,   0:00    ;
+              JIZRAD  Z,  120, (T/T)    16:55,   0:00    ;Ostravice
 
 Jr2045:       BAZE 17:03
               JIZRAD  Z,  120, (4/4)    17:14,  17:16    ;Frydlant nO
@@ -4589,7 +4593,6 @@ Jr3900:       BAZE 03:29
               JIZRAD  Z,   80,          04:07,  04:07    ;
               JIZRAD  Z,   80,          04:09,  04:09    ;
               JIZRAD  Z,   80, (T/T)    04:13,  04:14    ;Holesov
-              JIZRAD  P,   80,           0:00,   0:00    ;
               JIZRAD  Z,   80, (T/T)    04:18,  04:18*   ;Trebetice
               JIZRAD  Z,   80, (4/4)    04:23,  04:30    ;Hulin
               JIZRAD  Z,   80, (T/T)    04:38,   0:00    ;Kromeriz
@@ -4610,7 +4613,6 @@ Jr3901:       BAZE 04:16
               JIZRAD  Z,  120,          04:44*, 04:44*   ;
               JIZRAD  Z,  120,          04:42,  04:42    ;
               JIZRAD  Z,  120, (T/T)    04:37,  04:38    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    04:32*, 04:33    ;Trebetice
               JIZRAD  Z,  120, (4/4)    04:24,  04:28    ;Hulin
               JIZRAD  Z,  120, (T/T)     0:00,  04:16    ;Kromeriz
@@ -4631,7 +4633,6 @@ Jr3902:       BAZE 03:55*
               JIZRAD  Z,  120,          04:31,  04:31    ;
               JIZRAD  Z,  120,          04:33,  04:33    ;
               JIZRAD  Z,  120, (T/T)    04:37*, 04:39    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    04:43,  04:43*   ;Trebetice
               JIZRAD  Z,  120, (4/4)    04:48,  05:01    ;Hulin
               JIZRAD  Z,  120, (T/T)    05:09,   0:00    ;Kromeriz
@@ -4652,7 +4653,6 @@ Jr3903:       BAZE 05:03
               JIZRAD  Z,  120,          05:50*, 05:50*   ;
               JIZRAD  Z,  120,          05:48,  05:48    ;
               JIZRAD  Z,  120, (T/T)    05:43,  05:44    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    05:38*, 05:39    ;Trebetice
               JIZRAD  Z,  120, (4/4)    05:24,  05:34    ;Hulin
               JIZRAD  Z,  120, (T/T)    05:15,  05:16    ;Kromeriz
@@ -4673,7 +4673,6 @@ Jr3904:       BAZE 04:14
               JIZRAD  Z,  120,          05:07*, 05:07*   ;
               JIZRAD  Z,  120,          05:09*, 05:09*   ;
               JIZRAD  Z,  120, (T/T)    05:13*, 05:15    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    05:19,  05:19*   ;Trebetice
               JIZRAD  Z,  120, (4/4)    05:24,  05:33    ;Hulin
               JIZRAD  Z,  120, (T/T)    05:41,  05:42    ;Kromeriz
@@ -4694,7 +4693,6 @@ Jr3905:       BAZE 05:48
               JIZRAD  Z,  120,          06:20*, 06:20*   ;
               JIZRAD  Z,  120,          06:18,  06:18    ;
               JIZRAD  Z,  120, (T/T)    06:09,  06:14    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    06:04*, 06:05    ;Trebetice
               JIZRAD  Z,  120, (4/4)    05:56,  06:00    ;Hulin
               JIZRAD  Z,  120, (T/T)     0:00,  05:48    ;Kromeriz
@@ -4715,7 +4713,6 @@ Jr3906:       BAZE 04:53
               JIZRAD  Z,   80,          05:37*, 05:37*   ;
               JIZRAD  Z,   80,          05:39*, 05:39*   ;
               JIZRAD  Z,   80, (T/T)    05:43*, 05:45    ;Holesov
-              JIZRAD  P,   80,           0:00,   0:00    ;
               JIZRAD  Z,   80, (T/T)    05:49,  05:49*   ;Trebetice
               JIZRAD  Z,   80, (4/4)    05:54,  06:03    ;Hulin
               JIZRAD  Z,   80, (T/T)    06:11,   0:00    ;Kromeriz
@@ -4736,7 +4733,6 @@ Jr3907:       BAZE 06:03
               JIZRAD  Z,  120,          06:50*, 06:50*   ;
               JIZRAD  Z,  120,          06:48,  06:48    ;
               JIZRAD  Z,  120, (T/T)    06:43,  06:44    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    06:38*, 06:39    ;Trebetice
               JIZRAD  Z,  120, (4/4)    06:32,  06:34    ;Hulin
               JIZRAD  Z,  120, (T/T)    06:15,  06:24    ;Kromeriz
@@ -4757,7 +4753,6 @@ Jr3908:       BAZE 05:27
               JIZRAD  Z,  120,          06:07*, 06:07*   ;
               JIZRAD  Z,  120,          06:09*, 06:09*   ;
               JIZRAD  Z,  120, (T/T)    06:13*, 06:15    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    06:19,  06:19*   ;Trebetice
               JIZRAD  Z,  120, (4/4)    06:24,  06:33    ;Hulin
               JIZRAD  Z,  120, (T/T)    06:41,  06:42    ;Kromeriz
@@ -4778,7 +4773,6 @@ Jr3909:       BAZE 07:03
               JIZRAD  Z,  120,          07:50*, 07:50*   ;
               JIZRAD  Z,  120,          07:48,  07:48    ;
               JIZRAD  Z,  120, (T/T)    07:43,  07:44    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    07:38*, 07:39    ;Trebetice
               JIZRAD  Z,  120, (4/4)    07:25,  07:34    ;Hulin
               JIZRAD  Z,  120, (T/T)    07:15,  07:17    ;Kromeriz
@@ -4799,7 +4793,6 @@ Jr3910:       BAZE 06:21
               JIZRAD  Z,  120,          07:07*, 07:07*   ;
               JIZRAD  Z,  120,          07:09*, 07:09*   ;
               JIZRAD  Z,  120, (T/T)    07:13*, 07:15    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    07:19,  07:19*   ;Trebetice
               JIZRAD  Z,  120, (4/4)    07:24,  07:33    ;Hulin
               JIZRAD  Z,  120, (T/T)    07:41,  07:42    ;Kromeriz
@@ -4820,7 +4813,6 @@ Jr3911:       BAZE 08:03
               JIZRAD  Z,  120,          08:50*, 08:50*   ;
               JIZRAD  Z,  120,          08:48,  08:48    ;
               JIZRAD  Z,  120, (T/T)    08:43,  08:44    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    08:38*, 08:39    ;Trebetice
               JIZRAD  Z,  120, (4/4)    08:25,  08:34    ;Hulin
               JIZRAD  Z,  120, (T/T)    08:15,  08:17    ;Kromeriz
@@ -4841,7 +4833,6 @@ Jr3912:       BAZE 07:21
               JIZRAD  Z,  120,          08:07*, 08:07*   ;
               JIZRAD  Z,  120,          08:09*, 08:09*   ;
               JIZRAD  Z,  120, (T/T)    08:13*, 08:15    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    08:19,  08:19*   ;Trebetice
               JIZRAD  Z,  120, (4/4)    08:24,  08:33    ;Hulin
               JIZRAD  Z,  120, (T/T)    08:41,  08:42    ;Kromeriz
@@ -4862,7 +4853,6 @@ Jr3915:       BAZE 10:03
               JIZRAD  Z,  120,          10:50*, 10:50*   ;
               JIZRAD  Z,  120,          10:48,  10:48    ;
               JIZRAD  Z,  120, (T/T)    10:43,  10:44    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    10:38*, 10:39    ;Trebetice
               JIZRAD  Z,  120, (4/4)    10:25,  10:34    ;Hulin
               JIZRAD  Z,  120, (T/T)    10:15,  10:17    ;Kromeriz
@@ -4883,7 +4873,6 @@ Jr3918:       BAZE 11:20*
               JIZRAD  Z,  120,          12:07*, 12:07*   ;
               JIZRAD  Z,  120,          12:09*, 12:09*   ;
               JIZRAD  Z,  120, (T/T)    12:13*, 12:15    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    12:19,  12:19*   ;Trebetice
               JIZRAD  Z,  120, (4/4)    12:24,  12:33    ;Hulin
               JIZRAD  Z,  120, (T/T)    12:41,  12:42    ;Kromeriz
@@ -4904,7 +4893,6 @@ Jr3920:       BAZE 12:22
               JIZRAD  Z,  120,          13:07*, 13:07*   ;
               JIZRAD  Z,  120,          13:09*, 13:09*   ;
               JIZRAD  Z,  120, (T/T)    13:13*, 13:15    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    13:19,  13:19*   ;Trebetice
               JIZRAD  Z,  120, (4/4)    13:24,  13:33    ;Hulin
               JIZRAD  Z,  120, (T/T)    13:41,  13:42    ;Kromeriz
@@ -4925,7 +4913,6 @@ Jr3930:       BAZE 17:20*
               JIZRAD  Z,  120,          18:07*, 18:07*   ;
               JIZRAD  Z,  120,          18:09*, 18:09*   ;
               JIZRAD  Z,  120, (T/T)    18:13*, 18:15    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    18:19,  18:19*   ;Trebetice
               JIZRAD  Z,  120, (4/4)    18:24,  18:32    ;Hulin
               JIZRAD  Z,  120, (T/T)    18:40,  18:42    ;Kromeriz
@@ -4946,7 +4933,6 @@ Jr3933:       BAZE 19:03
               JIZRAD  Z,  120,          19:50*, 19:50*   ;
               JIZRAD  Z,  120,          19:48,  19:48    ;
               JIZRAD  Z,  120, (T/T)    19:43,  19:44    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    19:38*, 19:39    ;Trebetice
               JIZRAD  Z,  120, (4/4)    19:25,  19:34    ;Hulin
               JIZRAD  Z,  120, (T/T)    19:15,  19:17    ;Kromeriz
@@ -4967,7 +4953,6 @@ Jr3934:       BAZE 19:20*
               JIZRAD  Z,  120,          20:07*, 20:07*   ;
               JIZRAD  Z,  120,          20:09*, 20:09*   ;
               JIZRAD  Z,  120, (T/T)    20:13*, 20:15    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    20:19,  20:19*   ;Trebetice
               JIZRAD  Z,  120, (4/4)    20:24,  20:30    ;Hulin
               JIZRAD  Z,  120, (T/T)    20:38,   0:00    ;Kromeriz
@@ -4988,7 +4973,6 @@ Jr3937:       BAZE 21:03
               JIZRAD  Z,   80,          21:50*, 21:50*   ;
               JIZRAD  Z,   80,          21:48,  21:48    ;
               JIZRAD  Z,   80, (T/T)    21:43,  21:44    ;Holesov
-              JIZRAD  P,   80,           0:00,   0:00    ;
               JIZRAD  Z,   80, (T/T)    21:38*, 21:39    ;Trebetice
               JIZRAD  Z,   80, (4/4)    21:25,  21:34    ;Hulin
               JIZRAD  Z,   80, (T/T)    21:15,  21:17    ;Kromeriz
@@ -5009,7 +4993,6 @@ Jr3938:       BAZE 22:53
               JIZRAD  Z,  120,          23:39,  23:39    ;
               JIZRAD  Z,  120,          23:41,  23:41    ;
               JIZRAD  Z,  120, (T/T)    23:45,  23:45*   ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    23:49*, 23:50    ;Trebetice
               JIZRAD  Z,  120, (4/4)    23:54*, 23:55    ;Hulin
               JIZRAD  Z,  120, (T/T)    00:03,   0:00    ;Kromeriz
@@ -5030,7 +5013,6 @@ Jr3939:       BAZE 22:03
               JIZRAD  Z,  120,          22:50*, 22:50*   ;
               JIZRAD  Z,  120,          22:48,  22:48    ;
               JIZRAD  Z,  120, (T/T)    22:43,  22:44    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    22:38*, 22:39    ;Trebetice
               JIZRAD  Z,  120, (4/4)    22:25,  22:34    ;Hulin
               JIZRAD  Z,  120, (T/T)    22:15,  22:17    ;Kromeriz
@@ -5051,7 +5033,6 @@ Jr3941:       BAZE 04:28
               JIZRAD  Z,   80,          05:20*, 05:20*   ;
               JIZRAD  P,   80,          05:18,  05:18    ;
               JIZRAD  Z,   80, (T/T)    05:13,  05:14    ;Holesov
-              JIZRAD  P,   80,           0:00,   0:00    ;
               JIZRAD  Z,   80, (T/T)    05:08*, 05:09    ;Trebetice
               JIZRAD  Z,   80, (4/4)    04:54,  05:04    ;Hulin
               JIZRAD  Z,   80, (T/T)    04:40,  04:46    ;Kromeriz
@@ -5072,7 +5053,6 @@ Jr3943:       BAZE 06:45
               JIZRAD  Z,   80,          07:20*, 07:20*   ;
               JIZRAD  P,   80,          07:18,  07:18    ;
               JIZRAD  Z,   80, (T/T)    07:13,  07:14    ;Holesov
-              JIZRAD  P,   80,           0:00,   0:00    ;
               JIZRAD  Z,   80, (T/T)    07:08*, 07:09    ;Trebetice
               JIZRAD  Z,   80, (4/4)    06:53,  07:04    ;Hulin
               JIZRAD  Z,   80, (T/T)     0:00,  06:45    ;Kromeriz
@@ -5093,7 +5073,6 @@ Jr3944:       BAZE 06:31
               JIZRAD  Z,   80,          06:37*, 06:37*   ;
               JIZRAD  P,   80,          06:39*, 06:39*   ;
               JIZRAD  Z,   80, (T/T)    06:43*, 06:45    ;Holesov
-              JIZRAD  P,   80,           0:00,   0:00    ;
               JIZRAD  Z,   80, (T/T)    06:49,  06:49*   ;Trebetice
               JIZRAD  Z,   80, (4/4)    06:54,  07:00    ;Hulin
               JIZRAD  Z,   80, (T/T)    07:08,   0:00    ;Kromeriz
@@ -5114,7 +5093,6 @@ Jr3945:       BAZE 10:04
               JIZRAD  Z,  120,          10:20*, 10:20*   ;
               JIZRAD  P,  120,          10:18,  10:18    ;
               JIZRAD  Z,  120, (T/T)    10:13,  10:14    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    10:08*, 10:09    ;Trebetice
               JIZRAD  Z,  120, (4/4)     0:00,  10:04    ;Hulin
               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Kromeriz
@@ -5135,7 +5113,6 @@ Jr3946:       BAZE 11:01
               JIZRAD  Z,  120,          11:07*, 11:07*   ;
               JIZRAD  Z,  120,          11:09*, 11:09*   ;
               JIZRAD  Z,  120, (T/T)    11:13*, 11:15    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    11:19,  11:19*   ;Trebetice
               JIZRAD  Z,  120, (4/4)    11:24,  11:33    ;Hulin
               JIZRAD  Z,  120, (T/T)    11:41,  11:42    ;Kromeriz
@@ -5156,7 +5133,6 @@ Jr3947:       BAZE 12:47
               JIZRAD  Z,   80,          13:20*, 13:20*   ;
               JIZRAD  P,   80,          13:18,  13:18    ;
               JIZRAD  Z,   80, (T/T)    13:13,  13:14    ;Holesov
-              JIZRAD  P,   80,           0:00,   0:00    ;
               JIZRAD  Z,   80, (T/T)    13:08*, 13:09    ;Trebetice
               JIZRAD  Z,   80, (4/4)    12:55,  13:04    ;Hulin
               JIZRAD  Z,   80, (T/T)     0:00,  12:47    ;Kromeriz
@@ -5177,7 +5153,6 @@ Jr3948:       BAZE 13:31
               JIZRAD  Z,   80,          13:37*, 13:37*   ;
               JIZRAD  P,   80,          13:39*, 13:39*   ;
               JIZRAD  Z,   80, (T/T)    13:43*, 13:45    ;Holesov
-              JIZRAD  P,   80,           0:00,   0:00    ;
               JIZRAD  Z,   80, (T/T)    13:49,  13:49*   ;Trebetice
               JIZRAD  Z,   80, (4/4)    13:54,  14:07    ;Hulin
               JIZRAD  Z,   80, (T/T)    14:15,   0:00    ;Kromeriz
@@ -5198,7 +5173,6 @@ Jr3949:       BAZE 14:48
               JIZRAD  Z,   80,          15:20*, 15:20*   ;
               JIZRAD  P,   80,          15:18,  15:18    ;
               JIZRAD  Z,   80, (T/T)    15:13,  15:14    ;Holesov
-              JIZRAD  P,   80,           0:00,   0:00    ;
               JIZRAD  Z,   80, (T/T)    15:08*, 15:09    ;Trebetice
               JIZRAD  Z,   80, (4/4)    14:56,  15:04    ;Hulin
               JIZRAD  Z,   80, (T/T)     0:00,  14:48    ;Kromeriz
@@ -5219,7 +5193,6 @@ Jr3950:       BAZE 14:31
               JIZRAD  Z,   80,          14:37*, 14:37*   ;
               JIZRAD  P,   80,          14:39*, 14:39*   ;
               JIZRAD  Z,   80, (T/T)    14:43*, 14:45    ;Holesov
-              JIZRAD  P,   80,           0:00,   0:00    ;
               JIZRAD  Z,   80, (T/T)    14:49,  14:49*   ;Trebetice
               JIZRAD  Z,   80, (4/4)    14:54,  15:04    ;Hulin
               JIZRAD  Z,   80, (T/T)    15:12,   0:00    ;Kromeriz
@@ -5240,7 +5213,6 @@ Jr3953:       BAZE 21:45
               JIZRAD  Z,   80,          22:21*, 22:21*   ;
               JIZRAD  Z,   80,          22:19,  22:19    ;
               JIZRAD  Z,   80, (T/T)    22:14,  22:15    ;Holesov
-              JIZRAD  P,   80,           0:00,   0:00    ;
               JIZRAD  Z,   80, (T/T)    22:09*, 22:10    ;Trebetice
               JIZRAD  Z,   80, (4/4)    21:53,  22:05    ;Hulin
               JIZRAD  Z,   80, (T/T)     0:00,  21:45    ;Kromeriz
@@ -5261,7 +5233,6 @@ Jr3956:       BAZE 22:31
               JIZRAD  Z,   80,          22:37*, 22:37*   ;
               JIZRAD  P,   80,          22:39*, 22:39*   ;
               JIZRAD  Z,   80, (T/T)    22:43*, 23:00    ;Holesov
-              JIZRAD  P,   80,           0:00,   0:00    ;
               JIZRAD  Z,   80, (T/T)    23:04,  23:04*   ;Trebetice
               JIZRAD  Z,   80, (4/4)    23:09,  23:19    ;Hulin
               JIZRAD  Z,   80, (T/T)    23:27,   0:00    ;Kromeriz
@@ -5282,7 +5253,6 @@ Jr3958:       BAZE 20:04
               JIZRAD  P,    0,           0:00,   0:00    ;
               JIZRAD  P,    0,           0:00,   0:00    ;
               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Holesov
-              JIZRAD  P,    0,           0:00,   0:00    ;
               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Trebetice
               JIZRAD  Z,   80, (4/4)     0:00,  20:04    ;Hulin
               JIZRAD  Z,   80, (T/T)    20:12,   0:00    ;Kromeriz
@@ -5303,7 +5273,6 @@ Jr3960:       BAZE 00:25
               JIZRAD  P,    0,           0:00,   0:00    ;
               JIZRAD  P,    0,           0:00,   0:00    ;
               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Holesov
-              JIZRAD  P,    0,           0:00,   0:00    ;
               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Trebetice
               JIZRAD  Z,  120, (4/4)     0:00,  00:25    ;Hulin
               JIZRAD  Z,  120, (T/T)    00:33,   0:00    ;Kromeriz
@@ -5324,7 +5293,6 @@ Jr3961:       BAZE 00:12
               JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Trebetice
               JIZRAD  Z,  120, (4/4)    00:20,   0:00    ;Hulin
               JIZRAD  Z,  120, (T/T)     0:00,  00:12    ;Kromeriz
@@ -5345,7 +5313,6 @@ Jr3965:       BAZE 19:44
               JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    20:13,   0:00    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    20:08*, 20:09    ;Trebetice
               JIZRAD  Z,  120, (4/4)    19:52,  20:04    ;Hulin
               JIZRAD  Z,  120, (T/T)     0:00,  19:44    ;Kromeriz
@@ -5366,7 +5333,6 @@ Jr3966:       BAZE 21:45
               JIZRAD  P,    0,           0:00,   0:00    ;
               JIZRAD  P,    0,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)     0:00,  21:45    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  Z,  120, (T/T)    21:49,  21:49*   ;Trebetice
               JIZRAD  Z,  120, (4/4)    21:54,  22:04    ;Hulin
               JIZRAD  Z,  120, (T/T)    22:12,   0:00    ;Kromeriz
@@ -5387,7 +5353,6 @@ Jr3980:       BAZE 04:10
               JIZRAD  P,    0,           0:00,   0:00    ;
               JIZRAD  P,    0,           0:00,   0:00    ;
               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Holesov
-              JIZRAD  P,    0,           0:00,   0:00    ;
               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Trebetice
               JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Hulin
               JIZRAD  Z,   80, (T/T)     0:00,  04:10    ;Kromeriz
@@ -5408,7 +5373,6 @@ Jr3981:       BAZE 06:03
               JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Trebetice
               JIZRAD  Z,  120, (4/4)    06:24,   0:00    ;Hulin
               JIZRAD  Z,  120, (T/T)    06:15,  06:16    ;Kromeriz
@@ -5429,7 +5393,6 @@ Jr3982:       BAZE 04:41
               JIZRAD  P,    0,           0:00,   0:00    ;
               JIZRAD  P,    0,           0:00,   0:00    ;
               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Holesov
-              JIZRAD  P,    0,           0:00,   0:00    ;
               JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Trebetice
               JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Hulin
               JIZRAD  Z,  120, (T/T)     0:00,  04:41    ;Kromeriz
@@ -5450,7 +5413,6 @@ Jr3983:       BAZE 23:16
               JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Holesov
-              JIZRAD  P,  120,           0:00,   0:00    ;
               JIZRAD  P,  120, (T/T)     0:00,   0:00    ;Trebetice
               JIZRAD  P,  120, (4/4)     0:00,   0:00    ;Hulin
               JIZRAD  Z,  120, (T/T)    23:28,   0:00    ;Kromeriz
