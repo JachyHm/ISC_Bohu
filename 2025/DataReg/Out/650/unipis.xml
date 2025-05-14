@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <unipis version="2.012">
-	<update/>
+	<update>
+		<update-step ordinal="0" command="erase" timetable=" " train=" "/>
+	</update>
 	<timetable id="gvd_20241215_20251213" from="2024-12-15" to="2025-12-13" issued="2024-11-29" lang="cs" time-zone="Europe/Prague" rules="cd_regional">
 		<train id="1600" brand="Sp">
 			<variant id="0">
@@ -22847,13 +22849,14 @@
 					</station>
 					<station id="5434454" departure="05:25:30" stop="no" report-via="no" real-distance="32000.0" silent-audio="no">
 						<announcement id="_wiz12" phase="leaving"/>
-						<announcement id="reg_clos_next_end" phase="leaving"/>
+						<announcement id="_wiz11" phase="leaving"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S8"/>
 					</station>
 					<station id="5434434" arrival="05:28:00" departure="05:30:00" stop="yes" report-via="yes" real-distance="36900.0" silent-audio="no">
 						<connection-direction direction="5434194"/>
-						<announcement id="reg_excpt_end" phase="arriving"/>
+						<announcement id="_wiz12" phase="leaving"/>
+						<announcement id="reg_clos_next_end" phase="leaving"/>
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S8"/>
 					</station>
@@ -22864,6 +22867,8 @@
 					<station id="5434364" arrival="05:35:30" departure="05:36:30" stop="yes" report-via="yes" real-distance="42300.0" silent-audio="no">
 						<integration id="ODIS"/>
 						<line line_group="Linky" line="Lin-S8"/>
+						<announcement id="reg_excpt_end" phase="arriving"/>
+						<announcement id="_wiz12" phase="arriving"/>
 					</station>
 					<station id="5438044" departure="05:38:00" stop="no" report-via="no" real-distance="43800.0" silent-audio="no">
 						<line line_group="Linky" line="Lin-S8"/>
