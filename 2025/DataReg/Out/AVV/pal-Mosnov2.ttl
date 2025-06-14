@@ -1,7 +1,7 @@
 show -1
 ;---
 ;settitle "Data AVV"
-verze = 'AVV690 (G25O690C)'
+verze = 'AVV690 (pouze Mosnov)'
 heslo = 'avv650'
 
 logdir="Logy"

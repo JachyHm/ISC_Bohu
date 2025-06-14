@@ -1,7 +1,7 @@
 show -1
 ;---
 ;povinne promenne
-verze = 'AVV750 (G25O750B)'
+verze = 'AVV750 (G25O750C)'
 heslo = 'avv750'
 
 ;nepovinne promenne (pouziji se vychozi hodnoty)
@@ -39,15 +39,15 @@ soubor[2]="Mapy\T27_23.bin"
 soubor[3]=""
 soubor[4]="Mapy\T32G_1.bin"
 soubor[5]=""
-soubor[6]="Mapy\T32_24.bin"
+soubor[6]="Mapy\T32_25.bin"
 soubor[7]=""
 soubor[8]=""
 soubor[9]=""
 soubor[10]=""
 soubor[11]=""
-soubor[12]="750\G25O750B.bin"
+soubor[12]="750\G25O750C.bin"
 soubor[13]=""
-soubor[14]=""
+soubor[14]="750\G25O751C.bin"
 soubor[15]=""
 soubor[16]=""
 soubor[17]=""

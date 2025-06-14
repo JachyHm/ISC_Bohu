@@ -3,14 +3,14 @@
 3;
 4;T32G_1.bin (jenom vozidla s GIB na Frenštát)
 5;
-6;T32_24.bin
+6;T32_25.bin
 7;
 8;Mosnov_2.bin/T28G_1.bin (jenom vozidla s GIB)
 9;
 10;T33_4.bin (jenom ~ vozidla)
 11;
-12;T1_62.bin (jenom vozidla co mohou jet na Prahu)
+12;T1_63.bin (jenom vozidla co mohou jet na Prahu)
 13;
-14;G25O471C.bin - nový JØ
+14;G25O471D.bin - nový JØ
 15;
 16;G24O471a.bin - starý JØ
