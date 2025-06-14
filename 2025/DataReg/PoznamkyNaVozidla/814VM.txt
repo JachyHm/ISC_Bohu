@@ -1,5 +1,5 @@
-Data 814 ValMez GVD 24/25 akt. 28.04.2025
-2. změna GVD k 9. 3. 2025
+Data 814 ValMez GVD 24/25 akt. 14.06.2025
+2. změna GVD k 15. 6. 2025
 
 10. 12. - generovány data pro GVD25
 12. 12. - přidány výlukové vlaky na trati 280
@@ -10,6 +10,8 @@ Data 814 ValMez GVD 24/25 akt. 28.04.2025
 09. 04. - výluka Kojetín - Kroměříž
 28. 04. - doplněna hlášení 0/0-S pro ODIS
 22. 05. - doplněny vlaky ZFF
+14. 06. - prodloužena výluka Ostrava
+14. 06. - zapracovány změny GVD k 15. 6.
 
 V případě nesrovnalostí volej/piš:
 +420 725 057 681 - Jáchym Hurtík

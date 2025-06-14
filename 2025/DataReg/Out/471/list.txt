@@ -438,6 +438,10 @@
 98 98 Budi\xA8ov nad Budi\xA8ovkou - NENASTUPOVAT
 98 98 \x9Btramberk - NENASTUPOVAT
 98 98 Sm\x88rov\x98 bod AVV Hru\xA8 - \x92idl
+98 98 Obecn\x98 n\xA0zev pro strojvedouc\xA1ho
+98 98 P\xA9\xA1li\xA8 \x91lou\x9Fou\x87k\x98 \xA3\xA9\x65\x64n\xA1 n\xA0zev stanice m\x96\x91\x65 obsahovat i \xA2
+98 98 Koncov\xA0 stanice 2. vozu
+98 98 Stanice z dopravn\xA1\x63h d\x96vod\x96
 98 98 Glucholazy
 98 98 Sm\x88rov\x98 bod AVV Hust - \x9B\x61kv
 98 98 Bojkovice m\x88sto
@@ -502,6 +506,7 @@
 98 98 H.Her\xA8pice-mod\xA9.zhl.
 98 98 Brno-H.Her\xA8p.vhb.651
 98 98 Brno-H.Her\xA8p.St.sil.
+98 98 Brno-Horn\xA1 Her\xA8pice
 98 98 Kozmice
 98 98 Brno-Kr\xA0lovo Pole
 98 98 D\x88t\xA9ichov nad Byst\xA9ic\xA1
@@ -3183,6 +3188,8 @@
 121 121 H\xA0j ve Slezsku
 122 122 Jile\xA8ovice
 123 123 Lhota u Opavy
+124 124 Hav\xA1\xA9ov - MANIP. JIZDA
+124 124 Hav\xA1\xA9ov - NENASTUPOVAT
 124 124 Hav\xA1\xA9ov
 125 125 \x9B\x65nov
 126 126 Drahotu\xA8\x65

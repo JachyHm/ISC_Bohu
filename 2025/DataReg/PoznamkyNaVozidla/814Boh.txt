@@ -1,5 +1,5 @@
-Data 814 Bohumín GVD 24/25 akt. 28.04.2025
-1. změna GVD k 9. 3. 2025
+Data 814 Bohumín GVD 24/25 akt. 14.06.2025
+2. změna GVD k 15. 6. 2025
 
 10. 12. - generovány data pro GVD25
 16. 12. - doplněny hlášení "zadní část vlaku končí jízdu ve stanici"
@@ -7,6 +7,8 @@ Data 814 Bohumín GVD 24/25 akt. 28.04.2025
 08. 03. - výluka Štítina - Opava Východ
 09. 03. - 1. změna GVD 9.3.
 28. 04. - doplněna hlášení 0/0-S pro ODIS
+14. 06. - doplněny vlaky od 2. změny GVD 15. 6.
+14. 06. - prodloužena výluka Ostrava do 20. 6.
 
 V případě nesrovnalostí volej/piš:
 +420 725 057 681 - Jáchym Hurtík
