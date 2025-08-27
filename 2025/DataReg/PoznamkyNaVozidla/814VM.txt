@@ -1,25 +1,8 @@
 Data 814 ValMez GVD 24/25 akt. 12.08.2025
 2. změna GVD k 15. 6. 2025
 
-10. 12. - generovány data pro GVD25
-12. 12. - přidány výlukové vlaky na trati 280
-16. 12. - doplněny hlášení "zadní část vlaku končí jízdu ve stanici"
-02. 02. - výluka Osíčko - Bystřice p. H.
-07. 03. - doplněny výlukové vlaky Vsetín - Lhotka/B
-09. 03. - 2. změna GVD 9. 3. 2025
-09. 04. - výluka Kojetín - Kroměříž
-28. 04. - doplněna hlášení 0/0-S pro ODIS
-22. 05. - doplněny vlaky ZFF
-14. 06. - prodloužena výluka Ostrava
 14. 06. - zapracovány změny GVD k 15. 6.
 26. 06. - úprava jednotek řazení pro 814
-03. 08. - výluka Hulín - Holešov 4./5. 8.
-04. 08. - výluka Holešov - Bystřice 6. - 8. 8.
-10. 08. - výluka Kunovice - Bystřice 11. - 12. 8.
-12. 08. - výluka Kunovice - ValMez 13. - 16. 8.
-12. 08. - výluka Barum Zlín 15. 8.
-12. 08. - výluka Veřovice - Frenštát 13. - 15. 8.
-12. 08. - výluka Ostrava hl.n. - O. Kunčice 16. 8.
 
 V případě nesrovnalostí volej/piš:
 +420 725 057 681 - Jáchym Hurtík
