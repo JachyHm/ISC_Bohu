@@ -11,6 +11,6 @@
 11;
 12;T1_63.bin (jenom vozidla co mohou jet na Prahu)
 13;
-14;G25O471D.bin - nový JØ
+14;G25O471E.bin - nový JØ
 15;
 16;G24O471a.bin - starý JØ

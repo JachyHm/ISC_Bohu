@@ -1,7 +1,7 @@
 show -1
 ;---
 ;settitle "Data AVV"
-verze = 'AVV950 (G25O750C)'
+verze = 'AVV950 (G25O750D)'
 heslo = 'avv950'
 
 logdir="Logy"
@@ -43,9 +43,9 @@ soubor[8]=""
 soubor[9]=""
 soubor[10]=""
 soubor[11]=""
-soubor[12]="750\G25O750C.bin"
+soubor[12]="750\G25O750D.bin"
 soubor[13]=""
-soubor[14]="750\G25O751C.bin"
+soubor[14]="750\G25O751D.bin"
 soubor[15]=""
 soubor[16]=""
 soubor[17]=""
