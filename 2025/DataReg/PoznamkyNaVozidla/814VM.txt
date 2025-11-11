@@ -1,8 +1,8 @@
 Data 814 ValMez GVD 24/25 akt. 12.08.2025
-2. změna GVD k 15. 6. 2025
+2. změna GVD k 11. 11. 2025
 
-14. 06. - zapracovány změny GVD k 15. 6.
 26. 06. - úprava jednotek řazení pro 814
+11. 11. - doplněny zkratky stanic v ODIS
 
 V případě nesrovnalostí volej/piš:
 +420 725 057 681 - Jáchym Hurtík

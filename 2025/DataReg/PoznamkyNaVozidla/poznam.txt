@@ -22,17 +22,7 @@ SPECIèLNã NèPISY -> v "JEN CãLOVè STANICE"
 
 99 - Test displejñ
 -------------------------------------------------
-Verze dat - 250615a zmàny:
-10. 12. - generov†ny data pro novò GVD
-22. 12. - opraveny chybàj°c° vlaky pro mimo©†dnÇ hl†®en°
-31. 01. - posunuta vzd†lenost Ä. Tà®°n - Chotàbuz o +350 m
-02. 02. - vòluka Hav°©ov - Ä. Tà®°n (£nor)
-08. 03. - vòluka õt°tina - Opava Vòchod
-09. 03. - zmàna GVD od 9.3.
-09. 04. - vòluka Ostrava hl.n. + Sp p©es V°tkovice 10. 4.
-09. 04. - zkr†cena vzd†lenost Albrechtice - Chotàbuz o 350 m
-28. 04. - prodlouëena vòluka Ostrava hl.n. do 13. 6.
-14. 06. - doplnàny vlaky od 2. zmàny GVD 15. 6.
-14. 06. - opàt prodlouëena vòluka Ostrava hl.n. do 20. 6.
+Verze dat - 251111a zmàny:
+11. 11. - doplnàny zkratky stanic v ODIS
 -------------------------------------------------
 V p©°padà problÇmñ volej: +420 725 057 681 - J†chym Hurt°k
