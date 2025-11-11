@@ -5758,7 +5758,6 @@ rr.mm.dd - popis
 
       <vstupniBod>
         <veSmeru>10</veSmeru>
-        <vProtismeru>11</vProtismeru>
       </vstupniBod>  
 
       <navestVjezd>
@@ -5779,6 +5778,10 @@ rr.mm.dd - popis
     <stanice>
       <cisloStanice>54014600</cisloStanice>
       <nazevStanice>Kutna Hora hln</nazevStanice>
+
+      <vstupniBod>
+        <vProtismeru>11</vProtismeru>
+      </vstupniBod>
 
       <navestVjezd>
          <veSmeru>40</veSmeru>
