@@ -1,0 +1,1647 @@
+Obsah:        PLATI 115, 14/12/2025, 12/12/2026
+              VLAK    13100, 04:25, Tr13100
+              VLAK    13101, 06:13, Tr13101
+              VLAK    13102, 06:18, Tr13102
+              VLAK    13103, 07:20, Tr13103
+              VLAK    13104, 07:20, Tr13104
+              VLAK    13105, 07:11, Tr13105
+              VLAK    13106, 07:50, Tr13106
+              VLAK    13107, 08:20, Tr13103
+              VLAK    13108, 08:20, Tr13104
+              VLAK    13109, 08:38, Tr13109
+              VLAK    13110, 08:50, Tr13110
+              VLAK    13111, 09:43, Tr13111
+              VLAK    13112, 09:47, Tr13112
+              VLAK    13113, 09:41, Tr13109
+              VLAK    13114, 10:50, Tr13114
+              VLAK    13115, 11:37, Tr13109
+              VLAK    13116, 11:42, Tr13116
+              VLAK    13117, 12:41, Tr13117
+              VLAK    13118, 13:20, Tr13118
+              VLAK    13119, 13:38, Tr13119
+              VLAK    13120, 13:50, Tr13120
+              VLAK    13121, 13:37, Tr13121
+              VLAK    13122, 14:20, Tr13122
+              VLAK    13123, 14:38, Tr13119
+              VLAK    13124, 14:50, Tr13120
+              VLAK    13125, 14:38, Tr13125
+              VLAK    13126, 15:20, Tr13126
+              VLAK    13127, 15:38, Tr13119
+              VLAK    13128, 15:50, Tr13128
+              VLAK    13129, 15:37, Tr13121
+              VLAK    13130, 16:20, Tr13122
+              VLAK    13131, 16:38, Tr13131
+              VLAK    13132, 16:50, Tr13132
+              VLAK    13133, 17:37, Tr13133
+              VLAK    13134, 17:20, Tr13134
+              VLAK    13167, 01:43, Tr13167
+              VLAK    13168, 07:13, Tr13168
+              VLAK    13169, 05:48, Tr13167
+              VLAK    13170, 08:13, Tr13168
+              VLAK    13171, 06:48, Tr13171
+              VLAK    13172, 09:13, Tr13168
+              VLAK    13173, 08:48, Tr13171
+              VLAK    13174, 09:36, Tr13174
+              VLAK    13175, 09:20, Tr13167
+              VLAK    13176, 10:13, Tr13168
+              VLAK    13177, 10:48, Tr13171
+              VLAK    13178, 11:12, Tr13168
+              VLAK    13179, 11:18, Tr13167
+              VLAK    13180, 18:53, Tr13180
+              VLAK    13181, 12:48, Tr13171
+              VLAK    13182, 13:13, Tr13168
+              VLAK    13183, 14:19, Tr13171
+              VLAK    13184, 13:30, Tr13184
+              VLAK    13185, 14:49, Tr13171
+              VLAK    13186, 14:30, Tr13184
+              VLAK    13187, 15:18, Tr13167
+              VLAK    13188, 15:13, Tr13168
+              VLAK    13190, 15:31, Tr13174
+              VLAK    13191, 16:49, Tr13171
+              VLAK    13193, 18:18, Tr13171
+              VLAK    13194, 17:00, Tr13168
+              VLAK    13195, 18:48, Tr13171
+              VLAK    13196, 19:13, Tr13168
+              VLAK    13197, 20:48, Tr13171
+              VLAK    13198, 21:13, Tr13168
+              VLAK    13199, 23:42, Tr13167
+              VLAK    23100, 04:15, Tr23100
+              VLAK    23101, 05:05, Tr23101
+              VLAK    23102, 05:06, Tr23102
+              VLAK    23103, 06:02, Tr23103
+              VLAK    23104, 05:49, Tr23104
+              VLAK    23105, 07:35, Tr23105
+              VLAK    23106, 06:41, Tr23106
+              VLAK    23107, 21:20, Tr23107
+              VLAK    23108, 23:09, Tr23108
+              VLAK    23188, 03:45, Tr23188
+              VLAK    23191, 22:45, Tr23191
+              VLAK    23192, 07:56, Tr23192
+              VLAK    23195, 20:40, Tr23195
+              VLAK    23194, 20:40, Tr23195
+              VLAK    23196, 04:49, Tr23196
+              VLAK    23198, 04:09, Tr23198
+              VLAK    23199, 23:40, Tr23191
+              VLAK    23307, 06:41, Tr23106
+              VLAK    28900, 03:44, Tr28900
+              VLAK    28901, 06:17, Tr28901
+              VLAK    28902, 05:11, Tr28902
+              VLAK    28903, 18:24, Tr28901
+              VLAK    28904, 06:17, Tr28904
+              VLAK    28905, 19:42, Tr28905
+              VLAK    28906, 11:53, Tr28906
+              VLAK    28907, 21:46, Tr28907
+              VLAK    28908, 18:56, Tr28908
+              VLAK    28909, 23:41, Tr28909
+              VLAK    28910, 19:10, Tr28910
+              VLAK    28922, 11:02, Tr28922
+              VLAK    28930, 04:02, Tr28930
+              VLAK    28931, 09:24, Tr28931
+              VLAK    28933, 19:57, Tr28931
+              VLAK    28934, 04:50, Tr28930
+              VLAK    28936, 06:50, Tr28930
+              VLAK    28937, 22:56, Tr28931
+              VLAK    28938, 12:28, Tr28930
+              VLAK    28939, 09:53, Tr28931
+              VLAK    28940, 19:54, Tr28930
+              VLAK    28942, 02:53, Tr28942
+              VLAK    28943, 18:48, Tr28943
+              VLAK    28944, 04:05, Tr28944
+              VLAK    28945, 19:44, Tr28945
+              VLAK    28946, 03:40, Tr28930
+              VLAK    28947, 22:06, Tr28931
+              VLAK    23180, 00:22, Tr23180
+              VLAK    23182, 01:34, Tr23182
+              VLAK    23184, 02:35, Tr23184
+              VLAK    13140, 04:25, Tr13140
+
+              KONEC
+              ZAROVNEJ
+
+Tr13100:      TRASA 32,45, Jr13100
+              TRASA
+Tr13101:      TRASA 32,42, Jr13101
+              TRASA
+Tr13102:      TRASA 32,43, Jr13102
+              TRASA
+Tr13103:      TRASA 32,42, Jr13103
+              TRASA
+Tr13104:      TRASA 32,45, Jr13104
+              TRASA
+Tr13105:      TRASA 32,42, Jr13105
+              TRASA
+Tr13106:      TRASA 32,45, Jr13106
+              TRASA
+Tr13109:      TRASA 32,42, Jr13109
+              TRASA
+Tr13110:      TRASA 32,45, Jr13110
+              TRASA
+Tr13111:      TRASA 32,42, Jr13111
+              TRASA
+Tr13112:      TRASA 32,45, Jr13112
+              TRASA
+Tr13114:      TRASA 32,45, Jr13114
+              TRASA
+Tr13116:      TRASA 32,45, Jr13116
+              TRASA
+Tr13117:      TRASA 32,42, Jr13117
+              TRASA
+Tr13118:      TRASA 32,45, Jr13118
+              TRASA
+Tr13119:      TRASA 32,42, Jr13119
+              TRASA
+Tr13120:      TRASA 32,45, Jr13120
+              TRASA
+Tr13121:      TRASA 32,42, Jr13121
+              TRASA
+Tr13122:      TRASA 32,45, Jr13122
+              TRASA
+Tr13125:      TRASA 32,42, Jr13125
+              TRASA
+Tr13126:      TRASA 32,45, Jr13126
+              TRASA
+Tr13128:      TRASA 32,45, Jr13128
+              TRASA
+Tr13131:      TRASA 32,42, Jr13131
+              TRASA
+Tr13132:      TRASA 32,45, Jr13132
+              TRASA
+Tr13133:      TRASA 32,42, Jr13133
+              TRASA
+Tr13134:      TRASA 32,45, Jr13134
+              TRASA
+Tr13167:      TRASA 32,42, Jr13167
+              TRASA
+Tr13168:      TRASA 32,45, Jr13168
+              TRASA
+Tr13171:      TRASA 32,42, Jr13171
+              TRASA
+Tr13174:      TRASA 32,45, Jr13174
+              TRASA
+Tr13180:      TRASA 32,45, Jr13180
+              TRASA
+Tr13184:      TRASA 32,45, Jr13184
+              TRASA
+Tr23100:      TRASA 27,21, Jr23100
+              TRASA 27,25, Jr23100a
+              TRASA
+Tr23101:      TRASA 27,24, Jr23101
+              TRASA 27,20, Jr23101a
+              TRASA
+Tr23102:      TRASA 27,21, Jr23102
+              TRASA 27,25, Jr23102a
+              TRASA
+Tr23103:      TRASA 27,24, Jr23103
+              TRASA 27,20, Jr23103a
+              TRASA
+Tr23104:      TRASA 27,21, Jr23104
+              TRASA 27,25, Jr23104a
+              TRASA
+Tr23105:      TRASA 27,24, Jr23105
+              TRASA
+Tr23106:      TRASA 27,21, Jr23106
+              TRASA 27,25, Jr23106a
+              TRASA
+Tr23107:      TRASA 27,24, Jr23107
+              TRASA 27,20, Jr23107a
+              TRASA
+Tr23108:      TRASA 27,21, Jr23108
+              TRASA 27,25, Jr23108a
+              TRASA
+Tr23188:      TRASA 27,21, Jr23188
+              TRASA 27,25, Jr23188a
+              TRASA
+Tr23191:      TRASA 27,24, Jr23191
+              TRASA 27,20, Jr23191a
+              TRASA
+Tr23192:      TRASA 27,25, Jr23192
+              TRASA
+Tr23195:      TRASA 27,24, Jr23195
+              TRASA 27,22, Jr23195a
+              TRASA
+Tr23196:      TRASA 27,21, Jr23196
+              TRASA 27,25, Jr23196a
+              TRASA
+Tr23198:      TRASA 27,21, Jr23198
+              TRASA 27,25, Jr23198a
+              TRASA
+Tr28900:      TRASA 27,11, Jr28900
+              TRASA 32,12, Jr28900a
+              TRASA
+Tr28901:      TRASA 27,14, Jr28901
+              TRASA
+Tr28902:      TRASA 27,11, Jr28902
+              TRASA
+Tr28904:      TRASA 27,11, Jr28904
+              TRASA
+Tr28905:      TRASA 27,14, Jr28905
+              TRASA
+Tr28906:      TRASA 27,11, Jr28906
+              TRASA
+Tr28907:      TRASA 27,14, Jr28907
+              TRASA
+Tr28908:      TRASA 27,11, Jr28908
+              TRASA
+Tr28909:      TRASA 27,14, Jr28909
+              TRASA
+Tr28910:      TRASA 27,11, Jr28910
+              TRASA
+Tr28922:      TRASA 27,19, Jr28922
+              TRASA
+Tr28930:      TRASA 27,11, Jr28930
+              TRASA
+Tr28931:      TRASA 27,14, Jr28931
+              TRASA
+Tr28942:      TRASA 27,11, Jr28942
+              TRASA 32,31, Jr28942a
+              TRASA 32,41, Jr28942b
+              TRASA
+Tr28943:      TRASA 32,42, Jr28943
+              TRASA
+Tr28944:      TRASA 32,43, Jr28944
+              TRASA
+Tr28945:      TRASA 32,42, Jr28945
+              TRASA 32,32, Jr28945a
+              TRASA 27,14, Jr28945b
+              TRASA
+Tr23180:      TRASA 32,32, Jr23180
+              TRASA 27,19, Jr23180a
+              TRASA 27,21, Jr23180b
+              TRASA 27,25, Jr23180c
+              TRASA
+Tr23182:      TRASA 32,32, Jr23182
+              TRASA 27,19, Jr23182a
+              TRASA 27,21, Jr23182b
+              TRASA 27,25, Jr23182c
+              TRASA
+Tr23184:      TRASA 32,32, Jr23184
+              TRASA 27,19, Jr23184a
+              TRASA 27,21, Jr23184b
+              TRASA 27,25, Jr23184c
+              TRASA
+Tr13140:      TRASA 32,45, Jr13140
+              TRASA
+
+              ZAROVNEJ
+
+
+Jr13100:      BAZE 04:25
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Frydlant nO
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Kuncice pO
+              JIZRAD  Z,   80, (T/T)     0:00,  04:25    ;Frenstat pR
+              JIZRAD  Z,   80,          04:27*, 04:28*   ;
+              JIZRAD  Z,   80, (T/T)    04:36,  04:37    ;Verovice
+              JIZRAD  Z,   80,          04:42*, 04:43    ;
+              JIZRAD  Z,   80, (T/T)    04:47*, 04:50*   ;Hostasovice
+              JIZRAD  Z,   80,          05:00,   0:00    ;ValMez
+
+Jr13101:      BAZE 06:13
+              JIZRAD  P,   80, (5/5)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  Z,   80, (4/4)    07:42,   0:00    ;Frydek-Mistek
+              JIZRAD  Z,   80, (T/T)    07:31*, 07:38    ;Baska
+              JIZRAD  P,   80, (T/T)    07:28,  07:28    ;Przno
+              JIZRAD  Z,   80, (T/T)    07:13,  07:24    ;Frydlant nO
+              JIZRAD  Z,   80, (T/T)    07:07,  07:08    ;
+              JIZRAD  Z,   80, (T/T)    07:01,  07:03    ;Kuncice pO
+              JIZRAD  Z,   80, (T/T)    06:46,  06:54    ;Frenstat pR
+              JIZRAD  Z,   80,          06:42,  06:44    ;
+              JIZRAD  Z,   80, (T/T)    06:33,  06:34    ;Verovice
+              JIZRAD  Z,   80,          06:27,  06:27*   ;
+              JIZRAD  Z,   80, (T/T)    06:21*, 06:22*   ;Hostasovice
+              JIZRAD  Z,   80,           0:00,  06:13    ;ValMez
+
+Jr13102:      BAZE 06:18
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  Z,   80, (4/4)     0:00,  06:18    ;Frydek-Mistek
+              JIZRAD  Z,   80, (T/T)    06:22,  06:27    ;Baska
+              JIZRAD  P,   80, (T/T)    06:31,  06:31    ;Przno
+              JIZRAD  Z,   80, (T/T)    06:35,  06:50    ;Frydlant nO
+              JIZRAD  Z,   80, (T/T)    06:55*, 06:56*   ;
+              JIZRAD  Z,   80, (T/T)    07:01,  07:03    ;Kuncice pO
+              JIZRAD  Z,   80, (T/T)    07:09*, 07:10*   ;Frenstat pR
+              JIZRAD  Z,   80,          07:13,   0:00    ;
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,   80,           0:00,   0:00    ;
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,   80,           0:00,   0:00    ;ValMez
+
+Jr13103:      BAZE 07:20
+              JIZRAD  P,   80, (5/5)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,   80, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  Z,   80, (T/T)    07:42,   0:00    ;Frydlant nO
+              JIZRAD  Z,   80, (T/T)    07:36,  07:37    ;
+              JIZRAD  Z,   80, (T/T)    07:31,  07:32    ;Kuncice pO
+              JIZRAD  Z,   80, (T/T)    07:22*, 07:24    ;Frenstat pR
+              JIZRAD  Z,   80,           0:00,  07:20    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,    0,           0:00,   0:00    ;ValMez
+
+Jr13104:      BAZE 07:20
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  Z,  100, (T/T)     0:00,  07:20    ;Frydlant nO
+              JIZRAD  Z,  100, (T/T)    07:25*, 07:26*   ;
+              JIZRAD  Z,  100, (T/T)    07:31,  07:32*   ;Kuncice pO
+              JIZRAD  Z,  100, (T/T)    07:39,  07:46    ;Frenstat pR
+              JIZRAD  Z,  100,          07:48*, 07:49*   ;
+              JIZRAD  Z,  100, (T/T)    07:57,  07:58    ;Verovice
+              JIZRAD  Z,  100,          08:03*, 08:04    ;
+              JIZRAD  Z,  100, (T/T)    08:08*, 08:09*   ;Hostasovice
+              JIZRAD  Z,  100,          08:18,   0:00    ;ValMez
+
+Jr13105:      BAZE 07:11
+              JIZRAD  P,   80, (5/5)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,   80, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  Z,   80, (T/T)    08:12,   0:00    ;Frydlant nO
+              JIZRAD  Z,   80, (T/T)    08:06,  08:07    ;
+              JIZRAD  Z,   80, (T/T)    08:01,  08:02    ;Kuncice pO
+              JIZRAD  Z,   80, (T/T)    07:44,  07:54    ;Frenstat pR
+              JIZRAD  Z,   80,          07:40,  07:41*   ;
+              JIZRAD  Z,   80, (T/T)    07:31,  07:32    ;Verovice
+              JIZRAD  Z,   80,          07:25,  07:25*   ;
+              JIZRAD  Z,   80, (T/T)    07:19*, 07:20*   ;Hostasovice
+              JIZRAD  Z,   80,           0:00,  07:11    ;ValMez
+
+Jr13106:      BAZE 07:50
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  Z,   80, (T/T)     0:00,  07:50    ;Frydlant nO
+              JIZRAD  Z,   80, (T/T)    07:55*, 07:56*   ;
+              JIZRAD  Z,   80, (T/T)    08:01,  08:02*   ;Kuncice pO
+              JIZRAD  Z,   80, (T/T)    08:09,  08:10*   ;Frenstat pR
+              JIZRAD  Z,   80,          08:13,   0:00    ;
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,   80,           0:00,   0:00    ;
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,   80,           0:00,   0:00    ;ValMez
+
+Jr13109:      BAZE 08:38
+              JIZRAD  P,  100, (5/5)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,  100, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Frydlant nO
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Kuncice pO
+              JIZRAD  Z,  100, (T/T)    09:11,   0:00    ;Frenstat pR
+              JIZRAD  Z,  100,          09:07,  09:08*   ;
+              JIZRAD  Z,  100, (T/T)    08:58,  08:59    ;Verovice
+              JIZRAD  Z,  100,          08:52,  08:52*   ;
+              JIZRAD  Z,  100, (T/T)    08:46*, 08:47*   ;Hostasovice
+              JIZRAD  Z,  100,           0:00,  08:38    ;ValMez
+
+Jr13110:      BAZE 08:50
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  Z,   80, (T/T)     0:00,  08:50    ;Frydlant nO
+              JIZRAD  Z,   80, (T/T)    08:55*, 08:56*   ;
+              JIZRAD  Z,   80, (T/T)    09:01,  09:01*   ;Kuncice pO
+              JIZRAD  Z,   80, (T/T)    09:08,  09:12*   ;Frenstat pR
+              JIZRAD  Z,   80,          09:15,   0:00    ;
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,   80,           0:00,   0:00    ;
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,   80,           0:00,   0:00    ;ValMez
+
+Jr13111:      BAZE 09:43
+              JIZRAD  P,   80, (5/5)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,   80, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  Z,   80, (T/T)    10:13,   0:00    ;Frydlant nO
+              JIZRAD  Z,   80, (T/T)    10:07*, 10:08    ;
+              JIZRAD  Z,   80, (T/T)    10:02,  10:03*   ;Kuncice pO
+              JIZRAD  Z,   80, (T/T)    09:45*, 09:55    ;Frenstat pR
+              JIZRAD  Z,   80,           0:00,  09:43    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,    0,           0:00,   0:00    ;ValMez
+
+Jr13112:      BAZE 09:47
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Frydlant nO
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Kuncice pO
+              JIZRAD  Z,  100, (T/T)     0:00,  09:47    ;Frenstat pR
+              JIZRAD  Z,  100,          09:49*, 09:50*   ;
+              JIZRAD  Z,  100, (T/T)    09:58*, 10:03    ;Verovice
+              JIZRAD  Z,  100,          10:09,  10:09*   ;
+              JIZRAD  Z,  100, (T/T)    10:14,  10:16    ;Hostasovice
+              JIZRAD  Z,  100,          10:25,   0:00    ;ValMez
+
+Jr13114:      BAZE 10:50
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  Z,   80, (T/T)     0:00,  10:50    ;Frydlant nO
+              JIZRAD  Z,   80, (T/T)    10:55*, 10:56*   ;
+              JIZRAD  Z,   80, (T/T)    11:01,  11:02    ;Kuncice pO
+              JIZRAD  Z,   80, (T/T)    11:08*, 11:09*   ;Frenstat pR
+              JIZRAD  Z,   80,          11:12,   0:00    ;
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,   80,           0:00,   0:00    ;
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,   80,           0:00,   0:00    ;ValMez
+
+Jr13116:      BAZE 11:42
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Frydlant nO
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Kuncice pO
+              JIZRAD  Z,   80, (T/T)     0:00,  11:42    ;Frenstat pR
+              JIZRAD  Z,   80,          11:44*, 11:46    ;
+              JIZRAD  Z,   80, (T/T)    11:54,  11:59    ;Verovice
+              JIZRAD  Z,   80,          12:05,  12:05*   ;
+              JIZRAD  Z,   80, (T/T)    12:10,  12:11    ;Hostasovice
+              JIZRAD  Z,   80,          12:19,   0:00    ;ValMez
+
+Jr13117:      BAZE 12:41
+              JIZRAD  P,  100, (5/5)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,  100, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  Z,  100, (T/T)    13:42,   0:00    ;Frydlant nO
+              JIZRAD  Z,  100, (T/T)    13:36,  13:37    ;
+              JIZRAD  Z,  100, (T/T)    13:31,  13:32    ;Kuncice pO
+              JIZRAD  Z,  100, (T/T)    13:14,  13:24    ;Frenstat pR
+              JIZRAD  Z,  100,          13:10,  13:11*   ;
+              JIZRAD  Z,  100, (T/T)    13:01,  13:02    ;Verovice
+              JIZRAD  Z,  100,          12:55,  12:55*   ;
+              JIZRAD  Z,  100, (T/T)    12:49*, 12:50*   ;Hostasovice
+              JIZRAD  Z,  100,           0:00,  12:41    ;ValMez
+
+Jr13118:      BAZE 13:20
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  Z,   80, (T/T)     0:00,  13:20    ;Frydlant nO
+              JIZRAD  Z,   80, (T/T)    13:25*, 13:26*   ;
+              JIZRAD  Z,   80, (T/T)    13:31,  13:32*   ;Kuncice pO
+              JIZRAD  Z,   80, (T/T)    13:39,  13:41*   ;Frenstat pR
+              JIZRAD  Z,   80,          13:44,  13:46    ;
+              JIZRAD  Z,   80, (T/T)    13:54,  13:59    ;Verovice
+              JIZRAD  Z,   80,          14:05,  14:05*   ;
+              JIZRAD  Z,   80, (T/T)    14:10,  14:10*   ;Hostasovice
+              JIZRAD  Z,   80,          14:19,   0:00    ;ValMez
+
+Jr13119:      BAZE 13:38
+              JIZRAD  P,  100, (5/5)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,  100, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  Z,  100, (T/T)    14:12,   0:00    ;Frydlant nO
+              JIZRAD  Z,  100, (T/T)    14:06,  14:07    ;
+              JIZRAD  Z,  100, (T/T)    14:01,  14:02    ;Kuncice pO
+              JIZRAD  Z,  100, (T/T)    13:40*, 13:54    ;Frenstat pR
+              JIZRAD  Z,  100,           0:00,  13:38    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,    0,           0:00,   0:00    ;ValMez
+
+Jr13120:      BAZE 13:50
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  Z,  100, (T/T)     0:00,  13:50    ;Frydlant nO
+              JIZRAD  Z,  100, (T/T)    13:55*, 13:56*   ;
+              JIZRAD  Z,  100, (T/T)    14:01,  14:02*   ;Kuncice pO
+              JIZRAD  Z,  100, (T/T)    14:09,  14:11*   ;Frenstat pR
+              JIZRAD  Z,  100,          14:14,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,  100,           0:00,   0:00    ;ValMez
+
+Jr13121:      BAZE 13:37
+              JIZRAD  P,  100, (5/5)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,  100, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  Z,  100, (T/T)    14:42,   0:00    ;Frydlant nO
+              JIZRAD  Z,  100, (T/T)    14:36,  14:37    ;
+              JIZRAD  Z,  100, (T/T)    14:31,  14:32    ;Kuncice pO
+              JIZRAD  Z,  100, (T/T)    14:10,  14:24    ;Frenstat pR
+              JIZRAD  Z,  100,          14:06,  14:07*   ;
+              JIZRAD  Z,  100, (T/T)    13:57,  13:58    ;Verovice
+              JIZRAD  Z,  100,          13:51,  13:51*   ;
+              JIZRAD  Z,  100, (T/T)    13:45*, 13:46*   ;Hostasovice
+              JIZRAD  Z,  100,           0:00,  13:37    ;ValMez
+
+Jr13122:      BAZE 14:20
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  Z,  100, (T/T)     0:00,  14:20    ;Frydlant nO
+              JIZRAD  Z,  100, (T/T)    14:25*, 14:26*   ;
+              JIZRAD  Z,  100, (T/T)    14:31,  14:32*   ;Kuncice pO
+              JIZRAD  Z,  100, (T/T)    14:39,  14:41*   ;Frenstat pR
+              JIZRAD  Z,  100,          14:44,  14:46    ;
+              JIZRAD  Z,  100, (T/T)    14:54,  15:00    ;Verovice
+              JIZRAD  Z,  100,          15:06,  15:06*   ;
+              JIZRAD  Z,  100, (T/T)    15:11,  15:12    ;Hostasovice
+              JIZRAD  Z,  100,          15:21,   0:00    ;ValMez
+
+Jr13125:      BAZE 14:38
+              JIZRAD  P,   80, (5/5)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,   80, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  Z,   80, (T/T)    15:42,   0:00    ;Frydlant nO
+              JIZRAD  Z,   80, (T/T)    15:36,  15:37    ;
+              JIZRAD  Z,   80, (T/T)    15:31,  15:32    ;Kuncice pO
+              JIZRAD  Z,   80, (T/T)    15:10,  15:24    ;Frenstat pR
+              JIZRAD  Z,   80,          15:06,  15:07*   ;
+              JIZRAD  Z,   80, (T/T)    14:57,  14:58    ;Verovice
+              JIZRAD  Z,   80,          14:51*, 14:51*   ;
+              JIZRAD  Z,   80, (T/T)    14:46*, 14:47    ;Hostasovice
+              JIZRAD  Z,   80,           0:00,  14:38    ;ValMez
+
+Jr13126:      BAZE 15:20
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  Z,  100, (T/T)     0:00,  15:20    ;Frydlant nO
+              JIZRAD  Z,  100, (T/T)    15:25*, 15:26*   ;
+              JIZRAD  Z,  100, (T/T)    15:31,  15:32*   ;Kuncice pO
+              JIZRAD  Z,  100, (T/T)    15:39,  15:41*   ;Frenstat pR
+              JIZRAD  Z,  100,          15:44,  15:46    ;
+              JIZRAD  Z,  100, (T/T)    15:54,  15:59    ;Verovice
+              JIZRAD  Z,  100,          16:05,  16:05*   ;
+              JIZRAD  Z,  100, (T/T)    16:10,  16:11    ;Hostasovice
+              JIZRAD  Z,  100,          16:19,   0:00    ;ValMez
+
+Jr13128:      BAZE 15:50
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  Z,   80, (T/T)     0:00,  15:50    ;Frydlant nO
+              JIZRAD  Z,   80, (T/T)    15:55*, 15:56*   ;
+              JIZRAD  Z,   80, (T/T)    16:01,  16:02*   ;Kuncice pO
+              JIZRAD  Z,   80, (T/T)    16:09,  16:11*   ;Frenstat pR
+              JIZRAD  Z,   80,          16:14,   0:00    ;
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,   80,           0:00,   0:00    ;
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,   80,           0:00,   0:00    ;ValMez
+
+Jr13131:      BAZE 16:38
+              JIZRAD  P,   80, (5/5)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,   80, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  Z,   80, (T/T)    17:12,   0:00    ;Frydlant nO
+              JIZRAD  Z,   80, (T/T)    17:06,  17:07    ;
+              JIZRAD  Z,   80, (T/T)    17:01,  17:02    ;Kuncice pO
+              JIZRAD  Z,   80, (T/T)    16:40*, 16:54    ;Frenstat pR
+              JIZRAD  Z,   80,           0:00,  16:38    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,    0,           0:00,   0:00    ;ValMez
+
+Jr13132:      BAZE 16:50
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  Z,  100, (T/T)     0:00,  16:50    ;Frydlant nO
+              JIZRAD  Z,  100, (T/T)    16:55*, 16:56*   ;
+              JIZRAD  Z,  100, (T/T)    17:01,  17:02*   ;Kuncice pO
+              JIZRAD  Z,  100, (T/T)    17:09,  17:11*   ;Frenstat pR
+              JIZRAD  Z,  100,          17:14,  17:17    ;
+              JIZRAD  P,  100, (T/T)    17:24*, 17:24*   ;Verovice
+              JIZRAD  P,  100,          17:29*, 17:29*   ;
+              JIZRAD  Z,  100, (T/T)    17:34,  17:47*   ;Hostasovice
+              JIZRAD  Z,  100,          17:56,   0:00    ;ValMez
+
+Jr13133:      BAZE 17:37
+              JIZRAD  P,   80, (5/5)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,   80, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Frydlant nO
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Kuncice pO
+              JIZRAD  Z,   80, (T/T)    18:10,   0:00    ;Frenstat pR
+              JIZRAD  Z,   80,          18:06,  18:07*   ;
+              JIZRAD  Z,   80, (T/T)    17:57,  17:58    ;Verovice
+              JIZRAD  Z,   80,          17:51,  17:51*   ;
+              JIZRAD  Z,   80, (T/T)    17:45*, 17:46*   ;Hostasovice
+              JIZRAD  Z,   80,           0:00,  17:37    ;ValMez
+
+Jr13134:      BAZE 17:20
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  Z,   80, (T/T)     0:00,  17:20    ;Frydlant nO
+              JIZRAD  Z,   80, (T/T)    17:25*, 17:26*   ;
+              JIZRAD  Z,   80, (T/T)    17:31,  17:32*   ;Kuncice pO
+              JIZRAD  Z,   80, (T/T)    17:39,  17:41*   ;Frenstat pR
+              JIZRAD  Z,   80,          17:44,  17:46    ;
+              JIZRAD  Z,   80, (T/T)    17:54,  17:59    ;Verovice
+              JIZRAD  Z,   80,          18:05,  18:05*   ;
+              JIZRAD  Z,   80, (T/T)    18:10,  18:11    ;Hostasovice
+              JIZRAD  Z,   80,          18:19,   0:00    ;ValMez
+
+Jr13167:      BAZE 01:43
+              JIZRAD  P,   80, (5/5)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,   80, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Frydlant nO
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Kuncice pO
+              JIZRAD  Z,   80, (T/T)    01:45,   0:00    ;Frenstat pR
+              JIZRAD  Z,   80,           0:00,  01:43    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,    0,           0:00,   0:00    ;ValMez
+
+Jr13168:      BAZE 07:13
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Frydlant nO
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Kuncice pO
+              JIZRAD  Z,  100, (T/T)     0:00,  07:13    ;Frenstat pR
+              JIZRAD  Z,  100,          07:15,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,  100,           0:00,   0:00    ;ValMez
+
+Jr13171:      BAZE 06:48
+              JIZRAD  P,  100, (5/5)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,  100, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Frydlant nO
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Kuncice pO
+              JIZRAD  Z,  100, (T/T)    06:50,   0:00    ;Frenstat pR
+              JIZRAD  Z,  100,           0:00,  06:48    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,    0,           0:00,   0:00    ;ValMez
+
+Jr13174:      BAZE 09:36
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Frydlant nO
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Kuncice pO
+              JIZRAD  Z,   80, (T/T)     0:00,  09:36    ;Frenstat pR
+              JIZRAD  Z,   80,          09:38,   0:00    ;
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,   80,           0:00,   0:00    ;
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,   80,           0:00,   0:00    ;ValMez
+
+Jr13180:      BAZE 18:53
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Frydlant nO
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Kuncice pO
+              JIZRAD  Z,   80, (T/T)     0:00,  18:53    ;Frenstat pR
+              JIZRAD  P,   80,          18:55,  18:55    ;
+              JIZRAD  P,   80, (T/T)    19:02,  19:02    ;Verovice
+              JIZRAD  P,   80,          19:07,  19:07    ;
+              JIZRAD  P,   80, (T/T)    19:11,  19:11    ;Hostasovice
+              JIZRAD  Z,   80,          19:19,   0:00    ;ValMez
+
+Jr13184:      BAZE 13:30
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Frydlant nO
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Kuncice pO
+              JIZRAD  Z,  100, (T/T)     0:00,  13:30    ;Frenstat pR
+              JIZRAD  Z,  100,          13:33,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,  100,           0:00,   0:00    ;ValMez
+
+Jr23100:      BAZE 04:15
+              JIZRAD  Z,  160, (T/T)     0:00,  04:15    ;Studenka
+              JIZRAD  P,  160,          04:20,  04:20    ;Bartosovice
+              JIZRAD  Z,  100,          04:21,  04:21*   ;Sedlnice
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Mosnov
+Jr23100a:     JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Mosnov
+              JIZRAD  P,  100, (T/T)    04:23*, 04:23*   ;Sedlnice predj.
+              JIZRAD  Z,  100,          04:25*, 04:26    ;
+              JIZRAD  Z,  100, (T/T)    04:29,  04:29*   ;Pribor
+              JIZRAD  P,  100, (T/T)    04:32,  04:32    ;Koprivnice n.
+              JIZRAD  Z,  100,          04:33,  04:33*   ;
+              JIZRAD  Z,  100, (T/T)    04:35,  04:36    ;Koprivnice
+              JIZRAD  Z,  100, (T/T)    04:39,  04:39*   ;Stramberk
+              JIZRAD  Z,  100,          04:44,  04:44*   ;
+              JIZRAD  Z,  100, (T/T)    04:51,   0:00    ;Verovice
+
+Jr23101:      BAZE 05:05
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Mosnov
+              JIZRAD  Z,  100, (T/T)    05:33*, 05:33*   ;Sedlnice predj.
+              JIZRAD  Z,  100,          05:31*, 05:31*   ;
+              JIZRAD  Z,  100, (T/T)    05:27*, 05:28    ;Pribor
+              JIZRAD  P,  100, (T/T)    05:25,  05:25    ;Koprivnice n.
+              JIZRAD  Z,  100,          05:23*, 05:24    ;
+              JIZRAD  Z,  100, (T/T)    05:21,  05:22    ;Koprivnice
+              JIZRAD  Z,  100, (T/T)    05:17,  05:18    ;Stramberk
+              JIZRAD  Z,  100,          05:12,  05:12*   ;
+              JIZRAD  Z,  100, (T/T)     0:00,  05:05    ;Verovice
+Jr23101a:     JIZRAD  Z,  160, (6/5)    05:41,   0:00    ;Studenka
+              JIZRAD  P,  160,          05:36*, 05:36*   ;Bartosovice
+              JIZRAD  Z,  160,          05:34*, 05:35    ;Sedlnice
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Mosnov
+
+Jr23102:      BAZE 05:06
+              JIZRAD  Z,   80, (T/T)     0:00,  05:06    ;Studenka
+              JIZRAD  Z,   80,          05:12,  05:13*   ;Bartosovice
+              JIZRAD  Z,   80,          05:15*, 05:16    ;Sedlnice
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Mosnov
+Jr23102a:     JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Mosnov
+              JIZRAD  P,   80, (T/T)    05:18,  05:18    ;Sedlnice predj.
+              JIZRAD  Z,   80,          05:20,  05:20*   ;
+              JIZRAD  Z,   80, (T/T)    05:24,  05:28    ;Pribor
+              JIZRAD  P,   80, (T/T)    05:31,  05:31    ;Koprivnice n.
+              JIZRAD  Z,   80,          05:32,  05:32*   ;
+              JIZRAD  Z,   80, (T/T)    05:34*, 05:36    ;Koprivnice
+              JIZRAD  Z,   80, (T/T)    05:39,  05:39*   ;Stramberk
+              JIZRAD  Z,   80,          05:44,  05:44    ;
+              JIZRAD  Z,   80, (T/T)    05:51,   0:00    ;Verovice
+
+Jr23103:      BAZE 06:02
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Mosnov
+              JIZRAD  P,   80, (T/T)    06:36,  06:36    ;Sedlnice predj.
+              JIZRAD  Z,   80,          06:33,  06:33*   ;
+              JIZRAD  Z,   80, (T/T)    06:26,  06:30    ;Pribor
+              JIZRAD  P,   80, (T/T)    06:23*, 06:23*   ;Koprivnice n.
+              JIZRAD  Z,   80,          06:21*, 06:22    ;
+              JIZRAD  Z,   80, (T/T)    06:18*, 06:20    ;Koprivnice
+              JIZRAD  Z,   80, (T/T)    06:14,  06:15    ;Stramberk
+              JIZRAD  Z,   80,          06:09,  06:09*   ;
+              JIZRAD  Z,   80, (T/T)     0:00,  06:02    ;Verovice
+Jr23103a:     JIZRAD  Z,   80, (6/5)    06:44,   0:00    ;Studenka
+              JIZRAD  P,   80,          06:39,  06:39    ;Bartosovice
+              JIZRAD  Z,   80,          06:37,  06:37    ;Sedlnice
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Mosnov
+
+Jr23104:      BAZE 05:49
+              JIZRAD  Z,  160, (T/T)     0:00,  05:49    ;Studenka
+              JIZRAD  P,  160,          05:54,  05:54    ;Bartosovice
+              JIZRAD  Z,  100,          05:55,  05:55*   ;Sedlnice
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Mosnov
+Jr23104a:     JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Mosnov
+              JIZRAD  P,  100, (T/T)    05:57*, 05:57*   ;Sedlnice predj.
+              JIZRAD  Z,  100,          05:59*, 06:00    ;
+              JIZRAD  Z,  100, (T/T)    06:03,  06:04    ;Pribor
+              JIZRAD  P,  100, (T/T)    06:06*, 06:06*   ;Koprivnice n.
+              JIZRAD  Z,  100,          06:07*, 06:08    ;
+              JIZRAD  Z,  100, (T/T)    06:09*, 06:10*   ;Koprivnice
+              JIZRAD  Z,  100, (T/T)    06:13*, 06:15*   ;Stramberk
+              JIZRAD  Z,  100,          06:20,  06:20*   ;
+              JIZRAD  Z,  100, (T/T)    06:27,   0:00    ;Verovice
+
+Jr23105:      BAZE 07:35
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Mosnov
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Sedlnice predj.
+              JIZRAD  P,   80,           0:00,   0:00    ;
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Pribor
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Koprivnice n.
+              JIZRAD  P,   80,           0:00,   0:00    ;
+              JIZRAD  Z,   80, (T/T)    07:51,   0:00    ;Koprivnice
+              JIZRAD  Z,   80, (T/T)    07:47,  07:47*   ;Stramberk
+              JIZRAD  Z,   80,          07:42,  07:42*   ;
+              JIZRAD  Z,   80, (T/T)     0:00,  07:35    ;Verovice
+
+Jr23106:      BAZE 06:41
+              JIZRAD  Z,   80, (T/T)     0:00,  06:41    ;Studenka
+              JIZRAD  P,   80,          06:46*, 06:46*   ;Bartosovice
+              JIZRAD  Z,   80,          06:48,  06:48    ;Sedlnice
+              JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Mosnov
+Jr23106a:     JIZRAD  P,   80, (T/T)     0:00,   0:00    ;Mosnov
+              JIZRAD  P,   80, (T/T)    06:50,  06:50    ;Sedlnice predj.
+              JIZRAD  Z,   80,          06:52,  06:52*   ;
+              JIZRAD  Z,   80, (T/T)    06:56,  07:00    ;Pribor
+              JIZRAD  P,   80, (T/T)    07:03,  07:03    ;Koprivnice n.
+              JIZRAD  Z,   80,          07:04,  07:04*   ;
+              JIZRAD  Z,   80, (T/T)    07:06*, 07:07*   ;Koprivnice
+              JIZRAD  Z,   80, (T/T)    07:10*, 07:12    ;Stramberk
+              JIZRAD  Z,   80,          07:16*, 07:17    ;
+              JIZRAD  Z,   80, (T/T)    07:24,   0:00    ;Verovice
+
+Jr23107:      BAZE 21:20
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Mosnov
+              JIZRAD  P,  100, (T/T)    21:39,  21:39    ;Sedlnice predj.
+              JIZRAD  Z,  100,          21:36,  21:36*   ;
+              JIZRAD  Z,  100, (T/T)    21:30,  21:32*   ;Pribor
+              JIZRAD  P,  100, (T/T)    21:27*, 21:27*   ;Koprivnice n.
+              JIZRAD  Z,  100,          21:26,  21:26*   ;
+              JIZRAD  Z,  100, (T/T)    21:23*, 21:24*   ;Koprivnice
+              JIZRAD  Z,  100, (T/T)     0:00,  21:20    ;Stramberk
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+Jr23107a:     JIZRAD  Z,  160, (6/5)    21:47,   0:00    ;Studenka
+              JIZRAD  P,  160,          21:42,  21:42    ;Bartosovice
+              JIZRAD  Z,  160,          21:40,  21:40*   ;Sedlnice
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Mosnov
+
+Jr23108:      BAZE 23:09
+              JIZRAD  Z,  160, (T/T)     0:00,  23:09    ;Studenka
+              JIZRAD  P,  160,          23:14,  23:14    ;Bartosovice
+              JIZRAD  Z,  100,          23:15,  23:15    ;Sedlnice
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Mosnov
+Jr23108a:     JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Mosnov
+              JIZRAD  P,  100, (T/T)    23:17,  23:17    ;Sedlnice predj.
+              JIZRAD  Z,  100,          23:19,  23:19*   ;
+              JIZRAD  Z,  100, (T/T)    23:22*, 23:23    ;Pribor
+              JIZRAD  P,  100, (T/T)    23:25*, 23:25*   ;Koprivnice n.
+              JIZRAD  Z,  100,          23:26*, 23:27    ;
+              JIZRAD  Z,  100, (T/T)    23:28*, 23:29    ;Koprivnice
+              JIZRAD  Z,  100, (T/T)    23:32,   0:00    ;Stramberk
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Verovice
+
+Jr23188:      BAZE 03:45
+              JIZRAD  Z,  100, (T/T)     0:00,  03:45    ;Studenka
+              JIZRAD  P,  100,          03:49*, 03:49*   ;Bartosovice
+              JIZRAD  P,  100,          03:50,  03:50    ;Sedlnice
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Mosnov
+Jr23188a:     JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Mosnov
+              JIZRAD  P,  100, (T/T)    03:51*, 03:51*   ;Sedlnice predj.
+              JIZRAD  P,  100,          03:53,  03:53    ;
+              JIZRAD  P,  100, (T/T)    03:56,  03:56    ;Pribor
+              JIZRAD  P,  100, (T/T)    03:58,  03:58    ;Koprivnice n.
+              JIZRAD  P,  100,          03:58*, 03:58*   ;
+              JIZRAD  P,  100, (T/T)    03:59*, 03:59*   ;Koprivnice
+              JIZRAD  Z,  100, (T/T)    04:02,   0:00    ;Stramberk
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Verovice
+
+Jr23191:      BAZE 22:45
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Mosnov
+              JIZRAD  P,  100, (T/T)    22:56,  22:56    ;Sedlnice predj.
+              JIZRAD  P,  100,          22:54,  22:54    ;
+              JIZRAD  P,  100, (T/T)    22:51*, 22:51*   ;Pribor
+              JIZRAD  P,  100, (T/T)    22:49*, 22:49*   ;Koprivnice n.
+              JIZRAD  P,  100,          22:48*, 22:48*   ;
+              JIZRAD  P,  100, (T/T)    22:48,  22:48    ;Koprivnice
+              JIZRAD  Z,  100, (T/T)     0:00,  22:45    ;Stramberk
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+Jr23191a:     JIZRAD  Z,  160, (6/5)    23:04,   0:00    ;Studenka
+              JIZRAD  P,  160,          22:59,  22:59    ;Bartosovice
+              JIZRAD  P,  160,          22:57,  22:57    ;Sedlnice
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Mosnov
+
+Jr23192:      BAZE 07:56
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Mosnov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Sedlnice predj.
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Pribor
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Koprivnice n.
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  Z,   80, (T/T)     0:00,  07:56    ;Koprivnice
+              JIZRAD  P,   80, (T/T)    07:59,  07:59    ;Stramberk
+              JIZRAD  P,   80,          08:03,  08:03    ;
+              JIZRAD  Z,   80, (T/T)    08:09,   0:00    ;Verovice
+
+Jr23195:      BAZE 20:40
+              JIZRAD  Z,  160, (T/T)    20:55,  20:59    ;Mosnov
+              JIZRAD  P,  100, (T/T)    20:51*, 20:51*   ;Sedlnice predj.
+              JIZRAD  P,  100,          20:49,  20:49    ;
+              JIZRAD  P,  100, (T/T)    20:46*, 20:46*   ;Pribor
+              JIZRAD  P,  100, (T/T)    20:44*, 20:44*   ;Koprivnice n.
+              JIZRAD  P,  100,          20:43*, 20:43*   ;
+              JIZRAD  P,  100, (T/T)    20:43,  20:43    ;Koprivnice
+              JIZRAD  Z,  100, (T/T)     0:00,  20:40    ;Stramberk
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+Jr23195a:     JIZRAD  Z,  160, (6/5)    21:17,   0:00    ;Studenka
+              JIZRAD  P,  160,          21:04,  21:12    ;Bartosovice
+              JIZRAD  P,  160,          21:01*, 21:01*   ;Sedlnice
+              JIZRAD  Z,  160, (T/T)    20:55,  20:59    ;Mosnov
+
+Jr23196:      BAZE 04:49
+              JIZRAD  Z,  160, (T/T)     0:00,  04:49    ;Studenka
+              JIZRAD  P,  160,          04:53*, 04:53*   ;Bartosovice
+              JIZRAD  P,  100,          04:54*, 04:54*   ;Sedlnice
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Mosnov
+Jr23196a:     JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Mosnov
+              JIZRAD  P,  100, (T/T)    04:56,  04:56    ;Sedlnice predj.
+              JIZRAD  P,  100,          04:57*, 04:57*   ;
+              JIZRAD  P,  100, (T/T)    05:00*, 05:00*   ;Pribor
+              JIZRAD  P,  100, (T/T)    05:02*, 05:02*   ;Koprivnice n.
+              JIZRAD  P,  100,          05:03,  05:03    ;
+              JIZRAD  P,  100, (T/T)    05:04,  05:04    ;Koprivnice
+              JIZRAD  Z,  100, (T/T)    05:07,   0:00    ;Stramberk
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Verovice
+
+Jr23198:      BAZE 04:09
+              JIZRAD  Z,  160, (T/T)     0:00,  04:09    ;Studenka
+              JIZRAD  P,  160,          04:13*, 04:13*   ;Bartosovice
+              JIZRAD  P,  100,          04:14*, 04:14*   ;Sedlnice
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Mosnov
+Jr23198a:     JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Mosnov
+              JIZRAD  P,  100, (T/T)    04:16,  04:16    ;Sedlnice predj.
+              JIZRAD  P,  100,          04:17*, 04:17*   ;
+              JIZRAD  P,  100, (T/T)    04:20*, 04:20*   ;Pribor
+              JIZRAD  P,  100, (T/T)    04:23*, 04:26*   ;Koprivnice n.
+              JIZRAD  P,  100,          04:27*, 04:27*   ;
+              JIZRAD  P,  100, (T/T)    04:28*, 04:28*   ;Koprivnice
+              JIZRAD  Z,  100, (T/T)    04:31,   0:00    ;Stramberk
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Verovice
+
+Jr28900:      BAZE 03:44
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  140, (T/T)    03:55,  04:15    ;Ostrava-Svinov
+              JIZRAD  P,  140,          03:51,  03:51    ;
+              JIZRAD  P,  140, (T/T)    03:50,  03:50    ;Ostrava hln
+              JIZRAD  P,  140,          03:47,  03:47    ;
+              JIZRAD  Z,  140, (6/6)     0:00,  03:44    ;Bohumin
+Jr28900a:     JIZRAD  Z,  140, (T/T)    03:55,  04:15    ;Ostrava-Svinov
+              JIZRAD  P,  140,          04:18,  04:18    ;odb Odra
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)    04:22,  04:22    ;Ostrava-Vitkovice
+              JIZRAD  Z,  140, (5/5)    04:25,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,  140, (4/6)     0:00,   0:00    ;Ostrava-Bartovice
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Havirov
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Albrechtice uCT
+              JIZRAD  P,  140,           0:00,   0:00    ;Odb Chotebuz
+              JIZRAD  P,  140, (6/6)     0:00,   0:00    ;Cesky Tesin
+
+Jr28901:      BAZE 06:17
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  160, (T/T)     0:00,  06:17    ;Ostrava-Svinov
+              JIZRAD  P,  160,          06:20*, 06:20*   ;
+              JIZRAD  P,  160, (T/T)    06:22*, 06:22*   ;Ostrava hln
+              JIZRAD  P,  160,          06:25,  06:25    ;
+              JIZRAD  Z,  160, (6/6)    06:28,   0:00    ;Bohumin
+
+Jr28902:      BAZE 05:11
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  140, (T/T)    05:22,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  140,          05:18,  05:18    ;
+              JIZRAD  P,  140, (T/T)    05:17,  05:17    ;Ostrava hln
+              JIZRAD  P,  140,          05:14,  05:14    ;
+              JIZRAD  Z,  140, (6/6)     0:00,  05:11    ;Bohumin
+
+Jr28904:      BAZE 06:17
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  140, (T/T)    06:31,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  140,          06:27,  06:27    ;
+              JIZRAD  Z,  140, (T/T)    06:23,  06:24    ;Ostrava hln
+              JIZRAD  P,  140,          06:20,  06:20    ;
+              JIZRAD  Z,  140, (6/6)     0:00,  06:17    ;Bohumin
+
+Jr28905:      BAZE 19:42
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  140, (T/T)     0:00,  19:42    ;Ostrava-Svinov
+              JIZRAD  P,  140,          19:44*, 19:44*   ;
+              JIZRAD  Z,  140, (T/T)    19:47,  19:50    ;Ostrava hln
+              JIZRAD  P,  140,          19:53,  19:53    ;
+              JIZRAD  Z,  140, (6/6)    19:56,   0:00    ;Bohumin
+
+Jr28906:      BAZE 11:53
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  160, (T/T)    12:08,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  160,          12:03*, 12:03*   ;
+              JIZRAD  Z,  160, (T/T)    11:59,  12:02    ;Ostrava hln
+              JIZRAD  P,  160,          11:55*, 11:55*   ;
+              JIZRAD  Z,  160, (6/6)     0:00,  11:53    ;Bohumin
+
+Jr28907:      BAZE 21:46
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  140, (T/T)     0:00,  21:46    ;Ostrava-Svinov
+              JIZRAD  P,  140,          21:49*, 21:49*   ;
+              JIZRAD  P,  140, (T/T)    21:51*, 21:51*   ;Ostrava hln
+              JIZRAD  P,  140,          21:54,  21:54    ;
+              JIZRAD  Z,  140, (6/6)    21:57,   0:00    ;Bohumin
+
+Jr28908:      BAZE 18:56
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  160, (T/T)    19:07,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  160,          19:03,  19:03    ;
+              JIZRAD  P,  160, (T/T)    19:02,  19:02    ;Ostrava hln
+              JIZRAD  P,  160,          18:59,  18:59    ;
+              JIZRAD  Z,  160, (6/6)     0:00,  18:56    ;Bohumin
+
+Jr28909:      BAZE 23:41
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  160, (T/T)     0:00,  23:41    ;Ostrava-Svinov
+              JIZRAD  P,  160,          23:44*, 23:44*   ;
+              JIZRAD  Z,  160, (T/T)    23:47*, 23:49*   ;Ostrava hln
+              JIZRAD  P,  160,          23:53*, 23:53*   ;
+              JIZRAD  Z,  160, (6/6)    23:56,   0:00    ;Bohumin
+
+Jr28910:      BAZE 19:10
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  160,           0:00,   0:00    ;
+              JIZRAD  P,  160, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  160, (T/T)    19:23,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  160,          19:19,  19:19    ;
+              JIZRAD  Z,  160, (T/T)    19:16,  19:17    ;Ostrava hln
+              JIZRAD  P,  160,          19:13,  19:13    ;
+              JIZRAD  Z,  160, (6/6)     0:00,  19:10    ;Bohumin
+
+Jr28922:      BAZE 11:02
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  140,           0:00,   0:00    ;
+              JIZRAD  P,  140, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  Z,  140, (T/T)    11:08,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  140,          11:04,  11:04    ;
+              JIZRAD  Z,  140, (T/T)     0:00,  11:02    ;Ostrava hln
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (6/6)     0:00,   0:00    ;Bohumin
+
+Jr28930:      BAZE 04:02
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  Z,  100, (T/T)    04:09,   0:00    ;Ostrava hln
+              JIZRAD  P,  100,          04:05*, 04:05*   ;
+              JIZRAD  Z,  100, (6/6)     0:00,  04:02    ;Bohumin
+
+Jr28931:      BAZE 09:24
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  Z,  100, (T/T)     0:00,  09:24    ;Ostrava hln
+              JIZRAD  P,  100,          09:28,  09:28    ;
+              JIZRAD  Z,  100, (6/6)    09:31,   0:00    ;Bohumin
+
+Jr28942:      BAZE 02:53
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (6/6)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  Z,  100, (T/T)    03:00,  03:01    ;Ostrava hln
+              JIZRAD  P,  100,          02:56*, 02:56*   ;
+              JIZRAD  Z,  100, (6/6)     0:00,  02:53    ;Bohumin
+Jr28942a:     JIZRAD  Z,  100, (4/4)    03:00,  03:01    ;Ostrava hln
+              JIZRAD  P,  100,          03:17,  03:17    ;Ostrava ban.n.
+              JIZRAD  P,  100,          03:18,  03:18    ;
+              JIZRAD  P,  100, (5/5)    03:19,  03:19    ;Ostrava stred
+              JIZRAD  P,  100,          03:20*, 03:20*   ;
+              JIZRAD  P,  100, (5/T)    03:23,  03:23    ;Ostrava-Kuncice
+Jr28942b:     JIZRAD  P,  100, (T/T)    03:23,  03:23    ;Ostrava-Kuncice
+              JIZRAD  P,  100, (T/T)    03:25,  03:25    ;Vratimov
+              JIZRAD  P,  100, (T/T)    03:29,  03:29    ;Paskov
+              JIZRAD  P,  100, (T/T)    03:32*, 03:32*   ;Liskovec u FM
+              JIZRAD  P,  100, (4/4)    03:36,  03:36    ;Frydek-Mistek
+              JIZRAD  P,  100, (T/T)    03:39,  03:39    ;Baska
+              JIZRAD  P,  100, (T/T)    03:42,  03:42    ;Przno
+              JIZRAD  P,  100, (T/T)    03:45*, 03:45*   ;Frydlant nO
+              JIZRAD  P,  100, (T/T)    03:50,  03:50    ;
+              JIZRAD  P,  100, (T/T)    03:53,  03:53    ;Kuncice pO
+              JIZRAD  Z,  100, (T/T)    03:59,  04:08    ;Frenstat pR
+              JIZRAD  Z,  100,          04:10,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,  100,           0:00,   0:00    ;ValMez
+
+Jr28943:      BAZE 18:48
+              JIZRAD  P,  100, (5/5)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  Z,  100, (4/4)    19:29,   0:00    ;Frydek-Mistek
+              JIZRAD  P,  100, (T/T)    19:25,  19:25    ;Baska
+              JIZRAD  P,  100, (T/T)    19:22,  19:22    ;Przno
+              JIZRAD  Z,  100, (T/T)    19:09,  19:18    ;Frydlant nO
+              JIZRAD  P,  100, (T/T)    19:05,  19:05    ;
+              JIZRAD  Z,  100, (T/T)    18:59,  19:01*   ;Kuncice pO
+              JIZRAD  Z,  100, (T/T)    18:50,  18:52    ;Frenstat pR
+              JIZRAD  Z,  100,           0:00,  18:48    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,    0,           0:00,   0:00    ;ValMez
+
+Jr28944:      BAZE 04:05
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  Z,  100, (4/4)     0:00,  04:05    ;Frydek-Mistek
+              JIZRAD  P,  100, (T/T)    04:08*, 04:08*   ;Baska
+              JIZRAD  P,  100, (T/T)    04:11*, 04:11*   ;Przno
+              JIZRAD  P,  100, (T/T)    04:15,  04:15    ;Frydlant nO
+              JIZRAD  P,  100, (T/T)    04:19,  04:19    ;
+              JIZRAD  Z,  100, (T/T)    04:23,  04:34*   ;Kuncice pO
+              JIZRAD  P,  100, (T/T)    04:41,  04:41    ;Frenstat pR
+              JIZRAD  Z,  100,          04:42,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,  100,           0:00,   0:00    ;ValMez
+
+Jr28945:      BAZE 19:44
+              JIZRAD  P,  100, (5/5)    20:30*, 20:30*   ;Ostrava-Kuncice
+              JIZRAD  P,  100, (T/T)    20:28*, 20:28*   ;Vratimov
+              JIZRAD  P,  100, (T/T)    20:25*, 20:25*   ;Paskov
+              JIZRAD  Z,  100, (T/T)    20:19*, 20:20*   ;Liskovec u FM
+              JIZRAD  P,  100, (4/4)    20:16*, 20:16*   ;Frydek-Mistek
+              JIZRAD  Z,  100, (T/T)    20:03*, 20:12    ;Baska
+              JIZRAD  P,  100, (T/T)    20:00,  20:00    ;Przno
+              JIZRAD  P,  100, (T/T)    19:57,  19:57    ;Frydlant nO
+              JIZRAD  P,  100, (T/T)    19:53,  19:53    ;
+              JIZRAD  P,  100, (T/T)    19:50*, 19:50*   ;Kuncice pO
+              JIZRAD  Z,  100, (T/T)     0:00,  19:44    ;Frenstat pR
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hostasovice
+              JIZRAD  P,    0,           0:00,   0:00    ;ValMez
+Jr28945a:     JIZRAD  Z,  100, (4/4)    20:38,  20:43    ;Ostrava hln
+              JIZRAD  P,  100,          20:36*, 20:36*   ;Ostrava ban.n.
+              JIZRAD  P,  100,          20:35*, 20:35*   ;
+              JIZRAD  P,  100, (T/T)    20:34*, 20:34*   ;Ostrava stred
+              JIZRAD  P,  100,          20:32,  20:32    ;
+              JIZRAD  P,  100, (5/T)    20:30*, 20:30*   ;Ostrava-Kuncice
+Jr28945b:     JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Studenka
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Polanka
+              JIZRAD  P,  100, (T/T)     0:00,   0:00    ;Ostrava-Svinov
+              JIZRAD  P,  100,           0:00,   0:00    ;
+              JIZRAD  Z,  100, (T/T)    20:38,  20:43    ;Ostrava hln
+              JIZRAD  P,  100,          21:01,  21:01    ;
+              JIZRAD  Z,  100, (6/6)    21:04,   0:00    ;Bohumin
+
+Jr23180:      BAZE 00:22
+              JIZRAD  Z,    0, (4/4)    00:28,  00:29    ;Ostrava hln
+              JIZRAD  P,    0,          00:26,  00:26    ;Ostrava ban.n.
+              JIZRAD  Z,    0,          00:23*, 00:24*   ;
+              JIZRAD  Z,    0, (T/T)     0:00,  00:22    ;Ostrava stred
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (5/T)     0:00,   0:00    ;Ostrava-Kuncice
+Jr23180a:     JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  Z,    0, (6/6)    00:48,  00:49    ;Studenka
+              JIZRAD  Z,    0,          00:42,  00:43    ;
+              JIZRAD  P,    0, (T/T)    00:39*, 00:39*   ;Polanka
+              JIZRAD  Z,    0, (T/T)    00:34*, 00:36*   ;Ostrava-Svinov
+              JIZRAD  P,    0,          00:31,  00:31    ;
+              JIZRAD  Z,    0, (T/T)    00:28,  00:29    ;Ostrava hln
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (6/6)     0:00,   0:00    ;Bohumin
+Jr23180b:     JIZRAD  Z,    0, (T/T)    00:48,  00:49    ;Studenka
+              JIZRAD  P,    0,          00:54,  00:54    ;Bartosovice
+              JIZRAD  Z,    0,          00:55,  00:55*   ;Sedlnice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Mosnov
+Jr23180c:     JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Mosnov
+              JIZRAD  P,    0, (T/T)    00:57*, 00:57*   ;Sedlnice predj.
+              JIZRAD  Z,    0,          00:59*, 01:00    ;
+              JIZRAD  Z,    0, (T/T)    01:03,  01:04    ;Pribor
+              JIZRAD  P,    0, (T/T)    01:06*, 01:06*   ;Koprivnice n.
+              JIZRAD  Z,    0,          01:07*, 01:08*   ;
+              JIZRAD  Z,    0, (T/T)    01:10,  01:11    ;Koprivnice
+              JIZRAD  Z,    0, (T/T)    01:14,   0:00    ;Stramberk
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+
+Jr23182:      BAZE 01:34
+              JIZRAD  Z,    0, (4/4)    01:40,  01:42    ;Ostrava hln
+              JIZRAD  P,    0,          01:38,  01:38    ;Ostrava ban.n.
+              JIZRAD  Z,    0,          01:35*, 01:36*   ;
+              JIZRAD  Z,    0, (T/T)     0:00,  01:34    ;Ostrava stred
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (5/T)     0:00,   0:00    ;Ostrava-Kuncice
+Jr23182a:     JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  Z,    0, (6/6)    02:02,  02:03    ;Studenka
+              JIZRAD  Z,    0,          01:56,  01:57    ;
+              JIZRAD  P,    0, (T/T)    01:53*, 01:53*   ;Polanka
+              JIZRAD  Z,    0, (T/T)    01:48*, 01:50*   ;Ostrava-Svinov
+              JIZRAD  P,    0,          01:45,  01:45    ;
+              JIZRAD  Z,    0, (T/T)    01:40,  01:42    ;Ostrava hln
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (6/6)     0:00,   0:00    ;Bohumin
+Jr23182b:     JIZRAD  Z,    0, (T/T)    02:02,  02:03    ;Studenka
+              JIZRAD  P,    0,          02:08,  02:08    ;Bartosovice
+              JIZRAD  Z,    0,          02:09,  02:09*   ;Sedlnice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Mosnov
+Jr23182c:     JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Mosnov
+              JIZRAD  P,    0, (T/T)    02:11*, 02:11*   ;Sedlnice predj.
+              JIZRAD  Z,    0,          02:13*, 02:14    ;
+              JIZRAD  Z,    0, (T/T)    02:17,  02:18    ;Pribor
+              JIZRAD  P,    0, (T/T)    02:20*, 02:20*   ;Koprivnice n.
+              JIZRAD  Z,    0,          02:21*, 02:22*   ;
+              JIZRAD  Z,    0, (T/T)    02:24,  02:25    ;Koprivnice
+              JIZRAD  Z,    0, (T/T)    02:28,   0:00    ;Stramberk
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+
+Jr23184:      BAZE 02:35
+              JIZRAD  Z,    0, (4/4)    02:41,  02:42    ;Ostrava hln
+              JIZRAD  P,    0,          02:39,  02:39    ;Ostrava ban.n.
+              JIZRAD  Z,    0,          02:36*, 02:37*   ;
+              JIZRAD  Z,    0, (T/T)     0:00,  02:35    ;Ostrava stred
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (5/T)     0:00,   0:00    ;Ostrava-Kuncice
+Jr23184a:     JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prerov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Prosenice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Lipnik nB
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Hranice nM
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Polom
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Suchdol nO
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  Z,    0, (6/6)    03:02,  03:03    ;Studenka
+              JIZRAD  Z,    0,          02:56,  02:57    ;
+              JIZRAD  P,    0, (T/T)    02:53*, 02:53*   ;Polanka
+              JIZRAD  Z,    0, (T/T)    02:48,  02:50    ;Ostrava-Svinov
+              JIZRAD  P,    0,          02:44,  02:44    ;
+              JIZRAD  Z,    0, (T/T)    02:41,  02:42    ;Ostrava hln
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (6/6)     0:00,   0:00    ;Bohumin
+Jr23184b:     JIZRAD  Z,    0, (T/T)    03:02,  03:03    ;Studenka
+              JIZRAD  P,    0,          03:08,  03:08    ;Bartosovice
+              JIZRAD  Z,    0,          03:09,  03:09*   ;Sedlnice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Mosnov
+Jr23184c:     JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Mosnov
+              JIZRAD  P,    0, (T/T)    03:11*, 03:11*   ;Sedlnice predj.
+              JIZRAD  Z,    0,          03:13*, 03:14    ;
+              JIZRAD  Z,    0, (T/T)    03:17,  03:18    ;Pribor
+              JIZRAD  P,    0, (T/T)    03:20*, 03:20*   ;Koprivnice n.
+              JIZRAD  Z,    0,          03:21*, 03:22*   ;
+              JIZRAD  Z,    0, (T/T)    03:24,  03:25    ;Koprivnice
+              JIZRAD  Z,    0, (T/T)    03:28,   0:00    ;Stramberk
+              JIZRAD  P,    0,           0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Verovice
+
+Jr13140:      BAZE 04:25
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Ostrava-Kuncice
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Vratimov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Paskov
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Liskovec u FM
+              JIZRAD  P,    0, (4/4)     0:00,   0:00    ;Frydek-Mistek
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Baska
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Przno
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Frydlant nO
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;
+              JIZRAD  P,    0, (T/T)     0:00,   0:00    ;Kuncice pO
+              JIZRAD  Z,   80, (T/T)     0:00,  04:25    ;Frenstat pR
+              JIZRAD  Z,   80,          04:27*, 04:28    ;
+              JIZRAD  Z,   80, (T/T)    04:35*, 04:36    ;Verovice
+              JIZRAD  Z,   80,          04:41*, 04:42    ;
+              JIZRAD  Z,   80, (T/T)    04:46*, 04:47*   ;Hostasovice
+              JIZRAD  Z,   80,          04:56,   0:00    ;ValMez
+
+
+;vse vypsano
